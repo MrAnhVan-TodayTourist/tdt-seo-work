@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "3.690.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-ly-son-dao-toi-todaytourist.jpg",
   "desc": "Bay Chu Lai, tàu cao tốc ra Lý Sơn: Cổng Tò Vò, Chùa Hang, núi Thới Lới, cánh đồng tỏi, Đảo Bé. Xe đón Biên Hòa. Giá 3.690.000đ (chưa gồm vé máy bay).",
   "highlights": [
     "Bay thẳng TP.HCM – Chu Lai, vé máy bay tính riêng theo giờ bay",
@@ -157,5 +157,5 @@
       "text": "Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)<br>Địa chỉ: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai<br>Zalo tư vấn: 0902 898 726 (Anh Văn)<br>Hotline: 0913 78 76 47 (Lê Sang)"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
