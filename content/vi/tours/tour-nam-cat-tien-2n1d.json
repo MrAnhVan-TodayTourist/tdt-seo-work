@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "2 ngày 1 đêm",
   "price": "3.090.000đ/khách",
-  "image": "",
+  "image": "bia-tour-nam-cat-tien-todaytourist.jpg",
   "desc": "Tour Nam Cát Tiên 2 ngày 1 đêm từ TP. Đồng Nai / TP.HCM: làng bè La Ngà, vườn quốc gia Nam Cát Tiên, cây Tùng 400 năm, Gõ Bác Đồng, nghỉ resort. Giá 3.090.000đ.",
   "highlights": [
     "Xe đón tận nơi khu vực Biên Hòa, đi về gọn trong 2 ngày 1 đêm",
@@ -203,5 +203,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
