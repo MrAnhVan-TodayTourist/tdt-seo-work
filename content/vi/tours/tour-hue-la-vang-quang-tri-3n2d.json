@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "4.190.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-hue-la-vang-quang-tri-todaytourist.jpg",
   "desc": "Bay Huế, hành hương La Vang, Nhà thờ Phủ Cam, chùa Thiên Mụ, Đại Nội, lăng Khải Định. Khách sạn 3 sao, xe đón Biên Hòa. Giá 4.190.000đ (chưa gồm vé máy bay).",
   "highlights": [
     "Bay thẳng TP.HCM – Huế, vé máy bay tính riêng theo giờ bay",
@@ -146,5 +146,5 @@
       "text": "Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)<br>Địa chỉ: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai<br>Zalo tư vấn: 0902 898 726 (Anh Văn)<br>Hotline: 0913 78 76 47 (Lê Sang)"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
