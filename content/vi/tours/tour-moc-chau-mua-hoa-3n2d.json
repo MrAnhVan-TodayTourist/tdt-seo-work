@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "3.690.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-moc-chau-mua-hoa-todaytourist.jpg",
   "desc": "Tour Mộc Châu 3 ngày 2 đêm bay từ TP.HCM: đồi chè Trái tim, thác Dải Yếm, rừng thông Bản Áng, săn mùa hoa Tây Bắc. Giá 3.690.000đ (chưa gồm vé máy bay).",
   "highlights": [
     "Bay thẳng từ TP.HCM ra Hà Nội, xe đón tận nơi Biên Hòa ra sân bay Tân Sơn Nhất",
@@ -245,5 +245,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
