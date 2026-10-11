@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "5 ngày 4 đêm",
   "price": "5.990.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-tay-bac-vong-cung-todaytourist.jpg",
   "desc": "Tour Tây Bắc 5N4Đ bay từ TP.HCM: Sapa, Fansipan, cầu kính Rồng Mây, Điện Biên Phủ, đèo Pha Đin, Mộc Châu. Giá 5.990.000đ (chưa gồm vé máy bay).",
   "highlights": [
     "Bay thẳng từ TP.HCM ra Hà Nội, xe đón tận nơi Biên Hòa ra sân bay Tân Sơn Nhất",
@@ -276,5 +276,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
