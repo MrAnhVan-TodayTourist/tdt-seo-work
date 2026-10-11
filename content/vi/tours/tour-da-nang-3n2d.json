@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "3.490.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-da-nang-3n2d-todaytourist.jpg",
   "desc": "Tour Đà Nẵng 3 ngày 2 đêm bay từ TP.HCM: bán đảo Sơn Trà, Ngũ Hành Sơn, Cầu Rồng, biển Mỹ Khê. Giá 3.490.000đ (chưa gồm vé máy bay). Hotline 0902 898 726.",
   "highlights": [
     "Bay thẳng từ TP.HCM ra Đà Nẵng, xe đón tận nơi Biên Hòa ra sân bay Tân Sơn Nhất",
@@ -236,5 +236,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
