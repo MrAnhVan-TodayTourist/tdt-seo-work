@@ -2,7 +2,7 @@
   "slug": "thue-xe-45-cho-bien-hoa-dong-nai-tphcm",
   "title": "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "xe-du-lich-dem.jpg",
+  "image": "xe-todaytourist-01.jpg",
   "summary": "Thuê xe 45 chỗ cho đoàn công ty, trường học tại Biên Hòa, Đồng Nai, TP.HCM: chọn xe, lịch đón trả, báo giá theo yêu cầu. Mr Anh Văn 0902 898 726.",
   "body": "",
   "published_at": "2026-10-11",
@@ -16,9 +16,8 @@
       "text": "👉 <strong>Cần báo giá thuê xe 45 chỗ?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/xe-du-lich-45-cho-ben-hong.jpg",
-      "alt": "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM – xe du lịch đưa đón đoàn theo lịch trình"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/xe-du-lich-45-cho-ben-hong.jpg\" alt=\"Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM – xe du lịch đưa đón đoàn theo lịch trình\"></figure>"
     },
     {
       "type": "h2",
@@ -101,9 +100,8 @@
       "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/xe-du-lich-mau-xanh.jpg",
-      "alt": "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM – xe đón khách tại điểm hẹn"
+      "type": "html",
+      "html": "<figure style=\"width:1200px\"><img src=\"/content/vi/images/xe-du-lich-mau-xanh.jpg\" alt=\"Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM – xe đón khách tại điểm hẹn\" style=\"width:1200px;height:750px\"></figure>"
     },
     {
       "type": "h2",
