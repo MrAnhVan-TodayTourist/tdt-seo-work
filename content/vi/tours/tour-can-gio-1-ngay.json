@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "1 ngày",
   "price": "890.000đ/khách",
-  "image": "",
+  "image": "bia-tour-can-gio-todaytourist.jpg",
   "desc": "Tour Cần Giờ 1 ngày đi xe từ TP. Đồng Nai / TP.HCM: Đảo Khỉ, Khu bảo tồn Cá Sấu Hoa Cà, cano xuyên Rừng Sác, bãi biển 30/4. Giá 890.000đ. Hotline 0902 898 726.",
   "highlights": [
     "Đi về trong ngày, xe đón tận nơi khu vực Biên Hòa",
@@ -179,5 +179,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
