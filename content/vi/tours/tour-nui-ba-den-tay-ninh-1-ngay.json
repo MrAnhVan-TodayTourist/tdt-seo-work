@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "1 ngày",
   "price": "890.000đ/khách",
-  "image": "",
+  "image": "bia-tour-nui-ba-den-tay-ninh-todaytourist.jpg",
   "desc": "Tour Núi Bà Đen – Tây Ninh 1 ngày từ Đồng Nai / TP.HCM: Tòa Thánh Cao Đài, Chùa Gò Kén, Linh Sơn Tiên Thạch, đặc sản Trảng Bàng. Giá 890.000đ.",
   "highlights": [
     "Đi về trong ngày, xe đón tận nơi khu vực Biên Hòa",
@@ -186,5 +186,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
