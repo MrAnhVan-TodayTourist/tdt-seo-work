@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "4.190.000đ/khách (chưa gồm vé máy bay)",
-  "image": "",
+  "image": "bia-tour-hoi-an-cu-lao-cham-todaytourist.jpg",
   "desc": "Tour Hội An – Cù Lao Chàm 3 ngày 2 đêm bay từ TP.HCM: phố cổ Hội An, rừng dừa Bảy Mẫu, ca nô ra Cù Lao Chàm, lặn ngắm san hô. Giá 4.190.000đ (chưa gồm vé bay).",
   "highlights": [
     "Bay thẳng từ TP.HCM ra Đà Nẵng, xe đón tận nơi Biên Hòa ra sân bay Tân Sơn Nhất",
@@ -232,5 +232,5 @@
       "text": "👉 <strong>Tour ghép đoàn, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
