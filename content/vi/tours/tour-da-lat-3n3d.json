@@ -1,20 +1,20 @@
 {
   "slug": "tour-da-lat-3n3d",
-  "name": "Tour Đà Lạt 3 Ngày 3 Đêm từ Đồng Nai – Fresh Garden, Langbiang, Thiền Viện Trúc Lâm",
+  "name": "Tour Đà Lạt 3 Ngày 3 Đêm từ Đồng Nai – Săn Mây Cầu Đất, Thác Datanla, Thiền Viện Trúc Lâm",
   "region": "domestic",
   "region_name": "Tây Nguyên",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 3 đêm",
   "price": "2.690.000đ/khách",
   "image": "hồ-xuân-hương-và-miền-hoa-3.webp",
-  "desc": "Tour Đà Lạt 3 ngày 3 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: Fresh Garden, Langbiang, Trúc Lâm. Giá 2.690.000đ. Hotline 0902 898 726.",
+  "desc": "Tour Đà Lạt 3 ngày 3 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: săn mây Cầu Đất, thác Datanla, Trúc Lâm. Giá 2.690.000đ. Hotline 0902 898 726.",
   "highlights": [
-    "Check-in vườn hoa khổng lồ, cối xay gió và cổng trời Âu tại Fresh Garden",
-    "Dạo Quảng trường Lâm Viên bên hồ Xuân Hương và chợ đêm Đà Lạt",
-    "Tham quan Langbiang Land, làng nghề thổ cẩm và Công viên Khủng long",
+    "Đến Đà Lạt rạng sáng, lên thẳng đồi chè Cầu Đất đón bình minh và săn biển mây (tùy thời tiết)",
+    "Dạo giữa những luống chè xanh ở độ cao khoảng 1.650 m, chụp ảnh bình minh trên đồi",
+    "Ghé Ga Trại Mát, nhà ga cổ kiến trúc gợi hình đỉnh Langbiang, góc hoài cổ để check-in",
+    "Khám phá thác Datanla giữa rừng thông, có cáp treo cho quý khách lớn tuổi",
     "Viếng Thiền viện Trúc Lâm trên núi Phụng Hoàng, ngắm hồ Tuyền Lâm",
-    "Giao lưu cồng chiêng Tây Nguyên buổi tối cùng đồng bào bản địa",
-    "Check-in Hoàng Long Ohayo phong cách Nhật Bản trên đường về"
+    "Dạo Quảng trường Lâm Viên, chợ đêm Đà Lạt và giao lưu cồng chiêng Tây Nguyên"
   ],
   "itinerary": [],
   "content": [
@@ -24,31 +24,31 @@
     },
     {
       "type": "p",
-      "text": "<strong>Đà Lạt 3 ngày 3 đêm: lên xe tối hôm trước, sáng sớm đã giữa sương mù, trọn ba ngày ngắm hoa, ngắm hồ, ngắm núi.</strong>"
+      "text": "Đà Lạt 3 ngày 3 đêm theo hướng thiên nhiên: lên xe tối hôm trước, rạng sáng đã có mặt trên đồi chè Cầu Đất đón bình minh và biển mây, rồi thong thả qua thác Datanla, Thiền viện Trúc Lâm và hồ Tuyền Lâm."
     },
     {
       "type": "p",
-      "text": "Ngủ trên xe một đêm để có trọn vẹn ngày đầu tiên ở Đà Lạt. Ba ngày đủ để check-in Fresh Garden, dạo Quảng trường Lâm Viên, khám phá Langbiang Land, lắng lòng ở Thiền viện Trúc Lâm bên hồ Tuyền Lâm và ghé Hoàng Long Ohayo trên đường về. Xe đón tận nơi khu vực Biên Hòa."
+      "text": "Đi xe đêm để có trọn ngày đầu ở Đà Lạt, dành buổi sáng đẹp nhất cho đồi chè thay vì ngồi chờ nhận phòng. Lịch trình nhẹ nhàng, ít đi bộ, phù hợp gia đình, nhóm bạn và quý khách lớn tuổi. Xe đón tận nơi khu vực Biên Hòa."
     },
     {
       "type": "p",
-      "text": "📅 <strong>Thời gian:</strong> 3 ngày 3 đêm (1 đêm trên xe, 2 đêm khách sạn)"
+      "text": "📅 Thời gian: 3 ngày 3 đêm (1 đêm trên xe, 2 đêm khách sạn)"
     },
     {
       "type": "p",
-      "text": "🚍 <strong>Phương tiện:</strong> xe du lịch đưa đón suốt tuyến"
+      "text": "🚍 Phương tiện: xe du lịch đưa đón suốt tuyến"
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 3 sao tại Đà Lạt (2 đêm)"
+      "text": "🏨 Lưu trú: khách sạn 3 sao tại Đà Lạt (2 đêm)"
     },
     {
       "type": "p",
-      "text": "📍 <strong>Khởi hành:</strong> TP. Đồng Nai / TP.HCM – ghép đoàn hàng tuần, từ 10 khách"
+      "text": "📍 Khởi hành: TP. Đồng Nai / TP.HCM – ghép đoàn hàng tuần, từ 10 khách"
     },
     {
       "type": "p",
-      "text": "📞 <strong>Tư vấn:</strong> Mr. Anh Văn (Phòng Kinh Doanh) – 0902 898 726"
+      "text": "📞 Tư vấn: Mr. Anh Văn (Phòng Kinh Doanh) – 0902 898 726"
     },
     {
       "type": "h3",
@@ -68,37 +68,50 @@
     },
     {
       "type": "p",
-      "text": "🕙 <strong>Dự kiến 22h00:</strong> Xe và hướng dẫn viên TodayTourist đón quý khách tại điểm tập kết, khởi hành đi Đà Lạt. Quý khách nghỉ đêm trên xe."
+      "text": "🕙 Dự kiến 22h00: Xe và hướng dẫn viên TodayTourist đón quý khách tại điểm tập kết, khởi hành đi Đà Lạt. Quý khách nghỉ đêm trên xe."
     },
     {
       "type": "h3",
-      "text": "🌸 NGÀY 01: ĐÀ LẠT – FRESH GARDEN – QUẢNG TRƯỜNG LÂM VIÊN"
+      "text": "🌄 NGÀY 01: ĐÀ LẠT – ĐỒI CHÈ CẦU ĐẤT – GA TRẠI MÁT – QUẢNG TRƯỜNG LÂM VIÊN"
     },
     {
       "type": "p",
-      "text": "🌅 <strong>Rạng sáng:</strong> Đoàn đến Đà Lạt, ăn sáng, nhận phòng khách sạn sớm; nếu phòng chưa sẵn sàng, quý khách gửi hành lý và nghỉ tại khu vực chung."
+      "text": "🌅 Rạng sáng: Đoàn đến Đà Lạt, xe đưa thẳng lên Cầu Đất để kịp ngắm bình minh (biển mây xuất hiện tùy thời tiết từng ngày). Sáng sớm trên đồi khá lạnh, quý khách nhớ mang áo ấm."
     },
     {
       "type": "p",
-      "text": "📍 <strong>Buổi sáng:</strong> Xe đưa đoàn tham quan:"
+      "text": "📍 Buổi sáng: Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Fresh Garden – khu du lịch sinh thái trên đồi cao với vườn hoa khổng lồ rực rỡ sắc màu, cối xay gió, thác nước, cổng trời Âu và đảo chim đại bàng, thiên đường check-in giữa lòng Đà Lạt"
+        "Đồi chè Cầu Đất – đồi chè rộng khoảng 230 ha ở độ cao khoảng 1.650 m; vào cổng và ngắm mây miễn phí, dạo giữa những luống chè xanh, chụp ảnh bình minh (đồ uống tại quán tự túc)",
+        "Ga Trại Mát – nhà ga cổ có kiến trúc gợi hình đỉnh Langbiang, điểm dừng duy nhất của tuyến xe lửa cổ Đà Lạt, góc hoài cổ để chụp ảnh (vé tàu hỏa tự túc)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557833634-0.jpg\" alt=\"Fresh Garden Đà Lạt – tour Đà Lạt 3N3Đ Today Tourist\"></figure>"
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH A1 – Đồi chè Cầu Đất lúc bình minh – file doi-che-cau-dat-da-lat-todaytourist.jpg]"
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng địa phương."
+      "text": "💡 Bạn có biết: Cầu Đất nằm cao hơn trung tâm thành phố nên sáng sớm lạnh hơn rõ rệt, nhờ vậy mây dễ đọng thành biển mây cho quý khách săn ảnh."
     },
     {
       "type": "p",
-      "text": "🌆 <strong>Buổi chiều:</strong> Xe đưa đoàn tham quan:"
+      "text": "🖼️ [CHÈN ẢNH A2 – Ga Trại Mát – file ga-trai-mat-da-lat-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "🍳 Ăn sáng trên đường xuống thành phố, về khách sạn gửi hành lý, nhận phòng sớm nếu phòng sẵn sàng và nghỉ ngơi."
+    },
+    {
+      "type": "p",
+      "text": "🍽️ Buổi trưa: Ăn trưa tại nhà hàng địa phương."
+    },
+    {
+      "type": "p",
+      "text": "🌆 Buổi chiều: Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
@@ -107,38 +120,34 @@
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557833634-1.jpg\" alt=\"Quảng trường Lâm Viên, hồ Xuân Hương – tour Đà Lạt 3N3Đ Today Tourist\"></figure>"
-    },
-    {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng. Tự do khám phá chợ đêm Đà Lạt, thưởng thức đặc sản: sữa đậu nóng, bánh tráng nướng, ngô nướng, khoai lang nướng. Nghỉ đêm tại Đà Lạt."
+      "text": "🌙 Buổi tối: Ăn tối tại nhà hàng. Tự do khám phá chợ đêm Đà Lạt, thưởng thức đặc sản: sữa đậu nóng, bánh tráng nướng, ngô nướng, khoai lang nướng. Nghỉ đêm tại Đà Lạt."
     },
     {
       "type": "h3",
-      "text": "🏔️ NGÀY 02: LANGBIANG LAND – THIỀN VIỆN TRÚC LÂM – HỒ TUYỀN LÂM"
+      "text": "🌲 NGÀY 02: THÁC DATANLA – THIỀN VIỆN TRÚC LÂM – HỒ TUYỀN LÂM"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Xe đưa đoàn tham quan:"
+      "text": "🍳 Buổi sáng: Ăn sáng tại khách sạn. Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Langbiang Land – tổ hợp du lịch sinh thái, văn hóa và giải trí dưới chân núi Langbiang huyền thoại; tham quan làng nghề dệt thổ cẩm của đồng bào K'Ho, Công viên Khủng long và tiểu cảnh châu Âu"
+        "Thác Datanla – thác nằm cách trung tâm khoảng 5 km trên đèo Prenn; đường đi bộ xuống thác khoảng 1 km với khoảng 200 bậc thang giữa rừng thông (quý khách lớn tuổi có thể chọn cáp treo hoặc máng trượt, chi phí tự túc)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557833635-2.jpg\" alt=\"Langbiang Land – tour Đà Lạt 3N3Đ Today Tourist\"></figure>"
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH A3 – Thác Datanla – file thac-datanla-da-lat-todaytourist.jpg]"
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại Langbiang Land."
+      "text": "🍽️ Buổi trưa: Ăn trưa tại nhà hàng địa phương."
     },
     {
       "type": "p",
-      "text": "🌿 <strong>Buổi chiều:</strong> Xe đưa đoàn tham quan:"
+      "text": "🌿 Buổi chiều: Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
@@ -148,45 +157,45 @@
     },
     {
       "type": "p",
-      "text": "💡 <em>Bạn có biết: Thiền viện Trúc Lâm Đà Lạt được xây dựng năm 1993, là điểm đến yên tĩnh được nhiều du khách chọn để cân bằng sau những giờ check-in náo nhiệt.</em>"
-    },
-    {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791611776576-0.jpg\" alt=\"Thiền viện Trúc Lâm Đà Lạt – tour Đà Lạt 3 Ngày 3 Đêm Today Tourist\"></figure>"
+      "text": "💡 Bạn có biết: Thiền viện Trúc Lâm Đà Lạt được xây dựng năm 1993, là điểm đến yên tĩnh được nhiều du khách chọn để cân bằng sau những giờ check-in náo nhiệt."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, giao lưu cồng chiêng Tây Nguyên rộn ràng cùng đồng bào bản địa. Nghỉ đêm tại Đà Lạt."
+      "text": "🖼️ [CHÈN ẢNH A4 – Thiền viện Trúc Lâm và hồ Tuyền Lâm – file thien-vien-truc-lam-da-lat-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "🌙 Buổi tối: Ăn tối, giao lưu cồng chiêng Tây Nguyên rộn ràng cùng đồng bào bản địa. Nghỉ đêm tại Đà Lạt."
     },
     {
       "type": "h3",
-      "text": "🍁 NGÀY 03: ĐÀ LẠT – HOÀNG LONG OHAYO – BẢO LỘC – TP. ĐỒNG NAI / TP.HCM"
+      "text": "🍁 NGÀY 03: ĐÀ LẠT – MÊ LINH COFFEE GARDEN – BẢO LỘC – TP. ĐỒNG NAI / TP.HCM"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, làm thủ tục trả phòng. Quý khách tự do tham quan, mua sắm tại <strong>chợ Đà Lạt</strong>: dâu tây, mứt trái cây, trà atiso, cà phê Đà Lạt (tự túc phương tiện)."
-    },
-    {
-      "type": "p",
-      "text": "Xe đưa đoàn khởi hành về, trên đường ghé tham quan:"
+      "text": "🍳 Buổi sáng: Ăn sáng tại khách sạn, làm thủ tục trả phòng. Xe đưa đoàn ghé:"
     },
     {
       "type": "list",
       "items": [
-        "Hoàng Long Ohayo – khu du lịch phong cách Nhật Bản trên đèo Mimosa, có hàng cổng Torii đỏ rực, hồ cá Koi, vườn bonsai và con đường tre thơ mộng"
+        "Mê Linh Coffee Garden – vườn cà phê trên đồi với tầm nhìn hướng về núi Langbiang, vào cổng miễn phí (đồ uống tự túc)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557833635-3.jpg\" alt=\"Hoàng Long Ohayo phong cách Nhật Bản, đèo Mimosa – tour Đà Lạt 3N3Đ Today Tourist\"></figure>"
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH A5 – Mê Linh Coffee Garden – file me-linh-coffee-garden-da-lat-todaytourist.jpg]"
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dừng chân dùng cơm trưa tại nhà hàng khu vực Bảo Lộc."
+      "text": "🛍️ Quý khách tự do tham quan, mua sắm tại chợ Đà Lạt: dâu tây, mứt trái cây, trà atiso, cà phê Đà Lạt."
     },
     {
       "type": "p",
-      "text": "🏠 <strong>Buổi chiều:</strong> Xe đưa đoàn tiếp tục khởi hành về lại TP. Đồng Nai / TP.HCM, dừng chân vệ sinh, nghỉ ngơi tại các trạm dừng chân. <strong>Dự kiến 18h30</strong> về đến điểm tập kết, HDV chia tay đoàn, kết thúc chương trình."
+      "text": "🍽️ Buổi trưa: Đoàn dừng chân dùng cơm trưa tại nhà hàng khu vực Bảo Lộc."
+    },
+    {
+      "type": "p",
+      "text": "🏠 Buổi chiều: Xe đưa đoàn tiếp tục khởi hành về lại TP. Đồng Nai / TP.HCM, dừng chân vệ sinh, nghỉ ngơi tại các trạm dừng chân. Dự kiến 18h30 về đến điểm tập kết, HDV chia tay đoàn, kết thúc chương trình."
     },
     {
       "type": "h3",
@@ -194,115 +203,68 @@
     },
     {
       "type": "p",
-      "text": "💵 <strong>Người lớn (từ 10 tuổi):</strong> 2.690.000đ/khách"
+      "text": "💵 Người lớn (từ 10 tuổi): 2.690.000đ/khách"
     },
     {
       "type": "p",
-      "text": "🧒 <strong>Trẻ em 5 đến dưới 10 tuổi:</strong> 2.020.000đ/khách (ngủ chung với bố mẹ)"
+      "text": "🧒 Trẻ em 5 đến dưới 10 tuổi: 2.020.000đ/khách (ngủ chung với bố mẹ)"
     },
     {
       "type": "p",
-      "text": "👶 <strong>Trẻ dưới 5 tuổi:</strong> miễn phí nếu ngồi cùng bố mẹ · 1.345.000đ nếu có ghế riêng"
+      "text": "👶 Trẻ dưới 5 tuổi: miễn phí nếu ngồi cùng bố mẹ · 1.345.000đ nếu có ghế riêng"
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Phụ thu phòng đơn:</strong> liên hệ để được báo giá"
+      "text": "🛏️ Phụ thu phòng đơn: liên hệ để được báo giá"
     },
     {
       "type": "h3",
       "text": "✅ GIÁ TOUR BAO GỒM"
     },
     {
-      "type": "p",
-      "text": "✅ Xe du lịch, máy lạnh suốt tuyến"
-    },
-    {
-      "type": "p",
-      "text": "✅ Khách sạn tiêu chuẩn 3 sao (2–4 khách/phòng), 02 đêm"
-    },
-    {
-      "type": "p",
-      "text": "✅ Ăn uống: 03 bữa sáng, 03 bữa trưa, 02 bữa tối"
-    },
-    {
-      "type": "p",
-      "text": "✅ Vé tham quan Fresh Garden, Langbiang Land (gồm giao lưu cồng chiêng), Hoàng Long Ohayo; tham quan Thiền viện Trúc Lâm (miễn phí vào cổng)"
-    },
-    {
-      "type": "p",
-      "text": "✅ Hướng dẫn viên chuyên nghiệp, nhiệt tình"
-    },
-    {
-      "type": "p",
-      "text": "✅ Bảo hiểm du lịch theo quy định"
-    },
-    {
-      "type": "p",
-      "text": "✅ Nón du lịch, nước suối, khăn lạnh phục vụ đoàn"
+      "type": "list",
+      "items": [
+        "Xe du lịch, máy lạnh suốt tuyến",
+        "Khách sạn tiêu chuẩn 3 sao (2–4 khách/phòng), 02 đêm",
+        "Ăn uống: 03 bữa sáng, 03 bữa trưa, 02 bữa tối",
+        "Vé tham quan Thác Datanla; tham quan Đồi chè Cầu Đất, Ga Trại Mát, Mê Linh Coffee Garden, Thiền viện Trúc Lâm (vào cổng miễn phí); giao lưu cồng chiêng Tây Nguyên",
+        "Hướng dẫn viên chuyên nghiệp, nhiệt tình",
+        "Bảo hiểm du lịch theo quy định",
+        "Nón du lịch, nước suối, khăn lạnh phục vụ đoàn"
+      ]
     },
     {
       "type": "h3",
       "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
     },
     {
-      "type": "p",
-      "text": "❌ Cáp treo lên Thiền viện Trúc Lâm (tự túc)"
-    },
-    {
-      "type": "p",
-      "text": "❌ Các trò chơi trải nghiệm thêm tại Langbiang Land: Go-Kart, bắn cung, cưỡi ngựa, thuê trang phục dân tộc (tự túc)"
-    },
-    {
-      "type": "p",
-      "text": "❌ Trà đạo, làm nông tại Hoàng Long Ohayo (nếu có phụ thu riêng)"
-    },
-    {
-      "type": "p",
-      "text": "❌ Chi phí cá nhân, ăn uống ngoài chương trình"
-    },
-    {
-      "type": "p",
-      "text": "❌ Thuế VAT (nếu xuất hóa đơn)"
+      "type": "list",
+      "items": [
+        "Cáp treo lên Thiền viện Trúc Lâm (tự túc)",
+        "Máng trượt, cáp treo và các trò chơi mạo hiểm tại thác Datanla (tự túc)",
+        "Vé tàu hỏa cổ Đà Lạt – Trại Mát (nếu đi)",
+        "Đồ uống tại các quán cà phê (tự túc)",
+        "Chi phí cá nhân, ăn uống ngoài chương trình",
+        "Thuế VAT (nếu xuất hóa đơn)"
+      ]
     },
     {
       "type": "h3",
       "text": "📌 ĐIỀU KHOẢN & LƯU Ý"
     },
     {
-      "type": "p",
-      "text": "📌 Giá áp dụng cho khách Việt Nam, đoàn từ 10 khách, không áp dụng dịp Lễ – Tết"
-    },
-    {
-      "type": "p",
-      "text": "📌 Đặt cọc 30–50% khi đăng ký, thanh toán trước ngày khởi hành"
-    },
-    {
-      "type": "p",
-      "text": "📌 Trẻ dưới 5 tuổi ngồi cùng bố mẹ: mỗi người lớn kèm tối đa 1 bé, bé thứ 2 trở lên mua ghế riêng"
-    },
-    {
-      "type": "p",
-      "text": "📌 Bé ngồi cùng bố mẹ vẫn được tính vào tổng số người trên xe theo Luật Trật tự, an toàn giao thông đường bộ 2024, công ty chỉ nhận khi xe còn đủ chỗ. Trường hợp đặc biệt về trẻ em, vui lòng liên hệ tư vấn"
-    },
-    {
-      "type": "p",
-      "text": "📌 Quý khách mang theo CCCD bản gốc (trẻ em mang giấy khai sinh) để làm thủ tục nhận phòng khách sạn"
-    },
-    {
-      "type": "p",
-      "text": "📌 Đà Lạt khí hậu se lạnh, quý khách chuẩn bị áo khoác, trang phục ấm"
-    },
-    {
-      "type": "p",
-      "text": "📌 Lịch trình có thể điều chỉnh linh hoạt theo điều kiện thực tế (thời tiết, giao thông đèo) nhưng đảm bảo đầy đủ điểm"
-    },
-    {
-      "type": "p",
-      "text": "📌 Quý khách tự bảo quản tài sản cá nhân"
-    },
-    {
-      "type": "p",
-      "text": "📌 Trường hợp bất khả kháng, công ty sẽ sắp xếp phương án phù hợp"
+      "type": "list",
+      "items": [
+        "Giá áp dụng cho khách Việt Nam, đoàn từ 10 khách, không áp dụng dịp Lễ – Tết",
+        "Đặt cọc 30–50% khi đăng ký, thanh toán trước ngày khởi hành",
+        "Trẻ dưới 5 tuổi ngồi cùng bố mẹ: mỗi người lớn kèm tối đa 1 bé, bé thứ 2 trở lên mua ghế riêng",
+        "Bé ngồi cùng bố mẹ vẫn được tính vào tổng số người trên xe theo Luật Trật tự, an toàn giao thông đường bộ 2024, công ty chỉ nhận khi xe còn đủ chỗ. Trường hợp đặc biệt về trẻ em, vui lòng liên hệ tư vấn",
+        "Quý khách mang theo CCCD bản gốc (trẻ em mang giấy khai sinh) để làm thủ tục nhận phòng khách sạn",
+        "Đà Lạt khí hậu se lạnh, quý khách chuẩn bị áo khoác, trang phục ấm",
+        "Lịch trình có thể điều chỉnh linh hoạt theo điều kiện thực tế (thời tiết, giao thông đèo) nhưng đảm bảo đầy đủ điểm",
+        "Quý khách tự bảo quản tài sản cá nhân",
+        "Trường hợp bất khả kháng, công ty sẽ sắp xếp phương án phù hợp"
+      ]
     },
     {
       "type": "h3",
@@ -313,24 +275,17 @@
       "text": "TodayTourist thiết kế riêng chương trình Đà Lạt theo mục tiêu và ngân sách của từng đơn vị:"
     },
     {
-      "type": "p",
-      "text": "✅ <strong>Teambuilding, gala dinner:</strong> chương trình theo chủ đề doanh nghiệp, MC, âm thanh, ánh sáng, hoạt náo viên"
+      "type": "list",
+      "items": [
+        "Teambuilding, gala dinner: chương trình theo chủ đề doanh nghiệp, MC, âm thanh, ánh sáng, hoạt náo viên",
+        "Đốt lửa trại, giao lưu cồng chiêng tại Đà Lạt: gắn kết tập thể",
+        "Tham quan học tập cho đoàn học sinh – sinh viên",
+        "Tùy chọn loại xe, tiêu chuẩn khách sạn, thực đơn"
+      ]
     },
     {
       "type": "p",
-      "text": "✅ <strong>Đốt lửa trại, giao lưu cồng chiêng tại Đà Lạt:</strong> gắn kết tập thể"
-    },
-    {
-      "type": "p",
-      "text": "✅ <strong>Tham quan học tập</strong> cho đoàn học sinh – sinh viên"
-    },
-    {
-      "type": "p",
-      "text": "✅ <strong>Tùy chọn</strong> loại xe, tiêu chuẩn khách sạn, thực đơn"
-    },
-    {
-      "type": "p",
-      "text": "📞 Nhận báo giá đoàn: <strong>Mr. Anh Văn – 0902 898 726</strong>"
+      "text": "📞 Nhận báo giá đoàn: Mr. Anh Văn – 0902 898 726"
     },
     {
       "type": "h3",
@@ -338,31 +293,43 @@
     },
     {
       "type": "p",
-      "text": "<strong>Tour Đà Lạt 3 ngày 3 đêm đón khách ở đâu?</strong> Xe đón tận nơi trong nội ô trung tâm Biên Hòa. Khách ở dọc tuyến đường đi Đà Lạt được đón ngay trên đường."
+      "text": "<strong>Tour Đà Lạt 3 ngày 3 đêm đón khách ở đâu?</strong><br>Xe đón tận nơi trong nội ô trung tâm Biên Hòa. Khách ở dọc tuyến đường đi Đà Lạt được đón ngay trên đường."
     },
     {
       "type": "p",
-      "text": "<strong>Tour khởi hành và kết thúc lúc mấy giờ?</strong> Xe đón khoảng 22h00 tối hôm trước, quý khách nghỉ đêm trên xe và đến Đà Lạt rạng sáng. Ngày thứ ba đoàn về đến điểm tập kết dự kiến khoảng 18h30."
+      "text": "<strong>Tour khởi hành và kết thúc lúc mấy giờ?</strong><br>Xe đón khoảng 22h00 tối hôm trước, quý khách nghỉ đêm trên xe và đến Đà Lạt rạng sáng. Ngày thứ ba đoàn về đến điểm tập kết dự kiến khoảng 18h30."
     },
     {
       "type": "p",
-      "text": "<strong>Tour 3 ngày 3 đêm khác gì tour Đà Lạt 3 ngày 2 đêm?</strong> Tour 3 ngày 3 đêm đi xe đêm nên đến Đà Lạt rạng sáng và có trọn ngày đầu, ngoài ra còn có thêm Thiền viện Trúc Lâm – hồ Tuyền Lâm. Tour 3 ngày 2 đêm khởi hành 05h00 sáng, đến Đà Lạt khoảng 15h00, không phải ngủ xe."
+      "text": "<strong>Đi Cầu Đất có chắc chắn thấy biển mây không?</strong><br>Biển mây phụ thuộc thời tiết từng ngày nên không ai đảm bảo được. Mùa đẹp thường từ khoảng tháng 8 đến tháng 12. Dù không có mây, đồi chè buổi sáng sớm vẫn rất đẹp để dạo và chụp ảnh."
     },
     {
       "type": "p",
-      "text": "<strong>Thiền viện Trúc Lâm có mất vé không?</strong> Không, vào cổng miễn phí. Chỉ cáp treo lên thiền viện là chi phí tự túc, quý khách có thể chọn đi cáp treo hoặc đi xe cùng đoàn."
+      "text": "<strong>Đi bộ xuống thác Datanla có mệt không?</strong><br>Đường xuống thác khoảng 1 km với khoảng 200 bậc thang. Quý khách lớn tuổi hoặc không muốn đi bộ có thể chọn cáp treo hoặc máng trượt, chi phí tự túc."
     },
     {
       "type": "p",
-      "text": "<strong>Đà Lạt lạnh thế nào, cần chuẩn bị gì?</strong> Buổi sáng sớm và tối khá lạnh (khoảng 15–20°C), quý khách nên mang áo khoác."
+      "text": "<strong>Tour 3 ngày 3 đêm khác gì tour Đà Lạt 3 ngày 2 đêm?</strong><br>Tour 3 ngày 3 đêm đi xe đêm nên đến Đà Lạt rạng sáng và có trọn ngày đầu, nhờ đó kịp đón bình minh trên đồi chè Cầu Đất. Tour 3 ngày 2 đêm khởi hành 05h00 sáng, đến Đà Lạt khoảng 15h00, không phải ngủ xe."
     },
     {
       "type": "p",
-      "text": "<strong>Bé dưới 5 tuổi có cần mua vé không?</strong> Không bắt buộc. Bé ngồi cùng bố mẹ được miễn phí; nếu muốn bé có ghế riêng, phụ thu 50% giá người lớn."
+      "text": "<strong>Nên chọn tour 3 ngày 3 đêm hay 4 ngày 4 đêm?</strong><br>Tour 3 ngày 3 đêm thiên về thiên nhiên: đồi chè, thác, thiền viện, nhịp đi nhẹ. Tour 4 ngày 4 đêm thiên về kiến trúc và vui chơi: Dinh 3 Bảo Đại, Crazy House, Langbiang Land, Fresh Garden, nông trại, phù hợp gia đình có trẻ em."
     },
     {
       "type": "p",
-      "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có. Giá tour chưa bao gồm VAT, quý khách cần hóa đơn vui lòng báo khi đăng ký."
+      "text": "<strong>Thiền viện Trúc Lâm có mất vé không?</strong><br>Không, vào cổng miễn phí. Chỉ cáp treo lên thiền viện là chi phí tự túc, quý khách có thể chọn đi cáp treo hoặc đi xe cùng đoàn."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Đà Lạt lạnh thế nào, cần chuẩn bị gì?</strong><br>Buổi sáng sớm và tối khá lạnh (khoảng 15–20°C, trên đồi Cầu Đất còn lạnh hơn), quý khách nên mang áo khoác."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Bé dưới 5 tuổi có cần mua vé không?</strong><br>Không bắt buộc. Bé ngồi cùng bố mẹ được miễn phí; nếu muốn bé có ghế riêng, phụ thu 50% giá người lớn."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong><br>Có. Giá tour chưa bao gồm VAT, quý khách cần hóa đơn vui lòng báo khi đăng ký."
     },
     {
       "type": "h3",
@@ -370,7 +337,7 @@
     },
     {
       "type": "p",
-      "text": "<strong>Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)</strong>"
+      "text": "Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)"
     },
     {
       "type": "p",
@@ -394,7 +361,7 @@
     },
     {
       "type": "p",
-      "text": "👉 <strong>Tour ghép đoàn hàng tuần, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!</strong>"
+      "text": "👉 Tour ghép đoàn hàng tuần, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!"
     }
   ],
   "hidden": true
