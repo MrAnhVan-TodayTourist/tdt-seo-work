@@ -1,34 +1,58 @@
 {
   "slug": "tour-nha-trang-bien-dao-3n2d",
-  "name": "Tour Nha Trang Biển Đảo 3 Ngày 2 Đêm từ Đồng Nai (bay từ TP.HCM)",
+  "name": "Tour Nha Trang 3 Ngày 2 Đêm từ Đồng Nai (bay từ TP.HCM) – Tháp Bà Ponagar, Chùa Long Sơn, Tàu Tham Quan Vịnh",
   "region": "domestic",
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "3.890.000đ/khách (chưa gồm vé máy bay)",
   "image": "19.jpg",
-  "desc": "Bay Cam Ranh, khách sạn 3 sao Nha Trang 2 đêm: Tháp Bà Ponagar, Chùa Long Sơn, tàu khám phá đảo, ngắm san hô. Xe đón Biên Hòa. Giá 3.890.000đ (chưa gồm vé bay).",
+  "desc": "Bay Cam Ranh, khách sạn 3 sao Nha Trang 2 đêm: Tháp Bà Ponagar, Chùa Long Sơn, tàu tham quan vịnh, Nhà thờ Đá. Xe đón Biên Hòa. Giá 3.890.000đ (chưa gồm vé bay). Hotline 0902 898 726.",
   "highlights": [
     "Bay thẳng TP.HCM – Cam Ranh, vé máy bay tính riêng theo giờ bay",
     "Khách sạn 3 sao trung tâm Nha Trang, gần biển, 2 đêm",
-    "Tháp Bà Ponagar và Chùa Long Sơn",
-    "Tàu khám phá đảo, tắm biển, ngắm san hô",
-    "Nhà thờ Núi, chợ Đầm mua đặc sản",
+    "Tháp Bà Ponagar và Chùa Long Sơn với tượng Phật trắng lớn",
+    "Tàu tham quan vịnh Nha Trang, tắm biển, ngắm san hô",
+    "Nhà thờ Đá kiến trúc Gothic, chợ Đầm mua đặc sản",
     "Xe công ty đưa đón Biên Hòa – Tân Sơn Nhất"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "p",
-      "text": "Nha Trang là thành phố biển quen thuộc nhưng luôn đủ thứ để đi lại: biển đẹp, đảo xanh, di tích Chăm Pa và hải sản tươi. Tour 3 ngày 2 đêm bay thẳng Cam Ranh giúp quý khách tiết kiệm hơn 8 tiếng ngồi xe so với đi đường bộ, có thêm thời gian để tắm biển và đi đảo."
+      "text": "🌊"
     },
     {
       "type": "p",
-      "text": "<strong>Thời gian:</strong> 3 ngày 2 đêm | <strong>Khởi hành:</strong> TP. Đồng Nai / TP.HCM | <strong>Phương tiện:</strong> máy bay + xe du lịch + tàu tham quan đảo"
+      "text": "Nha Trang 3 ngày 2 đêm bay thẳng Cam Ranh: tiết kiệm hơn 8 tiếng ngồi xe so với đi đường bộ, dành trọn thời gian cho Tháp Bà Ponagar, Chùa Long Sơn, một ngày tàu tham quan vịnh và hải sản tươi bên bờ biển."
+    },
+    {
+      "type": "p",
+      "text": "Tour dạng land tour: công ty lo toàn bộ phần mặt đất từ khi xuống sân bay Cam Ranh, quý khách tự đặt vé máy bay hoặc nhờ Today Tourist đặt giúp theo giờ bay phù hợp. Xe công ty đưa đón Biên Hòa – Tân Sơn Nhất. Phù hợp quý khách ít thời gian, đi cuối tuần hoặc ngày thường."
+    },
+    {
+      "type": "p",
+      "text": "📅 Thời gian: 3 ngày 2 đêm"
+    },
+    {
+      "type": "p",
+      "text": "✈️ Phương tiện: máy bay TP.HCM – Cam Ranh (vé tính riêng), xe du lịch và tàu tham quan đảo"
+    },
+    {
+      "type": "p",
+      "text": "🏨 Lưu trú: khách sạn 3 sao trung tâm Nha Trang (2 đêm)"
+    },
+    {
+      "type": "p",
+      "text": "📍 Khởi hành: TP. Đồng Nai / TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "📞 Tư vấn: Mr. Anh Văn (Phòng Kinh Doanh) – 0902 898 726"
     },
     {
       "type": "h3",
-      "text": "PHƯƠNG ÁN ĐƯA ĐÓN KHÁCH LINH HOẠT"
+      "text": "🚐 PHƯƠNG ÁN ĐƯA ĐÓN KHÁCH LINH HOẠT – TIỆN LỢI"
     },
     {
       "type": "p",
@@ -36,63 +60,132 @@
     },
     {
       "type": "h3",
-      "text": "NGÀY 1: TP.HCM – NHA TRANG (ăn trưa, tối)"
+      "text": "✈️ NGÀY 01: TP.HCM – NHA TRANG – THÁP BÀ PONAGAR – CHÙA LONG SƠN"
     },
     {
       "type": "p",
-      "text": "Tập trung tại sân bay Tân Sơn Nhất, làm thủ tục và bay đến sân bay Cam Ranh, chuyến bay khoảng 1 giờ 10 phút. Giờ bay cụ thể theo hãng, thông báo khi xuất vé. Xe đón đoàn về trung tâm Nha Trang, nhận phòng và ăn trưa."
+      "text": "🛫 <strong>Buổi sáng:</strong> Tập trung tại sân bay Tân Sơn Nhất, làm thủ tục và bay đến sân bay Cam Ranh (khoảng 1 giờ 10 phút; giờ bay cụ thể theo hãng, thông báo khi xuất vé). Hướng dẫn viên đón đoàn tại sân bay Cam Ranh, xe đưa về trung tâm Nha Trang."
     },
     {
       "type": "p",
-      "text": "Chiều tham quan Tháp Bà Ponagar, quần thể tháp Chăm cổ thờ Thánh mẫu Thiên Y A Na, và Chùa Long Sơn với tượng Phật trắng lớn trên đỉnh đồi nhìn xuống thành phố. Tối ăn hải sản, tự do đi dạo biển Trần Phú và chợ đêm."
-    },
-    {
-      "type": "h3",
-      "text": "NGÀY 2: TÀU THAM QUAN ĐẢO (ăn sáng, trưa, tối)"
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng, nhận phòng khách sạn."
     },
     {
       "type": "p",
-      "text": "Sáng ăn sáng, đoàn ra cảng lên tàu tham quan vịnh Nha Trang. Trên đường đến các điểm dừng, quý khách ngắm biển, có thời gian tắm biển, chèo thuyền hoặc lặn ngắm san hô (chi phí tự túc). Ăn trưa trên đảo hoặc trên tàu theo chương trình. Chiều về đất liền, tự do nghỉ ngơi. Tối tự do khám phá Nha Trang, có thể đăng ký thêm VinWonders (chi phí tự túc)."
-    },
-    {
-      "type": "h3",
-      "text": "NGÀY 3: NHA TRANG – TP.HCM (ăn sáng, trưa)"
-    },
-    {
-      "type": "p",
-      "text": "Sáng ăn sáng, trả phòng. Đoàn thăm Nhà thờ Núi, nhà thờ đá kiểu Gothic nổi tiếng của Nha Trang, rồi ghé chợ Đầm mua đặc sản làm quà. Ăn trưa, xe đưa ra sân bay Cam Ranh, bay về Tân Sơn Nhất. Xe công ty đưa khách Biên Hòa về điểm đón ban đầu. Kết thúc chương trình."
-    },
-    {
-      "type": "h3",
-      "text": "GIÁ TOUR"
+      "text": "🏛️ <strong>Buổi chiều:</strong> Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Người lớn: 3.890.000đ/khách (chưa gồm vé máy bay)",
-        "Trẻ em 5 đến dưới 10 tuổi: 2.920.000đ (75%)",
-        "Trẻ em dưới 5 tuổi: theo chính sách của hãng hàng không, báo giá khi đặt",
-        "Phụ thu phòng đơn: 450.000đ/khách/đêm"
+        "Tháp Bà Ponagar – quần thể tháp Chăm gồm 4 tháp và 2 đền do người Chăm xây dựng khoảng thế kỷ 8 đến 13, tháp lớn nhất thờ Nữ thần Ponagar (Thiên Y A Na)",
+        "Chùa Long Sơn – ngôi chùa dưới chân núi Trại Thủy với tượng Phật trắng lớn trên đỉnh đồi, nhìn xuống toàn cảnh thành phố"
       ]
     },
     {
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH E1 – Tháp Bà Ponagar – file thap-ba-ponagar-nha-trang-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "💡 Bạn có biết: Tháp Bà Ponagar vẫn là nơi người Việt và người Chăm đến cúng bái mỗi dịp lễ hội Tháp Bà."
+    },
+    {
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH E2 – Chùa Long Sơn – file chua-long-son-nha-trang-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn hải sản, tự do đi dạo biển Trần Phú và chợ đêm Nha Trang. Nghỉ đêm tại Nha Trang."
+    },
+    {
       "type": "h3",
-      "text": "BAO GỒM"
+      "text": "🚤 NGÀY 02: TÀU THAM QUAN VỊNH NHA TRANG"
+    },
+    {
+      "type": "p",
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, đoàn ra cảng lên tàu tham quan vịnh Nha Trang. Trên đường đến các điểm dừng, quý khách ngắm biển, có thời gian tắm biển, chèo thuyền hoặc lặn ngắm san hô (chi phí tự túc)."
+    },
+    {
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH E3 – Tàu tham quan vịnh Nha Trang – file tau-tham-quan-vinh-nha-trang-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa trên đảo hoặc trên tàu theo chương trình."
+    },
+    {
+      "type": "p",
+      "text": "🌴 <strong>Buổi chiều:</strong> Về đất liền, quý khách tự do nghỉ ngơi."
+    },
+    {
+      "type": "p",
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng. Tự do khám phá Nha Trang, có thể đăng ký thêm VinWonders (chi phí tự túc)."
+    },
+    {
+      "type": "h3",
+      "text": "🛍️ NGÀY 03: NHÀ THỜ ĐÁ – CHỢ ĐẦM – NHA TRANG – TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Xe đưa đoàn tham quan:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nhà thờ Đá (Nhà thờ chính tòa Kitô Vua) – công trình kiến trúc Gothic nằm trên ngọn đồi thoải giữa thành phố",
+        "Chợ Đầm – mua đặc sản làm quà: yến sào, nem nướng, mực rim me"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH E4 – Nhà thờ Đá Nha Trang – file nha-tho-da-nha-trang-todaytourist.jpg]"
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa, xe đưa ra sân bay Cam Ranh, bay về Tân Sơn Nhất."
+    },
+    {
+      "type": "p",
+      "text": "🏠 <strong>Buổi chiều:</strong> Xe công ty đưa khách Biên Hòa về điểm đón ban đầu. Kết thúc chương trình."
+    },
+    {
+      "type": "h3",
+      "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "💵 Người lớn (từ 10 tuổi): 3.890.000đ/khách (chưa gồm vé máy bay)"
+    },
+    {
+      "type": "p",
+      "text": "🧒 Trẻ em 5 đến dưới 10 tuổi: 2.920.000đ/khách (75%, ngủ chung với bố mẹ)"
+    },
+    {
+      "type": "p",
+      "text": "👶 Trẻ dưới 5 tuổi: theo chính sách của hãng hàng không, báo giá khi đặt"
+    },
+    {
+      "type": "p",
+      "text": "🛏️ Phụ thu phòng đơn: 450.000đ/khách/đêm"
+    },
+    {
+      "type": "h3",
+      "text": "✅ GIÁ TOUR BAO GỒM"
     },
     {
       "type": "list",
       "items": [
         "Hướng dẫn viên đón đoàn tại sân bay Cam Ranh, lo trọn phần mặt đất",
         "Xe đưa đón Biên Hòa – Tân Sơn Nhất và xe tham quan tại Nha Trang",
-        "2 đêm khách sạn 3 sao trung tâm Nha Trang, tiêu chuẩn 2 khách/phòng",
-        "Các bữa ăn theo chương trình",
-        "Tàu tham quan đảo, vé tham quan theo chương trình",
-        "Hướng dẫn viên suốt tuyến, bảo hiểm du lịch"
+        "Khách sạn tiêu chuẩn 3 sao trung tâm Nha Trang (2 khách/phòng), 02 đêm",
+        "Ăn uống: 02 bữa sáng, 03 bữa trưa, 02 bữa tối",
+        "Tàu tham quan vịnh Nha Trang; vé tham quan Tháp Bà Ponagar",
+        "Hướng dẫn viên suốt tuyến, bảo hiểm du lịch theo quy định"
       ]
     },
     {
       "type": "h3",
-      "text": "KHÔNG BAO GỒM"
+      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
     },
     {
       "type": "list",
@@ -100,51 +193,108 @@
         "Vé máy bay khứ hồi TP.HCM – Cam Ranh (giá vé theo hãng bay, giờ bay và thời điểm đặt; Today Tourist báo giá vé cụ thể khi khách chốt ngày đi)",
         "Chi phí cá nhân, đồ uống ngoài bữa ăn, lặn biển, chèo thuyền, VinWonders và các trò chơi tự chọn",
         "Hành lý ký gửi vượt tiêu chuẩn của hãng bay",
-        "Thuế VAT"
+        "Thuế VAT (nếu xuất hóa đơn)"
       ]
     },
     {
       "type": "h3",
-      "text": "ĐIỀU KHOẢN & LƯU Ý"
+      "text": "📌 ĐIỀU KHOẢN & LƯU Ý"
     },
     {
       "type": "list",
       "items": [
-        "Mang giấy tờ tùy thân (CCCD) để làm thủ tục bay.",
-        "Biển êm đẹp nhất từ tháng 2 đến tháng 9. Mùa mưa bão thường từ tháng 10 đến tháng 12, tàu ra đảo có thể đổi lịch hoặc đổi điểm dừng theo lệnh của cảng vụ.",
-        "Mang kem chống nắng, nón rộng vành, đồ bơi.",
-        "Thứ tự điểm tham quan có thể thay đổi theo giờ bay và thời tiết."
+        "Mang giấy tờ tùy thân (CCCD) để làm thủ tục bay",
+        "Biển êm đẹp nhất từ tháng 2 đến tháng 9. Mùa mưa bão thường từ tháng 10 đến tháng 12, tàu ra đảo có thể đổi lịch hoặc đổi điểm dừng theo lệnh của cảng vụ",
+        "Mang kem chống nắng, nón rộng vành, đồ bơi",
+        "Thứ tự điểm tham quan có thể thay đổi theo giờ bay và thời tiết",
+        "Đặt cọc 30–50% khi đăng ký, thanh toán trước ngày khởi hành",
+        "Quý khách tự bảo quản tài sản cá nhân"
       ]
     },
     {
       "type": "h3",
-      "text": "ĐI ĐOÀN RIÊNG"
+      "text": "🏢 ĐI ĐOÀN RIÊNG – DOANH NGHIỆP, TRƯỜNG HỌC, CƠ QUAN?"
     },
     {
       "type": "p",
-      "text": "Tour phù hợp công ty, trường học, gia đình đi từ 10 khách. Có thể điều chỉnh chương trình, thêm ngày và tổ chức team building, gala dinner tại Nha Trang. Liên hệ để nhận báo giá riêng."
-    },
-    {
-      "type": "h3",
-      "text": "CÂU HỎI THƯỜNG GẶP"
+      "text": "TodayTourist thiết kế riêng chương trình Đà Lạt theo mục tiêu và ngân sách của từng đơn vị:"
     },
     {
       "type": "list",
       "items": [
-        "Bay mất bao lâu? Chuyến bay TP.HCM – Cam Ranh khoảng 1 giờ 10 phút.",
-        "Tour có xe đưa đón từ Đồng Nai không? Có, xe công ty đưa đón Biên Hòa – sân bay Tân Sơn Nhất. Vé máy bay khách tự đặt hoặc nhờ Today Tourist đặt giúp, giá theo hãng và giờ bay.",
-        "Tour có đi đảo không? Có, ngày 2 đi tàu tham quan đảo, các điểm dừng cụ thể thông báo khi nhận tàu.",
-        "Có đi VinWonders được không? Có thể đăng ký thêm vào buổi chiều ngày 2 hoặc tối, vé tự túc.",
-        "Trẻ em tính giá thế nào? Trẻ 5 đến dưới 10 tuổi tính 75%, trẻ dưới 5 tuổi theo chính sách hãng bay."
+        "Teambuilding, gala dinner: chương trình theo chủ đề doanh nghiệp, MC, âm thanh, ánh sáng, hoạt náo viên",
+        "Đốt lửa trại, giao lưu cồng chiêng tại Đà Lạt: gắn kết tập thể",
+        "Tham quan học tập cho đoàn học sinh – sinh viên",
+        "Tùy chọn loại xe, tiêu chuẩn khách sạn, thực đơn"
       ]
     },
     {
+      "type": "p",
+      "text": "📞 Nhận báo giá đoàn: Mr. Anh Văn – 0902 898 726"
+    },
+    {
       "type": "h3",
-      "text": "LIÊN HỆ ĐẶT TOUR"
+      "text": "❓ CÂU HỎI THƯỜNG GẶP"
     },
     {
       "type": "p",
-      "text": "Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)<br>Địa chỉ: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai<br>Zalo tư vấn: 0902 898 726 (Anh Văn)<br>Hotline: 0913 78 76 47 (Lê Sang)"
+      "text": "<strong>Bay mất bao lâu?</strong> Chuyến bay TP.HCM – Cam Ranh khoảng 1 giờ 10 phút."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour có xe đưa đón từ Đồng Nai không?</strong> Có, xe công ty đưa đón Biên Hòa – sân bay Tân Sơn Nhất. Vé máy bay khách tự đặt hoặc nhờ Today Tourist đặt giúp, giá theo hãng và giờ bay."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour có đi đảo không?</strong> Có, ngày 2 đi tàu tham quan vịnh Nha Trang, các điểm dừng cụ thể thông báo khi nhận tàu."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour bay này khác gì các tour Nha Trang đi xe?</strong> Tour bay tiết kiệm hơn 8 tiếng ngồi xe, lịch trình 3 ngày 2 đêm gọn, không phải ngủ xe. Tour đi xe có thể kèm thêm VinWonders, Hòn Tằm, Điệp Sơn hoặc Dốc Lết."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có đi VinWonders được không?</strong> Có thể đăng ký thêm vào buổi chiều ngày 2 hoặc buổi tối, vé tự túc."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Trẻ em tính giá thế nào?</strong> Trẻ 5 đến dưới 10 tuổi tính 75% giá người lớn, trẻ dưới 5 tuổi theo chính sách của hãng hàng không, báo giá khi đặt."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có. Giá tour chưa bao gồm VAT, quý khách cần hóa đơn vui lòng báo khi đăng ký."
+    },
+    {
+      "type": "h3",
+      "text": "📞 THÔNG TIN LIÊN HỆ ĐẶT TOUR"
+    },
+    {
+      "type": "p",
+      "text": "Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)"
+    },
+    {
+      "type": "p",
+      "text": "📍 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai"
+    },
+    {
+      "type": "p",
+      "text": "📞 Mr. Anh Văn – Phòng Kinh Doanh: 0902 898 726"
+    },
+    {
+      "type": "p",
+      "text": "☎️ Hotline: 0913 78 76 47 (Lê Sang)"
+    },
+    {
+      "type": "p",
+      "text": "✉️ lesangtravel@gmail.com"
+    },
+    {
+      "type": "p",
+      "text": "🌐 todaytourist.com"
+    },
+    {
+      "type": "p",
+      "text": "👉 Tour ghép đoàn hàng tuần, số chỗ có hạn – nhắn Zalo 0902 898 726 để giữ chỗ sớm!"
     }
   ],
   "hidden": true
