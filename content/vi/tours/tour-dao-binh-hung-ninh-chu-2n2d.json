@@ -1,26 +1,26 @@
 {
   "slug": "tour-dao-binh-hung-ninh-chu-2n2d",
-  "name": "Tour Đảo Bình Hưng – Ninh Chữ 2 Ngày 2 Đêm từ Đồng Nai – BBQ Tôm Hùm, Tháp Chăm",
+  "name": "Tour Đảo Bình Hưng – Ninh Chữ 2 Ngày 2 Đêm từ Đồng Nai – BBQ Hải Sản, Làng Gốm Bàu Trúc, Tháp Chăm",
   "region": "domestic",
   "region_name": "Biển đảo",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "2 ngày 2 đêm",
   "price": "2.790.000đ/khách",
   "image": "biển-trong-bình-hưng-ninh-chữ-1.webp",
-  "desc": "Tour Đảo Bình Hưng – Ninh Chữ 2 ngày 2 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: BBQ tôm hùm, biển Ninh Chữ, tháp Chăm. Giá 2.790.000đ. Hotline 0902 898 726.",
+  "desc": "Tour Bình Hưng – Ninh Chữ 2N2Đ từ Đồng Nai: nghỉ đêm trên đảo, BBQ hải sản, làng gốm Bàu Trúc, tháp Pô Klông Garai, biển Ninh Chữ. Giá 2.790.000đ. Hotline 0902 898 726.",
   "highlights": [
     "Đi tàu ra đảo Bình Hưng, nghỉ đêm giữa biển xanh",
-    "Tắm biển Bãi Me, lặn ngắm san hô bằng kính lặn",
+    "Tắm biển Bãi Me, lặn ngắm san hô bằng kính lặn (tùy mùa)",
     "Check-in Bãi Đá Trứng, viếng Chùa Long Hưng trên đỉnh núi",
-    "Thưởng thức tiệc BBQ hải sản có tôm hùm ngay trên đảo",
-    "Tắm biển Ninh Chữ cát trắng, nước trong xanh",
-    "Tham quan Tháp Pô Klông Garai, mua đặc sản Ninh Chữ làm quà"
+    "Tiệc BBQ hải sản ngay trên đảo",
+    "Ghé làng gốm Bàu Trúc – làng nghề gốm thủ công của người Chăm",
+    "Tham quan Tháp Pô Klông Garai, tắm biển Ninh Chữ, mua đặc sản làm quà"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "p",
-      "text": "🏝️ <strong>Bình Hưng – Ninh Chữ: một đêm giữa biển, một buổi chiều với tháp Chăm.</strong>"
+      "text": "🏝️ <strong>Bình Hưng – Ninh Chữ: một đêm giữa biển, rồi chạm vào văn hóa Chăm ở Ninh Thuận – tiệc BBQ hải sản, làng gốm Bàu Trúc và tháp Pô Klông Garai.</strong>"
     },
     {
       "type": "p",
@@ -163,6 +163,16 @@
       "html": "<figure><img src=\"/content/vi/images/pasted-1791541287274-3.jpg\" alt=\"Tháp Chăm Pô Klông Garai – tour Đảo Bình Hưng – Ninh Chữ 2N2Đ Today Tourist\"></figure>"
     },
     {
+      "type": "list",
+      "items": [
+        "Làng gốm Bàu Trúc – làng nghề gốm thủ công truyền thống của người Chăm; quý khách xem nghệ nhân nặn gốm, tham quan xưởng, chọn gốm làm quà"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH H1 – Làng gốm Bàu Trúc – nghệ nhân Chăm nặn gốm thủ công – file binh-hung-lang-gom-bau-truc-todaytourist.jpg]"
+    },
+    {
       "type": "p",
       "text": "🛍️ Xe dừng chân mua đặc sản Ninh Chữ làm quà: nho, táo, tỏi, mực một nắng."
     },
@@ -296,23 +306,23 @@
     },
     {
       "type": "p",
-      "text": "<strong>Tour khởi hành và kết thúc lúc mấy giờ?</strong> Xe đón khoảng 22h00 tối hôm trước, quý khách nghỉ đêm trên xe. Ngày thứ hai đoàn về đến điểm tập kết dự kiến khoảng 19h00."
+      "text": "<strong>Tour Bình Hưng – Ninh Chữ có gì khác tour đảo thông thường?</strong> Tour kết hợp biển đảo với văn hóa Chăm: nghỉ đêm trên đảo Bình Hưng, tiệc BBQ hải sản, sau đó ghé làng gốm Bàu Trúc và tháp Pô Klông Garai ở Ninh Thuận trước khi về."
     },
     {
       "type": "p",
-      "text": "<strong>Tour khác gì tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm?</strong> Tour 2 ngày 2 đêm đi xe đêm đầu để tiết kiệm thời gian, về trong ngày thứ hai; tour 3 ngày 2 đêm khởi hành sáng và nghỉ đêm thứ hai tại Ninh Chữ."
+      "text": "<strong>Làng gốm Bàu Trúc có gì để xem?</strong> Đây là làng nghề gốm thủ công truyền thống của người Chăm. Quý khách xem nghệ nhân nặn gốm, tham quan xưởng và có thể mua gốm làm quà (giá tự túc)."
     },
     {
       "type": "p",
-      "text": "<strong>Vé tàu ra đảo đã bao gồm chưa?</strong> Đã bao gồm vé tàu ra đảo Bình Hưng và xe điện tham quan đảo."
+      "text": "<strong>Đi tàu ra đảo Bình Hưng mất bao lâu?</strong> Đảo cách đất liền khoảng 1 km nên tàu đi rất nhanh. HDV sẽ báo giờ tàu cụ thể; lịch tàu có thể thay đổi theo thời tiết."
     },
     {
       "type": "p",
-      "text": "<strong>Bé dưới 5 tuổi có cần mua vé không?</strong> Không bắt buộc. Bé ngồi cùng bố mẹ được miễn phí; nếu muốn bé có ghế riêng, phụ thu 50% giá người lớn. Vé tàu của trẻ em theo chính sách hãng tàu."
+      "text": "<strong>Có phải mang theo giấy tờ không?</strong> Có, quý khách mang theo Căn cước công dân để làm thủ tục lên tàu. Trẻ em mang giấy khai sinh hoặc giấy tờ tùy thân theo quy định."
     },
     {
       "type": "p",
-      "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có. Giá tour chưa bao gồm VAT, quý khách cần hóa đơn vui lòng báo khi đăng ký."
+      "text": "<strong>Thời điểm nào đi Bình Hưng đẹp nhất?</strong> Biển thường êm và nước trong vào các tháng ít gió; mùa gió lớn tàu có thể hoãn. Quý khách liên hệ để được tư vấn ngày khởi hành phù hợp."
     },
     {
       "type": "h3",
