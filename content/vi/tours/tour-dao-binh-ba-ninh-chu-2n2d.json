@@ -1,30 +1,30 @@
 {
   "slug": "tour-dao-binh-ba-ninh-chu-2n2d",
-  "name": "Tour Đảo Bình Ba – Ninh Chữ 2 Ngày 2 Đêm từ Đồng Nai – BBQ Tôm Hùm, Tháp Chăm",
+  "name": "Tour Đảo Bình Ba – Ninh Chữ 2 Ngày 2 Đêm từ Đồng Nai – BBQ Tôm Hùm, Bãi Nồm, Vườn Nho Thái An",
   "region": "domestic",
   "region_name": "Biển đảo",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "2 ngày 2 đêm",
   "price": "2.790.000đ/khách",
   "image": "bình-ba-ninh-chữ-biển-xanh-3.webp",
-  "desc": "Tour Đảo Bình Ba – Ninh Chữ 2 ngày 2 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: BBQ tôm hùm, Bãi Nồm, Ninh Chữ. Giá 2.790.000đ. Hotline 0902 898 726.",
+  "desc": "Tour Bình Ba – Ninh Chữ 2N2Đ từ Đồng Nai: tàu từ cảng Ba Ngòi, BBQ tôm hùm, Bãi Nồm – Bãi Chưởng, biển Ninh Chữ, vườn nho Thái An. Giá 2.790.000đ. Hotline 0902 898 726.",
   "highlights": [
     "Đi tàu từ cảng Ba Ngòi ra đảo Bình Ba, nghỉ đêm giữa biển xanh",
     "Tắm biển Bãi Nồm, check-in Bãi Chưởng và Bãi Nhà Cũ",
     "Thưởng thức tiệc BBQ hải sản có tôm hùm Bình Ba",
     "Tắm biển Ninh Chữ cát trắng, nước trong xanh",
-    "Tham quan Tháp Pô Klông Garai, tháp Chăm cổ tiêu biểu",
+    "Tham quan vườn nho Thái An, mua nho và đặc sản làm quà",
     "Mua đặc sản Ninh Chữ: nho, táo, tỏi, mực một nắng"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "p",
-      "text": "🦞 <strong>Bình Ba – Ninh Chữ: một đêm trên đảo tôm hùm, một buổi chiều với tháp Chăm.</strong>"
+      "text": "🦞 <strong>Bình Ba – Ninh Chữ: một đêm trên đảo tôm hùm, một buổi chiều giữa vườn nho xứ nắng.</strong>"
     },
     {
       "type": "p",
-      "text": "Sáng sớm lên tàu ra đảo Bình Ba, nơi nước biển xanh trong và tiệc BBQ tôm hùm làm nên tên tuổi hòn đảo. Tối ngủ một đêm giữa biển, hôm sau về Ninh Chữ tắm biển cát trắng, ghé tháp Chăm cổ rồi mang đặc sản về làm quà. Xe đón tận nơi khu vực Biên Hòa."
+      "text": "Sáng sớm lên tàu ra đảo Bình Ba, nơi nước biển xanh trong và tiệc BBQ tôm hùm làm nên tên tuổi hòn đảo. Tối ngủ một đêm giữa biển, hôm sau về Ninh Chữ tắm biển cát trắng, ghé vườn nho Thái An rồi mang đặc sản về làm quà. Xe đón tận nơi khu vực Biên Hòa."
     },
     {
       "type": "p",
@@ -149,12 +149,12 @@
     {
       "type": "list",
       "items": [
-        "Tháp Pô Klông Garai – quần thể tháp Chăm cổ tiêu biểu nhất, xây dựng cuối thế kỷ 13"
+        "Vườn nho Thái An (Ninh Hải) – vườn nho nổi tiếng của vùng đất nắng gió Ninh Thuận; quý khách tham quan, chụp ảnh, mua nho tươi và các sản phẩm từ nho làm quà (hái nho tùy mùa vụ)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791541858048-4.jpg\" alt=\"Tháp Chăm Pô Klông Garai – tour Đảo Bình Ba – Ninh Chữ 2N2Đ Today Tourist\"></figure>"
+      "type": "p",
+      "text": "🖼️ [CHÈN ẢNH B1 – Vườn nho Thái An – giàn nho Ninh Thuận – file binh-ba-vuon-nho-thai-an-todaytourist.jpg]"
     },
     {
       "type": "p",
@@ -290,23 +290,23 @@
     },
     {
       "type": "p",
-      "text": "<strong>Tour khởi hành và kết thúc lúc mấy giờ?</strong> Xe đón khoảng 22h00 tối hôm trước, quý khách nghỉ đêm trên xe. Ngày thứ hai đoàn về đến điểm tập kết dự kiến khoảng 19h00."
+      "text": "<strong>Tour Bình Ba – Ninh Chữ khác gì tour Bình Hưng?</strong> Bình Ba là đảo xa hơn, nổi tiếng với tôm hùm và các bãi Nồm, Chưởng, Nhà Cũ; đi tàu từ cảng Ba Ngòi. Phần đất liền của tour là biển Ninh Chữ và vườn nho Thái An, không đi làng gốm hay tháp Chăm như tour Bình Hưng."
     },
     {
       "type": "p",
-      "text": "<strong>Tour khác gì tour Bình Ba – Ninh Chữ 3 ngày 2 đêm?</strong> Tour 2 ngày 2 đêm đi xe đêm đầu để tiết kiệm thời gian, về trong ngày thứ hai; tour 3 ngày 2 đêm khởi hành sáng, có thêm Vịnh Vĩnh Hy và nghỉ đêm thứ hai tại Ninh Chữ."
+      "text": "<strong>Đi tàu từ cảng Ba Ngòi ra Bình Ba mất bao lâu?</strong> Thời gian tàu phụ thuộc loại tàu và biển động; HDV sẽ báo giờ tàu cụ thể trước ngày khởi hành. Quý khách nên chuẩn bị thuốc say sóng nếu dễ say."
     },
     {
       "type": "p",
-      "text": "<strong>Vé tàu ra đảo đã bao gồm chưa?</strong> Đã bao gồm vé tàu ra đảo Bình Ba."
+      "text": "<strong>Tham quan vườn nho Thái An có được hái nho không?</strong> Tùy mùa vụ và quy định của vườn. Quý khách có thể tham quan, chụp ảnh, mua nho tươi hoặc sản phẩm từ nho; chi phí hái và mua nho tự túc."
     },
     {
       "type": "p",
-      "text": "<strong>Bé dưới 5 tuổi có cần mua vé không?</strong> Không bắt buộc. Bé ngồi cùng bố mẹ được miễn phí; nếu muốn bé có ghế riêng, phụ thu 50% giá người lớn. Vé tàu của trẻ em theo chính sách hãng tàu."
+      "text": "<strong>Bữa tiệc BBQ tôm hùm có mặc định cho mọi khách?</strong> Thực đơn BBQ hải sản theo chương trình; số lượng tôm hùm tuỳ suất ăn. Quý khách muốn nâng cấp thêm tôm hùm xin báo trước để công ty đặt giúp."
     },
     {
       "type": "p",
-      "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có. Giá tour chưa bao gồm VAT, quý khách cần hóa đơn vui lòng báo khi đăng ký."
+      "text": "<strong>Cần mang theo giấy tờ gì?</strong> Căn cước công dân (hoặc giấy khai sinh với trẻ em) để làm thủ tục lên tàu. Nên mang áo chống nắng, kính mát, dép đi biển."
     },
     {
       "type": "h3",
