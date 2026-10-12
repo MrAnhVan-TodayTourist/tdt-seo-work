@@ -5,7 +5,7 @@
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "5 ngày 4 đêm",
-  "price": "6.590.000đ/khách (chưa gồm vé máy bay)",
+  "price": "6.590.000đ/khách",
   "image": "hành-trình-kỳ-quan-miền-trung-2.webp",
   "desc": "Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm bay từ TP.HCM: Bà Nà Hills, Đại Nội Huế, động Phong Nha. Giá 6.590.000đ (chưa gồm vé máy bay).",
   "highlights": [
@@ -227,6 +227,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "p",
