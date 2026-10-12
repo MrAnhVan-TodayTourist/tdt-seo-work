@@ -1,16 +1,16 @@
 {
   "slug": "tour-da-lat-nha-trang-4n3d",
-  "name": "Tour Đà Lạt – Nha Trang 4 Ngày 3 Đêm từ Đồng Nai – Đi Ban Ngày, Fresh Garden, VinWonders",
+  "name": "Tour Đà Lạt – Nha Trang 4 Ngày 3 Đêm từ Đồng Nai – Đi Ban Ngày, Thác Prenn, Trúc Lâm, VinWonders",
   "region": "domestic",
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "4 ngày 3 đêm",
   "price": "4.390.000đ/khách",
   "image": "hồ-xuân-hương-vịnh-nha-trang-1.webp",
-  "desc": "Tour Đà Lạt – Nha Trang 4N3Đ từ Đồng Nai, đón tận nơi Biên Hòa, đi ban ngày: Fresh Garden, Langbiang, VinWonders. Giá 4.390.000đ. Hotline 0902 898 726.",
+  "desc": "Tour Đà Lạt – Nha Trang 4N3Đ từ Đồng Nai, đón tận nơi Biên Hòa, đi ban ngày: Thác Prenn, Thiền viện Trúc Lâm, Hoàng Long Ohayo, VinWonders. Giá 4.390.000đ. Hotline 0902 898 726.",
   "highlights": [
     "Check-in Quảng trường Lâm Viên và dạo chợ đêm Đà Lạt",
-    "Tham quan Fresh Garden và Langbiang Land, giao lưu cồng chiêng buổi tối",
+    "Dạo thác Prenn giữa rừng thông, Thiền viện Trúc Lâm bên hồ Tuyền Lâm",
     "Check-in Hoàng Long Ohayo phong cách Nhật Bản trên đèo Mimosa",
     "Ngắm Tháp Trầm Hương và Quảng trường 2 Tháng 4 rực rỡ về đêm",
     "Đi cáp treo vượt biển, vui chơi cả ngày tại VinWonders Nha Trang",
@@ -24,7 +24,7 @@
     },
     {
       "type": "p",
-      "text": "Không phải ngủ xe, quý khách khởi hành buổi sáng, ngắm đèo núi Bảo Lộc – Đà Lạt trong ngày, rồi dành hai ngày dạo vườn hoa Fresh Garden, Quảng trường Lâm Viên, Langbiang và đèo Mimosa, trước khi xuống biển Nha Trang vui chơi cả"
+      "text": "Không phải ngủ xe, quý khách khởi hành buổi sáng, ngắm đèo núi Bảo Lộc – Đà Lạt trong ngày, rồi dành hai ngày dạo Quảng trường Lâm Viên, thác Prenn giữa rừng thông, Thiền viện Trúc Lâm bên hồ Tuyền Lâm và Hoàng Long Ohayo trên đèo Mimosa, trước khi xuống biển Nha Trang vui chơi cả ngày ở VinWonders. Xe đón tận nơi khu vực Biên Hòa."
     },
     {
       "type": "p",
@@ -102,7 +102,7 @@
     },
     {
       "type": "h3",
-      "text": "🌺 NGÀY 02: FRESH GARDEN – LANGBIANG LAND"
+      "text": "🌲 NGÀY 02: THÁC PRENN – THIỀN VIỆN TRÚC LÂM – HỒ TUYỀN LÂM"
     },
     {
       "type": "p",
@@ -111,16 +111,12 @@
     {
       "type": "list",
       "items": [
-        "Fresh Garden – khu du lịch sinh thái trên đồi cao với vườn hoa khổng lồ rực rỡ sắc màu, cối xay gió, thác nước, cổng trời Âu và đảo chim đại bàng, thiên đường check-in giữa lòng Đà Lạt"
+        "Thác Prenn – thác nằm trên đèo Prenn, lối vào xuyên qua rừng thông xanh mát, không gian dạo chơi thoáng đãng cho cả gia đình"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557372511-1.jpg\" alt=\"Fresh Garden Đà Lạt – tour Đà Lạt – Nha Trang 4N3Đ Today Tourist\"></figure>"
-    },
-    {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dùng cơm trưa ngay tại Fresh Garden."
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng địa phương."
     },
     {
       "type": "p",
@@ -129,16 +125,12 @@
     {
       "type": "list",
       "items": [
-        "Langbiang Land – tổ hợp du lịch sinh thái, văn hóa Tây Nguyên dưới chân núi Langbiang; tham quan làng nghề thổ cẩm, Công viên Khủng long, tiểu cảnh châu Âu"
+        "Thiền viện Trúc Lâm – ngôi thiền viện xây dựng năm 1993 trên núi Phụng Hoàng, nhìn xuống hồ Tuyền Lâm yên ả, không gian thanh tịnh giữa rừng thông (miễn phí vào cổng; cáp treo lên thiền viện tự túc)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791557372512-2.jpg\" alt=\"Langbiang Land – tour Đà Lạt – Nha Trang 4N3Đ Today Tourist\"></figure>"
-    },
-    {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, giao lưu cồng chiêng Tây Nguyên rộn ràng cùng đồng bào bản địa. Nghỉ đêm tại Đà Lạt."
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng. Tự do dạo chợ đêm hoặc thưởng thức cà phê, các quán ăn đặc sản Đà Lạt. Nghỉ đêm tại Đà Lạt."
     },
     {
       "type": "h3",
@@ -253,7 +245,7 @@
     },
     {
       "type": "p",
-      "text": "✅ Vé tham quan Fresh Garden, Langbiang Land (gồm giao lưu cồng chiêng), Hoàng Long Ohayo, VinWonders Nha Trang (cáp treo, công viên nước, khu trò chơi)"
+      "text": "✅ Vé tham quan Thác Prenn, Hoàng Long Ohayo, VinWonders Nha Trang; tham quan Thiền viện Trúc Lâm (miễn phí vào cổng)"
     },
     {
       "type": "p",
@@ -269,7 +261,7 @@
     },
     {
       "type": "p",
-      "text": "❌ Các trò chơi trải nghiệm thêm tại Langbiang Land: Go-Kart, bắn cung, cưỡi ngựa, thuê trang phục dân tộc (tự túc)"
+      "text": "❌ Cáp treo lên Thiền viện Trúc Lâm và đồ uống tại quán (tự túc)"
     },
     {
       "type": "p",
