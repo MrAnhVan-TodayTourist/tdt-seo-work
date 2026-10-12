@@ -5,7 +5,7 @@
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
-  "price": "3.490.000đ/khách (chưa gồm vé máy bay)",
+  "price": "3.490.000đ/khách",
   "image": "bia-tour-quang-binh-phong-nha-todaytourist.jpg",
   "desc": "Tour Quảng Bình – Phong Nha 3 ngày 2 đêm bay từ TP.HCM: động Phong Nha, động Thiên Đường, Suối Nước Moọc, biển Nhật Lệ. Giá 3.490.000đ (chưa gồm vé máy bay).",
   "highlights": [
@@ -105,6 +105,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "list",
