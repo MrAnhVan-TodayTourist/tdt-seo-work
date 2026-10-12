@@ -5,7 +5,7 @@
   "region_name": "Miền Bắc",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "4 ngày 3 đêm",
-  "price": "5.290.000đ/khách (chưa gồm vé máy bay)",
+  "price": "5.290.000đ/khách",
   "image": "bản-giốc-và-ba-bể-cao-bằng-10.webp",
   "desc": "Tour Cao Bằng 4 ngày 3 đêm bay từ TP.HCM: thác Bản Giốc, động Ngườm Ngao, hồ Ba Bể. Giá 5.290.000đ (chưa gồm vé máy bay). Hotline 0902 898 726.",
   "highlights": [
@@ -149,6 +149,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "p",
