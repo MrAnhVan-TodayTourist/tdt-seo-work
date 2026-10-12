@@ -5,7 +5,7 @@
   "region_name": "Miền Bắc",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "4 ngày 3 đêm",
-  "price": "5.990.000đ/khách (chưa gồm vé máy bay)",
+  "price": "5.990.000đ/khách",
   "image": "mây-ngàn-sapa-phố-cổ-hà-nội-1.webp",
   "desc": "Tour Hà Nội – Sapa 4 ngày 3 đêm bay từ TP.HCM, xe đón tận nơi Biên Hòa: Fansipan, Bản Cát Cát, Văn Miếu. Giá 5.990.000đ (chưa gồm vé máy bay).",
   "highlights": [
@@ -180,6 +180,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "p",
