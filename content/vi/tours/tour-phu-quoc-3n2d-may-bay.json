@@ -5,7 +5,7 @@
   "region_name": "Biển đảo",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
-  "price": "3.790.000đ/khách (chưa gồm vé máy bay)",
+  "price": "3.790.000đ/khách",
   "image": "đảo-ngọc-phú-quốc-3n2đ-2.webp",
   "desc": "Tour Phú Quốc 3 ngày 2 đêm đi máy bay từ TP. Đồng Nai, đưa đón tận nơi Biên Hòa ra sân bay: Nhà tù Phú Quốc, Bãi Sao, vườn tiêu. Giá 3.790.000đ (chưa gồm vé máy bay). Hotline 0902 898 726.",
   "highlights": [
@@ -180,6 +180,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "p",
