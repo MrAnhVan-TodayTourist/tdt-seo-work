@@ -5,7 +5,7 @@
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "4 ngày 3 đêm",
-  "price": "5.190.000đ/khách (chưa gồm vé máy bay)",
+  "price": "5.190.000đ/khách",
   "image": "bia-tour-da-nang-hue-quang-tri-todaytourist.jpg",
   "desc": "Tour Đà Nẵng – Huế – Quảng Trị 4N3Đ bay từ TP.HCM: Ngũ Hành Sơn, Đại Nội, cầu Hiền Lương, Địa đạo Vịnh Mốc, Trường Sơn. Giá 5.190.000đ (chưa gồm vé máy bay).",
   "highlights": [
@@ -143,6 +143,10 @@
     {
       "type": "h3",
       "text": "💰 GIÁ TOUR"
+    },
+    {
+      "type": "p",
+      "text": "✈️ <strong>Lưu ý:</strong> Giá tour <strong>chưa bao gồm vé máy bay</strong>. Quý khách tự đặt vé hoặc nhờ Today Tourist đặt giúp theo giờ bay và hạng vé phù hợp; giá vé thay đổi theo thời điểm đặt."
     },
     {
       "type": "list",
