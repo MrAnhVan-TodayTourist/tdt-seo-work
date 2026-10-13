@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể quý cô Trường Mầm non Phú Hữu trong chuyến tham quan – nghỉ dưỡng đầy niềm vui và những kỷ niệm đáng nhớ tại thành phố ngàn hoa Đà Lạt"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-da-lat-3n3d-05-31-2.jpg",
-      "alt": "HÀNH TRÌNH ĐÀ LẠT 3N3Đ (28–31/05/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-da-lat-3n3d-05-31-2.jpg\" alt=\"HÀNH TRÌNH ĐÀ LẠT 3N3Đ (28–31/05/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Khám phá thành phố Đà Lạt mộng mơ với khí hậu trong lành, mát mẻ"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-da-lat-3n3d-05-31-3.jpg",
-      "alt": "HÀNH TRÌNH ĐÀ LẠT 3N3Đ (28–31/05/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-da-lat-3n3d-05-31-3.jpg\" alt=\"HÀNH TRÌNH ĐÀ LẠT 3N3Đ (28–31/05/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -52,6 +50,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-31."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
