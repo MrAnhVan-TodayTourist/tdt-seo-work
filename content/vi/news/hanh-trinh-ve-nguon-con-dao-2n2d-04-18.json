@@ -12,9 +12,8 @@
       "text": "Khép lại chuyến hành trình đầy ý nghĩa của 42 cô chú Chi hội Cựu chiến binh KP27 – Phường Long Bình, Tỉnh Đồng Nai trong chuyến về nguồn tại vùng đất thiêng Côn Đảo."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ve-nguon-con-dao-2n2d-04-18-2.jpg",
-      "alt": "HÀNH TRÌNH VỀ NGUỒN – CÔN ĐẢO 2N2Đ (16–18/04/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-con-dao-2n2d-04-18-2.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – CÔN ĐẢO 2N2Đ (16–18/04/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Đoàn đã đến dâng hương tại Miếu Bà Phi Yến, ghé thăm Vân Sơn Tự – nơi gửi gắm những lời cầu bình an."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ve-nguon-con-dao-2n2d-04-18-3.jpg",
-      "alt": "HÀNH TRÌNH VỀ NGUỒN – CÔN ĐẢO 2N2Đ (16–18/04/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-con-dao-2n2d-04-18-3.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – CÔN ĐẢO 2N2Đ (16–18/04/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -56,6 +54,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-04-18."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Côn Đảo 2 Ngày 2 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
