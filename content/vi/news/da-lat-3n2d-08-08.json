@@ -12,9 +12,8 @@
       "text": "Một chuyến đi của Gia đình Anh Ngọc – nhẹ nhàng, vui vẻ và đầy ắp những khoảnh khắc đáng nhớ giữa thành phố ngàn hoa."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/da-lat-3n2d-08-08-2.jpg",
-      "alt": "ĐÀ LẠT 3N2Đ | 06–08/08/2026"
+      "type": "html",
+      "html": "<figure style=\"width:590px\"><img src=\"/content/vi/images/news/da-lat-3n2d-08-08-2.jpg\" alt=\"ĐÀ LẠT 3N2Đ | 06–08/08/2026\" style=\"width:590px;height:443px\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Cảm ơn Gia đình Anh Ngọc đã tin tưởng lựa chọn TodayTourist."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/da-lat-3n2d-08-08-3.jpg",
-      "alt": "ĐÀ LẠT 3N2Đ | 06–08/08/2026"
+      "type": "html",
+      "html": "<figure style=\"width:590px\"><img src=\"/content/vi/images/news/da-lat-3n2d-08-08-3.jpg\" alt=\"ĐÀ LẠT 3N2Đ | 06–08/08/2026\" style=\"width:590px;height:443px\"></figure>"
     },
     {
       "type": "p",
@@ -41,5 +39,6 @@
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-08."
     }
-  ]
+  ],
+  "hidden": false
 }
