@@ -12,9 +12,8 @@
       "text": "Có những chuyến đi không chỉ để khám phá, mà còn để sẻ chia."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-2.jpg",
-      "alt": "HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-2.jpg\" alt=\"HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Mỗi nụ cười của các em là nguồn động lực để yêu thương được lan tỏa nhiều hơn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-3.jpg",
-      "alt": "HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-3.jpg\" alt=\"HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -44,6 +42,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-13."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
