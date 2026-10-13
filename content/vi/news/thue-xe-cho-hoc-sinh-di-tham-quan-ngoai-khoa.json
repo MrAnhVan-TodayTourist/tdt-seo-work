@@ -3,13 +3,13 @@
   "title": "Thuê xe cho học sinh đi tham quan, ngoại khóa",
   "category": "Cẩm nang thuê xe",
   "image": "xe-todaytourist-15.jpg",
-  "summary": "Thuê xe cho học sinh đi tham quan, ngoại khóa: danh sách theo lớp, điểm đón, giờ về, báo giá theo yêu cầu. Mr Anh Văn 0902 898 726.",
+  "summary": "Thuê xe cho học sinh đi tham quan, ngoại khóa: ưu tiên an toàn, xe đủ ghế và lịch trình rõ ràng. Mr Anh Văn 0902 898 726.",
   "body": "",
   "published_at": "2026-10-11",
   "content": [
     {
       "type": "p",
-      "text": "<strong>Thuê xe cho học sinh đi tham quan cần chốt tổng học sinh, giáo viên và người đi kèm cùng lịch đón trả.</strong>"
+      "text": "<strong>Xe cho học sinh đi ngoại khóa cần đặt an toàn lên hàng đầu: đủ ghế ngồi, tài xế quen đường và lịch dừng nghỉ hợp lý cho lứa tuổi.</strong>"
     },
     {
       "type": "p",
@@ -17,124 +17,35 @@
     },
     {
       "type": "h2",
-      "text": "Danh sách theo từng lớp"
+      "text": "Đủ ghế, có người phụ trách từng xe"
     },
     {
       "type": "p",
-      "text": "Mỗi nhóm cần người phụ trách và danh sách dễ đối chiếu. Kiểm tra tổng người thực đi trước khi chọn xe; đoàn đông có thể trao đổi xe 45 chỗ hoặc nhiều xe theo lớp. Không để danh sách giáo viên tách khỏi tính toán phương tiện."
+      "text": "Mỗi học sinh cần một ghế ngồi riêng, không chở quá số chỗ. Mỗi xe nên có giáo viên hoặc phụ huynh phụ trách điểm danh khi lên xuống. Chuyến có học sinh nhỏ tuổi cần dừng nghỉ nhiều hơn, tránh đi quá lâu một chặng."
     },
     {
       "type": "h2",
-      "text": "Điểm đón và giờ về của trường"
+      "text": "Lịch giờ và điểm đến"
     },
     {
       "type": "p",
-      "text": "Gửi vị trí xe tập trung, cách lên xuống và giờ cần trả học sinh. Chặng tham quan nên có thời gian kiểm đếm và nghỉ. Nếu chương trình thay đổi, người phụ trách trường cần phối hợp với điều hành trước khi thông báo cho phụ huynh."
-    },
-    {
-      "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tổng số học sinh, giáo viên và số xe cần chia",
-        "Quãng đường và số ngày thuê",
-        "Một chiều, khứ hồi hay nhiều ngày",
-        "Điểm đón, số điểm dừng, thời gian xe chờ",
-        "Ngày đi: ngày thường, cuối tuần, lễ, Tết",
-        "Phần lưu đêm của xe và tài xế",
-        "Phí cầu đường, bãi đỗ; thuế, hóa đơn theo thỏa thuận"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
-    },
-    {
-      "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Số người dự kiến",
-        "Ngày đi (và ngày về nếu khứ hồi)",
-        "Nơi đón và nơi đến"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "Nhà trường nên gửi lịch chi tiết: giờ xuất phát, các điểm tham quan, giờ ăn trưa và giờ về. Với các điểm có sức chứa hạn chế như khu di tích, nông trại, bảo tàng, cần xác nhận lịch đón đoàn với đơn vị đó trước để xe không phải chờ lâu."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h3",
-      "text": "Trường nên gửi thông tin gì để được báo giá?"
+      "type": "p",
+      "text": "<strong>Đoàn có nhiều lớp thì bố trí xe thế nào?</strong> Nên chia xe theo lớp hoặc khối để giáo viên chủ nhiệm quản lý dễ hơn. Chi tiết xem thêm bài về cách bố trí nhiều xe cho đoàn học sinh."
     },
     {
       "type": "p",
-      "text": "Số học sinh, giáo viên đi kèm, ngày đi, điểm tập trung của trường và điểm đến. Có thêm giờ cần về tới trường thì càng dễ sắp xếp lịch xe."
-    },
-    {
-      "type": "h3",
-      "text": "Chỉ gửi tên tuyến có nhận được giá cuối cùng không?"
+      "text": "<strong>Có thể thuê xe đón học sinh từ nhiều trường không?</strong> Có thể, nhưng cần thống nhất điểm tập kết và giờ để các xe không chờ nhau quá lâu."
     },
     {
       "type": "p",
-      "text": "Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận."
-    },
-    {
-      "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
-    },
-    {
-      "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
-    },
-    {
-      "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
-    },
-    {
-      "type": "h2",
-      "text": "Xem thêm"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Cách bố trí nhiều xe cho đoàn học sinh",
-        "Hợp đồng xe đưa đón học sinh hằng ngày",
-        "Thuê xe cho gia đình, nhóm bạn đi du lịch",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Liên hệ tư vấn"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe cho học sinh đi tham quan, ngoại khóa theo nhu cầu của đoàn."
-    },
-    {
-      "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
-    },
-    {
-      "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
-    },
-    {
-      "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-dua-don-khach-dam-cuoi-dam-hoi/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đưa đón khách đám cưới, đám hỏi</a> · <a href=\"/vi/tin-tuc/thue-xe-dua-don-hoi-nghi-hoi-thao-va-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đưa đón hội nghị, hội thảo và sự kiện</a> · <a href=\"/vi/tin-tuc/thue-xe-cho-co-quan-di-cong-tac-khao-sat-va-tham-quan-nha-may/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho cơ quan đi công tác, khảo sát và tham quan nhà máy</a>"
     },
     {
       "type": "p",
