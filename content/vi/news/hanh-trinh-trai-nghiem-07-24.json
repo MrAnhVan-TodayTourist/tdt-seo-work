@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng các bạn học sinh Tiền Tiểu học Trường Song ngữ Lạc Hồng trong chuyến tham quan, học tập và trải nghiệm tại Vietopia – Thành phố Hướng nghiệp."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-trai-nghiem-07-24-2.jpg",
-      "alt": "HÀNH TRÌNH TRẢI NGHIỆM – 24/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-trai-nghiem-07-24-2.jpg\" alt=\"HÀNH TRÌNH TRẢI NGHIỆM – 24/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Xin chân thành cảm ơn Trường Song ngữ Lạc Hồng đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình ý nghĩa này."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-trai-nghiem-07-24-3.jpg",
-      "alt": "HÀNH TRÌNH TRẢI NGHIỆM – 24/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-trai-nghiem-07-24-3.jpg\" alt=\"HÀNH TRÌNH TRẢI NGHIỆM – 24/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -76,6 +74,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-24."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
