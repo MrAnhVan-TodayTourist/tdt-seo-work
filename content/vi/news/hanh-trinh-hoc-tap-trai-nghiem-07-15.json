@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng 52 học sinh khối Tiểu học & THCS Trường Song ngữ Lạc Hồng trong chương trình tham quan, học tập và trải nghiệm tại Happy Farm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-hoc-tap-trai-nghiem-07-15-2.jpg",
-      "alt": "HÀNH TRÌNH HỌC TẬP & TRẢI NGHIỆM – 15/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-hoc-tap-trai-nghiem-07-15-2.jpg\" alt=\"HÀNH TRÌNH HỌC TẬP &amp; TRẢI NGHIỆM – 15/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Xin chân thành cảm ơn Trường Song ngữ Lạc Hồng đã tin tưởng lựa chọn TodayTourist. Đặc biệt, cảm ơn HDV Bá Luân đã nhiệt tình đồng hành, mang đến một chương trình an toàn, vui tươi và ý nghĩa."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-hoc-tap-trai-nghiem-07-15-3.jpg",
-      "alt": "HÀNH TRÌNH HỌC TẬP & TRẢI NGHIỆM – 15/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-hoc-tap-trai-nghiem-07-15-3.jpg\" alt=\"HÀNH TRÌNH HỌC TẬP &amp; TRẢI NGHIỆM – 15/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -76,6 +74,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-15."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
