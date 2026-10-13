@@ -12,9 +12,8 @@
       "text": "Biên Hòa – Phan Thiết | 2 Ngày 1 Đêm"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-trai-nghiem-hoc-tap-thuc-te-khoi-12-2.jpg",
-      "alt": "HÀNH TRÌNH TRẢI NGHIỆM – HỌC TẬP THỰC TẾ KHỐI 12"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-trai-nghiem-hoc-tap-thuc-te-khoi-12-2.jpg\" alt=\"HÀNH TRÌNH TRẢI NGHIỆM – HỌC TẬP THỰC TẾ KHỐI 12\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Trong hành trình 2 ngày 1 đêm, các bạn học sinh không chỉ được vui chơi, thư giãn mà còn có cơ hội học tập thực tế và khám phá nhiều mô hình công nghệ – lịch sử thú vị:"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-trai-nghiem-hoc-tap-thuc-te-khoi-12-3.jpg",
-      "alt": "HÀNH TRÌNH TRẢI NGHIỆM – HỌC TẬP THỰC TẾ KHỐI 12"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-trai-nghiem-hoc-tap-thuc-te-khoi-12-3.jpg\" alt=\"HÀNH TRÌNH TRẢI NGHIỆM – HỌC TẬP THỰC TẾ KHỐI 12\"></figure>"
     },
     {
       "type": "p",
@@ -92,6 +90,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
