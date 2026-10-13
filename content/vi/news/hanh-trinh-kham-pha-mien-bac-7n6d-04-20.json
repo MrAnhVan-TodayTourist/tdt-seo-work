@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST vinh dự đồng hành cùng Công Ty Cổ Phần Cao Su Công Nghiệp trong chuyến tham quan – nghỉ dưỡng kết hợp khám phá văn hoá miền Bắc đầy ý nghĩa."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-mien-bac-7n6d-04-20-2.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ MIỀN BẮC 7N6Đ (14–20/04/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-mien-bac-7n6d-04-20-2.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ MIỀN BẮC 7N6Đ (14–20/04/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Thủ đô ngàn năm văn hiến – Hà Nội"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-mien-bac-7n6d-04-20-3.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ MIỀN BẮC 7N6Đ (14–20/04/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-mien-bac-7n6d-04-20-3.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ MIỀN BẮC 7N6Đ (14–20/04/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -72,6 +70,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-04-20."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
