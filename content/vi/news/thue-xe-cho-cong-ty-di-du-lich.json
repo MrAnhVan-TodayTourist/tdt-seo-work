@@ -3,13 +3,13 @@
   "title": "Thuê xe cho công ty đi du lịch",
   "category": "Cẩm nang thuê xe",
   "image": "xe-todaytourist-09.jpg",
-  "summary": "Thuê xe cho công ty đi du lịch: gom điểm đón, chia xe cùng người phụ trách, báo giá theo yêu cầu. Mr Anh Văn 0902 898 726.",
+  "summary": "Thuê xe cho công ty đi du lịch: chọn xe theo quân số, chốt điểm đón chung và lịch hai chiều. Mr Anh Văn 0902 898 726.",
   "body": "",
   "published_at": "2026-10-11",
   "content": [
     {
       "type": "p",
-      "text": "<strong>Thuê xe cho công ty đi du lịch cần phối hợp lịch nhân viên, điểm tập trung và số xe.</strong> Đại diện doanh nghiệp nên có một danh sách thống nhất."
+      "text": "<strong>Công ty đi du lịch thường cần một chiếc xe đón nhiều nhân viên ở nhiều nơi, nên khâu quan trọng nhất là thống nhất điểm tập kết và giờ xuất phát.</strong>"
     },
     {
       "type": "p",
@@ -17,124 +17,35 @@
     },
     {
       "type": "h2",
-      "text": "Gom điểm đón theo nơi làm việc"
+      "text": "Gom nhân viên về một điểm tập kết"
     },
     {
       "type": "p",
-      "text": "Với nhiều cơ sở hoặc ca làm, xác định khách tập trung tại một chỗ hay đón theo nhóm. Gửi vị trí cổng và điều kiện dừng xe. Nếu đón tại khu công nghiệp, tên doanh nghiệp và cổng cụ thể giúp tránh nhầm điểm."
+      "text": "Thay vì đón từng người, nhiều doanh nghiệp chọn một điểm tập kết ở cổng công ty hoặc trước khu công nghiệp. Cách này giúp xe xuất phát đúng giờ, ít sai sót và dễ kiểm tra quân số trước khi đi. Với công ty có nhiều chi nhánh, có thể đón theo tuyến, mỗi tuyến một xe rồi hẹn gặp ở điểm chung."
     },
     {
       "type": "h2",
-      "text": "Chia xe cùng người phụ trách"
+      "text": "Hóa đơn và hợp đồng"
     },
     {
       "type": "p",
-      "text": "Đoàn đông ưu tiên trao đổi xe 45 chỗ và cách chia bộ phận. Mỗi xe cần danh sách, giờ hẹn và người kiểm đếm. Khi có Gala hoặc Team Building, phải thống nhất lúc kết thúc để xe phục vụ đúng các lượt đã chốt."
-    },
-    {
-      "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Số bộ phận, số điểm đón của công ty",
-        "Quãng đường và số ngày thuê",
-        "Một chiều, khứ hồi hay nhiều ngày",
-        "Điểm đón, số điểm dừng, thời gian xe chờ",
-        "Ngày đi: ngày thường, cuối tuần, lễ, Tết",
-        "Phần lưu đêm của xe và tài xế",
-        "Phí cầu đường, bãi đỗ; thuế, hóa đơn theo thỏa thuận"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
-    },
-    {
-      "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Số người dự kiến",
-        "Ngày đi (và ngày về nếu khứ hồi)",
-        "Nơi đón và nơi đến"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "Doanh nghiệp cần biết rõ phần dịch vụ nào đã gồm trong giá, ai chịu cầu đường, bãi đỗ và có xuất hóa đơn hay không. Các điều khoản này nên được ghi trong báo giá hoặc hợp đồng trước khi chốt, để phòng kế toán dễ đối chiếu sau chuyến đi."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h3",
-      "text": "Công ty cần chuẩn bị gì trước khi đặt xe?"
+      "type": "p",
+      "text": "<strong>Quân số chưa chốt thì có báo giá trước được không?</strong> Được. Bạn cho biết khoảng số người, chúng tôi báo theo phương án xe gần nhất, sau đó điều chỉnh khi quân số chính thức."
     },
     {
       "type": "p",
-      "text": "Danh sách người đi, điểm tập trung, ngày giờ đi về và người liên hệ chính. Có đủ các thông tin này việc báo giá và bố trí xe sẽ nhanh hơn."
-    },
-    {
-      "type": "h3",
-      "text": "Chỉ gửi tên tuyến có nhận được giá cuối cùng không?"
+      "text": "<strong>Công ty cần xe cho cả đoàn nhưng nhiều xe thì sao?</strong> Có thể bố trí nhiều xe cùng lịch. Bạn nên chia nhóm theo xe từ sớm để mỗi xe có người phụ trách điểm danh."
     },
     {
       "type": "p",
-      "text": "Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận."
-    },
-    {
-      "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
-    },
-    {
-      "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
-    },
-    {
-      "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
-    },
-    {
-      "type": "h2",
-      "text": "Xem thêm"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Thuê xe cho Team Building và Gala Dinner",
-        "Thuê xe đưa đón hội nghị, hội thảo và sự kiện",
-        "Thuê xe cho cơ quan đi công tác, khảo sát và tham quan nhà máy",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Liên hệ tư vấn"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe cho công ty đi du lịch theo nhu cầu của đoàn."
-    },
-    {
-      "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
-    },
-    {
-      "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
-    },
-    {
-      "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-cho-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho Team Building và Gala Dinner</a> · <a href=\"/vi/tin-tuc/thue-xe-cho-hoc-sinh-di-tham-quan-ngoai-khoa/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho học sinh đi tham quan, ngoại khóa</a> · <a href=\"/vi/tin-tuc/thue-xe-dua-don-khach-dam-cuoi-dam-hoi/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đưa đón khách đám cưới, đám hỏi</a>"
     },
     {
       "type": "p",
