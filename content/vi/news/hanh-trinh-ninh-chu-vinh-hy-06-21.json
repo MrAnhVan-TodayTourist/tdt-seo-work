@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể Chi nhánh phía Nam – Nhà máy Z176 trong hành trình tham quan, nghỉ dưỡng và khám phá vẻ đẹp biển xanh nắng vàng tại Ninh Chữ – Vĩnh Hy đầy sôi động và ý nghĩa"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-06-21-2.jpg",
-      "alt": "HÀNH TRÌNH NINH CHỮ – VĨNH HY (19–21/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-06-21-2.jpg\" alt=\"HÀNH TRÌNH NINH CHỮ – VĨNH HY (19–21/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Hòa mình vào vẻ đẹp hoang sơ của Vịnh Vĩnh Hy – một trong những vịnh biển đẹp nhất Việt Nam"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-06-21-3.jpg",
-      "alt": "HÀNH TRÌNH NINH CHỮ – VĨNH HY (19–21/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-06-21-3.jpg\" alt=\"HÀNH TRÌNH NINH CHỮ – VĨNH HY (19–21/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -64,6 +62,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-21."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
