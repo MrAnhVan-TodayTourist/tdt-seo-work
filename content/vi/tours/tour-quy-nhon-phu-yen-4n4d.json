@@ -1,17 +1,17 @@
 {
   "slug": "tour-quy-nhon-phu-yen-4n4d",
-  "name": "Tour Quy Nhơn – Phú Yên 4 Ngày 4 Đêm từ Đồng Nai – Kỳ Co, Eo Gió, Gành Đá Dĩa",
+  "name": "Tour Quy Nhơn – Phú Yên 4 Ngày 4 Đêm từ Đồng Nai – Tháp Bánh Ít, Bảo Tàng Quang Trung, Hầm Hô, Gành Đá Dĩa",
   "region": "domestic",
   "region_name": "Miền Trung",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "4 ngày 4 đêm",
   "price": "4.190.000đ/khách",
   "image": "hành-trình-eo-gió-ghềnh-đá-đĩa-5.webp",
-  "desc": "Tour Quy Nhơn – Phú Yên 4 ngày 4 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: Kỳ Co, Eo Gió, Ghềnh Ráng, Gành Đá Dĩa. Giá 4.190.000đ. Hotline 0902 898 726.",
+  "desc": "Tour Quy Nhơn – Phú Yên 4 ngày 4 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: Tháp Bánh Ít, Bảo tàng Quang Trung, Hầm Hô, Gành Đá Dĩa, Đầm Ô Loan. Giá 4.190.000đ. Hotline 0902 898 726.",
   "highlights": [
-    "Ngồi canô ra Kỳ Co – \"Maldives của Việt Nam\"",
-    "Check-in Eo Gió, viếng Tịnh xá Ngọc Hòa giữa không gian núi biển",
-    "Tham quan Ghềnh Ráng Tiên Sa, Đồi Thi Nhân, Bãi tắm Hoàng Hậu",
+    "Tham quan Tháp Bánh Ít – cụm tháp Chăm cổ trên đồi cao",
+    "Bảo tàng Quang Trung – về đất võ Tây Sơn, nghe chuyện người anh hùng áo vải",
+    "Dạo Hầm Hô, dòng suối len giữa những khối đá lớn",
     "Check-in Gành Đá Dĩa – kỳ quan địa chất Phú Yên",
     "Tham quan Nhà thờ Mằng Lăng kiến trúc Gothic cổ",
     "Tháp Nghinh Phong về đêm, sò huyết Đầm Ô Loan đặc sản xứ Nẫu"
@@ -20,11 +20,11 @@
   "content": [
     {
       "type": "p",
-      "text": "🌊 <strong>Quy Nhơn – Phú Yên 4 ngày 4 đêm: đi xe đêm, hai ngày ở miền đất võ, hai ngày ở xứ hoa vàng cỏ xanh.</strong>"
+      "text": "🌊 <strong>Quy Nhơn – Phú Yên 4 ngày 4 đêm: đi xe đêm, hai ngày tìm về đất võ Tây Sơn, hai ngày ở xứ hoa vàng cỏ xanh.</strong>"
     },
     {
       "type": "p",
-      "text": "Bốn ngày đủ để đi trọn hai tỉnh ven biển miền Trung: khởi đầu ở Quy Nhơn với Ghềnh Ráng, Kỳ Co, Eo Gió, rồi ngược ra Phú Yên ngắm Gành Đá Dĩa, Nhà thờ Mằng Lăng và thưởng thức sò huyết Đầm Ô Loan. Có chiều tự do tắm biển để chuyến đi không bị dồn lịch. Xe đón tận nơi khu vực Biên Hòa."
+      "text": "Bốn ngày đủ để đi trọn hai tỉnh ven biển miền Trung: hai ngày đầu ở Bình Định với Tháp Bánh Ít, Bảo tàng Quang Trung, Hầm Hô, rồi ngược ra Phú Yên ngắm Gành Đá Dĩa, Nhà thờ Mằng Lăng và thưởng thức sò huyết Đầm Ô Loan. Có buổi sáng tự do tắm biển để chuyến đi không bị dồn lịch. Xe đón tận nơi khu vực Biên Hòa."
     },
     {
       "type": "p",
@@ -32,7 +32,7 @@
     },
     {
       "type": "p",
-      "text": "🚍 <strong>Phương tiện:</strong> xe du lịch đưa đón suốt tuyến + canô ra Kỳ Co"
+      "text": "🚍 Phương tiện: xe du lịch đưa đón suốt tuyến"
     },
     {
       "type": "p",
@@ -68,11 +68,11 @@
     },
     {
       "type": "h3",
-      "text": "☀️ NGÀY 01: TP. QUY NHƠN – GHỀNH RÁNG TIÊN SA"
+      "text": "☀️ NGÀY 01: TP. QUY NHƠN – THÁP BÁNH ÍT"
     },
     {
       "type": "p",
-      "text": "🌅 <strong>Rạng sáng:</strong> Đoàn đến Quy Nhơn, dùng điểm tâm sáng, nhận phòng khách sạn sớm; nếu phòng chưa sẵn sàng, quý khách gửi hành lý và nghỉ tại khu vực chung."
+      "text": "🌅 <strong>Rạng sáng:</strong> Đoàn đến Quy Nhơn, dùng điểm tâm sáng, nhận phòng khách sạn sớm; nếu phòng chưa sẵn sàng, quý khách gửi hành lý và nghỉ tại khu vực chung của khách sạn."
     },
     {
       "type": "p",
@@ -89,61 +89,52 @@
     {
       "type": "list",
       "items": [
-        "Ghềnh Ráng Tiên Sa – thắng cảnh dưới chân núi Xuân Vân, nơi có Đồi Thi Nhân, Dốc Mộng Cầm và Bãi tắm Hoàng Hậu với những viên đá trứng độc đáo"
+        "Tháp Bánh Ít – cụm bốn tháp Chăm xây từ cuối thế kỷ 11 – đầu thế kỷ 12 trên đỉnh đồi, cách trung tâm Quy Nhơn khoảng 16–20 km; từ trên cao nhìn xuống là cả cánh đồng lúa và dòng sông Kôn"
       ]
     },
     {
       "type": "p",
-      "text": "💡 <em>Bạn có biết: Trên Đồi Thi Nhân là nơi an nghỉ của thi sĩ Hàn Mặc Tử – tác giả bài thơ \"Đây thôn Vĩ Dạ\". Còn Bãi tắm Hoàng Hậu, tương truyền, được đặt tên theo Nam Phương Hoàng hậu, người từng đến nghỉ chân tại đây.</em>"
-    },
-    {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791600322376-0.jpg\" alt=\"Ghềnh Ráng Tiên Sa, bãi tắm Hoàng Hậu – tour Quy Nhơn – Phú Yên 4N4Đ Today Tourist\"></figure>"
+      "text": "💡 <em>Bạn có biết: Tháp Bánh Ít là một trong những cụm tháp Chăm còn khá nguyên vẹn ở Bình Định, nổi bật với hoa văn gạch nung và các tượng thần canh giữ chân tháp.</em>"
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng, khám phá Quy Nhơn về đêm. Nghỉ đêm tại Quy Nhơn."
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng, tự do khám phá Quy Nhơn về đêm. Nghỉ đêm tại Quy Nhơn."
     },
     {
       "type": "h3",
-      "text": "🚤 NGÀY 02: KỲ CO – EO GIÓ – TỊNH XÁ NGỌC HÒA"
+      "text": "⚔️ NGÀY 02: BẢO TÀNG QUANG TRUNG – HẦM HÔ"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Xe đưa đoàn tham quan:"
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Xe đưa đoàn đi Tây Sơn (khoảng 45 km), tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Ngồi canô ra Kỳ Co – bãi tắm hoang sơ cát trắng mịn, nước trong xanh nhiều tầng màu, được mệnh danh là \"Maldives của Việt Nam\"; tự do tắm biển, chụp ảnh"
+        "Bảo tàng Quang Trung – khu lưu niệm vua Quang Trung – Nguyễn Huệ tại quê hương Tây Sơn, mở cửa từ năm 1978, trưng bày hàng nghìn hiện vật về phong trào Tây Sơn và chiến công đại phá quân Thanh"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791600322376-1.jpg\" alt=\"Bãi biển Kỳ Co Quy Nhơn – tour Quy Nhơn – Phú Yên 4N4Đ Today Tourist\"></figure>"
+      "type": "p",
+      "text": "💡 <em>Bạn có biết: Bình Định được gọi là \"đất võ\" vì là cái nôi của phong trào Tây Sơn. Nơi đây còn nổi tiếng với võ cổ truyền và nghệ thuật hát bội, bài quyền.</em>"
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng khu vực Tây Sơn."
+    },
+    {
+      "type": "p",
+      "text": "🌿 <strong>Buổi chiều:</strong> Xe đưa đoàn đến thắng cảnh Hầm Hô (khoảng 50 km từ Quy Nhơn):"
     },
     {
       "type": "list",
       "items": [
-        "Check-in Eo Gió – ghềnh đá quanh năm lộng gió nhô ra biển, view toàn cảnh vịnh biển tuyệt đẹp",
-        "Viếng Tịnh xá Ngọc Hòa – chiêm ngưỡng đôi tượng Phật Quan Thế Âm giữa không gian núi biển thanh tịnh"
+        "Ngắm dòng suối chảy len qua những khối đá lớn giữa núi rừng, tham quan bằng thuyền (tùy mực nước)"
       ]
     },
     {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1791600322377-2.jpg\" alt=\"Eo Gió Quy Nhơn – tour Quy Nhơn – Phú Yên 4N4Đ Today Tourist\"></figure>"
-    },
-    {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng khu vực Eo Gió."
-    },
-    {
-      "type": "p",
-      "text": "🌿 <strong>Buổi chiều:</strong> Quý khách tự do tắm biển, nghỉ ngơi tại khách sạn."
-    },
-    {
-      "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng. Nghỉ đêm tại Quy Nhơn."
+      "text": "🌙 <strong>Buổi tối:</strong> Xe đưa đoàn về lại Quy Nhơn. Ăn tối tại nhà hàng. Nghỉ đêm tại Quy Nhơn."
     },
     {
       "type": "h3",
@@ -247,7 +238,7 @@
     },
     {
       "type": "p",
-      "text": "✅ Canô tham quan Kỳ Co và vé tham quan Ghềnh Ráng, Eo Gió, Gành Đá Dĩa, Nhà thờ Mằng Lăng"
+      "text": "✅ Vé tham quan Tháp Bánh Ít, Bảo tàng Quang Trung, Hầm Hô, Gành Đá Dĩa, Nhà thờ Mằng Lăng"
     },
     {
       "type": "p",
@@ -299,7 +290,7 @@
     },
     {
       "type": "p",
-      "text": "📌 Canô ra Kỳ Co phụ thuộc thời tiết; khi biển động, công ty sẽ sắp xếp phương án tham quan thay thế"
+      "text": "📌 Lịch tham quan có thể điều chỉnh thứ tự theo giờ mở cửa và thời tiết thực tế; số điểm tham quan không thay đổi"
     },
     {
       "type": "p",
@@ -355,7 +346,7 @@
     },
     {
       "type": "p",
-      "text": "<strong>Canô ra Kỳ Co đã bao gồm trong giá chưa?</strong> Đã bao gồm canô và vé tham quan theo chương trình."
+      "text": "<strong>Vé tham quan đã bao gồm trong giá chưa?</strong> Đã bao gồm vé tham quan theo chương trình."
     },
     {
       "type": "p",
