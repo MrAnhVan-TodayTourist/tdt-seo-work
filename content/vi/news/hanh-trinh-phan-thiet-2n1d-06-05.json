@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể quý thầy cô Trường Tiểu học Sông Mây trong chuyến tham quan – nghỉ dưỡng đầy niềm vui và tiếng cười tại thành phố biển Phan Thiết xinh đẹp"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-phan-thiet-2n1d-06-05-2.jpg",
-      "alt": "HÀNH TRÌNH PHAN THIẾT 2N1Đ (04–05/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-phan-thiet-2n1d-06-05-2.jpg\" alt=\"HÀNH TRÌNH PHAN THIẾT 2N1Đ (04–05/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Check-in các điểm tham quan nổi tiếng của Phan Thiết với nhiều góc ảnh đẹp"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-phan-thiet-2n1d-06-05-3.jpg",
-      "alt": "HÀNH TRÌNH PHAN THIẾT 2N1Đ (04–05/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-phan-thiet-2n1d-06-05-3.jpg\" alt=\"HÀNH TRÌNH PHAN THIẾT 2N1Đ (04–05/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -64,6 +62,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-05."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-phan-thiet-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phan Thiết 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
