@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng Hội Xóm Giềng Thiện Lành trong hành trình khám phá Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-3n2d-2.jpg",
-      "alt": "HÀNH TRÌNH NINH CHỮ – VĨNH HY 3N2Đ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-3n2d-2.jpg\" alt=\"HÀNH TRÌNH NINH CHỮ – VĨNH HY 3N2Đ\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Xin chân thành cảm ơn Hội Xóm Giềng Thiện Lành đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-3n2d-3.jpg",
-      "alt": "HÀNH TRÌNH NINH CHỮ – VĨNH HY 3N2Đ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-3n2d-3.jpg\" alt=\"HÀNH TRÌNH NINH CHỮ – VĨNH HY 3N2Đ\"></figure>"
     },
     {
       "type": "p",
@@ -36,6 +34,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
