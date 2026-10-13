@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng đoàn công tác Đảng Uỷ - HĐND - UBND - UB MTTQ Việt Nam Xã Hy Cương, Tỉnh Phú Thọ trong hành trình khám phá miền Tây Nam Bộ đầy ý nghĩa với những trải nghiệm đặc sắc tại Cần Thơ, Sóc Trăng, Bạc Liêu và Cà Mau"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-mien-tay-can-tho-soc-trang-bac-lieu-ca-m-06-07-2.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ MIỀN TÂY – CẦN THƠ • SÓC TRĂNG • BẠC LIÊU • CÀ MAU (04–07/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-mien-tay-can-tho-soc-trang-bac-lieu-ca-m-06-07-2.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ MIỀN TÂY – CẦN THƠ • SÓC TRĂNG • BẠC LIÊU • CÀ MAU (04–07/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Khám phá vẻ đẹp sông nước miền Tây và nét văn hóa đặc trưng Nam Bộ"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-mien-tay-can-tho-soc-trang-bac-lieu-ca-m-06-07-3.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ MIỀN TÂY – CẦN THƠ • SÓC TRĂNG • BẠC LIÊU • CÀ MAU (04–07/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-mien-tay-can-tho-soc-trang-bac-lieu-ca-m-06-07-3.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ MIỀN TÂY – CẦN THƠ • SÓC TRĂNG • BẠC LIÊU • CÀ MAU (04–07/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -64,6 +62,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-07."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
