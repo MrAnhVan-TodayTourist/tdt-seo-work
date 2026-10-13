@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng Chi nhánh Công ty TNHH Điện tử Kanepackage Việt Nam trong chương trình nghỉ dưỡng tại Khách sạn 4"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-phan-thiet-2n2d-07-20-2.jpg",
-      "alt": "HÀNH TRÌNH PHAN THIẾT 2N2Đ | 18–20/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-phan-thiet-2n2d-07-20-2.jpg\" alt=\"HÀNH TRÌNH PHAN THIẾT 2N2Đ | 18–20/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Đoàn đã cùng nhau khám phá Silkroad Mũi Né, chinh phục vẻ đẹp KDL Bàu Trắng, tận hưởng những phút giây thư giãn và khép lại hành trình bằng đêm Gala Dinner đầy ấm cúng, gắn kết."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-phan-thiet-2n2d-07-20-3.jpg",
-      "alt": "HÀNH TRÌNH PHAN THIẾT 2N2Đ | 18–20/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-phan-thiet-2n2d-07-20-3.jpg\" alt=\"HÀNH TRÌNH PHAN THIẾT 2N2Đ | 18–20/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -80,6 +78,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-20."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-phan-thiet-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phan Thiết 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
