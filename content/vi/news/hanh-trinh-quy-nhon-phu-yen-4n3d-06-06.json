@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể Cơ Sở May Đồng Phục Hoa Hồng trong chuyến tham quan – nghỉ dưỡng đầy ý nghĩa tại hai tỉnh thành biển xinh đẹp Quy Nhơn – Phú Yên với nhiều trải nghiệm đáng nhớ"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06-2.jpg",
-      "alt": "HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 4N3Đ (03–06/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06-2.jpg\" alt=\"HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 4N3Đ (03–06/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Khám phá thiên đường biển đảo Kỳ Co với làn nước trong xanh và bãi cát trắng tuyệt đẹp"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06-3.jpg",
-      "alt": "HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 4N3Đ (03–06/06/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06-3.jpg\" alt=\"HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 4N3Đ (03–06/06/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -68,6 +66,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-06."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Quy Nhơn 3 Ngày 3 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
