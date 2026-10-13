@@ -3,13 +3,13 @@
   "title": "Thuê xe đi Tiền Giang – Bến Tre trong một hành trình",
   "category": "Cẩm nang thuê xe",
   "image": "xe-todaytourist-53.jpg",
-  "summary": "Thuê xe đi Tiền Giang – Bến Tre trong một hành trình: chọn xe, điểm đón trả, lịch xe, báo giá theo yêu cầu. Mr Anh Văn 0902 898 726.",
+  "summary": "Thuê xe đi Tiền Giang – Bến Tre kết hợp: lịch trình 2 ngày 1 đêm, miệt vườn sông nước, nghỉ đêm và gợi ý ăn uống.",
   "body": "",
   "published_at": "2026-10-11",
   "content": [
     {
       "type": "p",
-      "text": "<strong>Thuê xe đi Tiền Giang – Bến Tre trong cùng hành trình cần thứ tự điểm và giờ nghỉ rõ để tránh chạy nhiều nhưng ít trải nghiệm.</strong>"
+      "text": "<strong>Tiền Giang và Bến Tre nằm kề nhau, ghép chung thành chuyến 2 ngày 1 đêm thong thả hơn đi trong ngày.</strong>"
     },
     {
       "type": "p",
@@ -17,123 +17,35 @@
     },
     {
       "type": "h2",
-      "text": "Chọn điểm chính của mỗi chặng"
+      "text": "Lịch gợi ý"
     },
     {
       "type": "p",
-      "text": "Gửi địa chỉ hoặc nơi tiếp nhận cụ thể ở từng khu vực. Nếu chỉ có một ngày, ưu tiên những điểm đoàn thực sự cần đến và bỏ phần không phù hợp giờ về. Không ghép nguyên hai lịch tuyến đơn vào cùng ngày."
+      "text": "Ngày một Mỹ Tho và cù lao, nghỉ đêm; ngày hai sang Bến Tre tham quan vườn dừa, Cồn Phụng rồi về."
     },
     {
       "type": "h2",
-      "text": "Đối chiếu thêm lượt và thời gian"
+      "text": "Nghỉ đêm"
     },
     {
       "type": "p",
-      "text": "Nếu có bến tàu, nhà hàng hoặc điểm xe chờ, ghi trong phương án. So giá với cùng số người và lịch kết hợp. Đơn giá đi một điểm không tự bao gồm chặng bổ sung ở khu vực còn lại."
-    },
-    {
-      "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Quãng đường và số ngày thuê",
-        "Một chiều, khứ hồi hay nhiều ngày",
-        "Điểm đón, số điểm dừng, thời gian xe chờ",
-        "Ngày đi: ngày thường, cuối tuần, lễ, Tết",
-        "Phần lưu đêm của xe và tài xế",
-        "Phí cầu đường, bãi đỗ; thuế, hóa đơn theo thỏa thuận"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
-    },
-    {
-      "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Số người dự kiến",
-        "Ngày đi (và ngày về nếu khứ hồi)",
-        "Nơi đón và nơi đến"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "Nghỉ gần sông hoặc trung tâm thành phố, thuận tiện ăn tối và đi dạo."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h3",
-      "text": "Thuê xe đi Tiền Giang – Bến Tre trong một hành trình cần gửi thông tin gì để báo giá?"
+      "type": "p",
+      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ cho đoàn đông."
     },
     {
       "type": "p",
-      "text": "Số người, ngày đi, điểm đón và địa chỉ cụ thể tại điểm đến (khách sạn, nhà hàng hoặc điểm hẹn). Có thêm giờ về dự kiến thì việc sắp xếp xe sẽ chính xác hơn."
-    },
-    {
-      "type": "h3",
-      "text": "Xe có đi cùng đoàn suốt chuyến tại điểm đến không?"
+      "text": "<strong>Đi mùa nào đẹp?</strong> Quanh năm đi được; mùa trái cây có thêm nhiều lựa chọn."
     },
     {
       "type": "p",
-      "text": "Tùy phạm vi thuê: chỉ đưa đón hoặc phục vụ cả chuyến tham quan. Nên ghi rõ ngay từ đầu để báo giá đúng phạm vi."
-    },
-    {
-      "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
-    },
-    {
-      "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
-    },
-    {
-      "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
-    },
-    {
-      "type": "h2",
-      "text": "Xem thêm"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Thuê xe đi Cần Thơ",
-        "Thuê xe đi Đồng Tháp: Sa Đéc, Cao Lãnh và lịch trình riêng",
-        "Thuê xe đi Vĩnh Long",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Liên hệ tư vấn"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đi Tiền Giang – Bến Tre trong một hành trình theo nhu cầu của đoàn."
-    },
-    {
-      "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
-    },
-    {
-      "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
-    },
-    {
-      "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Cần Thơ</a> · <a href=\"/vi/tin-tuc/thue-xe-di-dong-thap-sa-dec-cao-lanh-va-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Đồng Tháp: Sa Đéc, Cao Lãnh và lịch trình riêng</a> · <a href=\"/vi/tin-tuc/thue-xe-di-vinh-long/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Vĩnh Long</a>"
     },
     {
       "type": "p",
