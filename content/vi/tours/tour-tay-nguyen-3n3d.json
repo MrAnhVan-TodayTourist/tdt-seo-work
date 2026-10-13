@@ -1,30 +1,30 @@
 {
   "slug": "tour-tay-nguyen-3n3d",
-  "name": "Tour Tây Nguyên 3 Ngày 3 Đêm từ Đồng Nai – Kon Tum, Măng Đen, Buôn Đôn",
+  "name": "Tour Tây Nguyên 3 Ngày 3 Đêm từ Đồng Nai – Buôn Ma Thuột, Hồ Lắk, Thác Dray Nur, Buôn Đôn",
   "region": "domestic",
   "region_name": "Tây Nguyên",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 3 đêm",
   "price": "3.290.000đ/khách",
   "image": "thác-nước-tây-nguyên-và-nhà-rông.webp",
-  "desc": "Tour Tây Nguyên 3 ngày 3 đêm từ Đồng Nai, đón tại Biên Hòa: Nhà thờ gỗ Kon Tum, Măng Đen, Biển Hồ Pleiku, Buôn Đôn. Giá 3.290.000đ.",
+  "desc": "Tour Tây Nguyên 3 ngày 3 đêm từ TP. Đồng Nai, đón tận nơi Biên Hòa: Buôn Ma Thuột, Hồ Lắk, Thác Dray Nur – Dray Sáp, Buôn Đôn. Giá 3.290.000đ. Hotline 0902 898 726.",
   "highlights": [
-    "Tham quan Nhà thờ gỗ Kon Tum hơn 100 năm tuổi",
-    "Check-in Măng Đen – \"Đà Lạt thứ hai\" của Tây Nguyên",
-    "Ngắm Biển Hồ T'Nưng Pleiku, đôi mắt Pleiku huyền thoại",
-    "Khám phá Buôn Đôn, đi thuyền độc mộc trên sông Sêrêpôk",
-    "Thưởng thức cà phê tại thủ phủ cà phê Buôn Ma Thuột",
-    "Mua đặc sản cà phê, hồ tiêu, rượu cần Đắk Lắk"
+    "Thưởng thức cà phê tại Làng cà phê Trung Nguyên, Bảo tàng Thế giới Cà phê",
+    "Viếng Chùa Sắc tứ Khải Đoan – kiến trúc gỗ kết hợp Huế và Tây Nguyên",
+    "Ngắm Hồ Lắk – hồ nước ngọt lớn nhất Tây Nguyên",
+    "Thác Dray Nur – Dray Sáp nối nhau bằng cầu treo bên sông Sêrêpôk",
+    "Khám phá Buôn Đôn, trải nghiệm thuyền độc mộc và nhà cổ Tây Nguyên",
+    "2 đêm khách sạn 3 sao tại Buôn Ma Thuột"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "p",
-      "text": "🌿 <strong>Tây Nguyên – bản hùng ca đại ngàn giữa núi rừng cao nguyên.</strong>"
+      "text": "🌿 <strong>Tây Nguyên 3 ngày 3 đêm: trọn vẹn một vòng Đắk Lắk – thủ phủ cà phê, hồ Lắk, thác Dray Nur và buôn làng bên sông Sêrêpôk.</strong>"
     },
     {
       "type": "p",
-      "text": "Ba ngày xuyên suốt Kon Tum – Măng Đen – Pleiku – Buôn Ma Thuột: chiêm ngưỡng Nhà thờ gỗ Kon Tum hơn 100 năm tuổi, tắm mình trong khí hậu se lạnh của Măng Đen, ngắm Biển Hồ T'Nưng – đôi mắt Pleiku, và khám phá Buôn Đôn huyền thoại – xứ sở voi rừng."
+      "text": "Ba ngày ở lại Đắk Lắk để đi chậm và sâu: thưởng thức cà phê ngay tại Buôn Ma Thuột, ngắm Hồ Lắk yên bình, nghe tiếng thác Dray Nur – Dray Sáp và khám phá Buôn Đôn huyền thoại bên sông Sêrêpôk. Không bị dồn lịch, đi xe đêm để tiết kiệm thời gian, có đêm nghỉ khách sạn thoải mái. Xe đón tận nơi khu vực Biên Hòa."
     },
     {
       "type": "p",
@@ -36,7 +36,7 @@
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 3 sao tại Kon Tum và Buôn Ma Thuột"
+      "text": "🏨 Lưu trú: khách sạn 3 sao tại Buôn Ma Thuột (2 đêm)"
     },
     {
       "type": "p",
@@ -60,109 +60,84 @@
     },
     {
       "type": "h3",
-      "text": "🌙 ĐÊM 01: TP. ĐỒNG NAI / TP.HCM – KON TUM"
+      "text": "🌙 ĐÊM 01: TP. ĐỒNG NAI / TP.HCM – BUÔN MA THUỘT"
     },
     {
       "type": "p",
-      "text": "🕙 <strong>19h00:</strong> Xe và hướng dẫn viên TodayTourist đón quý khách tại điểm tập kết, khởi hành đi Kon Tum. HDV giới thiệu chương trình, tổ chức trò chơi giao lưu trên xe. Quý khách nghỉ đêm trên xe."
+      "text": "🕙 <strong>19h00:</strong> Xe và hướng dẫn viên TodayTourist đón quý khách tại điểm tập kết, khởi hành đi Buôn Ma Thuột. HDV giới thiệu chương trình, tổ chức trò chơi giao lưu trên xe. Quý khách nghỉ đêm trên xe."
     },
     {
       "type": "h3",
-      "text": "🌅 NGÀY 01: KON TUM – MĂNG ĐEN"
+      "text": "☀️ NGÀY 01: BUÔN MA THUỘT – THỦ PHỦ CÀ PHÊ"
     },
     {
       "type": "p",
-      "text": "🌅 <strong>Rạng sáng:</strong> Đoàn đến Kon Tum, dùng điểm tâm sáng tại nhà hàng."
+      "text": "🌅 <strong>Rạng sáng:</strong> Đoàn đến Buôn Ma Thuột, dùng điểm tâm sáng tại nhà hàng."
     },
     {
       "type": "p",
-      "text": "🚤 <strong>Buổi sáng:</strong> Xe đưa đoàn tham quan:"
+      "text": "☕ <strong>Buổi sáng:</strong> Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Nhà thờ gỗ Kon Tum – công trình hơn 100 năm tuổi xây dựng hoàn toàn bằng gỗ cà chít theo lối kiến trúc Roman kết hợp nhà rông Ba Na, một trong những nhà thờ gỗ đẹp nhất Việt Nam"
+        "Làng cà phê Trung Nguyên – nơi tìm hiểu về cây cà phê và thưởng thức ly cà phê Buôn Ma Thuột ngay tại \"thủ phủ\"",
+        "Bảo tàng Thế giới Cà phê – bảo tàng cà phê đầu tiên của Việt Nam, kiến trúc kết hợp hiện đại với nhà sàn Tây Nguyên"
       ]
+    },
+    {
+      "type": "p",
+      "text": "💡 <em>Bạn có biết: Buôn Ma Thuột được gọi là \"thủ phủ cà phê\" của Việt Nam.</em>"
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dùng cơm trưa tại nhà hàng. Nhận phòng khách sạn, nghỉ ngơi."
+    },
+    {
+      "type": "p",
+      "text": "🏞️ <strong>Buổi chiều:</strong> Xe đưa đoàn tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Cầu treo Kon Klor – bắc qua dòng sông Đăk Bla huyền thoại chảy ngược về hướng Tây"
+        "Chùa Sắc tứ Khải Đoan – ngôi chùa lớn của Đắk Lắk, xây năm 1951, kiến trúc gỗ kết hợp phong cách Huế và Tây Nguyên"
       ]
     },
     {
       "type": "p",
-      "text": "💡 <em>Bạn có biết: Sông Đăk Bla là một trong số ít dòng sông ở Việt Nam chảy ngược về hướng Tây thay vì đổ ra biển ở phía Đông.</em>"
-    },
-    {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1790847034895-0.jpg\" alt=\"Cầu treo Kon Klor Kon Tum – tour Tây Nguyên 3N3Đ Today Tourist\"></figure>"
-    },
-    {
-      "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dùng cơm trưa tại nhà hàng địa phương. Nhận phòng khách sạn: nếu phòng đã sẵn sàng, HDV hỗ trợ nhận phòng sớm; nếu chưa đến giờ (sau 14h), quý khách gửi hành lý và nghỉ tại khu vực chung."
-    },
-    {
-      "type": "p",
-      "text": "🏖️ <strong>Buổi chiều:</strong> Xe đưa đoàn di chuyển đến Măng Đen – thị trấn cao nguyên được ví như \"Đà Lạt thứ hai\" với khí hậu se lạnh quanh năm:"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tượng Đức Mẹ Măng Đen linh thiêng · Làng văn hóa Kon Pring của người M'Nâm – tìm hiểu kiến trúc nhà Rông, nhà Sàn"
-      ]
-    },
-    {
-      "type": "list",
-      "items": [
-        "Thác Pa Sỹ cao khoảng 45m đổ trắng xóa giữa núi rừng, cùng vườn tượng gỗ dân gian độc đáo"
-      ]
-    },
-    {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1790847034896-1.jpg\" alt=\"Thác Pa Sỹ Măng Đen – tour Tây Nguyên 3N3Đ Today Tourist\"></figure>"
-    },
-    {
-      "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Xe đưa đoàn về lại Kon Tum dùng cơm tối tại nhà hàng. Tự do nghỉ ngơi. Nghỉ đêm tại Kon Tum."
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng. Tự do dạo phố, thưởng thức cà phê và ẩm thực Buôn Ma Thuột. Nghỉ đêm tại Buôn Ma Thuột."
     },
     {
       "type": "h3",
-      "text": "🚜 NGÀY 02: THỦY ĐIỆN YALY – BIỂN HỒ PLEIKU – BUÔN MA THUỘT"
+      "text": "🌊 NGÀY 02: HỒ LẮK – THÁC DRAY NUR – DRAY SÁP"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, làm thủ tục trả phòng. Xe đưa đoàn đi Pleiku (Gia Lai), trên đường ghé tham quan:"
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Xe đưa đoàn đi Hồ Lắk (khoảng 56 km, đi xe khoảng 1 giờ), tham quan:"
     },
     {
       "type": "list",
       "items": [
-        "Thủy điện Yaly – công trình thủy điện lớn bậc nhất Tây Nguyên với cảnh quan hùng vĩ"
+        "Hồ Lắk – hồ nước ngọt tự nhiên lớn nhất Tây Nguyên, nơi có buôn làng người M'Nông bên hồ, cảnh núi hồ yên bình; tùy chương trình có thể đi thuyền độc mộc, xem biểu diễn cồng chiêng"
       ]
     },
     {
       "type": "p",
-      "text": "Đến Pleiku, đoàn tham quan <strong>Biển Hồ T'Nưng</strong> – miệng núi lửa ngưng hoạt động hàng triệu năm, được ví như \"đôi mắt Pleiku\" với mặt nước trong xanh giữa rừng thông bạt ngàn"
-    },
-    {
-      "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1790847034896-2.jpg\" alt=\"Biển Hồ T'Nưng Pleiku – tour Tây Nguyên 3N3Đ Today Tourist\"></figure>"
+      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dùng cơm trưa tại nhà hàng khu vực Hồ Lắk."
     },
     {
       "type": "p",
-      "text": "Tham quan <strong>Chùa Minh Thành</strong> – kiến trúc độc đáo pha trộn phong cách Nhật Bản giữa lòng phố núi."
+      "text": "🌿 <strong>Buổi chiều:</strong> Xe đưa đoàn trở lại, tham quan cụm thác trên sông Sêrêpôk (khoảng 30 km từ Buôn Ma Thuột):"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Thác Dray Nur – Dray Sáp – hai thác nối với nhau bằng cây cầu treo; Dray Sáp rộng khoảng 100 m, Dray Nur đổ từ độ cao hơn 30 m, nước đổ trắng xóa giữa rừng"
+      ]
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Đoàn dùng cơm trưa tại nhà hàng địa phương."
-    },
-    {
-      "type": "p",
-      "text": "🏖️ <strong>Buổi chiều:</strong> Xe đưa đoàn tiếp tục di chuyển về Buôn Ma Thuột (Đắk Lắk)."
-    },
-    {
-      "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Đoàn nhận phòng khách sạn, dùng cơm tối tại nhà hàng. Tự do khám phá \"ngã Sáu Ban Mê\" về đêm, thưởng thức cà phê tại các quán nổi tiếng của thủ phủ cà phê Việt Nam."
+      "text": "🌙 <strong>Buổi tối:</strong> Xe đưa đoàn về Buôn Ma Thuột. Ăn tối tại nhà hàng. Nghỉ đêm tại Buôn Ma Thuột."
     },
     {
       "type": "h3",
@@ -236,7 +211,7 @@
     },
     {
       "type": "p",
-      "text": "✅ Vé tham quan Nhà thờ gỗ Kon Tum, Cầu treo Kon Klor, Măng Đen, Biển Hồ T'Nưng, Chùa Minh Thành, Buôn Đôn"
+      "text": "✅ Vé tham quan Làng cà phê Trung Nguyên, Bảo tàng Thế giới Cà phê, Chùa Khải Đoan, Hồ Lắk, Thác Dray Nur – Dray Sáp, Buôn Đôn"
     },
     {
       "type": "p",
