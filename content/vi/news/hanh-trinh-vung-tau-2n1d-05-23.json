@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể lớp 25VA – Trường THPT Chuyên Lương Thế Vinh (TP. Đồng Nai) trong chuyến tham quan – vui chơi – gắn kết đầy ý nghĩa tại thành phố biển Vũng Tàu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-vung-tau-2n1d-05-23-2.jpg",
-      "alt": "HÀNH TRÌNH VŨNG TÀU 2N1Đ (22–23/05/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-vung-tau-2n1d-05-23-2.jpg\" alt=\"HÀNH TRÌNH VŨNG TÀU 2N1Đ (22–23/05/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Những điểm nổi bật trong hành trình:"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-vung-tau-2n1d-05-23-3.jpg",
-      "alt": "HÀNH TRÌNH VŨNG TÀU 2N1Đ (22–23/05/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-vung-tau-2n1d-05-23-3.jpg\" alt=\"HÀNH TRÌNH VŨNG TÀU 2N1Đ (22–23/05/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -68,6 +66,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-23."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Vũng Tàu 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
