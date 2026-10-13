@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng CÔNG TY TNHH ĐIỆN TỬ REGZA VIỆT NAM trong chương trình nghỉ dưỡng, Team Building và Gala Dinner tại thành phố biển Vũng Tàu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-vung-tau-2n1d-06-21-2.jpg",
-      "alt": "HÀNH TRÌNH VŨNG TÀU 2N1Đ – 20-21/06/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-vung-tau-2n1d-06-21-2.jpg\" alt=\"HÀNH TRÌNH VŨNG TÀU 2N1Đ – 20-21/06/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Xin chân thành cảm ơn Ban Lãnh đạo và toàn thể nhân viên Công ty TNHH Điện Tử REGZA Việt Nam đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-vung-tau-2n1d-06-21-3.jpg",
-      "alt": "HÀNH TRÌNH VŨNG TÀU 2N1Đ – 20-21/06/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-vung-tau-2n1d-06-21-3.jpg\" alt=\"HÀNH TRÌNH VŨNG TÀU 2N1Đ – 20-21/06/2026\"></figure>"
     },
     {
       "type": "p",
@@ -36,6 +34,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-21."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Vũng Tàu 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
