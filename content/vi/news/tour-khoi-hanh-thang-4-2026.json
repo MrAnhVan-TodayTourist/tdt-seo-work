@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST nhận tổ chức các tour khởi hành tháng 4 dành cho nhóm từ 10 khách trở lên:"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/thang-4-khi-nang-bat-dau-ruc-ro-bien-xanh-hon-nui-rung-cung-2.jpg",
-      "alt": "Tháng 4 – khi nắng bắt đầu rực rỡ, biển xanh hơn, núi rừng cũng khoác lên mình màu xanh tươi mới. Đây là…"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/thang-4-khi-nang-bat-dau-ruc-ro-bien-xanh-hon-nui-rung-cung-2.jpg\" alt=\"Tháng 4 – khi nắng bắt đầu rực rỡ, biển xanh hơn, núi rừng cũng khoác lên mình màu xanh tươi mới. Đây là…\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Gia đình nhiều thế hệ cần chuyến nghỉ dưỡng trọn vẹn"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/thang-4-khi-nang-bat-dau-ruc-ro-bien-xanh-hon-nui-rung-cung-3.jpg",
-      "alt": "Tháng 4 – khi nắng bắt đầu rực rỡ, biển xanh hơn, núi rừng cũng khoác lên mình màu xanh tươi mới. Đây là…"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/thang-4-khi-nang-bat-dau-ruc-ro-bien-xanh-hon-nui-rung-cung-3.jpg\" alt=\"Tháng 4 – khi nắng bắt đầu rực rỡ, biển xanh hơn, núi rừng cũng khoác lên mình màu xanh tươi mới. Đây là…\"></figure>"
     },
     {
       "type": "p",
@@ -64,6 +62,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
