@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng Bưu điện Thành phố Đồng Nai (Trung tâm Vận hành) trong chương trình tham quan và vui chơi tại KDL Sơn Tiên."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-son-tien-07-26-2.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ SƠN TIÊN – 26/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-son-tien-07-26-2.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ SƠN TIÊN – 26/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Xin chân thành cảm ơn Bưu điện Thành phố Đồng Nai đã tin tưởng lựa chọn TodayTourist. Đặc biệt, cảm ơn HDV Diệu Thương đã nhiệt tình đồng hành, mang đến một chương trình an toàn, chu đáo và nhiều kỷ niệm đẹp."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-kham-pha-son-tien-07-26-3.jpg",
-      "alt": "HÀNH TRÌNH KHÁM PHÁ SƠN TIÊN – 26/07/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-kham-pha-son-tien-07-26-3.jpg\" alt=\"HÀNH TRÌNH KHÁM PHÁ SƠN TIÊN – 26/07/2026\"></figure>"
     },
     {
       "type": "p",
@@ -76,6 +74,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-26."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
