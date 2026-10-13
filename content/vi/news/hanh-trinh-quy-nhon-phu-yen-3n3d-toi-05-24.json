@@ -12,9 +12,8 @@
       "text": "TODAYTOURIST hân hạnh đồng hành cùng Chi hội Phụ nữ An Viễng – Xã Bình An – TP. Đồng Nai trong chuyến tham quan nghỉ dưỡng miền Trung đầy thú vị và đáng nhớ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24-2.jpg",
-      "alt": "HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 3N3Đ (TỐI 21–24/05/2026)"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24-2.jpg\" alt=\"HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 3N3Đ (TỐI 21–24/05/2026)\"></figure>"
     },
     {
       "type": "p",
@@ -59,6 +58,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-24."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Quy Nhơn 3 Ngày 3 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
