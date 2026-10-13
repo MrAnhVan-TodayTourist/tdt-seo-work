@@ -12,9 +12,8 @@
       "text": "TodayTourist hân hạnh đồng hành cùng các thầy cô và các em học sinh Trường Song Ngữ Lạc Hồng – khối tổng hợp các lớp 4, 5, 7, 8 và 9 trong chương trình học hè trải nghiệm tại Happy Farm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-happy-farm-06-25-2.jpg",
-      "alt": "HÀNH TRÌNH HAPPY FARM – 25/06/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-happy-farm-06-25-2.jpg\" alt=\"HÀNH TRÌNH HAPPY FARM – 25/06/2026\"></figure>"
     },
     {
       "type": "p",
@@ -25,13 +24,17 @@
       "text": "Xin chân thành cảm ơn Ban Giám hiệu, quý thầy cô cùng các bậc phụ huynh đã tin tưởng lựa chọn TodayTourist đồng hành trong chương trình lần này."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-happy-farm-06-25-3.jpg",
-      "alt": "HÀNH TRÌNH HAPPY FARM – 25/06/2026"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-happy-farm-06-25-3.jpg\" alt=\"HÀNH TRÌNH HAPPY FARM – 25/06/2026\"></figure>"
     },
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-25."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
