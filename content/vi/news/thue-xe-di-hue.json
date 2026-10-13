@@ -3,13 +3,13 @@
   "title": "Thuê xe đi Huế",
   "category": "Cẩm nang thuê xe",
   "image": "xe-todaytourist-64.jpg",
-  "summary": "Thuê xe đi Huế: chọn xe, điểm đón trả, lịch xe, báo giá theo yêu cầu. Mr Anh Văn 0902 898 726.",
+  "summary": "Thuê xe đi Huế: Đại Nội, chùa Thiên Mụ, lăng tẩm – lịch trình, gợi ý ăn uống và kết hợp La Vang.",
   "body": "",
   "published_at": "2026-10-11",
   "content": [
     {
       "type": "p",
-      "text": "<strong>Thuê xe đi Huế cần xác định điểm xuất phát và xe theo đoàn suốt tuyến hay chỉ sử dụng tại nơi đến.</strong>"
+      "text": "<strong>Huế là cố đô với nhiều di tích, thường đi cùng Quảng Trị và Đà Nẵng.</strong>"
     },
     {
       "type": "p",
@@ -17,123 +17,35 @@
     },
     {
       "type": "h2",
-      "text": "Đường bộ và xe tại điểm đến"
+      "text": "Cách đi"
     },
     {
       "type": "p",
-      "text": "Gửi ngày, số người và cách đoàn đến Huế. Chuyến đường bộ từ miền Nam cần lịch nghỉ riêng; khách đã tới nơi cần địa chỉ đón cùng các lượt tham quan. Hai phạm vi không nên được gộp bằng tên tuyến."
+      "text": "Bay tới Huế rồi thuê xe tại chỗ là tiện nhất cho đoàn từ miền Nam."
     },
     {
       "type": "h2",
-      "text": "Chốt giờ sử dụng thực tế"
+      "text": "Điểm chính"
     },
     {
       "type": "p",
-      "text": "Nơi lưu trú, điểm tham quan và các khung giờ sinh hoạt quyết định lịch xe. Nếu thuê nhiều ngày, ghi từng lượt và thời gian chờ. Xe cùng phương án phục vụ chỉ được xác nhận sau khi điều hành kiểm tra."
-    },
-    {
-      "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Quãng đường và số ngày thuê",
-        "Một chiều, khứ hồi hay nhiều ngày",
-        "Điểm đón, số điểm dừng, thời gian xe chờ",
-        "Ngày đi: ngày thường, cuối tuần, lễ, Tết",
-        "Phần lưu đêm của xe và tài xế",
-        "Phí cầu đường, bãi đỗ; thuế, hóa đơn theo thỏa thuận"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
-    },
-    {
-      "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Số người dự kiến",
-        "Ngày đi (và ngày về nếu khứ hồi)",
-        "Nơi đón và nơi đến"
-      ]
-    },
-    {
-      "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "Đại Nội, chùa Thiên Mụ, lăng Khải Định, lăng Tự Đức."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h3",
-      "text": "Thuê xe đi Huế cần gửi thông tin gì để báo giá?"
+      "type": "p",
+      "text": "<strong>Xe nào?</strong> Xe 16–29 chỗ."
     },
     {
       "type": "p",
-      "text": "Số người, ngày đi, điểm đón và địa chỉ cụ thể tại Huế (khách sạn, nhà hàng hoặc điểm hẹn). Có thêm giờ về dự kiến thì việc sắp xếp xe sẽ chính xác hơn."
-    },
-    {
-      "type": "h3",
-      "text": "Xe có đi cùng đoàn suốt chuyến tại Huế không?"
+      "text": "<strong>Kết hợp La Vang được không?</strong> Được, La Vang cách Huế khoảng 60 km."
     },
     {
       "type": "p",
-      "text": "Tùy phạm vi thuê: chỉ đưa đón hoặc phục vụ cả chuyến tham quan. Nên ghi rõ ngay từ đầu để báo giá đúng phạm vi."
-    },
-    {
-      "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
-    },
-    {
-      "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
-    },
-    {
-      "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
-    },
-    {
-      "type": "h2",
-      "text": "Xem thêm"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Thuê xe đi Quảng Bình",
-        "Thuê xe đi miền Tây nhiều ngày",
-        "Thuê xe đi miền Trung nhiều ngày",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Liên hệ tư vấn"
-    },
-    {
-      "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đi Huế theo nhu cầu của đoàn."
-    },
-    {
-      "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
-    },
-    {
-      "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
-    },
-    {
-      "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-quang-binh/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Quảng Bình</a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-trung-nhieu-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi miền Trung nhiều ngày</a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-bac-tu-dong-nai-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi miền Bắc từ Đồng Nai, TP.HCM</a>"
     },
     {
       "type": "p",
