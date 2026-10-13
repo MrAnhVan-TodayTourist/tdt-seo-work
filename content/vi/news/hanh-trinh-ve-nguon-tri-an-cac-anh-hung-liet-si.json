@@ -12,9 +12,8 @@
       "text": "TodayTourist vinh dự được đồng hành cùng ĐẢNG UỶ - HĐND - UBND - UBMTTQ VIỆT NAM XÃ HY CƯƠNG, TỈNH PHÚ THỌ trong hành trình về nguồn đầy ý nghĩa tại thành phố Nha Trang."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-2.jpg",
-      "alt": "HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-2.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ\"></figure>"
     },
     {
       "type": "p",
@@ -25,13 +24,17 @@
       "text": "Xin chân thành cảm ơn ĐẢNG UỶ - HĐND - UBND - UBMTTQ VIỆT NAM XÃ HY CƯƠNG, TỈNH PHÚ THỌ đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình đầy ý nghĩa này."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-3.jpg",
-      "alt": "HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-3.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ\"></figure>"
     },
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
