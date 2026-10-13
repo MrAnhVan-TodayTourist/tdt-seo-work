@@ -12,9 +12,8 @@
       "text": "Khép lại chuyến đi đầy kỷ niệm của gia đình 4 thành viên trong hành trình khám phá Đà Lạt và Nha Trang – nơi thiên nhiên thơ mộng hòa quyện cùng biển xanh nắng vàng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-nghi-duong-gia-dinh-da-lat-nha-trang-2.jpg",
-      "alt": "HÀNH TRÌNH NGHỈ DƯỠNG GIA ĐÌNH – ĐÀ LẠT & NHA TRANG"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-nghi-duong-gia-dinh-da-lat-nha-trang-2.jpg\" alt=\"HÀNH TRÌNH NGHỈ DƯỠNG GIA ĐÌNH – ĐÀ LẠT &amp; NHA TRANG\"></figure>"
     },
     {
       "type": "p",
@@ -25,9 +24,8 @@
       "text": "Hành trình đưa gia đình đến với nhiều điểm tham quan nổi bật:"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-nghi-duong-gia-dinh-da-lat-nha-trang-3.jpg",
-      "alt": "HÀNH TRÌNH NGHỈ DƯỠNG GIA ĐÌNH – ĐÀ LẠT & NHA TRANG"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-nghi-duong-gia-dinh-da-lat-nha-trang-3.jpg\" alt=\"HÀNH TRÌNH NGHỈ DƯỠNG GIA ĐÌNH – ĐÀ LẠT &amp; NHA TRANG\"></figure>"
     },
     {
       "type": "p",
@@ -80,6 +78,11 @@
     {
       "type": "p",
       "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+    },
+    {
+      "type": "p",
+      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-binh-ba-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Ba</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
     }
-  ]
+  ],
+  "hidden": false
 }
