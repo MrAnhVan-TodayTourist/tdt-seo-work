@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "2 ngày 1 đêm",
   "price": "3.090.000đ/khách",
-  "image": "bia-tour-nam-cat-tien-todaytourist.jpg",
+  "image": "nam-cat-tien-2-ngay-1-dem.jpg",
   "desc": "Tour Nam Cát Tiên 2 ngày 1 đêm từ TP. Đồng Nai / TP.HCM: làng bè La Ngà, vườn quốc gia Nam Cát Tiên, cây Tùng 400 năm, Gõ Bác Đồng, nghỉ resort. Giá 3.090.000đ.",
   "highlights": [
     "Xe đón tận nơi khu vực Biên Hòa, đi về gọn trong 2 ngày 1 đêm",
@@ -63,6 +63,14 @@
       ]
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983091536-0.jpg\" alt=\"Làng bè La Ngà – tour Nam Cát Tiên 2 Ngày 1 Đêm Today Tourist\"></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983091537-1.jpg\" alt=\"Suối Mơ và đá Ba Chồng – tour Nam Cát Tiên 2 Ngày 1 Đêm Today Tourist\"></figure>"
+    },
+    {
       "type": "p",
       "text": "🍽️ <strong>Buổi trưa:</strong> Dùng cơm trưa tại nhà hàng, nhận phòng resort."
     },
@@ -80,8 +88,16 @@
       ]
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983091537-2.jpg\" alt=\"Rừng nguyên sinh Nam Cát Tiên và phà sông Đồng Nai – tour Nam Cát Tiên 2 Ngày 1 Đêm Today Tourist\"></figure>"
+    },
+    {
       "type": "p",
       "text": "💡 <em>Bạn có biết: Vườn quốc gia Nam Cát Tiên là Khu dự trữ sinh quyển thế giới, nằm trên địa bàn Đồng Nai và Lâm Đồng, nổi tiếng với các cây cổ thụ và hệ động thực vật phong phú.</em>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983091538-3.jpg\" alt=\"Cây Tùng 400 năm và Gõ cổ thụ Nam Cát Tiên – tour Nam Cát Tiên 2 Ngày 1 Đêm Today Tourist\"></figure>"
     },
     {
       "type": "p",
