@@ -17,31 +17,94 @@
     },
     {
       "type": "h2",
-      "text": "Đường dài, nên đi 3 ngày 2 đêm"
+      "text": "Ninh Chữ – Vĩnh Hy cách TP.HCM bao xa, thuộc tỉnh nào?"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa tới Ninh Chữ khoảng 350–400 km. Đoàn nên chia thành 3 ngày: ngày đầu chạy đường dài và nghỉ đêm, ngày hai đi Vĩnh Hy và các điểm xung quanh, ngày ba về."
+      "text": "Vịnh Vĩnh Hy cách TP.HCM khoảng 380 km và cách Nha Trang (cũ) hơn 90 km. Sau sáp nhập hành chính 2025, khu vực Vĩnh Hải (nơi có vịnh Vĩnh Hy) nay thuộc tỉnh Khánh Hòa. Ninh Chữ nằm trên đường vào Vĩnh Hy nên thường đi chung một tuyến. Đây là hành trình dài: đoàn từ Biên Hòa, Đồng Nai, TP.HCM nên đi 3 ngày 2 đêm, hoặc 2 ngày 1 đêm nếu xuất phát rất sớm (thời gian ước tính, xe sẽ chốt theo giao thông)."
     },
     {
       "type": "h2",
-      "text": "Cung đường ven biển Vĩnh Hy"
+      "text": "Điểm tham quan chính"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Vịnh Vĩnh Hy: tắm biển, thuê tàu/cano, lặn ngắm san hô.",
+        "Hang Rái: nằm trên đèo dẫn vào vịnh, nhiều đá, bình minh đẹp; đường lên khá nguy hiểm, tránh ngày mưa.",
+        "Bãi Kinh: bãi cát trắng, nước trong.",
+        "Suối Lồ Ô, Vườn quốc gia Núi Chúa: tắm suối, cắm trại.",
+        "Bãi Chuối: yên tĩnh, thuộc khu vực quản lý của vườn quốc gia.",
+        "Vườn nho Thái An: gần vịnh, du khách tự cắt nho."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 3 ngày 2 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Đường ven biển rất đẹp nhưng có đoạn cua gấp, ven vách núi, tài xế cần quen đường. Nên đi ban ngày và dừng chụp ảnh ở những chỗ an toàn."
+      "text": "<strong>Ngày 1:</strong> Khởi hành sớm, ăn trưa dọc đường, chiều đến Ninh Chữ tắm biển, nhận phòng, ăn tối hải sản."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Sáng đi Hang Rái ngắm bình minh nếu thời tiết đẹp, vào vịnh Vĩnh Hy tắm biển, đi tàu ngắm san hô, chiều ghé vườn nho, tối sinh hoạt đoàn."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> Sáng thong thả, mua đặc sản địa phương rồi về TP.HCM/Biên Hòa."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe, mùa đẹp và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Quãng đường dài nên chọn xe đời mới, ghế thoải mái: 16 chỗ cho nhóm nhỏ, 29 hoặc 45 chỗ cho đoàn lớn; đoàn trên 20 người nên có 2 tài xế hoặc chia ca nghỉ. Mùa đẹp nhất từ tháng 5 đến tháng 8 (nhiều nắng, nước xanh). Khi đi tàu cano nhớ mặc áo phao, mang thuốc say, kem chống nắng. Đặt phòng sớm vào cuối tuần và dịp lễ."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào cho đoàn 30 người?</strong> Xe 35–45 chỗ ghế ngả giúp đỡ mệt trên chặng dài."
+      "type": "h3",
+      "text": "Từ Biên Hòa đi Vĩnh Hy mất bao lâu?"
     },
     {
       "type": "p",
-      "text": "<strong>Có ghé Phan Rang – Tháp Chàm được không?</strong> Được, thường ghé tháp Chăm, vườn nho hoặc trại cừu tùy lịch. Báo trước để xếp thời gian."
+      "text": "Vĩnh Hy cách TP.HCM khoảng 380 km; đoàn nên tính cả ngày đường và đi 3 ngày 2 đêm cho thoải mái."
+    },
+    {
+      "type": "h3",
+      "text": "Tháng nào đi Vĩnh Hy đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Từ tháng 5 đến tháng 8 là nắng đẹp, nước biển xanh; có thể đi quanh năm nhưng nên xem thời tiết."
+    },
+    {
+      "type": "h3",
+      "text": "Hang Rái có nguy hiểm không?"
+    },
+    {
+      "type": "p",
+      "text": "Đường lên khá nguy hiểm, nên đi buổi sáng, tránh ngày mưa và có HDV đi cùng."
+    },
+    {
+      "type": "h3",
+      "text": "Có đi tàu lặn san hô được không?"
+    },
+    {
+      "type": "p",
+      "text": "Có thuê tàu hoặc cano ngắm san hô; cần mặc áo phao và theo hướng dẫn nhân viên."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "TodayTourist (Biên Hòa, Đồng Nai) tư vấn xe và lịch trình cho đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM."
     },
     {
       "type": "p",
