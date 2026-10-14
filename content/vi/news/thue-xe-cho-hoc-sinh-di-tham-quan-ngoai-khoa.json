@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Đủ ghế, có người phụ trách từng xe"
+      "text": "Thuê xe cho học sinh đi tham quan, ngoại khóa"
     },
     {
       "type": "p",
-      "text": "Mỗi học sinh cần một ghế ngồi riêng, không chở quá số chỗ. Mỗi xe nên có giáo viên hoặc phụ huynh phụ trách điểm danh khi lên xuống. Chuyến có học sinh nhỏ tuổi cần dừng nghỉ nhiều hơn, tránh đi quá lâu một chặng."
+      "text": "Đoàn học sinh cần ưu tiên an toàn: xe đời mới, có dây an toàn, tài xế kinh nghiệm, chạy tốc độ ổn định. Nhà trường cần danh sách học sinh, giáo viên đi kèm và phương án liên lạc với phụ huynh."
     },
     {
       "type": "h2",
-      "text": "Lịch giờ và điểm đến"
+      "text": "Phân bổ giáo viên và xe"
     },
     {
       "type": "p",
-      "text": "Nhà trường nên gửi lịch chi tiết: giờ xuất phát, các điểm tham quan, giờ ăn trưa và giờ về. Với các điểm có sức chứa hạn chế như khu di tích, nông trại, bảo tàng, cần xác nhận lịch đón đoàn với đơn vị đó trước để xe không phải chờ lâu."
+      "text": "Mỗi xe nên có ít nhất một giáo viên phụ trách, điểm danh khi lên xuống xe, nhắc giờ tập trung. Nên có danh sách và số điện thoại giáo viên gửi cho tài xế."
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình hợp độ tuổi"
+    },
+    {
+      "type": "p",
+      "text": "Học sinh nhỏ không nên đi quá xa. Chuyến ngoại khóa trong ngày ở Đồng Nai, TP.HCM, Bà Rịa – Vũng Tàu thường phù hợp; chuyến xa cần xin ý kiến phụ huynh từ trước."
+    },
+    {
+      "type": "h2",
+      "text": "Hợp đồng và hóa đơn"
+    },
+    {
+      "type": "p",
+      "text": "Trường thường cần hợp đồng, hóa đơn và các giấy tờ phục vụ thanh toán; hãy báo trước để nhà xe chuẩn bị."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đoàn có nhiều lớp thì bố trí xe thế nào?</strong> Nên chia xe theo lớp hoặc khối để giáo viên chủ nhiệm quản lý dễ hơn. Chi tiết xem thêm bài về cách bố trí nhiều xe cho đoàn học sinh."
+      "type": "h3",
+      "text": "Xe có dây an toàn cho học sinh không?"
     },
     {
       "type": "p",
-      "text": "<strong>Có thể thuê xe đón học sinh từ nhiều trường không?</strong> Có thể, nhưng cần thống nhất điểm tập kết và giờ để các xe không chờ nhau quá lâu."
+      "text": "Nên hỏi và yêu cầu rõ khi đặt xe."
+    },
+    {
+      "type": "h3",
+      "text": "Một xe nên đi bao nhiêu học sinh?"
+    },
+    {
+      "type": "p",
+      "text": "Không vượt số ghế quy định."
+    },
+    {
+      "type": "h3",
+      "text": "Có xe cho cả khối vài trăm học sinh?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể bố trí nhiều xe, cần đặt sớm."
+    },
+    {
+      "type": "h3",
+      "text": "Phụ huynh có thể theo dõi chuyến đi?"
+    },
+    {
+      "type": "p",
+      "text": "Nên thống nhất kênh liên lạc với giáo viên trưởng đoàn."
     },
     {
       "type": "p",
