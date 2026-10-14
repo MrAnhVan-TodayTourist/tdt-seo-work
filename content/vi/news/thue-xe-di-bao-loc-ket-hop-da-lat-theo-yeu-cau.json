@@ -17,31 +17,89 @@
     },
     {
       "type": "h2",
-      "text": "Dừng chân Bảo Lộc"
+      "text": "Bảo Lộc cách Biên Hòa, TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa tới Bảo Lộc khoảng 190 km. Đây là điểm dừng ăn trưa, thăm đồi trà và nghỉ ngơi trước khi leo đèo lên Đà Lạt, giúp đoàn đỡ mệt."
+      "text": "Bảo Lộc nằm ở tây nam Lâm Đồng, cao khoảng 900 m, cách TP.HCM khoảng 195 km, cách Đà Lạt khoảng 110 km theo QL20 và cách Phan Thiết khoảng 120 km. Với đoàn từ Biên Hòa, Đồng Nai, đây là điểm dừng chân rất hợp trên đường đi Đà Lạt, hoặc một chuyến 2 ngày 1 đêm riêng (thời gian ước tính, phụ thuộc giao thông và đèo)."
     },
     {
       "type": "h2",
-      "text": "Đèo Bảo Lộc và đèo Prenn"
+      "text": "Điểm tham quan chính"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Thác Đambri: cách trung tâm khoảng 15 km, thác cao trên 60 m, có máng trượt dài 1.650 m.",
+        "Tu viện Bát Nhã: khoảng 17 km phía tây bắc, có tháp bảy tầng.",
+        "Chùa Linh Quy Pháp Ấn: cách khoảng 20 km phía nam, kiến trúc ảnh hưởng Nhật; đoạn cuối đường nhỏ phải đi bộ.",
+        "Đồi chè Tâm Châu: chụp ảnh hoàng hôn.",
+        "Đèo Lộc Thành: ngắm mây, nên đến trước 5h30 sáng, đường dễ mù và trơn khi mưa."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình gợi ý"
     },
     {
       "type": "p",
-      "text": "Hai đoạn đèo có nhiều cua, dễ say xe. Nên cho đoàn uống thuốc say xe trước, ngồi đầu xe với người say, và chọn tài xế quen đường."
+      "text": "<strong>2 ngày 1 đêm:</strong> Ngày 1 xuất phát sớm, đến Bảo Lộc ăn trưa, chiều Đambri hoặc đồi chè, tối ăn đặc sản. Ngày 2 sáng chùa Linh Quy Pháp Ấn hoặc Bát Nhã, trưa về."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ghép Đà Lạt:</strong> dừng Bảo Lộc ăn trưa, tham quan 1–2 điểm gần, rồi lên Đà Lạt trong chiều; xem thêm bài thuê xe đi Đà Lạt từ Biên Hòa."
+    },
+    {
+      "type": "h2",
+      "text": "Ăn gì, chọn xe thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "Đặc sản gợi ý: phở khô, nem nướng, bánh bèo, xấp xấp. Đoàn nhỏ đi xe 16 chỗ; đoàn trung bình 29 chỗ; đoàn đông 45 chỗ. Đèo dốc, sương mù nên chọn tài xế quen đường; mùa mưa (tháng 4–11, nặng nhất tháng 6–9) cần tính thêm thời gian."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đi Bảo Lộc – Đà Lạt mấy ngày?</strong> 3 ngày 2 đêm là hợp lý để có thời gian nghỉ và tham quan."
+      "type": "h3",
+      "text": "Bảo Lộc cách TP.HCM bao nhiêu km?"
     },
     {
       "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ ghế ngả với khoang hành lý rộng."
+      "text": "Khoảng 195 km; cách Đà Lạt khoảng 110 km."
+    },
+    {
+      "type": "h3",
+      "text": "Đi Bảo Lộc mấy ngày?"
+    },
+    {
+      "type": "p",
+      "text": "2 ngày 1 đêm là hợp lý; hoặc dừng một buổi trên đường đi Đà Lạt."
+    },
+    {
+      "type": "h3",
+      "text": "Đi tháng nào đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Mùa khô nắng mát khoảng 20°C hợp tham quan; mùa mưa kéo dài tháng 4–11."
+    },
+    {
+      "type": "h3",
+      "text": "Chùa Linh Quy Pháp Ấn có phải đi bộ không?"
+    },
+    {
+      "type": "p",
+      "text": "Có, đoạn cuối khoảng 1 km là đường nhỏ nên cần đi bộ, mang giày thoải mái."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "TodayTourist (Biên Hòa, Đồng Nai) tư vấn xe và lịch trình cho đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM."
     },
     {
       "type": "p",
