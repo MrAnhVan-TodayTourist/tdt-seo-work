@@ -17,31 +17,84 @@
     },
     {
       "type": "h2",
-      "text": "Đường đi và thời gian"
+      "text": "Nam Cát Tiên ở đâu, cách Biên Hòa, TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa khoảng 150 km. Có thể đi trong ngày nhưng nên đi 2 ngày 1 đêm để có thời gian đi rừng, xem đêm và nghỉ ngơi. Đường vào vườn có đoạn nhỏ, nên báo loại xe trước để chọn xe phù hợp."
+      "text": "Khu du lịch Nam Cát Tiên thuộc huyện Tân Phú, Đồng Nai; Vườn quốc gia Cát Tiên giáp ranh ba tỉnh Đồng Nai, Lâm Đồng và Bình Phước. Từ TP.HCM khoảng 150 km: đi QL1A, rẽ vào QL20 tại ngã ba Dầu Giây, rồi rẽ trái tại ngã ba Tà Lài thêm khoảng 24 km tới cổng. Từ Biên Hòa, Đồng Nai đây là điểm rừng gần, hợp đoàn 1 ngày hoặc 2 ngày 1 đêm."
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị đi rừng"
+      "text": "Hoạt động chính"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Bàu Sấu: xem cá sấu nước ngọt; cách trung tâm khoảng 10 km (đạp xe hoặc jeep) và đi bộ thêm khoảng 5 km.",
+        "Trạm cứu hộ Đảo Tiên: khu rừng 57 ha bảo tồn và chăm sóc các loài quý hiếm.",
+        "Ngắm thú đêm: dành cho khách nghỉ qua đêm.",
+        "Làng du lịch Tà Lài: văn hóa dân tộc thiểu số, nghề dệt thổ cẩm."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 2 ngày 1 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Mang giày thể thao, nón, thuốc chống muỗi, áo mưa nhẹ. Đoàn học sinh cần có người phụ trách theo từng nhóm và nghe hướng dẫn của kiểm lâm, hướng dẫn viên tại vườn."
+      "text": "Ngày 1 xuất phát sớm, đến cổng, đạp xe hoặc đi jeep đến Bàu Sấu, chiều Đảo Tiên, tối ngắm thú đêm hoặc sinh hoạt tập thể. Ngày 2 sáng đi bộ rừng nhẹ hoặc Tà Lài rồi về."
+    },
+    {
+      "type": "h2",
+      "text": "Mùa đẹp và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Mùa đẹp từ tháng 12 đến tháng 5 (khô ráo, ít mưa). Mặc đồ dài thoáng mát tránh côn trùng, giày bám tốt, mang đủ tiền mặt vì khu du lịch không có ATM. Xe 16 chỗ cho nhóm nhỏ, 29–45 chỗ cho đoàn đông."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào cho đoàn học sinh?</strong> Xe 29–45 chỗ, ưu tiên xe có dây an toàn và tài xế quen đường vào vườn."
+      "type": "h3",
+      "text": "Cát Tiên cách TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Có hướng dẫn viên tại vườn không?</strong> Tùy chương trình. Nên báo trước để sắp xếp hướng dẫn viên và lịch đi rừng phù hợp độ tuổi."
+      "text": "Khoảng 150 km."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa nào đi đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Từ tháng 12 đến tháng 5."
+    },
+    {
+      "type": "h3",
+      "text": "Bàu Sấu đi thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 10 km từ trung tâm bằng xe đạp hoặc jeep, sau đó đi bộ thêm khoảng 5 km."
+    },
+    {
+      "type": "h3",
+      "text": "Có ATM không?"
+    },
+    {
+      "type": "p",
+      "text": "Không, nên mang đủ tiền mặt."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
