@@ -17,31 +17,85 @@
     },
     {
       "type": "h2",
-      "text": "Hợp đồng"
+      "text": "Xuyên Việt: lộ trình và thời gian thực tế"
     },
     {
       "type": "p",
-      "text": "Ghi rõ lịch trình, tài xế, quy định chạy đêm."
+      "text": "Xuyên Việt bằng ô tô từ Biên Hòa, Đồng Nai ra Hà Nội trên 1.600 km, tối thiểu 10–14 ngày nếu muốn tham quan, không phải chỉ lái xe. Trục chính: TP.HCM – Nha Trang – Quy Nhơn – Đà Nẵng – Huế – Quảng Bình – Hà Nội. Khoảng cách tham khảo từ TP.HCM: Nha Trang khoảng 400 km, Quy Nhơn khoảng 650 km, Đà Nẵng khoảng 950–1.000 km (ước tính)."
     },
     {
       "type": "h2",
-      "text": "Tài xế"
+      "text": "Gợi ý chia chặng"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Chặng 1: Biên Hòa – Nha Trang (ngày 1).",
+        "Chặng 2: Phú Yên – Quy Nhơn.",
+        "Chặng 3: Đà Nẵng – Hội An.",
+        "Chặng 4: Huế – Quảng Bình.",
+        "Chặng 5: Hà Nội – Ninh Bình – Hạ Long."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và tài xế"
     },
     {
       "type": "p",
-      "text": "Cần 2 tài xế."
+      "text": "Chọn xe đời mới, ghế ngả êm; đoàn trên 20 người nên 2 tài xế thay ca, có kế hoạch nghỉ đêm hợp lý."
+    },
+    {
+      "type": "h2",
+      "text": "Lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Mùa mưa bão miền Trung (thường cuối năm) có thể phải đổi lịch; Tết và lễ cần đặt trước nơi nghỉ."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ."
+      "type": "h3",
+      "text": "Xuyên Việt mất mấy ngày?"
     },
     {
       "type": "p",
-      "text": "<strong>Bao nhiêu ngày?</strong> Khoảng 10–15 ngày."
+      "text": "Tối thiểu 10–14 ngày."
+    },
+    {
+      "type": "h3",
+      "text": "Nên đi hướng nào?"
+    },
+    {
+      "type": "p",
+      "text": "Nam ra Bắc hoặc ngược lại đều được; chọn theo mùa thời tiết miền Trung."
+    },
+    {
+      "type": "h3",
+      "text": "Có nên 1 tài xế?"
+    },
+    {
+      "type": "p",
+      "text": "Không, nên 2 tài xế để an toàn."
+    },
+    {
+      "type": "h3",
+      "text": "Đi bao nhiêu km?"
+    },
+    {
+      "type": "p",
+      "text": "Trên 1.600 km một chiều."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
