@@ -55,6 +55,14 @@
       "text": "🍳 <strong>Buổi sáng:</strong> Tham quan trong khu dự trữ sinh quyển rừng ngập mặn Cần Giờ:"
     },
     {
+      "type": "list",
+      "items": [
+        "Đảo Khỉ – hơn 1.000 cá thể khỉ sống tự do, quý khách có thể cho khỉ ăn (thức ăn khỉ đã bao gồm trong giá tour)",
+        "Khu bảo tồn Cá Sấu Hoa Cà – xem cá sấu nuôi và các hoạt động tại khu bảo tồn",
+        "Cano xuyên Rừng Sác – ngồi cano đi giữa rừng đước, ghé căn cứ cách mạng Rừng Sác"
+      ]
+    },
+    {
       "type": "p",
       "text": "💡 <em>Bạn có biết: Rừng ngập mặn Cần Giờ được UNESCO công nhận là Khu dự trữ sinh quyển thế giới năm 2000, được xem là “lá phổi xanh” của TP.HCM.</em>"
     },
@@ -83,12 +91,8 @@
       "text": "💡 <em>Bạn có biết: Bãi biển 30/4 ở Cần Giờ còn khá hoang sơ và vắng; nước biển ở đây có màu phù sa đặc trưng vì nằm gần cửa sông Sài Gòn – Đồng Nai.</em>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đảo Khỉ – hơn 1.000 cá thể khỉ sống tự do, quý khách có thể cho khỉ ăn (thức ăn khỉ đã bao gồm trong giá tour)",
-        "Khu bảo tồn Cá Sấu Hoa Cà – xem cá sấu nuôi và các hoạt động tại khu bảo tồn",
-        "Cano xuyên Rừng Sác – ngồi cano đi giữa rừng đước, ghé căn cứ cách mạng Rừng Sác"
-      ]
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983358460-0.jpg\" alt=\"Chợ hải sản và biển 30/4 Cần Giờ – tour Cần Giờ 1 Ngày Today Tourist\"></figure>"
     },
     {
       "type": "p",
