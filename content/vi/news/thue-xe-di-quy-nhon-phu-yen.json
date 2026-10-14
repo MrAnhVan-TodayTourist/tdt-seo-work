@@ -17,31 +17,94 @@
     },
     {
       "type": "h2",
-      "text": "Chặng dài, cần chia ngày"
+      "text": "Quy Nhơn, Phú Yên cách TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa tới Quy Nhơn hơn 650 km. Nếu đi xe nên chia thành nhiều ngày, nghỉ đêm dọc đường; nhiều đoàn chọn bay tới Quy Nhơn rồi thuê xe địa phương để tiết kiệm thời gian."
+      "text": "Phú Yên cách TP.HCM khoảng 500 km, Quy Nhơn khoảng 650 km. Hai điểm cách nhau hơn 100 km (khoảng 2 giờ đi xe). Sau sáp nhập hành chính 2025, tên Tuy Hòa không còn là đơn vị hành chính nhưng vẫn quen dùng trong đời sống. Đoàn từ Biên Hòa, Đồng Nai, TP.HCM nên đi 4 ngày 3 đêm (hoặc 4 ngày 4 đêm nếu muốn thong thả); không nên ép dưới 3 ngày (thời gian ước tính)."
     },
     {
       "type": "h2",
-      "text": "Điểm đáng ghé"
+      "text": "Điểm đến nổi bật"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Quy Nhơn: Kỳ Co (\"Maldives Việt Nam\"), Eo Gió với đường đi bộ ven sườn núi, Nhơn Hải – Hòn Khô cách Quy Nhơn khoảng 20 km.",
+        "Phú Yên: Gành Đá Đĩa với các khối đá đặc trưng, Mũi Điện với hải đăng Đại Lãnh khoảng 100 năm tuổi, vịnh Vũng Rô để thưởng thức hải sản."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 4 ngày 3 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Tháp Bánh Ít (tháp Chăm), Bảo tàng Quang Trung ở Tây Sơn, thác Hầm Hô và Gành Đá Dĩa ở Phú Yên là các điểm thường được chọn."
+      "text": "<strong>Ngày 1:</strong> Khởi hành sớm từ Biên Hòa/TP.HCM, đi đường dài, nghỉ ở Phú Yên."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Gành Đá Đĩa, Mũi Điện buổi sáng; chiều vịnh Vũng Rô, ăn hải sản."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> Di chuyển ra Quy Nhơn, chiều Eo Gió."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 4:</strong> Kỳ Co buổi sáng, trưa trở về hoặc nghỉ thêm một đêm nếu đoàn muốn thong thả."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Quãng đường dài, đi xe 29 hoặc 45 chỗ cho đoàn đông; nhóm nhỏ dùng 16 chỗ; nên có 2 tài xế hoặc chia ca. Mùa khô (tháng 3–9) thích hợp biển; mùa mưa (tháng 10–2) mát nhưng cần theo dõi bão. Kỳ Co cần ca nô, nên đi buổi sáng khi biển êm."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào cho đoàn 25 người?</strong> Xe 29 chỗ là hợp lý cho quãng đường dài."
+      "type": "h3",
+      "text": "Từ Biên Hòa đi Quy Nhơn – Phú Yên bao nhiêu km?"
     },
     {
       "type": "p",
-      "text": "<strong>Nên thuê xe hay đi tour trọn gói?</strong> Nếu chưa rõ lịch trình và điểm ăn nghỉ, tour trọn gói sẽ tiện hơn. Nếu đã có kế hoạch riêng thì thuê xe riêng sẽ chủ động hơn."
+      "text": "Phú Yên khoảng 500 km, Quy Nhơn khoảng 650 km tính từ TP.HCM."
+    },
+    {
+      "type": "h3",
+      "text": "Nên đi mấy ngày?"
+    },
+    {
+      "type": "p",
+      "text": "Nên đi 4 ngày 3 đêm để có thời gian cho cả hai điểm."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa nào đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Tháng 3 đến tháng 9 nắng đẹp; tháng 10 đến tháng 2 mưa, mát hơn và giá thường rẻ hơn."
+    },
+    {
+      "type": "h3",
+      "text": "Đi Kỳ Co thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "Đi ca nô từ bờ, nên đi buổi sáng khi biển êm."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "TodayTourist (Biên Hòa, Đồng Nai) tư vấn xe và lịch trình cho đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM."
     },
     {
       "type": "p",
