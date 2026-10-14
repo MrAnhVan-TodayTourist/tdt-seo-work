@@ -17,43 +17,62 @@
     },
     {
       "type": "h2",
-      "text": "Chặng Biên Hòa – La Gi – Hàm Thuận Nam"
+      "text": "Dinh Thầy Thím và núi Tà Cú nằm ở đâu, đi từ Biên Hòa mất bao lâu?"
     },
     {
       "type": "p",
-      "text": "Dinh Thầy Thím ở La Gi và núi Tà Cú ở Hàm Thuận Nam (Bình Thuận) là hai điểm tâm linh hay được ghép chung chuyến. Từ Biên Hòa tới La Gi khoảng 170 km, tới Tà Cú xa hơn khoảng 30–40 km. Đi một ngày rất gấp, nên đoàn thường đi 2 ngày 1 đêm."
+      "text": "Dinh Thầy Thím ở xã Tân Tiến (La Gi), cách TP.HCM khoảng 180 km; đoàn đi quốc lộ 1A tới ngã ba 46 rồi rẽ vào quốc lộ 55, thêm khoảng 18 km là tới trung tâm La Gi. Núi Tà Cú ở huyện Hàm Thuận Nam, cách TP.HCM khoảng 170 km và cách trung tâm Phan Thiết khoảng 30 km. Hai điểm lệch hướng nhau nên không nên ép vào một ngày: Tà Cú nằm trên trục Phan Thiết, còn Thầy Thím nằm trên nhánh quốc lộ 55 đi La Gi."
+    },
+    {
+      "type": "p",
+      "text": "Xuất phát từ Biên Hòa, Đồng Nai, thời gian thực tế phụ thuộc giờ khởi hành và tình trạng quốc lộ 1A/cao tốc; đoàn nên xuất phát trước 5h30 để đến nơi khi trời còn mát (thời gian ước tính, tài xế sẽ chốt theo giao thông từng ngày)."
     },
     {
       "type": "h2",
-      "text": "Dinh Thầy Thím"
+      "text": "Dinh Thầy Thím: điều HDV nên kể cho đoàn"
     },
     {
       "type": "p",
-      "text": "Dinh Thầy Thím là di tích gắn với truyền thuyết địa phương, nằm gần biển La Gi, thường được đoàn ghé buổi sáng hoặc chiều tùy lịch. Nên hỏi trước giờ mở cửa và quy định ăn mặc."
+      "text": "Đây là di tích lịch sử – văn hóa cấp quốc gia ở thôn Tam Tân. Theo truyền thuyết địa phương, đôi vợ chồng Thầy Thím được vua Tự Đức phong tước và cho dân lập dinh thờ cúng sau khi hắc hổ, bạch hổ về phủ phục ở mộ mỗi năm. Lễ hội Dinh Thầy diễn ra vào rằm tháng 9 âm lịch, còn dịp tảo mộ là ngày 5 tháng Giêng. Đoàn đi vào các dịp này sẽ rất đông, cần đặt xe và nơi ăn trước."
+    },
+    {
+      "type": "p",
+      "text": "Cách dinh khoảng 3 km về phía Tây là khu mộ Thầy Thím với rừng dầu cổ thụ và nền cát trắng; cách dinh khoảng 1–2 km là ngảnh Tam Tân, vùng biển còn hoang sơ, hợp để đoàn dừng chân tắm biển hoặc nghỉ trưa."
     },
     {
       "type": "h2",
-      "text": "Núi Tà Cú: leo bộ hay cáp treo"
+      "text": "Tà Cú: leo bộ hay đi cáp treo?"
     },
     {
       "type": "p",
-      "text": "Tà Cú có cáp treo và đường bộ lên chùa. Người lớn tuổi nên chọn cáp treo, tránh buổi trưa nắng. Nên mang nón, giày dễ đi và nước uống."
+      "text": "Đỉnh Nọc Trù cao 649 m. Leo bộ từ chân núi đến cụm chùa (khoảng 563 m) dài chừng 3 km, mất khoảng 2 giờ với độ dốc vừa phải; đoạn từ chùa lên đỉnh thêm khoảng 1 giờ, dốc và nhiều cây rậm hơn. Cáp treo đi mất khoảng 10 phút. Cụm chùa gồm Linh Sơn Trường Thọ, chùa Tổ và Long Đoàn theo kiến trúc Bắc tông."
+    },
+    {
+      "type": "p",
+      "text": "Điểm nhấn là tượng Phật nằm Linh Sơn Trường Thọ dài khoảng 49 m, cao 7 m, do nhà điêu khắc Trương Đình Ý bắt đầu năm 1963 và hoàn thành năm 1966. Đoàn có người lớn tuổi hoặc trẻ nhỏ nên đi cáp treo; đoàn thanh niên, công đoàn thích vận động có thể leo bộ buổi sáng rồi xuống bằng cáp."
     },
     {
       "type": "h2",
       "text": "Lịch trình gợi ý"
     },
     {
+      "type": "list",
+      "items": [
+        "Phương án 1 ngày – Tà Cú: Biên Hòa/TP.HCM xuất phát sớm, ăn sáng dọc đường, lên Tà Cú buổi sáng, ăn trưa ở Phan Thiết, chiều về.",
+        "Phương án 2 ngày 1 đêm – kết hợp: Ngày 1 đi Dinh Thầy Thím, ngảnh Tam Tân, ngủ La Gi hoặc Phan Thiết. Ngày 2 lên Tà Cú buổi sáng rồi về."
+      ]
+    },
+    {
       "type": "p",
-      "text": "Ngày 1: xuất phát sớm, ăn trưa, chiều ghé Dinh Thầy Thím, nghỉ đêm ở La Gi. Ngày 2: sáng đi Tà Cú, ăn trưa rồi về Biên Hòa."
+      "text": "Phương án 2 ngày thoải mái hơn nhiều, đặc biệt với đoàn hành hương vì không bị dồn giờ."
     },
     {
       "type": "h2",
-      "text": "Chọn xe"
+      "text": "Chọn xe và lưu ý cho đoàn hành hương"
     },
     {
       "type": "p",
-      "text": "Đoàn 20–30 người xe 29–35 chỗ; đoàn đông xe 45 chỗ. Chọn xe ghế ngả vì đường dài."
+      "text": "Đoàn 10–16 người đi xe 16 chỗ; 20–29 người đi xe 29 chỗ; trên 35 người đi xe 45 chỗ. Đường lên chân Tà Cú và vào Dinh Thầy Thím là đường nhỏ ở đoạn cuối, nên xe lớn cần dừng ở điểm đỗ gần nhất, tài xế báo trước cho HDV. Nên đi buổi sáng sớm, mang giày đế bám, nước uống, mũ nón; mùa mưa đường trơn và ẩm. Ăn mặc kín đáo khi vào chùa, dinh."
     },
     {
       "type": "h2",
@@ -61,35 +80,43 @@
     },
     {
       "type": "h3",
-      "text": "Có đi một ngày được không?"
+      "text": "Từ Biên Hòa đi Tà Cú hay Dinh Thầy Thím trước?"
     },
     {
       "type": "p",
-      "text": "Có nhưng rất gấp."
+      "text": "Nếu chỉ có 1 ngày, nên chọn một điểm. Nếu 2 ngày, đi Dinh Thầy Thím trước (ngày 1), ngủ La Gi/Phan Thiết rồi lên Tà Cú buổi sáng ngày 2."
     },
     {
       "type": "h3",
-      "text": "Mùa nào đi thuận lợi?"
+      "text": "Tà Cú có cáp treo không?"
     },
     {
       "type": "p",
-      "text": "Mùa khô dễ hơn."
+      "text": "Có, cáp treo đi mất khoảng 10 phút. Giá và giờ chạy có thể thay đổi nên HDV cần xác nhận lại trước ngày đi."
     },
     {
       "type": "h3",
-      "text": "Có cáp treo lên Tà Cú không?"
+      "text": "Đi lễ hội Dinh Thầy vào dịp nào?"
     },
     {
       "type": "p",
-      "text": "Có."
+      "text": "Lễ hội vào rằm tháng 9 âm lịch; ngày tảo mộ là mùng 5 tháng Giêng. Hai dịp này rất đông nên cần đặt xe, ăn ở sớm."
     },
     {
       "type": "h3",
-      "text": "Có kết hợp tắm biển La Gi không?"
+      "text": "Đoàn có người lớn tuổi đi được không?"
     },
     {
       "type": "p",
-      "text": "Có, nếu thêm thời gian."
+      "text": "Được, nên đi cáp treo ở Tà Cú và dành thời gian nghỉ nhiều hơn ở mỗi điểm."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist nhận xe từ đâu?"
+    },
+    {
+      "type": "p",
+      "text": "TodayTourist (Biên Hòa, Đồng Nai) nhận đón đoàn tại Biên Hòa, Đồng Nai và TP.HCM, tư vấn lịch trình và loại xe phù hợp."
     },
     {
       "type": "p",
