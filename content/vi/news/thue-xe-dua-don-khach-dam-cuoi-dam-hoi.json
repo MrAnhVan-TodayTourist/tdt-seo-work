@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Giờ đón bám theo giờ lễ"
+      "text": "Đưa đón khách đám cưới, đám hỏi"
     },
     {
       "type": "p",
-      "text": "Đám cưới, đám hỏi thường có giờ tập trung và giờ làm lễ cố định. Hãy gửi giờ lễ, giờ khách có mặt tại nhà hàng hoặc nhà thờ, và giờ kết thúc dự kiến để chúng tôi sắp lịch xe đón và đưa về. Nên có thêm khoảng thời gian dự phòng cho chặng đường kẹt hoặc khách đến muộn."
+      "text": "Đưa đón khách đám cưới yêu cầu đúng giờ hơn các loại chuyến khác. Xe nên có mặt sớm, sạch sẽ, lịch rõ ràng. Với đám cưới ở Biên Hòa, Đồng Nai hoặc TP.HCM, bạn nên có người phụ trách điều phối khách ở từng điểm đón."
     },
     {
       "type": "h2",
-      "text": "Đón nhiều điểm, nhiều xe"
+      "text": "Lập lịch đón và trả khách"
     },
     {
       "type": "p",
-      "text": "Khách mời thường ở nhiều nơi, nên cần danh sách điểm đón rõ ràng và người phụ trách từng xe. Nếu có hai bên gia đình ở xa nhau, nên dùng ít nhất hai xe cho từng bên để tránh đi vòng. Nếu có nhiều khách lớn tuổi, nên ưu tiên xe có bậc lên xuống thấp."
+      "text": "Gửi nhà xe lịch chi tiết: điểm đón, giờ đón, địa điểm tiệc, giờ về. Nếu có nhiều đợt đón, nên chia từng chuyến theo khu vực, có người đại diện nhà trai hoặc nhà gái đi cùng để hướng dẫn."
+    },
+    {
+      "type": "h2",
+      "text": "Số xe và loại xe"
+    },
+    {
+      "type": "p",
+      "text": "Khách từ 30–40 người chọn xe 45 chỗ; hai bên đông thì chia nhiều xe. Xe 16 chỗ phù hợp cho đón họ hàng gần, người lớn tuổi."
+    },
+    {
+      "type": "h2",
+      "text": "Trang trí và hình thức"
+    },
+    {
+      "type": "p",
+      "text": "Một số gia đình trang trí xe bằng hoa, ruy băng; hãy hỏi trước nhà xe để tránh làm hỏng sơn và để có thời gian chuẩn bị."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe có chờ khách đến hết tiệc rồi đưa về không?</strong> Có thể bố trí chờ hoặc quay lại đón theo giờ đã thống nhất, và phần chờ xe được xác nhận trong báo giá."
+      "type": "h3",
+      "text": "Xe có thể chờ suốt buổi tiệc không?"
     },
     {
       "type": "p",
-      "text": "<strong>Có thể trang trí xe không?</strong> Hãy báo trước. Chúng tôi sẽ thống nhất phạm vi trang trí để không ảnh hưởng đến xe."
+      "text": "Có thể, cần thỏa thuận giờ chờ trước."
+    },
+    {
+      "type": "h3",
+      "text": "Có thể thuê xe nhiều chuyến trong ngày?"
+    },
+    {
+      "type": "p",
+      "text": "Có, cần báo kế hoạch rõ ràng."
+    },
+    {
+      "type": "h3",
+      "text": "Có thể đón khách ở nhiều quận, huyện?"
+    },
+    {
+      "type": "p",
+      "text": "Có, ghi rõ từng điểm và giờ."
+    },
+    {
+      "type": "h3",
+      "text": "Đám cưới vào mùa cưới đặt xe trước bao lâu?"
+    },
+    {
+      "type": "p",
+      "text": "Nên đặt từ sớm, vì mùa cưới xe thường kín lịch."
     },
     {
       "type": "p",
