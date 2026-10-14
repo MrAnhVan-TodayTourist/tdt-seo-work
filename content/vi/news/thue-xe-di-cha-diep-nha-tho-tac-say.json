@@ -17,19 +17,35 @@
     },
     {
       "type": "h2",
-      "text": "Cha Diệp, nhà thờ Tắc Sậy từ Biên Hòa"
+      "text": "Thánh đường Tắc Sậy ở đâu hiện nay"
     },
     {
       "type": "p",
-      "text": "Tắc Sậy là điểm hành hương nổi tiếng ở Bạc Liêu. Từ Biên Hòa khoảng 300 km, đi khoảng 6–7 tiếng. Nhiều đoàn đi 2 ngày 1 đêm để có thời gian nghỉ."
+      "text": "Thánh đường Cha Diệp ở Tắc Sậy nằm trên Quốc lộ 1A, ấp 2, xã Phong Thạnh. Trước đây thuộc huyện Giá Rai, tỉnh Bạc Liêu; sau khi sáp nhập hành chính, khu vực này nay thuộc tỉnh Cà Mau. Du khách vẫn thường gọi là Tắc Sậy – Bạc Liêu. Từ TP.HCM xe khách mất khoảng 8–9 tiếng; xe đoàn từ Biên Hòa, Đồng Nai nên tính khoảng 7–9 tiếng cả giờ nghỉ."
     },
     {
       "type": "h2",
-      "text": "Gợi ý lịch trình"
+      "text": "Giờ lễ và ngày hành hương"
     },
     {
       "type": "p",
-      "text": "Ngày 1: xuất phát sớm, ăn trưa dọc đường, chiều tới Tắc Sậy, dự lễ buổi tối nếu có. Ngày 2: dự lễ sáng, tham quan quanh khu, ăn trưa và về."
+      "text": "Thánh đường thường mở cửa khoảng 4h–21h. Giờ lễ ngày thường khoảng 5h, 9h và 17h; Chủ nhật khoảng 5h, 7h, 9h và 17h. Ngày hành hương chính hàng năm là 12/3, giỗ Cha Diệp, có rất đông người từ nhiều nơi về dự lễ. Giờ lễ có thể thay đổi, bạn nên hỏi lại trước ngày đi."
+    },
+    {
+      "type": "p",
+      "text": "Gần khu thánh đường có nơi lưu trú cho khách hành hương, nhưng dịp lễ rất đông, hãy đặt chỗ sớm."
+    },
+    {
+      "type": "h2",
+      "text": "Gợi ý lịch trình 2 ngày 1 đêm"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 1:</strong> khởi hành 3–4 giờ sáng từ Biên Hòa, ăn sáng ở Tiền Giang hoặc Cần Thơ, chiều tới Tắc Sậy, dự lễ chiều khoảng 17h, nghỉ đêm."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> dự lễ sáng, ăn sáng, tham quan khu quanh thánh đường, ăn trưa rồi về. Đoàn muốn đi thêm có thể ghép Mẹ Nam Hải và Nhà công tử Bạc Liêu vào ngày thứ hai."
     },
     {
       "type": "h2",
@@ -37,7 +53,7 @@
     },
     {
       "type": "p",
-      "text": "Đoàn 20–30 người xe 29–35 chỗ; đoàn đông xe 45 chỗ. Nên báo giờ lễ, thứ tự điểm dừng, nơi nghỉ."
+      "text": "Đoàn 20–30 người nên đi xe 29–35 chỗ; đoàn đông xe 45 chỗ. Chặng dài nên có tài xế quen Quốc lộ 1 miền Tây và xe ghế ngả. Mang theo áo mưa nhẹ, thuốc cơ bản, nón và nước uống."
     },
     {
       "type": "h2",
@@ -45,7 +61,7 @@
     },
     {
       "type": "p",
-      "text": "Dịp lễ lớn khu vực rất đông, bãi đậu xe có thể xa. Nên đặt xe, phòng nghỉ sớm."
+      "text": "Vào ngày 12/3 và các dịp lễ, khu vực rất đông, bãi đậu xe có thể xa. Đoàn nên đến sớm, thống nhất điểm xuống xe và điểm đón về với tài xế, tránh làm trễ lịch của cả đoàn."
     },
     {
       "type": "h2",
@@ -53,15 +69,31 @@
     },
     {
       "type": "h3",
-      "text": "Biên Hòa đi Tắc Sậy bao xa?"
+      "text": "Tắc Sậy thuộc tỉnh nào hiện nay?"
     },
     {
       "type": "p",
-      "text": "Khoảng 300 km."
+      "text": "Khu vực này nay thuộc tỉnh Cà Mau sau sáp nhập; trước đây thuộc Bạc Liêu."
     },
     {
       "type": "h3",
-      "text": "Đi 1 ngày được không?"
+      "text": "Giờ lễ ở Tắc Sậy là mấy giờ?"
+    },
+    {
+      "type": "p",
+      "text": "Ngày thường khoảng 5h, 9h, 17h; Chủ nhật thêm 7h. Nên hỏi lại trước khi đi."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày hành hương chính là ngày nào?"
+    },
+    {
+      "type": "p",
+      "text": "Ngày 12/3 hằng năm, giỗ Cha Diệp."
+    },
+    {
+      "type": "h3",
+      "text": "Đi trong ngày được không?"
     },
     {
       "type": "p",
@@ -69,15 +101,7 @@
     },
     {
       "type": "h3",
-      "text": "Có kết hợp Mẹ Nam Hải?"
-    },
-    {
-      "type": "p",
-      "text": "Có, thêm 1 ngày."
-    },
-    {
-      "type": "h3",
-      "text": "Xe đón ở Đồng Nai, TP.HCM được không?"
+      "text": "Xe đón ở Đồng Nai và TP.HCM được không?"
     },
     {
       "type": "p",
