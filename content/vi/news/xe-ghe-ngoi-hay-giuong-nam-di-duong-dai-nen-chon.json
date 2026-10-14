@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Xe giường nằm: đi đêm, chặng rất dài"
+      "text": "Ghế ngồi hay giường nằm: khác nhau thế nào"
     },
     {
       "type": "p",
-      "text": "Xe giường nằm hợp chuyến đi đêm trên 8 đến 10 giờ, khi khách cần ngủ trên xe để đến nơi vào sáng sớm. Hạn chế là không gian riêng hẹp, khó với người cao lớn và không phù hợp nếu khách mang nhiều hành lý lên khoang riêng. Xe giường nằm cũng ít linh hoạt khi cần ghé nhiều điểm trong ngày."
+      "text": "Xe ghế ngồi (29, 35, 45 chỗ) phù hợp đa số chuyến du lịch, hành hương, đưa đón; thuận tiện hơn khi đoàn muốn dừng nhiều điểm. Xe giường nằm thường dùng cho các chuyến rất dài, đi đêm, giúp nghỉ ngơi tốt nhưng ít linh hoạt khi cần ghé nhiều điểm."
     },
     {
       "type": "h2",
-      "text": "Xe ghế ngồi: đi ngày, nhiều điểm dừng"
+      "text": "Chuyến dưới 6 tiếng"
     },
     {
       "type": "p",
-      "text": "Xe ghế ngồi cho phép ngắm cảnh, trò chuyện, tổ chức sinh hoạt trên xe và lên xuống thuận tiện, rất hợp tour có HDV. Với chặng ngày dưới khoảng 6 giờ, đa số đoàn chọn ghế ngồi. Nếu đi đêm bằng ghế ngồi, nên xem loại ghế ngả sâu để đỡ mỏi."
+      "text": "Với quãng đường ngắn như Vũng Tàu, Long Hải, Đà Lạt ban ngày, xe ghế ngồi là đủ. Chi phí thường thấp hơn và dễ chia điểm đón."
+    },
+    {
+      "type": "h2",
+      "text": "Chuyến đêm hoặc trên 8 tiếng"
+    },
+    {
+      "type": "p",
+      "text": "Với tuyến dài như miền Trung, miền Bắc, xuyên Việt, giường nằm giúp người đi ngủ được; nhưng cần hỏi rõ loại xe, độ cao giường, có đủ chỗ cho hành lý và có phù hợp người lớn tuổi không."
+    },
+    {
+      "type": "h2",
+      "text": "Người lớn tuổi và trẻ nhỏ"
+    },
+    {
+      "type": "p",
+      "text": "Người lớn tuổi có thể khó leo giường tầng trên; hãy hỏi trước về vị trí giường tầng dưới. Trẻ nhỏ đi ghế ngồi thường dễ chăm sóc hơn."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Người lớn tuổi nên chọn loại nào?</strong> Tùy sức khỏe. Người khó leo bậc nên chọn ghế ngồi có bậc thấp, người cần nằm nghỉ thì cân nhắc giường nằm."
+      "type": "h3",
+      "text": "Giường nằm có đắt hơn không?"
     },
     {
       "type": "p",
-      "text": "<strong>Có thể đi chiều đi bằng giường nằm, chiều về bằng ghế ngồi không?</strong> Có thể, nhưng cần ghi rõ từng chiều trong báo giá."
+      "text": "Thường có chênh lệch, hỏi trực tiếp nhà xe."
+    },
+    {
+      "type": "h3",
+      "text": "Có đi tour ghép giường nằm và ghế ngồi?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể đi chiều đi bằng giường nằm, chiều về bằng ghế ngồi, tùy xe sẵn."
+    },
+    {
+      "type": "h3",
+      "text": "Giường nằm có dừng nhiều điểm được không?"
+    },
+    {
+      "type": "p",
+      "text": "Hạn chế hơn xe ghế ngồi."
+    },
+    {
+      "type": "h3",
+      "text": "Nên chọn loại nào cho đoàn công ty?"
+    },
+    {
+      "type": "p",
+      "text": "Thường ghế ngồi cho chuyến ngắn, giường nằm cho đường dài đêm."
     },
     {
       "type": "p",
