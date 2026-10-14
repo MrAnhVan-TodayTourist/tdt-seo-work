@@ -17,11 +17,19 @@
     },
     {
       "type": "h2",
-      "text": "Gần nhưng cần giữ giờ"
+      "text": "Núi Cúi: điểm hành hương gần Biên Hòa"
     },
     {
       "type": "p",
-      "text": "Quãng đường chỉ khoảng 40–60 km từ Biên Hòa, nhưng ngày lễ lớn xe rất đông. Đoàn nên xuất phát sớm, báo trước điểm xuống và điểm đón để tài xế chủ động."
+      "text": "Đức Mẹ Núi Cúi ở huyện Trảng Bom, Đồng Nai, cách Biên Hòa khoảng 40–60 km tùy điểm đón. Đây là nơi giáo xứ, hội đoàn thường tổ chức hành hương trong ngày vì gần và thuận tiện."
+    },
+    {
+      "type": "h2",
+      "text": "Khi nào đông khách"
+    },
+    {
+      "type": "p",
+      "text": "Dịp lễ lớn, ngày cuối tuần và các kỳ hành hương thường rất đông. Đoàn nên xuất phát sớm, báo điểm xuống xe, điểm đón để tài xế chủ động."
     },
     {
       "type": "h2",
@@ -33,15 +41,47 @@
     },
     {
       "type": "h2",
+      "text": "Kết hợp điểm khác"
+    },
+    {
+      "type": "p",
+      "text": "Đoàn có thể ghép thêm một điểm tham quan gần nếu còn thời gian, nhưng nên giữ chương trình gọn."
+    },
+    {
+      "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đoàn 80 người cần mấy xe?</strong> Có thể dùng 2 xe 45 chỗ, hoặc 3 xe 29 chỗ nếu muốn thoải mái hơn."
+      "type": "h3",
+      "text": "Đoàn 80 người cần mấy xe?"
     },
     {
       "type": "p",
-      "text": "<strong>Xe có hỗ trợ rước đồ lễ và loa không?</strong> Báo trước để chuẩn bị. Xe lớn thường có hệ thống âm thanh dùng đọc kinh."
+      "text": "Khoảng 2 xe 45 chỗ hoặc 3 xe 29 chỗ."
+    },
+    {
+      "type": "h3",
+      "text": "Xe có loa đọc kinh không?"
+    },
+    {
+      "type": "p",
+      "text": "Nhiều xe có hệ thống âm thanh."
+    },
+    {
+      "type": "h3",
+      "text": "Có đón tại nhà thờ không?"
+    },
+    {
+      "type": "p",
+      "text": "Có."
+    },
+    {
+      "type": "h3",
+      "text": "Đi buổi sáng hay chiều?"
+    },
+    {
+      "type": "p",
+      "text": "Sáng để đỡ nắng và đông."
     },
     {
       "type": "p",
