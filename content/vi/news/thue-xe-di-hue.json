@@ -17,31 +17,89 @@
     },
     {
       "type": "h2",
-      "text": "Cách đi"
+      "text": "Huế cách Biên Hòa, TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "Bay tới Huế rồi thuê xe tại chỗ là tiện nhất cho đoàn từ miền Nam."
+      "text": "Huế cách TP.HCM trên 1.000 km (ước tính theo quốc lộ 1A), và cách Đà Nẵng khoảng 100 km. Vì vậy đoàn từ Biên Hòa, Đồng Nai, TP.HCM thường đến Huế qua đường hàng không, hoặc đi trong chuyến xuyên miền Trung nhiều ngày. Nếu đoàn đi chung một xe từ Đồng Nai, nên đặt ít nhất 2 ngày đường."
     },
     {
       "type": "h2",
-      "text": "Điểm chính"
+      "text": "Điểm tham quan cốt lõi của Huế"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Đại Nội Huế: quần thể cung điện, điện thờ; có thể đi xích lô và xem nhạc cung đình.",
+        "Chùa Thiên Mụ: hơn 400 năm tuổi, bên sông Hương, cách trung tâm khoảng 5 km.",
+        "Lăng Tự Đức: xây từ 1864 đến 1867, gần 50 công trình.",
+        "Lăng Minh Mạng: cách trung tâm khoảng 12 km.",
+        "Lăng Khải Định: nổi bật bởi điêu khắc tinh xảo."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 2 ngày 1 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Đại Nội, chùa Thiên Mụ, lăng Khải Định, lăng Tự Đức."
+      "text": "<strong>Ngày 1:</strong> Đại Nội sáng sớm, trưa ăn đặc sản Huế, chiều chùa Thiên Mụ rồi đi thuyền sông Hương nghe ca Huế buổi tối."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Lăng Tự Đức, Khải Định, Minh Mạng theo cụm, ăn trưa rồi tiếp tục Đà Nẵng hoặc ra sân bay."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Các lăng nằm rải rác, nên đi xe riêng theo cụm điểm để tiết kiệm thời gian. Nhóm 10–14 khách đi xe 16 chỗ; đoàn đông đi 29–45 chỗ. Mùa mưa (thường cuối năm) lịch trình nên linh hoạt. Xác nhận giờ mở cửa và giá vé từng điểm trước ngày đi vì có thể thay đổi."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 16–29 chỗ."
+      "type": "h3",
+      "text": "Huế cách TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Kết hợp La Vang được không?</strong> Được, La Vang cách Huế khoảng 60 km."
+      "text": "Trên 1.000 km theo quốc lộ 1A (ước tính); cách Đà Nẵng khoảng 100 km."
+    },
+    {
+      "type": "h3",
+      "text": "Đi Huế mấy ngày là đủ?"
+    },
+    {
+      "type": "p",
+      "text": "2 ngày 1 đêm cho các điểm chính; thêm Đà Nẵng, Hội An nên đi 4–5 ngày."
+    },
+    {
+      "type": "h3",
+      "text": "Chùa Thiên Mụ cách trung tâm bao xa?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 5 km."
+    },
+    {
+      "type": "h3",
+      "text": "Đi lăng nào nên ưu tiên?"
+    },
+    {
+      "type": "p",
+      "text": "Nếu ít thời gian: Tự Đức hoặc Khải Định; đủ thời gian đi thêm Minh Mạng."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
