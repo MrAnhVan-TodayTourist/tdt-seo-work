@@ -17,31 +17,92 @@
     },
     {
       "type": "h2",
-      "text": "Chặng đường"
+      "text": "Pleiku cách Biên Hòa, TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa tới Pleiku hơn 500 km, đi mất khoảng một ngày đường. Đoàn nên chia chặng, dừng nghỉ dọc đường và nghỉ đêm tại Buôn Ma Thuột hoặc Pleiku."
+      "text": "Pleiku (Gia Lai) cách TP.HCM khoảng 500 km (ước tính theo quốc lộ), nên đoàn từ Biên Hòa, Đồng Nai thường chia 2 ngày đường hoặc nối chuyến Tây Nguyên 3–4 ngày. Đây là chuyến đi hợp đoàn thích thiên nhiên, dã ngoại, chụp ảnh và văn hóa Tây Nguyên."
     },
     {
       "type": "h2",
-      "text": "Điểm đáng ghé"
+      "text": "Điểm đến nổi bật"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Biển Hồ (hồ T'Nưng): hồ tự nhiên, diện tích hơn 220 ha.",
+        "Núi lửa Chư Đăng Ya: cách trung tâm Pleiku khoảng 30 km, cảnh đẹp theo mùa: mùa mưa xanh ruộng khoai, mùa khô hoa dã quỳ (khoảng tháng 10 đến tháng 2).",
+        "Chùa Minh Thành: kiến trúc kết hợp Nhật Bản – Trung Hoa, Bảo tháp Xá Lợi 9 tầng.",
+        "Thác Phú Cường: cách Pleiku khoảng 45 km, cao trên 45 m; mùa mưa thác đổ mạnh."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 3 ngày 2 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Biển Hồ T'Nưng, chùa Minh Thành, bảo tàng và các buôn làng quanh Pleiku. Có thể đi thêm Kon Tum nếu có thời gian."
+      "text": "<strong>Ngày 1:</strong> Khởi hành sớm từ Biên Hòa/TP.HCM, ăn trưa dọc đường, chiều đến Pleiku nhận phòng."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Biển Hồ, chùa Minh Thành, chiều núi lửa Chư Đăng Ya, tối giao lưu cồng chiêng nếu có."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> Thác Phú Cường hoặc quay về, ghé Kon Tum/Buôn Ma Thuột nếu nối tuyến."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Đường đèo và nhiều đoạn quốc lộ dài nên chọn xe đời mới, tài xế có kinh nghiệm; đoàn trên 20 người nên 29–45 chỗ. Mùa khô thuận lợi hơn cho dã ngoại; mùa mưa cần dự phòng thời gian. Mang áo ấm cho sáng sớm."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Có kết hợp Kon Tum được không?</strong> Được, Kon Tum chỉ cách Pleiku khoảng 40–50 km, ghé nhà thờ gỗ trong ngày."
+      "type": "h3",
+      "text": "Pleiku cách TP.HCM bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe ghế ngả 29–45 chỗ."
+      "text": "Khoảng 500 km (ước tính); nên đi 3–4 ngày."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa hoa dã quỳ khi nào?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng tháng 10 đến tháng 2 năm sau ở Chư Đăng Ya."
+    },
+    {
+      "type": "h3",
+      "text": "Núi lửa Chư Đăng Ya cách Pleiku bao xa?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 30 km."
+    },
+    {
+      "type": "h3",
+      "text": "Có nối Kon Tum, Măng Đen được không?"
+    },
+    {
+      "type": "p",
+      "text": "Có, nên đi 4–5 ngày để thoải mái."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
