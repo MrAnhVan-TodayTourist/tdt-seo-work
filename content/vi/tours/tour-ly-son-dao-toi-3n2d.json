@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 2 đêm",
   "price": "3.690.000đ/khách",
-  "image": "bia-tour-ly-son-dao-toi-todaytourist.jpg",
+  "image": "ly-son-3-ngay-2-dem.jpg",
   "desc": "Bay Chu Lai, tàu cao tốc ra Lý Sơn: Cổng Tò Vò, Chùa Hang, núi Thới Lới, cánh đồng tỏi, Đảo Bé. Xe đón Biên Hòa. Giá 3.690.000đ (chưa gồm vé máy bay).",
   "highlights": [
     "Bay thẳng TP.HCM – Chu Lai, vé máy bay tính riêng theo giờ bay",
@@ -47,6 +47,10 @@
       "text": "Chiều tham quan Chùa Hang, ngôi chùa nằm trong hang đá núi lửa nhìn ra biển, và Âm Linh Tự, nơi thờ những người lính Hoàng Sa. Chiều tối ngắm hoàng hôn, ăn tối hải sản đảo."
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791982925021-0.jpg\" alt=\"Chùa Hang và Âm Linh Tự Lý Sơn – tour Lý Sơn 3 Ngày 2 Đêm Today Tourist\"></figure>"
+    },
+    {
       "type": "h3",
       "text": "🏝️ Ngày 2: Cổng Tò Vò – Thới Lới – Đảo Bé (ăn sáng, trưa, tối)"
     },
@@ -55,12 +59,28 @@
       "text": "Sáng đi Cổng Tò Vò, vòm đá tự nhiên xuyên qua vách núi, điểm chụp ảnh nổi tiếng nhất đảo. Tiếp tục đi Hang Câu, nơi vách đá và sóng biển tạo nên những khối đá rất lạ."
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791982925022-1.jpg\" alt=\"Cổng Tò Vò Lý Sơn – tour Lý Sơn 3 Ngày 2 Đêm Today Tourist\"></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791982925022-2.jpg\" alt=\"Hang Câu Lý Sơn – tour Lý Sơn 3 Ngày 2 Đêm Today Tourist\"></figure>"
+    },
+    {
       "type": "p",
       "text": "Chiều leo núi Thới Lới, miệng núi lửa cổ có cột cờ Tổ quốc, đứng trên đỉnh nhìn toàn cảnh đảo, biển và cánh đồng tỏi. Nếu đúng mùa, đoàn xuống thăm cánh đồng tỏi để chụp ảnh và nghe người dân kể về nghề trồng tỏi."
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791982925023-3.jpg\" alt=\"Núi Thới Lới và ruộng tỏi Lý Sơn – tour Lý Sơn 3 Ngày 2 Đêm Today Tourist\"></figure>"
+    },
+    {
       "type": "p",
       "text": "Nếu biển êm, đoàn đi ca nô sang Đảo Bé (khoảng 10 phút) tắm biển, ngắm san hô ven bờ. Tối tự do dạo chợ đêm, thử các món đặc sản."
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791982925024-4.jpg\" alt=\"Đảo Bé Lý Sơn – tour Lý Sơn 3 Ngày 2 Đêm Today Tourist\"></figure>"
     },
     {
       "type": "h3",
