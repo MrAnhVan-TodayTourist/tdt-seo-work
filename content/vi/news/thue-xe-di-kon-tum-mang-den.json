@@ -17,31 +17,90 @@
     },
     {
       "type": "h2",
-      "text": "Chia ngày"
+      "text": "Kon Tum – Măng Đen đi thế nào từ Biên Hòa, TP.HCM?"
     },
     {
       "type": "p",
-      "text": "Ngày một đi lên Kon Tum, ngày hai tham quan Kon Tum rồi lên Măng Đen, ngày ba về. Đoàn có thể kéo dài nếu muốn ghé Pleiku."
+      "text": "Hành trình này thường gồm Kon Tum (thành phố) và Măng Đen (cao hơn 1.200 m). Nhà thờ gỗ Kon Tum cách Măng Đen khoảng 50 km. Từ Biên Hòa, Đồng Nai, TP.HCM, đoàn chia 2 ngày đường hoặc bay đến Pleiku rồi đi xe tại chỗ (từ Pleiku đến Măng Đen khoảng 105 km)."
     },
     {
       "type": "h2",
-      "text": "Điểm đáng ghé"
+      "text": "Điểm đến"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Nhà thờ gỗ Kon Tum: nằm ở trung tâm Kon Tum, có thể đóng cửa theo giờ lễ và Chủ nhật.",
+        "Măng Đen: hồ Đăk Ke, thác Pa Sỹ, chùa Khánh Lâm, rừng thông, đồi cỏ lau."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 3 ngày 2 đêm"
     },
     {
       "type": "p",
-      "text": "Nhà thờ gỗ Kon Tum, cầu treo Kon Klor, khu Măng Đen với rừng thông và hồ nước."
+      "text": "<strong>Ngày 1:</strong> Đến Kon Tum, nhà thờ gỗ, ăn tối gỏi lá."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Lên Măng Đen, thác Pa Sỹ, chùa Khánh Lâm hoàng hôn."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> Đồi cỏ lau săn mây (tháng 6–8), rừng thông QL24, quay lại."
+    },
+    {
+      "type": "h2",
+      "text": "Lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Đường vào trang trại dễ trơn khi mưa; mặc ấm. Xe 16 chỗ hợp nhóm nhỏ, 29–45 chỗ cho đoàn đông."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ, tài xế quen đường đèo."
+      "type": "h3",
+      "text": "Nhà thờ gỗ cách Măng Đen bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Thời tiết thế nào?</strong> Măng Đen mát, buổi tối lạnh, nên mang áo ấm."
+      "text": "Khoảng 50 km."
+    },
+    {
+      "type": "h3",
+      "text": "Từ Pleiku đến Măng Đen mất bao lâu?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 2 giờ (105 km)."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa nào săn mây?"
+    },
+    {
+      "type": "p",
+      "text": "Tháng 6 đến tháng 8."
+    },
+    {
+      "type": "h3",
+      "text": "Nhà thờ gỗ có mở cửa mọi lúc không?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể đóng theo giờ lễ và Chủ nhật."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
