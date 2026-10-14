@@ -17,31 +17,95 @@
     },
     {
       "type": "h2",
-      "text": "Điểm chính"
+      "text": "Hà Tiên ở đâu, đi từ Biên Hòa bao lâu"
     },
     {
       "type": "p",
-      "text": "Thạch Động, mũi Nai, chùa Hang, chợ đêm Hà Tiên."
+      "text": "Hà Tiên cách TP.HCM khoảng 350 km, xe khách mất khoảng 7–8 tiếng; hiện địa phương này thuộc tỉnh An Giang sau sáp nhập. Từ Biên Hòa, Đồng Nai, xe đoàn nên tính khoảng 8–9 tiếng cả giờ nghỉ, vì vậy chuyến đi cần ít nhất 3 ngày 2 đêm, không nên đi 2 ngày."
     },
     {
       "type": "h2",
-      "text": "Quãng đường"
+      "text": "Các điểm đáng đi ở Hà Tiên"
     },
     {
       "type": "p",
-      "text": "Khoảng 350 km từ Biên Hòa. Nên đi ít nhất 3 ngày."
+      "text": "Mũi Nai, Thạch Động, chùa Phù Dung, Đảo Hải Tặc, Bãi Bàng, chợ đêm Hà Tiên, núi Tô Châu, núi Đá Dựng, chùa Tam Bảo. Khí hậu khá dịu quanh năm nên đi mùa nào cũng được; thời điểm có mùa ăn đặc sản như cà xỉu (khoảng tháng 6–8) hoặc tôm tít (khoảng tháng 9–10)."
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình gợi ý 3 ngày 2 đêm"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 1:</strong> khởi hành sớm, ăn trưa ở Cần Thơ hoặc Rạch Giá, chiều tới Hà Tiên, tối dạo chợ đêm."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Thạch Động, chùa Phù Dung, Mũi Nai, tắm biển, ăn hải sản."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> mua đặc sản, về Biên Hòa, TP.HCM, kết hợp dừng Châu Đốc nếu đoàn muốn ghé."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và tài xế"
+    },
+    {
+      "type": "p",
+      "text": "Đoàn 20–30 người xe 29–35 chỗ; đoàn đông xe 45 chỗ ghế ngả. Chặng dài nên có tài xế phụ, thống nhất giờ chạy tối đa mỗi ngày và nơi nghỉ của tài xế."
+    },
+    {
+      "type": "h2",
+      "text": "Chuẩn bị cho đoàn"
+    },
+    {
+      "type": "p",
+      "text": "Mang nón, kem chống nắng, kính, thuốc cá nhân, thuốc chống muỗi, và quần áo phù hợp đi đảo hoặc biển. Kiểm tra pin điện thoại, máy ảnh."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ ghế ngả."
+      "type": "h3",
+      "text": "Hà Tiên cách Biên Hòa bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Kết hợp Châu Đốc được không?</strong> Được, Châu Đốc nằm trên đường, ghé núi Sam, miếu Bà."
+      "text": "Khoảng 380 km (ước tính)."
+    },
+    {
+      "type": "h3",
+      "text": "Đi mấy ngày là hợp lý?"
+    },
+    {
+      "type": "p",
+      "text": "Ít nhất 3 ngày 2 đêm."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa nào đi Hà Tiên đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Quanh năm đi được; mỗi mùa có đặc sản riêng."
+    },
+    {
+      "type": "h3",
+      "text": "Có kết hợp Châu Đốc, Phú Quốc được không?"
+    },
+    {
+      "type": "p",
+      "text": "Châu Đốc nằm trên đường; Phú Quốc cần thêm thời gian và vé tàu."
+    },
+    {
+      "type": "h3",
+      "text": "Xe có đón ở Đồng Nai và TP.HCM không?"
+    },
+    {
+      "type": "p",
+      "text": "Có, báo trước."
     },
     {
       "type": "p",
