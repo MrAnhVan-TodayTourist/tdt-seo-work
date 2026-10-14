@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Chia xe theo lớp hoặc khối"
+      "text": "Bố trí nhiều xe cho đoàn học sinh"
     },
     {
       "type": "p",
-      "text": "Mỗi xe nên có một giáo viên hoặc phụ huynh chịu trách nhiệm, danh sách học sinh dán hoặc cầm tay, và số điện thoại của tài xế được phổ biến cho người phụ trách. Cách chia theo lớp giúp giáo viên chủ nhiệm quản lý dễ hơn, trong khi chia theo nhóm bạn thân chỉ nên áp dụng với học sinh lớn."
+      "text": "Khi đoàn lớn, từ 100 em trở lên, cần chia nhiều xe. Mỗi xe nên có giáo viên phụ trách, danh sách học sinh, số điện thoại tài xế và giáo viên. Các xe nên cùng xuất phát và cùng điểm dừng để dễ quản lý."
     },
     {
       "type": "h2",
-      "text": "Điểm danh khi lên xuống xe"
+      "text": "Phân xe theo lớp"
     },
     {
       "type": "p",
-      "text": "Quy tắc đơn giản nhưng hiệu quả: điểm danh khi lên xe, khi xuống xe tại mỗi điểm dừng và trước khi rời điểm. Các xe nên xuất phát và dừng cùng lúc ở những điểm đã hẹn, để học sinh không phải tìm xe giữa bãi đỗ đông. Mỗi xe cần có số xe dán rõ để học sinh nhận biết."
+      "text": "Xếp học sinh cùng lớp lên cùng một xe để giáo viên chủ nhiệm quản lý. Đánh số xe, dán nhãn ở cửa và phát cho mỗi lớp thẻ số xe."
+    },
+    {
+      "type": "h2",
+      "text": "Điểm dừng và giờ tập trung"
+    },
+    {
+      "type": "p",
+      "text": "Chọn điểm dừng đủ rộng để nhiều xe đậu cùng lúc. Thống nhất giờ tập trung khi xuống xe và cử người đứng đếm."
+    },
+    {
+      "type": "h2",
+      "text": "Phương án dự phòng"
+    },
+    {
+      "type": "p",
+      "text": "Có xe dự phòng hoặc phương án thay xe nếu có sự cố; có số điện thoại liên lạc khẩn cấp với nhà xe."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đoàn 120 học sinh cần bao nhiêu xe?</strong> Tùy loại xe, thường chia thành 3 xe 45 chỗ hoặc nhiều xe nhỏ hơn. Chúng tôi tư vấn theo số giáo viên đi kèm."
+      "type": "h3",
+      "text": "Có thể thuê 5–10 xe cùng lúc?"
     },
     {
       "type": "p",
-      "text": "<strong>Có cần xe dự phòng không?</strong> Nên có phương án dự phòng cho chuyến đông người, nhất là khi đi đường dài hoặc điểm đến xa."
+      "text": "Cần đặt sớm, nhất là mùa tham quan, ngoại khóa."
+    },
+    {
+      "type": "h3",
+      "text": "Mỗi xe cần bao nhiêu giáo viên?"
+    },
+    {
+      "type": "p",
+      "text": "Thường ít nhất một giáo viên mỗi xe."
+    },
+    {
+      "type": "h3",
+      "text": "Các xe có đi cùng đoàn không?"
+    },
+    {
+      "type": "p",
+      "text": "Nên cùng lộ trình và thống nhất điểm dừng."
+    },
+    {
+      "type": "h3",
+      "text": "Có tài xế đi trước dẫn đường?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể bố trí xe dẫn đầu theo yêu cầu."
     },
     {
       "type": "p",
