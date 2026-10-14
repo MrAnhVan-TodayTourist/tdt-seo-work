@@ -17,35 +17,42 @@
     },
     {
       "type": "h2",
-      "text": "Gom các điểm chùa Vũng Tàu – Long Hải theo tuyến"
+      "text": "Chùa Vũng Tàu – Long Hải: đi từ Biên Hòa, TP.HCM mất bao lâu?"
     },
     {
       "type": "p",
-      "text": "Vũng Tàu và Long Hải có khá nhiều chùa, thiền viện để đi lễ trong ngày. Từ Biên Hòa quãng đường khoảng 100 km. Bạn nên chọn 3–4 điểm gần nhau, đi theo một chiều tuyến thay vì quay đi quay lại."
+      "text": "Vũng Tàu cách TP.HCM khoảng 120 km; Long Hải nằm trên cùng trục ven biển, gần Vũng Tàu nên thường ghép chung một chuyến. Từ Biên Hòa, Đồng Nai, đoàn đi 1 ngày hoặc 2 ngày 1 đêm tùy số điểm muốn ghé (thời gian ước tính, phụ thuộc giao thông và giờ khởi hành)."
     },
     {
       "type": "h2",
-      "text": "Gợi ý thứ tự điểm"
+      "text": "Các điểm tâm linh nên chọn"
     },
     {
-      "type": "p",
-      "text": "Đoàn thường đi tuyến Long Hải trước rồi vào Vũng Tàu, hoặc ngược lại tùy điểm xuất phát. Hãy xếp các điểm cách nhau dưới 20–30 phút xe để không mất thời gian."
+      "type": "list",
+      "items": [
+        "Niết Bàn Tịnh Xá (66/7 Hạ Long, Bãi Dứa): tượng Phật nằm dài 12 m trên bệ cao 2,5 m, nhìn ra biển.",
+        "Thích Ca Phật Đài (608 Trần Phú): chùa Nam Tông, tượng Phật Thích Ca trên tòa sen ở sườn Núi Lớn, khuôn viên khoảng 5 ha.",
+        "Thiền viện Chơn Không (44 Vi Ba): xây năm 1969 ở độ cao 80 m, chánh điện hướng ra biển.",
+        "Chùa Quan Thế Âm Bồ Tát: tượng Quan Âm cao 16 m trên tòa búp sen.",
+        "Đại Tòng Lâm (QL51, Phú Mỹ): hơn 100 ha, ghi nhận nhiều kỷ lục quốc gia.",
+        "Dinh Cô (Long Hải): dinh thờ linh thiêng, chính điện có 7 bàn thờ."
+      ]
     },
     {
       "type": "h2",
-      "text": "Giờ mở cửa và nghỉ trưa"
+      "text": "Lịch trình 1 ngày gợi ý"
     },
     {
       "type": "p",
-      "text": "Một số chùa nghỉ trưa, nhiều nơi yêu cầu ăn mặc kín đáo. Nhắc đoàn trước giờ đi, và bố trí bữa trưa gần khu vực chùa."
+      "text": "Sáng xuất phát sớm từ Biên Hòa, ghé Đại Tòng Lâm trên đường (QL51), vào Vũng Tàu viếng Thích Ca Phật Đài và Niết Bàn Tịnh Xá, trưa ăn trưa, chiều Dinh Cô – Long Hải rồi về. Muốn thong thả hơn thì chia 2 ngày 1 đêm."
     },
     {
       "type": "h2",
-      "text": "Số điểm hợp lý trong ngày"
+      "text": "Chọn xe và lưu ý"
     },
     {
       "type": "p",
-      "text": "Khoảng 3–4 điểm là vừa sức. Thêm nữa người lớn tuổi sẽ mệt, đặc biệt khi leo bậc thang."
+      "text": "Đoàn 10–16 người dùng xe 16 chỗ, 20–29 người xe 29 chỗ, trên 35 người xe 45 chỗ. Các chùa thường quy định trang phục kín đáo. Dịp rằm, mùng 1 và đầu năm rất đông nên cần đi sớm; giờ mở cửa từng chùa cần xác nhận trước ngày đi."
     },
     {
       "type": "h2",
@@ -53,35 +60,43 @@
     },
     {
       "type": "h3",
-      "text": "Đi chùa Vũng Tàu mấy điểm trong một ngày?"
+      "text": "Từ Biên Hòa đi chùa Vũng Tàu mất bao lâu?"
     },
     {
       "type": "p",
-      "text": "Khoảng 3–4 điểm."
+      "text": "Vũng Tàu cách TP.HCM khoảng 120 km; đoàn nên xuất phát sớm để tránh kẹt xe."
     },
     {
       "type": "h3",
-      "text": "Có cần xe có máy lạnh tốt không?"
+      "text": "Nên chọn chùa nào nếu chỉ có 1 ngày?"
     },
     {
       "type": "p",
-      "text": "Có, vì khí hậu ven biển nóng."
+      "text": "Thích Ca Phật Đài, Niết Bàn Tịnh Xá và Dinh Cô là bộ ba dễ đi trong một ngày."
     },
     {
       "type": "h3",
-      "text": "Có hướng dẫn viên đi cùng không?"
+      "text": "Dinh Cô có phải chùa không?"
     },
     {
       "type": "p",
-      "text": "Có thể bố trí theo yêu cầu."
+      "text": "Không, đây là dinh thờ."
     },
     {
       "type": "h3",
-      "text": "Đoàn đi từ Đồng Nai, TP.HCM đón thế nào?"
+      "text": "Cần lưu ý gì khi đi chùa?"
     },
     {
       "type": "p",
-      "text": "Có thể đón nhiều điểm, báo trước."
+      "text": "Mặc kín đáo, giữ trật tự, xác nhận giờ mở cửa."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
