@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Lịch làm việc quyết định giờ xe"
+      "text": "Thuê xe cho cơ quan đi công tác, khảo sát"
     },
     {
       "type": "p",
-      "text": "Nhà máy, trụ sở hay đơn vị tiếp đón thường có giờ làm việc cố định, giờ nghỉ trưa và thủ tục vào cổng. Hãy gửi cho chúng tôi lịch dự kiến để xếp xe đến kịp và chờ hợp lý. Nếu vào khu công nghiệp có kiểm soát, nên báo trước biển số xe và danh sách người vào."
+      "text": "Cơ quan, đơn vị thường cần xe đi công tác, khảo sát, tham quan nhà máy, học tập kinh nghiệm. Các chuyến này cần xe sạch, đúng giờ, thủ tục rõ ràng và tài xế kín đáo, ít nói."
     },
     {
       "type": "h2",
-      "text": "Thủ tục và chứng từ"
+      "text": "Lộ trình và giờ giấc"
     },
     {
       "type": "p",
-      "text": "Cơ quan nhà nước và doanh nghiệp thường cần báo giá, hợp đồng và hóa đơn theo quy định. Bạn nên cho biết yêu cầu chứng từ ngay từ đầu để chúng tôi chuẩn bị đúng mẫu. Các chi phí như cầu đường, bãi đỗ, lưu đêm tài xế cần được ghi rõ."
+      "text": "Nên lập lộ trình trước, gồm điểm đi, các điểm dừng, giờ làm việc ở từng nơi và giờ về. Với chuyến ở Đồng Nai, Bình Dương, TP.HCM, thời gian di chuyển thường dưới 2 giờ; chuyến xa hơn nên tính nghỉ giữa chặng."
+    },
+    {
+      "type": "h2",
+      "text": "Hóa đơn, hợp đồng"
+    },
+    {
+      "type": "p",
+      "text": "Cơ quan thường cần hợp đồng, hóa đơn hoặc chứng từ thanh toán đúng quy định. Hãy báo trước để nhà xe chuẩn bị."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe theo đoàn"
+    },
+    {
+      "type": "p",
+      "text": "Đoàn 5–10 người đi xe 7–16 chỗ; đoàn 20–30 người xe 29 chỗ; đoàn đông xe 45 chỗ."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Có thể thuê xe nhiều ngày cho đợt khảo sát không?</strong> Có. Bạn ghi rõ số ngày, lịch từng ngày và nơi lưu đêm để báo giá đúng."
+      "type": "h3",
+      "text": "Có hợp đồng thuê xe theo tháng không?"
     },
     {
       "type": "p",
-      "text": "<strong>Đoàn đi nhiều tỉnh thì sắp xếp thế nào?</strong> Nên chốt thứ tự các điểm đến và thời gian làm việc để tài xế tính quãng đường và thời gian nghỉ."
+      "text": "Có thể thỏa thuận thuê dài hạn với một số điều kiện."
+    },
+    {
+      "type": "h3",
+      "text": "Tài xế có thể chờ khi đoàn làm việc?"
+    },
+    {
+      "type": "p",
+      "text": "Có, tính giờ chờ theo thỏa thuận."
+    },
+    {
+      "type": "h3",
+      "text": "Có hóa đơn VAT không?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể, hỏi trực tiếp khi đặt."
+    },
+    {
+      "type": "h3",
+      "text": "Có xe đi nhà máy ngoài tỉnh?"
+    },
+    {
+      "type": "p",
+      "text": "Có, báo địa điểm để nhà xe kiểm tra tuyến."
     },
     {
       "type": "p",
