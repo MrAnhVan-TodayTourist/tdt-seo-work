@@ -17,31 +17,79 @@
     },
     {
       "type": "h2",
-      "text": "Chia điểm theo mùa"
+      "text": "Đồng Tháp: Sa Đéc, Cao Lãnh và Gáo Giồng"
     },
     {
       "type": "p",
-      "text": "Mùa hoa Tết đông nhất ở Sa Đéc; mùa sen hợp đi vườn sen Tháp Mười. Chọn điểm theo thời điểm để chuyến đi đẹp nhất."
+      "text": "Đồng Tháp nổi tiếng với làng hoa Sa Đéc, rừng tràm Gáo Giồng, khu di tích Xẻo Quýt và nhiều món ăn từ sen. Từ Biên Hòa, Đồng Nai, quãng đường khoảng 180–200 km (ước tính), xe đoàn thường đi 4,5–5 tiếng; chuyến đi hợp lý là 2 ngày 1 đêm."
     },
     {
       "type": "h2",
-      "text": "Quãng đường"
+      "text": "Ngày 1: Sa Đéc"
     },
     {
       "type": "p",
-      "text": "Khoảng 200 km từ Biên Hòa."
+      "text": "<strong>Làng hoa Sa Đéc</strong> hơn 100 năm tuổi, đẹp nhất dịp năm mới. <strong>Nhà cổ Huỳnh Thủy Lê</strong> thỉnh thoảng đóng cửa trùng tu, nên liên hệ trước. <strong>Chùa Lá Sen</strong> cách Sa Đéc khoảng 15 km có ao lá sen lớn. Khách sạn ở Sa Đéc thường ở mức bình dân."
+    },
+    {
+      "type": "h2",
+      "text": "Ngày 2: Gáo Giồng, Xẻo Quýt, Cao Lãnh"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Khu du lịch Gáo Giồng</strong> cách Sa Đéc khoảng 50 km, hơn 2.000 ha rừng tràm, đi thuyền hoặc ngắm từ đài quan sát; đoạn khoảng 3 km từ cổng vào khá nhỏ, chỉ phù hợp xe nhỏ, nên đoàn đông cần hỏi trước. <strong>Khu di tích Xẻo Quýt</strong> khoảng 50 ha, có 20 ha rừng tràm nguyên sinh và đường đi bộ khoảng 1,5 km, cách Cao Lãnh khoảng 30 km."
+    },
+    {
+      "type": "h2",
+      "text": "Ẩm thực sen và đặc sản"
+    },
+    {
+      "type": "p",
+      "text": "Đồng Tháp có rất nhiều món từ sen như cơm hạt sen, gỏi ngó sen, gà hầm sen. Chợ chiếu Định Yên (Lấp Vò) họp đêm khuya đến khoảng 2–3 giờ sáng. Vườn quýt hồng Lai Vung phù hợp dịp gần Tết."
+    },
+    {
+      "type": "h2",
+      "text": "Chọn xe và lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Gáo Giồng có đoạn đường nhỏ nên đoàn đông nên chọn xe vừa, hoặc đi xe trung chuyển. Đoàn 20–30 người xe 29–35 chỗ; đoàn nhỏ xe 16 chỗ."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ."
+      "type": "h3",
+      "text": "Mùa nào đi Sa Đéc đẹp?"
     },
     {
       "type": "p",
-      "text": "<strong>Có thể đi trong ngày không?</strong> Được nhưng khá gấp, nên đi 2 ngày 1 đêm."
+      "text": "Quanh dịp Tết, làng hoa đẹp nhất."
+    },
+    {
+      "type": "h3",
+      "text": "Gáo Giồng xe lớn vào được không?"
+    },
+    {
+      "type": "p",
+      "text": "Có đoạn đường nhỏ, nên hỏi lại hoặc dùng xe trung chuyển."
+    },
+    {
+      "type": "h3",
+      "text": "Có thể đi trong ngày không?"
+    },
+    {
+      "type": "p",
+      "text": "Được nhưng rất gấp."
+    },
+    {
+      "type": "h3",
+      "text": "Có món ăn đặc trưng nào?"
+    },
+    {
+      "type": "p",
+      "text": "Các món từ sen, chuột đồng nướng, cá lóc nướng."
     },
     {
       "type": "p",
