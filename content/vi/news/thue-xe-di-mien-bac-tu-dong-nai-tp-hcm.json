@@ -17,31 +17,95 @@
     },
     {
       "type": "h2",
-      "text": "Cách đi"
+      "text": "Đi miền Bắc từ Biên Hòa, TP.HCM nên đi bằng gì?"
     },
     {
       "type": "p",
-      "text": "Bay Hà Nội rồi thuê xe."
+      "text": "Đồng Nai – Hà Nội trên 1.600 km nên đoàn gần như luôn bay ra Hà Nội rồi thuê xe tại chỗ. Tuyến thường gặp: Hà Nội – Ninh Bình – Hạ Long – Sapa. Hà Nội – Ninh Bình khoảng 2–2,5 giờ; Hà Nội – Sapa khoảng 8 giờ nếu đi tàu đêm đến Lào Cai rồi khoảng 1 giờ lên núi; Hà Nội – Hà Giang khoảng 6–7 giờ."
     },
     {
       "type": "h2",
-      "text": "Điểm chính"
+      "text": "Mùa đẹp từng điểm"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sapa: tháng 9–10 lúa vàng, tháng 3–4 ruộng xanh; tháng 12–2 sương mù dày.",
+        "Hà Giang: tháng 9–11 đường khô.",
+        "Ninh Bình: đẹp quanh năm nhưng nóng trên 35°C vào tháng 6–8."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Lịch trình 5 ngày 4 đêm gợi ý"
     },
     {
       "type": "p",
-      "text": "Hạ Long, Ninh Bình, Sapa."
+      "text": "<strong>Ngày 1:</strong> Bay Hà Nội, phố cổ, hồ Gươm, ẩm thực."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 2:</strong> Ninh Bình."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 3:</strong> Hạ Long."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày 4–5:</strong> Sapa hoặc quay lại Hà Nội và bay về. Nên đi từng cụm, không ép nhiều điểm xa nhau."
+    },
+    {
+      "type": "h2",
+      "text": "Lưu ý thực tế"
+    },
+    {
+      "type": "p",
+      "text": "Tuyến Sapa – Hà Giang đường hẹp, dễ sạt lở vào tháng 7–8. Hà Giang cần ít nhất 3 ngày. Đặt vé máy bay và xe địa phương sớm vào dịp lễ Tết. Mang áo ấm mùa đông."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 16–45 chỗ."
+      "type": "h3",
+      "text": "Miền Bắc cách Đồng Nai bao xa?"
     },
     {
       "type": "p",
-      "text": "<strong>Mùa nào đẹp?</strong> Thu và xuân."
+      "text": "Trên 1.600 km nên thường đi máy bay."
+    },
+    {
+      "type": "h3",
+      "text": "Hà Nội đi Ninh Bình mất bao lâu?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 2–2,5 giờ."
+    },
+    {
+      "type": "h3",
+      "text": "Mùa nào đi Sapa đẹp?"
+    },
+    {
+      "type": "p",
+      "text": "Tháng 9–10 và tháng 3–4."
+    },
+    {
+      "type": "h3",
+      "text": "Hà Giang đi mấy ngày?"
+    },
+    {
+      "type": "p",
+      "text": "Ít nhất 3 ngày."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn vé máy bay, xe và lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
