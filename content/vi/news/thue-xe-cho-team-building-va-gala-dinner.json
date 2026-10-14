@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Giờ xe bám theo giờ sự kiện"
+      "text": "Xe cho team building và gala dinner"
     },
     {
       "type": "p",
-      "text": "Team Building ban ngày cần xe đón sớm để kịp giờ bắt đầu trò chơi, còn Gala Dinner thường kết thúc muộn nên cần xe và tài xế sẵn sàng đến khuya. Hãy báo giờ kết thúc dự kiến và khả năng kéo dài để xếp lịch xe và tài xế phù hợp, thay vì chờ đến lúc đó mới tìm xe."
+      "text": "Đoàn team building thường đi ngày hoặc 2 ngày 1 đêm, mang nhiều đạo cụ, loa, banner, đồng phục. Xe cần khoang hành lý rộng và có chỗ để thùng đồ. Gala dinner buổi tối cần xe đón trả đúng giờ và thống nhất giờ kết thúc."
     },
     {
       "type": "h2",
-      "text": "Đồ đạc cho chương trình"
+      "text": "Lập lịch xe linh hoạt"
     },
     {
       "type": "p",
-      "text": "Đoàn tổ chức sự kiện thường mang theo đạo cụ, loa, banner, quà và đồ uống. Nên báo trước số lượng và kích thước đồ đạc để chọn xe có khoang hành lý đủ chứa hoặc bố trí thêm xe chở đồ riêng."
+      "text": "Đoàn có thể đi từ Biên Hòa, TP.HCM tới điểm tổ chức ở Vũng Tàu, Phan Thiết, Đà Lạt, Long Hải. Nên thống nhất giờ tập trung, thời gian nghỉ giữa chương trình và giờ về sau gala."
+    },
+    {
+      "type": "h2",
+      "text": "Đạo cụ, loa, trang trí"
+    },
+    {
+      "type": "p",
+      "text": "Báo trước nhà xe nếu mang nhiều đạo cụ, bóng, banner. Nên đóng gói theo thùng và dán nhãn, xếp riêng ở khoang để dễ lấy khi tới nơi."
+    },
+    {
+      "type": "h2",
+      "text": "Tài xế phụ trách đoàn"
+    },
+    {
+      "type": "p",
+      "text": "Tài xế nên được thông báo lịch chương trình, giờ ăn, giờ gala, và thống nhất điểm đậu xe để chờ đoàn."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe có đón khách từ khách sạn sau tiệc không?</strong> Có thể sắp xếp theo lịch đã thống nhất. Bạn gửi giờ kết thúc dự kiến và các điểm trả để chúng tôi xác nhận."
+      "type": "h3",
+      "text": "Xe có hỗ trợ chở đạo cụ không?"
     },
     {
       "type": "p",
-      "text": "<strong>Nên đặt xe trước bao lâu cho sự kiện cuối tuần?</strong> Nên đặt sớm, vì cuối tuần và dịp lễ là lúc nhiều đoàn cùng cần xe."
+      "text": "Có, miễn đủ khoang; nên báo trước."
+    },
+    {
+      "type": "h3",
+      "text": "Gala kết thúc muộn thì xe có chờ không?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể, cần thỏa thuận từ trước."
+    },
+    {
+      "type": "h3",
+      "text": "Có xe có TV, micro để chơi trò chơi?"
+    },
+    {
+      "type": "p",
+      "text": "Có, hỏi rõ khi đặt."
+    },
+    {
+      "type": "h3",
+      "text": "Đoàn 100 người cần mấy xe?"
+    },
+    {
+      "type": "p",
+      "text": "Khoảng 2–3 xe 45 chỗ tùy số người thực tế."
     },
     {
       "type": "p",
