@@ -6,7 +6,7 @@
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "1 ngày",
   "price": "890.000đ/khách",
-  "image": "bia-tour-nui-ba-den-tay-ninh-todaytourist.jpg",
+  "image": "nui-ba-den-tay-ninh-1-ngay.jpg",
   "desc": "Tour Núi Bà Đen – Tây Ninh 1 ngày từ Đồng Nai / TP.HCM: Tòa Thánh Cao Đài, Chùa Gò Kén, Linh Sơn Tiên Thạch, đặc sản Trảng Bàng. Giá 890.000đ.",
   "highlights": [
     "Đi về trong ngày, xe đón tận nơi khu vực Biên Hòa",
@@ -62,8 +62,16 @@
       ]
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983246674-0.jpg\" alt=\"Chùa Linh Sơn Tiên Thạch và Tây Bổ Đà Sơn – tour Núi Bà Đen Tây Ninh 1 Ngày Today Tourist\"></figure>"
+    },
+    {
       "type": "p",
       "text": "💡 <em>Bạn có biết: Núi Bà Đen cao 986m, là ngọn núi cao nhất Nam Bộ, nằm giữa vùng đồng bằng nên từ xa đã nhìn thấy.</em>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983246675-1.jpg\" alt=\"Núi Bà Đen Tây Ninh – tour Núi Bà Đen Tây Ninh 1 Ngày Today Tourist\"></figure>"
     },
     {
       "type": "p",
@@ -79,6 +87,14 @@
         "Tòa Thánh Cao Đài Tây Ninh – công trình kiến trúc độc đáo hòa quyện nhiều phong cách, quý khách có thể xem nghi lễ nếu kịp giờ lễ",
         "Chùa Gò Kén – ngôi chùa cổ có tượng Quan Thế Âm lớn"
       ]
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983246676-2.jpg\" alt=\"Tòa Thánh Cao Đài Tây Ninh – tour Núi Bà Đen Tây Ninh 1 Ngày Today Tourist\"></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1791983246676-3.jpg\" alt=\"Chùa Gò Kén Tây Ninh – tour Núi Bà Đen Tây Ninh 1 Ngày Today Tourist\"></figure>"
     },
     {
       "type": "p",
