@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Gửi mã chuyến bay, không chỉ giờ bay"
+      "text": "Đưa đón đoàn tại sân bay Tân Sơn Nhất"
     },
     {
       "type": "p",
-      "text": "Hãy cung cấp số hiệu chuyến bay và giờ dự kiến hạ cánh để chúng tôi theo dõi tình trạng bay. Nếu chuyến bay trễ, xe được sắp xếp đón theo giờ mới, tránh đón sớm rồi phải chờ lâu. Nên báo thêm thời gian lấy hành lý thông thường của đoàn."
+      "text": "Đưa đón sân bay cần chú ý giờ bay, bãi đậu và quy định đón trả khách. Hãy báo nhà xe số hiệu chuyến bay, giờ hạ cánh, số người, hành lý để chọn xe phù hợp và bố trí tài xế chờ."
     },
     {
       "type": "h2",
-      "text": "Điểm đón và hành lý"
+      "text": "Từ sân bay về Biên Hòa, Đồng Nai"
     },
     {
       "type": "p",
-      "text": "Khu vực đón khách ở sân bay có quy định đỗ xe riêng và thời gian dừng giới hạn. Thông báo cho đoàn biết vị trí gặp tài xế, và gửi danh sách tên để người đón cầm bảng. Đoàn có nhiều hành lý hay thiết bị cồng kềnh cần báo trước để chọn xe có khoang hành lý lớn."
+      "text": "Quãng đường khoảng 30–40 km tùy điểm tới, thường 1–1,5 tiếng, có thể lâu hơn giờ cao điểm. Nên tính thêm thời gian chờ hành lý."
+    },
+    {
+      "type": "h2",
+      "text": "Đoàn đông, nhiều xe"
+    },
+    {
+      "type": "p",
+      "text": "Đoàn 40 người trở lên thường cần 1–2 xe lớn; đặt trước để tài xế tập kết tại bãi đúng giờ. Nên có người phụ trách điểm danh và lấy hành lý."
+    },
+    {
+      "type": "h2",
+      "text": "Đưa đoàn ra sân bay"
+    },
+    {
+      "type": "p",
+      "text": "Chuyến ra sân bay nên đi sớm hơn dự kiến ít nhất 30 phút do kẹt xe. Báo giờ bay sớm và điểm đón rõ ràng."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đón đoàn nước ngoài có được không?</strong> Được. Bạn cung cấp thông tin chuyến bay và điểm đến, chúng tôi sắp xếp xe đón và đưa về khách sạn."
+      "type": "h3",
+      "text": "Tài xế có chờ khi bay trễ không?"
     },
     {
       "type": "p",
-      "text": "<strong>Đón khuya sau 23 giờ có khác gì không?</strong> Chuyến đón khuya được thống nhất trước về giờ và tài xế, và có thể được ghi riêng trong báo giá."
+      "text": "Có thể, nên thỏa thuận cách tính giờ chờ."
+    },
+    {
+      "type": "h3",
+      "text": "Đón khách quốc tế được không?"
+    },
+    {
+      "type": "p",
+      "text": "Có, báo giờ bay và số người."
+    },
+    {
+      "type": "h3",
+      "text": "Có xe 16 chỗ đón gia đình?"
+    },
+    {
+      "type": "p",
+      "text": "Có."
+    },
+    {
+      "type": "h3",
+      "text": "Có đưa đoàn tới sân bay lúc nửa đêm?"
+    },
+    {
+      "type": "p",
+      "text": "Có thể, báo trước để sắp xếp tài xế."
     },
     {
       "type": "p",
