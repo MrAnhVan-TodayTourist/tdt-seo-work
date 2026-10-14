@@ -17,31 +17,86 @@
     },
     {
       "type": "h2",
-      "text": "Hợp đồng"
+      "text": "Hợp đồng thuê xe doanh nghiệp: những điều khoản nên thống nhất"
     },
     {
       "type": "p",
-      "text": "Ghi rõ lộ trình, giờ đón, số người."
+      "text": "Doanh nghiệp tại Biên Hòa, Đồng Nai và TP.HCM thuê xe định kỳ (đưa đón nhân viên, đi công tác, du lịch công ty) thường cần một hợp đồng rõ ràng. Nên thống nhất: lộ trình, số km/số giờ, loại xe, thời gian đón – trả, phương thức thanh toán, trách nhiệm khi phát sinh."
     },
     {
       "type": "h2",
-      "text": "Hóa đơn"
+      "text": "Các nội dung cần có"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Thông tin hai bên và người đại diện.",
+        "Loại xe, số chỗ, đời xe.",
+        "Lịch trình và thời gian.",
+        "Điều khoản thanh toán, đặt cọc, hủy chuyến.",
+        "Điều khoản bảo hiểm và xử lý sự cố.",
+        "Hóa đơn chứng từ."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Quy trình làm việc"
     },
     {
       "type": "p",
-      "text": "Xuất hóa đơn theo hợp đồng."
+      "text": "Gửi yêu cầu (số người, lịch trình) – nhận báo giá – chốt xe – ký hợp đồng – xác nhận lại trước ngày đi – nghiệm thu và thanh toán."
+    },
+    {
+      "type": "h2",
+      "text": "Lưu ý"
+    },
+    {
+      "type": "p",
+      "text": "Với hợp đồng dài hạn nên có biên bản bàn giao và đầu mối liên hệ 24/7."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Xe nào?</strong> Xe 29–45 chỗ."
+      "type": "h3",
+      "text": "Cần chuẩn bị gì để ký hợp đồng?"
     },
     {
       "type": "p",
-      "text": "<strong>Thuê dài hạn được không?</strong> Có, theo hợp đồng."
+      "text": "Thông tin pháp nhân và lịch trình dự kiến."
+    },
+    {
+      "type": "h3",
+      "text": "Có xuất hóa đơn không?"
+    },
+    {
+      "type": "p",
+      "text": "Cần thống nhất ngay từ đầu."
+    },
+    {
+      "type": "h3",
+      "text": "Hủy chuyến xử lý thế nào?"
+    },
+    {
+      "type": "p",
+      "text": "Theo điều khoản hủy trong hợp đồng."
+    },
+    {
+      "type": "h3",
+      "text": "Có thuê dài hạn được không?"
+    },
+    {
+      "type": "p",
+      "text": "Có, cần ghi rõ thời hạn và đơn giá."
+    },
+    {
+      "type": "h3",
+      "text": "TodayTourist hỗ trợ gì?"
+    },
+    {
+      "type": "p",
+      "text": "Tư vấn xe và hợp đồng cho doanh nghiệp tại Biên Hòa, Đồng Nai, TP.HCM."
     },
     {
       "type": "p",
