@@ -17,31 +17,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn xe theo số người và hành lý"
+      "text": "Gia đình và nhóm bạn: chọn xe thế nào"
     },
     {
       "type": "p",
-      "text": "Nhóm 6 đến 12 người thường hợp xe 16 chỗ vì đủ chỗ cho hành lý và dễ vào điểm đón tận nhà. Nhóm đông hơn, hoặc nhiều vali, nên chọn xe 29 chỗ. Báo cho chúng tôi số người lớn, số trẻ em và số hành lý để tư vấn đúng xe."
+      "text": "Gia đình hoặc nhóm bạn thường từ 7–15 người, có trẻ nhỏ và người lớn tuổi. Xe 16 chỗ thường đủ cho nhóm đến khoảng 12 người; nhóm đông hơn nên cân nhắc xe 29 chỗ để có thêm chỗ để đồ và nghỉ ngơi."
     },
     {
       "type": "h2",
-      "text": "Linh hoạt điểm dừng"
+      "text": "Thời gian xuất phát và nghỉ chân"
     },
     {
       "type": "p",
-      "text": "Đi cùng gia đình thường cần dừng nghỉ nhiều hơn, cho trẻ đi vệ sinh hoặc chụp ảnh. Hãy cho biết các điểm muốn ghé để xếp thời gian cho thoải mái, thay vì chạy gấp đến điểm cuối. Nếu có người say xe, nên báo để chọn chỗ ngồi và giờ đi phù hợp."
+      "text": "Nhóm có trẻ nhỏ nên xuất phát sau khi các bé ăn sáng, dừng nghỉ khoảng 1,5–2 tiếng một lần, mang theo nước, khăn, thuốc cơ bản. Nhóm có người lớn tuổi nên tránh đi quá sớm hoặc quá khuya."
+    },
+    {
+      "type": "h2",
+      "text": "Điểm đến hay chọn từ Biên Hòa, TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "Các điểm gần như Vũng Tàu, Long Hải, Hồ Tràm, Mũi Né phù hợp đi 1–2 ngày. Điểm xa như Đà Lạt, Nha Trang, miền Tây nên đi 3 ngày trở lên."
+    },
+    {
+      "type": "h2",
+      "text": "Chia chi phí và hợp đồng đơn giản"
+    },
+    {
+      "type": "p",
+      "text": "Nhóm bạn nên cử một người đại diện thương lượng với nhà xe, ghi lại các thỏa thuận về giờ, điểm đón, phí cầu đường, bến bãi để tránh hiểu nhầm khi chia tiền."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "p",
-      "text": "<strong>Đi chơi gia đình có thể thuê xe theo ngày không?</strong> Được. Bạn ghi rõ số ngày, điểm đón trả và các điểm đến để báo giá theo ngày thuê."
+      "type": "h3",
+      "text": "Có thể đón từng nhà không?"
     },
     {
       "type": "p",
-      "text": "<strong>Có ghế trẻ em không?</strong> Hãy báo trước nếu có em bé nhỏ để chúng tôi tư vấn phương án an toàn cho trẻ nhỏ."
+      "text": "Có thể đón ở nhiều điểm gần nhau, nên báo trước từng địa chỉ."
+    },
+    {
+      "type": "h3",
+      "text": "Xe có ghế cho trẻ em không?"
+    },
+    {
+      "type": "p",
+      "text": "Thường không có ghế trẻ em chuyên dụng; nên mang theo nếu cần và hỏi nhà xe."
+    },
+    {
+      "type": "h3",
+      "text": "Đi trong ngày hay ở lại một đêm?"
+    },
+    {
+      "type": "p",
+      "text": "Điểm gần dưới 3 tiếng đi trong ngày được; xa hơn nên ở lại."
+    },
+    {
+      "type": "h3",
+      "text": "Có xe nhỏ 7 chỗ không?"
+    },
+    {
+      "type": "p",
+      "text": "Nên hỏi trực tiếp, phụ thuộc vào nhà xe còn xe hay không."
     },
     {
       "type": "p",
