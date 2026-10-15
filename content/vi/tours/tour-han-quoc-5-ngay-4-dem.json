@@ -19,132 +19,356 @@
   "itinerary": [],
   "content": [
     {
-      "type": "h2",
-      "text": "Seoul mùa đông: một hành trình để đổi nhịp kỳ nghỉ"
+      "type": "p",
+      "text": "<strong>❄️ Seoul – Nami mùa đông: hẹn nhau giữa hàng cây, cung điện và những trải nghiệm trên tuyết.</strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn dành kỳ nghỉ đầu năm cho thời tiết lạnh và những trải nghiệm khác với ngày thường, quý khách có thể cân nhắc tuyến Seoul – Nami – Gangwon-do. TodayTourist giới thiệu chương trình theo từng ngày để gia đình dễ cân đối thời gian tham quan, mua sắm và nghỉ ngơi trước khi quyết định đăng ký."
+      "text": "Một buổi dạo trên đảo Nami, những góc phố Seoul sáng đèn, thử mặc Hanbok rồi dành thời gian vui chơi ở Gangwon-do – chuyến đi mang nhiều trải nghiệm cho gia đình và nhóm bạn thích thời tiết lạnh. Hành trình kết hợp văn hóa, mua sắm và hoạt động mùa đông, có những khoảng tự do để quý khách khám phá theo sở thích."
     },
     {
       "type": "p",
-      "text": "<strong>Thời gian:</strong> 5 ngày 4 đêm, có đêm bay · <strong>Khởi hành:</strong> Tân Sơn Nhất, TP.HCM · <strong>Hàng không:</strong> Vietnam Airlines · <strong>Khách sạn:</strong> 4 sao địa phương, 2 người/phòng."
+      "text": "📅 <strong>Thời gian:</strong> 5 ngày 4 đêm, gồm đêm nghỉ trên máy bay"
     },
     {
-      "type": "h2",
-      "text": "Lịch đi và giá đầu năm 2027"
+      "type": "p",
+      "text": "✈️ <strong>Phương tiện:</strong> Vietnam Airlines từ TP.HCM + xe du lịch theo hành trình"
+    },
+    {
+      "type": "p",
+      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 4 sao địa phương tại Seoul hoặc khu vực bố trí theo đoàn, 2 người/phòng"
+    },
+    {
+      "type": "p",
+      "text": "📍 <strong>Khởi hành:</strong> sân bay Tân Sơn Nhất, TP.HCM – nhận khách ghép đoàn theo lịch; tư vấn đoàn riêng từ 20 khách"
+    },
+    {
+      "type": "p",
+      "text": "📞 <strong>Tư vấn:</strong> Mr. Anh Văn (Phòng Kinh Doanh) – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a>"
+    },
+    {
+      "type": "h3",
+      "text": "🚐 PHƯƠNG ÁN ĐƯA ĐÓN KHÁCH LINH HOẠT – TIỆN LỢI"
+    },
+    {
+      "type": "p",
+      "text": "Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn để gặp hướng dẫn viên của đoàn và làm thủ tục hàng không. TodayTourist tư vấn lịch tập trung, giấy tờ và phương án di chuyển phù hợp cho khách tại Biên Hòa, Đồng Nai."
+    },
+    {
+      "type": "p",
+      "text": "📌 Khách cần xe từ Biên Hòa ra sân bay và đón về vui lòng báo khi đăng ký. Dịch vụ này được xác nhận, báo giá riêng; không mặc định nằm trong giá tour quốc tế."
+    },
+    {
+      "type": "h3",
+      "text": "✈️ NGÀY 01: TP.HCM – SEOUL"
+    },
+    {
+      "type": "p",
+      "text": "🌙 <strong>Buổi tối:</strong> Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn. Hướng dẫn viên của đoàn hỗ trợ thủ tục bay đi Incheon, Hàn Quốc."
+    },
+    {
+      "type": "p",
+      "text": "🛏️ <strong>Nghỉ đêm:</strong> Nghỉ trên máy bay. Do chuyến bay đêm, giờ tập trung có thể vào đêm trước ngày ghi trên lịch; thực hiện theo xác nhận vé và hướng dẫn trước chuyến đi."
+    },
+    {
+      "type": "h3",
+      "text": "🌲 NGÀY 02: ĐẢO NAMI – MYEONGDONG"
+    },
+    {
+      "type": "p",
+      "text": "🍳 <strong>Buổi sáng:</strong> Đến sân bay Incheon, làm thủ tục nhập cảnh, dùng bữa sáng theo sắp xếp của đoàn. Xe đưa quý khách đến <strong>đảo Nami</strong>, dạo dưới những hàng cây, ngắm cảnh và chụp ảnh cùng gia đình."
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương."
+    },
+    {
+      "type": "p",
+      "text": "🛍️ <strong>Buổi chiều:</strong> Ghé cửa hàng miễn thuế; tiếp tục đến <strong>phố Myeongdong</strong>. Quý khách có thời gian dạo phố, chọn quà hoặc thưởng thức món ăn đường phố theo nhu cầu cá nhân."
+    },
+    {
+      "type": "p",
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối theo chương trình, về khách sạn nhận phòng và nghỉ ngơi."
+    },
+    {
+      "type": "p",
+      "text": "💡 <strong>Bạn có biết:</strong> Nami gắn với bộ phim “Bản tình ca mùa đông”; những lối đi dưới hàng cây là điểm được nhiều khách tìm đến để chụp ảnh. <a href=\"https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=215120\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu đảo Nami</a>."
     },
     {
       "type": "html",
-      "html": "<table><thead><tr><th><div>Ngày đi – ngày về</div></th><th><div>Giá người lớn</div></th></tr></thead><tbody><tr><td><div>01/01 – 05/01/2027</div></td><td><div><strong>18.990.000đ/khách</strong></div></td></tr></tbody></table>"
-    },
-    {
-      "type": "p",
-      "text": "Giá tham khảo ghép đoàn, đối chiếu ngày 15/10/2026; chỗ và giá được kiểm tra lại khi đăng ký. Thời gian tập trung có thể vào đêm trước ngày khởi hành ghi trên lịch; quý khách cần xem xác nhận vé để sắp xếp di chuyển. Trẻ em, phòng đơn và các ngày khác được báo riêng."
-    },
-    {
-      "type": "h2",
-      "text": "Lịch trình tham quan"
+      "html": "<figure style=\"width:100%\"><img src=\"https://transviet.com.vn/Media/Uploads/3360/3360-Nami-mua-dong.jpg\" alt=\"Đảo Nami – khung cảnh mùa đông, tùy thời tiết thực tế\" style=\"width:100%;height:auto\"><figcaption>Đảo Nami – khung cảnh mùa đông, tùy thời tiết thực tế · Ảnh minh họa: TransViet</figcaption></figure>"
     },
     {
       "type": "h3",
-      "text": "Ngày 1 · TP.HCM – Seoul"
+      "text": "🏙️ NGÀY 03: SEOUL – NAMSAN – THƯ VIỆN STARFIELD"
     },
     {
       "type": "p",
-      "text": "Tập trung tại Tân Sơn Nhất, bay đêm đến Incheon; nghỉ trên máy bay."
-    },
-    {
-      "type": "h3",
-      "text": "Ngày 2 · Đảo Nami – Myeongdong"
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Đoàn ghé các điểm mua sắm trong chương trình: trung tâm nhân sâm, mỹ phẩm và cửa hàng tinh dầu thông đỏ."
     },
     {
       "type": "p",
-      "text": "Nhập cảnh, đi Nami, cửa hàng miễn thuế và phố Myeongdong. Ăn sáng, trưa, tối; về khách sạn nghỉ."
-    },
-    {
-      "type": "h3",
-      "text": "Ngày 3 · Namsan – Starfield"
+      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
     },
     {
       "type": "p",
-      "text": "Ghé các cửa hàng nhân sâm, mỹ phẩm, thông đỏ; tham quan Namsan, thư viện Starfield. Vé thang máy lên tháp tự trả. Ăn sáng, trưa, tối."
-    },
-    {
-      "type": "h3",
-      "text": "Ngày 4 · Hanbok – Kimchi – Gangwon-do"
+      "text": "📸 <strong>Buổi chiều:</strong> Tham quan khu vực <strong>tháp Namsan</strong>, chụp ảnh và dạo khu ổ khóa tình yêu. <em>Vé thang máy lên đài quan sát chưa bao gồm.</em> Tiếp tục đến <strong>thư viện Starfield</strong>, ngắm không gian sách và lưu lại những góc ảnh của Seoul hiện đại."
     },
     {
       "type": "p",
-      "text": "Ghé cửa hàng nông sản, mặc Hanbok, làm kimchi và trải nghiệm tuyết. Gói có máng trượt cơ bản; quần áo, dụng cụ, cáp treo phát sinh tự trả."
-    },
-    {
-      "type": "h3",
-      "text": "Ngày 5 · Gyeongbokgung – TP.HCM"
-    },
-    {
-      "type": "p",
-      "text": "Thăm cung điện, Bảo tàng Dân tộc, chụp ngoài Nhà Xanh, dạo Insadong rồi ra sân bay. Ăn sáng, trưa."
+      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng, nghỉ đêm tại khách sạn."
     },
     {
       "type": "html",
-      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/c17171b613b6a83e6a41c6e23aa27455.png\" alt=\"Cung điện Gyeongbokgung trong hành trình Seoul\" style=\"width:100%;height:auto\"><figcaption>Cung điện Gyeongbokgung trong hành trình Seoul — ảnh minh họa điểm đến</figcaption></figure>"
+      "html": "<figure style=\"width:100%\"><img src=\"https://transviet.com.vn/Media/Uploads/gallery/KR00304/KR00305-4-Thu-vien-Starfield-library-Seoul.jpg\" alt=\"Thư viện Starfield trong hành trình Seoul\" style=\"width:100%;height:auto\"><figcaption>Thư viện Starfield trong hành trình Seoul · Ảnh minh họa: TransViet</figcaption></figure>"
+    },
+    {
+      "type": "h3",
+      "text": "⛄ NGÀY 04: HANBOK – KIMCHI – TRẢI NGHIỆM TUYẾT GANGWON-DO"
+    },
+    {
+      "type": "p",
+      "text": "🍳 <strong>Buổi sáng:</strong> Dùng bữa sáng, ghé cửa hàng nông sản theo lịch. Quý khách trải nghiệm <strong>mặc Hanbok và làm kimchi</strong>, kết hợp tìm hiểu một phần sinh hoạt, ẩm thực Hàn Quốc."
+    },
+    {
+      "type": "p",
+      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
+    },
+    {
+      "type": "p",
+      "text": "🎿 <strong>Buổi chiều:</strong> Đến khu vui chơi mùa đông ở <strong>Gangwon-do</strong>. Gói chương trình có máng trượt cơ bản; cáp treo, quần áo, găng tay, gậy, mũ và dụng cụ hoặc hoạt động nâng cao tính riêng theo nhu cầu. Hoạt động tùy điều kiện tuyết và vận hành tại điểm đến."
+    },
+    {
+      "type": "p",
+      "text": "🌙 <strong>Buổi tối:</strong> Về khách sạn nghỉ ngơi. Bữa tối ngày này được xác nhận cụ thể trong bảng dịch vụ khi đăng ký; quý khách kiểm tra khoản bao gồm hoặc tự túc trước khi chốt tour."
     },
     {
       "type": "html",
-      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/42961629-0032-4543-945a-f56792e44f75.jpg\" alt=\"Khu vực Nhà Xanh, điểm chụp ảnh bên ngoài\" style=\"width:100%;height:auto\"><figcaption>Khu vực Nhà Xanh, điểm chụp ảnh bên ngoài — ảnh minh họa điểm đến</figcaption></figure>"
+      "html": "<figure style=\"width:100%\"><img src=\"https://transviet.com.vn/Media/Uploads/3360/3360-gangwon-do-ski-resorts.jpg\" alt=\"Khu hoạt động mùa đông Gangwon-do – hình ảnh minh họa\" style=\"width:100%;height:auto\"><figcaption>Khu hoạt động mùa đông Gangwon-do – hình ảnh minh họa · Ảnh minh họa: TransViet</figcaption></figure>"
     },
     {
-      "type": "h2",
-      "text": "Dịch vụ và khoản cần dự trù"
-    },
-    {
-      "type": "p",
-      "text": "<strong>Bao gồm:</strong> vé bay 10kg xách tay, 23kg ký gửi; khách sạn, xe, ăn và vé theo lịch; visa đoàn, hướng dẫn viên, bảo hiểm, VAT."
+      "type": "h3",
+      "text": "🏯 NGÀY 05: GYEONGBOKGUNG – INSADONG – TP.HCM"
     },
     {
       "type": "p",
-      "text": "<strong>Chưa gồm:</strong> hộ chiếu, phòng đơn, chi tiêu riêng, quá cước và bồi dưỡng: 2 USD đêm trước khởi hành, 6 USD/ngày. Có điểm mua sắm bắt buộc; bỏ điểm hoặc tách đoàn có phí, cần xem điều kiện trước khi đặt."
+      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Tham quan <strong>cung điện Gyeongbokgung</strong>, <strong>Bảo tàng Dân tộc Quốc gia</strong>; chụp hình bên ngoài khu <strong>Nhà Xanh</strong> theo điều kiện tiếp cận thực tế."
     },
     {
       "type": "p",
-      "text": "Bữa ăn từng ngày, đặc biệt bữa tối sau hoạt động tuyết, được xác nhận trong bảng dịch vụ trước khi đăng ký."
-    },
-    {
-      "type": "h2",
-      "text": "Tour này phù hợp với ai?"
+      "text": "🏮 <strong>Trong hành trình:</strong> Dạo <strong>phố Insadong</strong>, xem các cửa hàng đồ thủ công, tranh và quà lưu niệm. Thứ tự các điểm được điều chỉnh cho phù hợp giờ bay."
     },
     {
       "type": "p",
-      "text": "Phù hợp với khách thích chụp ảnh, khám phá thành phố và muốn thử hoạt động mùa đông trong cùng chuyến đi. Gia đình có trẻ nhỏ hoặc người lớn tuổi nên trao đổi trước về khả năng đi bộ, chịu lạnh và nhu cầu nghỉ ngơi. Hoạt động tuyết tùy điều kiện thời tiết và vận hành tại khu vui chơi; ảnh tuyết không phải cam kết cảnh quan vào mọi ngày."
+      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn tại nhà hàng, sau đó xe đưa đoàn ra sân bay Incheon."
     },
     {
       "type": "p",
-      "text": "Hồ sơ visa cần được kiểm tra theo từng trường hợp. Quý khách nên chuẩn bị sớm và chờ hướng dẫn trước khi đặt thêm dịch vụ riêng không hoàn lại."
+      "text": "✈️ <strong>Chiều – tối:</strong> Làm thủ tục bay về TP.HCM. Đến Tân Sơn Nhất, hướng dẫn viên chia tay đoàn, kết thúc hành trình."
     },
     {
-      "type": "h2",
-      "text": "Khách lẻ và đoàn riêng từ 20 khách"
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/c17171b613b6a83e6a41c6e23aa27455.png\" alt=\"Cung điện Gyeongbokgung – điểm tham quan văn hóa ở Seoul\" style=\"width:100%;height:auto\"><figcaption>Cung điện Gyeongbokgung – điểm tham quan văn hóa ở Seoul</figcaption></figure>"
     },
     {
-      "type": "p",
-      "text": "Đi một mình, cùng gia đình hoặc nhóm bạn, quý khách có thể đăng ký ghép đoàn theo lịch còn nhận khách. Với đoàn riêng từ 20 người, TodayTourist tiếp nhận yêu cầu ngày đi, ngân sách và tiêu chuẩn dịch vụ để xây dựng phương án phù hợp cùng đơn vị chuyên vận hành quốc tế. Giá đoàn riêng được báo theo yêu cầu thực tế."
-    },
-    {
-      "type": "p",
-      "text": "Khách tại Biên Hòa, Đồng Nai vui lòng trao đổi nhu cầu di chuyển ra sân bay khi đăng ký; dịch vụ đưa đón được xác nhận và báo giá riêng nếu có."
-    },
-    {
-      "type": "h2",
-      "text": "Cần chuẩn bị gì trước khi đăng ký?"
+      "type": "h3",
+      "text": "💰 GIÁ TOUR"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, độ tuổi trẻ em, thời gian muốn đi và tình trạng hộ chiếu/visa để được kiểm tra chương trình phù hợp. Khi chốt tour, quý khách nhận xác nhận bằng văn bản về ngày bay, dịch vụ, khoản phụ thu, tiến độ thanh toán và điều kiện đổi/hủy. Không áp dụng một mức đặt cọc hoặc chính sách hủy chung cho mọi chuyến."
+      "text": "💵 <strong>Người lớn và trẻ từ 11 tuổi:</strong> 18.990.000đ/khách · Lịch <strong>01/01 – 05/01/2027</strong>."
     },
     {
       "type": "p",
-      "text": "<strong>Tư vấn TodayTourist: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo nhận lịch trình và báo giá</a>"
+      "text": "🧒 <strong>Trẻ từ 2 đến dưới 11 tuổi:</strong> 17.091.000đ/khách, ngủ chung người lớn; có giường riêng tính 100% giá người lớn."
+    },
+    {
+      "type": "p",
+      "text": "👶 <strong>Trẻ dưới 2 tuổi:</strong> 5.697.000đ/khách, không có ghế máy bay và giường riêng; quyền lợi hành lý theo xác nhận vé."
+    },
+    {
+      "type": "p",
+      "text": "🛏️ <strong>Phòng đơn:</strong> liên hệ báo giá."
+    },
+    {
+      "type": "p",
+      "text": "📌 Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
+    },
+    {
+      "type": "h3",
+      "text": "✅ GIÁ TOUR BAO GỒM"
+    },
+    {
+      "type": "p",
+      "text": "✅ Vé máy bay Vietnam Airlines theo hành trình; 10kg xách tay và 23kg ký gửi theo điều kiện vé đoàn."
+    },
+    {
+      "type": "p",
+      "text": "✅ Khách sạn 4 sao địa phương, xe và vé tham quan theo chương trình, vé tàu qua Nami."
+    },
+    {
+      "type": "p",
+      "text": "✅ Bữa ăn theo bảng dịch vụ xác nhận; trải nghiệm Hanbok, kimchi và máng trượt cơ bản theo lịch."
+    },
+    {
+      "type": "p",
+      "text": "✅ Visa du lịch theo đoàn; hướng dẫn viên, nước uống, bảo hiểm du lịch theo quyền lợi hợp đồng."
+    },
+    {
+      "type": "p",
+      "text": "✅ VAT theo chương trình áp dụng."
+    },
+    {
+      "type": "h3",
+      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
+    },
+    {
+      "type": "p",
+      "text": "❌ Xe sân bay tại Việt Nam nếu đặt thêm, hộ chiếu, phòng đơn, quá cước và chi tiêu cá nhân."
+    },
+    {
+      "type": "p",
+      "text": "❌ Vé thang máy lên Namsan; cáp treo, trang phục, dụng cụ và các hoạt động tuyết ngoài gói cơ bản."
+    },
+    {
+      "type": "p",
+      "text": "❌ Bồi dưỡng hướng dẫn viên, tài xế: 2 USD/khách cho đêm trước khởi hành và 6 USD/khách/ngày; khách từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
+    },
+    {
+      "type": "p",
+      "text": "❌ Phụ thu quốc tịch, visa tái nhập Việt Nam và dịch vụ ngoài chương trình, nếu phát sinh."
+    },
+    {
+      "type": "h3",
+      "text": "📌 ĐIỀU KHOẢN & LƯU Ý"
+    },
+    {
+      "type": "p",
+      "text": "📌 Tour có điểm mua sắm theo lịch, không tự ý tách đoàn. Phí bỏ điểm tham khảo: nhân sâm 3.200.000đ; thông đỏ 2.200.000đ; mỹ phẩm 1.700.000đ; miễn thuế hoặc nông sản 1.200.000đ/điểm. Tách đoàn cần được chấp thuận, có thể áp dụng phí 4.500.000đ. Các mức này được kiểm tra lại trước đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "📌 Chuẩn bị hồ sơ visa sớm; hộ chiếu còn hạn trên 6 tháng tính từ ngày nhập cảnh lại Việt Nam theo điều kiện chương trình. Hồ sơ cụ thể và khoản không hoàn khi không đạt visa được xác nhận trước thanh toán."
+    },
+    {
+      "type": "p",
+      "text": "📌 Mức cọc, thời hạn thanh toán và phí đổi/hủy thực hiện theo xác nhận của tour quốc tế này; không mặc định dùng điều kiện đoàn từ 10 khách của tour nội địa."
+    },
+    {
+      "type": "p",
+      "text": "📌 Mang áo giữ ấm, giày phù hợp đi bộ và hoạt động mùa đông. Tuyết, cảnh quan và hoạt động ngoài trời phụ thuộc thời tiết."
+    },
+    {
+      "type": "p",
+      "text": "📌 Giờ bay, khách sạn, bữa tối ngày 4 và thứ tự tham quan được xác nhận theo đoàn."
+    },
+    {
+      "type": "h3",
+      "text": "🏢 ĐI ĐOÀN RIÊNG TỪ 20 KHÁCH – DOANH NGHIỆP, CƠ QUAN, GIA ĐÌNH?"
+    },
+    {
+      "type": "p",
+      "text": "TodayTourist tiếp nhận yêu cầu đoàn riêng đi Hàn Quốc từ 20 khách, phối hợp đơn vị chuyên vận hành tour quốc tế xây dựng phương án theo mục tiêu và ngân sách của đoàn:"
+    },
+    {
+      "type": "p",
+      "text": "✅ Chọn lịch phù hợp kỳ nghỉ và thời gian chuẩn bị hồ sơ visa."
+    },
+    {
+      "type": "p",
+      "text": "✅ Cân đối trải nghiệm tuyết, mua sắm và nhịp đi bộ cho từng độ tuổi."
+    },
+    {
+      "type": "p",
+      "text": "✅ Trao đổi yêu cầu khách sạn, bữa ăn, xe sân bay và hoạt động đoàn để có phương án riêng."
+    },
+    {
+      "type": "p",
+      "text": "📞 Nhận báo giá đoàn: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a>. Giá ghép đoàn bên trên không phải giá cố định cho mọi đoàn riêng."
+    },
+    {
+      "type": "h3",
+      "text": "❓ CÂU HỎI THƯỜNG GẶP"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có cần đủ 20 người mới đăng ký được không?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Không. Khách lẻ hoặc nhóm nhỏ đăng ký ghép đoàn theo lịch còn nhận khách; từ 20 khách có thể xin phương án đoàn riêng."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Giá đã gồm visa chưa?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Có visa du lịch theo đoàn trong gói áp dụng. Hồ sơ và chi phí phát sinh được kiểm tra theo từng trường hợp."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour có bao trọn dụng cụ trượt tuyết không?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Không. Gói có máng trượt cơ bản; trang phục, dụng cụ, cáp treo và hoạt động nâng cao có thể tính riêng."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có chắc chắn được thấy tuyết rơi không?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Không thể cam kết tuyết rơi đúng ngày. Hoạt động thực hiện theo điều kiện thời tiết và thông báo của khu vui chơi."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có thể bỏ điểm mua sắm không?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Cần trao đổi trước. Tour có điều kiện mua sắm và phí bỏ điểm; quý khách xem bảng điều kiện trước khi đặt."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có đưa đón Biên Hòa và xuất hóa đơn không?</strong>"
+    },
+    {
+      "type": "p",
+      "text": "Xe sân bay báo riêng theo nhu cầu; VAT theo chương trình áp dụng, vui lòng gửi thông tin hóa đơn khi đăng ký."
+    },
+    {
+      "type": "h3",
+      "text": "📞 THÔNG TIN LIÊN HỆ ĐẶT TOUR"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Công ty TNHH Du Lịch Ngày Hôm Nay (Today Tourist)</strong>"
+    },
+    {
+      "type": "p",
+      "text": "📍 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai"
+    },
+    {
+      "type": "p",
+      "text": "📞 Mr. Anh Văn – Phòng Kinh Doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a>"
+    },
+    {
+      "type": "p",
+      "text": "☎️ Hotline: <a href=\"tel:0913787647\" target=\"_blank\" rel=\"noopener nofollow\">0913 78 76 47</a> (Lê Sang)"
+    },
+    {
+      "type": "p",
+      "text": "✉️ <a href=\"mailto:lesangtravel@gmail.com\" target=\"_blank\" rel=\"noopener nofollow\">lesangtravel@gmail.com</a>"
+    },
+    {
+      "type": "p",
+      "text": "🌐 todaytourist.com"
+    },
+    {
+      "type": "p",
+      "text": "👉 <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Nhắn Zalo 0902 898 726 để nhận lịch trình, kiểm tra chỗ và báo giá theo ngày đi.</strong></a>"
     }
   ],
   "hidden": true
