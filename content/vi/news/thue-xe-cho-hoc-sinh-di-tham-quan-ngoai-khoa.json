@@ -2,7 +2,7 @@
   "slug": "thue-xe-cho-hoc-sinh-di-tham-quan-ngoai-khoa",
   "title": "Thuê xe cho học sinh đi tham quan, ngoại khóa tại Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "xe-todaytourist-15.jpg",
+  "image": "thue-xe-cho-hoc-sinh-di-tham-quan-ngoai-khoa.jpg",
   "summary": "Thuê xe cho học sinh đi tham quan, ngoại khóa tại Biên Hòa, Đồng Nai, TP.HCM: ưu tiên an toàn, xe đủ ghế và lịch trình rõ ràng. Mr Anh Văn 0902 898 726.",
   "body": "",
   "published_at": "2026-10-11",
@@ -54,6 +54,31 @@
     {
       "type": "p",
       "text": "Trường thường cần hợp đồng, hóa đơn và các giấy tờ phục vụ thanh toán; hãy báo trước để nhà xe chuẩn bị."
+    },
+    {
+      "type": "h2",
+      "text": "Quy định an toàn khi thuê xe đưa học sinh đi ngoại khóa"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Danh sách học sinh và giáo viên phụ trách từng xe được nhà trường lập trước, mỗi xe có người điểm danh khi lên và xuống.",
+        "Học sinh ngồi đúng ghế, thắt dây an toàn nếu xe có trang bị, không đứng hoặc đùa giỡn khi xe chạy.",
+        "Tài xế chạy tốc độ phù hợp, không vượt quá quy định, có xe dự phòng nếu cần.",
+        "Nhà trường nên có số điện thoại tài xế, hướng dẫn viên và phụ huynh liên hệ khi cần."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cách chọn xe theo quy mô khối lớp"
+    },
+    {
+      "type": "p",
+      "text": "Một lớp thường 35–45 em kèm giáo viên, phù hợp xe 45 chỗ. Nếu đi theo nhóm nhỏ hoặc câu lạc bộ khoảng 20–25 em, xe 29 chỗ gọn và dễ vào điểm đón. Khi đi cả khối nhiều lớp, nên đặt nhiều xe cùng giờ và xếp mỗi xe một khối hoặc một nhóm lớp để dễ quản lý."
+    },
+    {
+      "type": "p",
+      "text": "Chuyến ngoại khóa nên khởi hành sớm, tránh giờ cao điểm, và có giờ nghỉ trưa hợp lý để các em có sức tham gia hoạt động buổi chiều."
     },
     {
       "type": "h2",
