@@ -1,189 +1,142 @@
 {
   "slug": "tour-thai-lan-5-ngay-4-dem",
-  "name": "Tour Thái Lan 5 Ngày 4 Đêm",
+  "name": "Tour Thái Lan 5 Ngày 4 Đêm – Bangkok, Pattaya, Đảo Coral và Nong Nooch",
   "region": "international",
   "region_name": "Châu Á",
-  "departure": "Biên Hòa / TP.HCM",
+  "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "5 ngày 4 đêm",
-  "price": "7.990.000đ/khách",
+  "price": "Từ 9.990.000đ/khách",
   "image": "thai-lan.webp",
-  "desc": "Xứ sở Chùa Vàng với Bangkok sầm uất, Pattaya biển xanh và những ngôi chùa vàng rực rỡ.",
+  "desc": "Tour Thái Lan 5N4Đ bay từ TP.HCM: Bangkok – Pattaya, đảo Coral, vườn Nong Nooch, thuyền sông Chao Phraya và buffet Baiyoke Sky. Giá 9.990.000đ/khách cho lịch 11/02/2027; nhận khách lẻ và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
-    "Chùa Vàng Bangkok",
-    "Pattaya - biển xanh",
-    "Chợ nổi Damnoen Saduak",
-    "Vé máy bay khứ hồi"
+    "Đảo Coral và vườn nhiệt đới Nong Nooch",
+    "Show Alcazar trong chương trình",
+    "Dạo thuyền sông Chao Phraya",
+    "Buffet trưa tại Baiyoke Sky",
+    "Bay Vietnam Airlines từ TP.HCM",
+    "Nhận khách ghép đoàn; tư vấn đoàn riêng từ 20 khách"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "h2",
-      "text": "✨ Bangkok – Pattaya Khám phá Xứ Sở Chùa Vàng – Biển Xanh – Mua Sắm – Giải Trí"
+      "text": "Bangkok – Pattaya: biển đảo, vườn nhiệt đới và nhịp sống đô thị"
+    },
+    {
+      "type": "p",
+      "text": "Một chuyến đi có cả thời gian bên biển và những trải nghiệm giữa thành phố sẽ phù hợp với gia đình hoặc nhóm bạn có sở thích khác nhau. TodayTourist giới thiệu hành trình Thái Lan 5 ngày 4 đêm để quý khách xem rõ từng ngày, phần dịch vụ được tính trong giá và những khoản cần chuẩn bị thêm."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Khởi hành:</strong> sân bay Tân Sơn Nhất, TP.HCM · <strong>Hàng không:</strong> Vietnam Airlines · <strong>Lưu trú:</strong> khách sạn 4 sao địa phương, tiêu chuẩn 2 người/phòng."
     },
     {
       "type": "h2",
-      "text": "📌 THÔNG TIN CHƯƠNG TRÌNH"
+      "text": "Lịch khởi hành và giá 2027"
+    },
+    {
+      "type": "html",
+      "html": "<table><thead><tr><th><div>Ngày đi – ngày về</div></th><th><div>Giá người lớn</div></th></tr></thead><tbody><tr><td><div>11/02 – 15/02/2027</div></td><td><div><strong>9.990.000đ/khách</strong></div></td></tr></tbody></table>"
     },
     {
       "type": "p",
-      "text": "🗓 Thời gian: 5 ngày 4 đêm ✈️ Hàng không: VietJet Air / Vietnam Airlines / Thai Airways (theo thời điểm) 🏨 Lưu trú: Khách sạn 4★ trung tâm 🚍 Phương tiện: Xe du lịch đời mới suốt tuyến 📍 Khởi hành: Theo yêu cầu 👥 Đối tượng: Gia đình – Nhóm bạn – Doanh nghiệp – Đoàn thể"
+      "text": "Giá tham khảo cho khách ghép đoàn, đối chiếu ngày 15/10/2026; áp dụng theo lịch trên và tình trạng chỗ tại thời điểm xác nhận. Các ngày khác, trẻ em và phòng đơn được báo riêng. Mức giá này không phải báo giá mặc định cho đoàn riêng."
     },
     {
       "type": "h2",
-      "text": "🌏 GIỚI THIỆU TOUR"
+      "text": "Lịch trình tham quan"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 1 · TP.HCM – Bangkok – Pattaya"
     },
     {
       "type": "p",
-      "text": "Thái Lan – “Xứ sở Chùa Vàng” luôn là điểm đến hấp dẫn với sự kết hợp hài hòa giữa văn hóa tâm linh đặc sắc, thiên nhiên biển đảo xinh đẹp và nhịp sống hiện đại sôi động . Đồng hành cùng TodayTourist , Quý khách sẽ khám phá Bangkok náo nhiệt, Pattaya biển xanh rực rỡ, thưởng thức ẩm thực phong phú và trải nghiệm những show diễn nổi tiếng bậc nhất Đông Nam Á."
+      "text": "Bay đến Bangkok, đi Pattaya; ghé café và bánh phủ vàng, Wat Phra Yai. Ăn trưa, tối BBQ; nghỉ Pattaya."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 2 · Đảo Coral – Nong Nooch"
+    },
+    {
+      "type": "p",
+      "text": "Đi canô ra đảo Coral, tham quan trung tâm đá quý hoặc trầm hương, vườn Nong Nooch, Trân Bảo Phật Sơn; xem Alcazar. Ăn sáng, trưa, tối; nghỉ Pattaya. Trò chơi biển tự trả."
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/dao-coral-0.jpg\" alt=\"Đảo Coral trong hành trình Pattaya\" style=\"width:100%;height:auto\"><figcaption>Đảo Coral trong hành trình Pattaya — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/vuon-quoc-gia-nong-nooch-7.jpg\" alt=\"Không gian xanh tại vườn Nong Nooch\" style=\"width:100%;height:auto\"><figcaption>Không gian xanh tại vườn Nong Nooch — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 3 · Pattaya – Bangkok"
+    },
+    {
+      "type": "p",
+      "text": "Ghé bảo tàng ánh sáng, vườn khinh khí cầu, trung tâm latex, trại rắn và Wat Saket. Ăn sáng, trưa, tối; nghỉ Bangkok."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 4 · Chao Phraya – Baiyoke Sky"
+    },
+    {
+      "type": "p",
+      "text": "Thăm Chùa Thuyền, đi thuyền Chao Phraya, buffet trưa Baiyoke Sky, đền Erawan và mua sắm. Ăn sáng, trưa; tự túc tối."
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/chua-thuyen-thai-lan-1-1698131099.png\" alt=\"Chùa Thuyền Wat Yannawa tại Bangkok\" style=\"width:100%;height:auto\"><figcaption>Chùa Thuyền Wat Yannawa tại Bangkok — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 5 · Bangkok – TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "Ăn sáng, trả phòng và bay về Tân Sơn Nhất."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 01: ✈️ VIỆT NAM – BANGKOK – PATTAYA"
+      "text": "Dịch vụ và chi phí cần biết"
     },
     {
       "type": "p",
-      "text": "🌅 Sáng ✈️ HDV TodayTourist đón Quý khách tại sân bay, làm thủ tục xuất cảnh đi Bangkok – Thái Lan ."
+      "text": "<strong>Bao gồm:</strong> vé bay 10kg xách tay, 23kg ký gửi; khách sạn; xe, bữa ăn, vé theo lịch trình; hướng dẫn viên, bảo hiểm và VAT."
     },
     {
       "type": "p",
-      "text": "🕛 Trưa 🚍 Đến sân bay Bangkok, xe và HDV địa phương đón đoàn khởi hành về Pattaya . 🍽 Dùng bữa trưa tại nhà hàng."
+      "text": "<strong>Chưa gồm:</strong> đưa đón Tân Sơn Nhất, hộ chiếu, phòng đơn, chi tiêu riêng, quá cước; bồi dưỡng 4 USD/khách/ngày. Chương trình có điểm mua sắm."
     },
     {
       "type": "p",
-      "text": "🏨 Chiều 📍 Tham quan Trân Bảo Phật Sơn (Khao Chee Chan) – hình tượng Đức Phật được khắc nổi trên vách núi đá vôi, linh thiêng và độc đáo. 🏖 Tham quan Bãi biển Pattaya , tự do chụp hình."
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối tại nhà hàng. 🌙 Tự do khám phá Pattaya về đêm. 🛏 Nghỉ đêm tại Pattaya."
+      "text": "Giờ bay, thứ tự tham quan và khách sạn cụ thể được xác nhận trước chuyến đi. Khi tham gia hoạt động biển, quý khách cân nhắc sức khỏe và làm theo hướng dẫn tại điểm đến; thời tiết có thể ảnh hưởng việc ra đảo."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 02: 🌊 PATTAYA – ĐẢO CORAL – SHOW ĐẶC SẮC"
+      "text": "Khách lẻ và đoàn riêng từ 20 khách"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Đi một mình, cùng gia đình hoặc nhóm bạn, quý khách có thể đăng ký ghép đoàn theo lịch còn nhận khách. Với đoàn riêng từ 20 người, TodayTourist tiếp nhận yêu cầu ngày đi, ngân sách và tiêu chuẩn dịch vụ để xây dựng phương án phù hợp cùng đơn vị chuyên vận hành quốc tế. Giá đoàn riêng được báo theo yêu cầu thực tế."
     },
     {
       "type": "p",
-      "text": "🚤 Khởi hành ra biển tham quan Đảo Coral (Koh Larn) – làn nước trong xanh, bãi cát trắng mịn. 🌊 Tự do tắm biển, chụp hình; tham gia các trò chơi biển (chi phí tự túc)."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/dao-coral-0.jpg",
-      "alt": "Đảo Coral Thái Lan: Hòn đảo thiên đường của rạn san hô dưới lòng đại dương"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng địa phương."
-    },
-    {
-      "type": "p",
-      "text": "🏖 Chiều 📍 Tham quan Vườn nhiệt đới Nong Nooch – xem các chương trình biểu diễn văn hóa Thái Lan, voi biểu diễn. 🛍 Tham quan trung tâm mua sắm đặc sản địa phương."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/vuon-quoc-gia-nong-nooch-7.jpg",
-      "alt": "Lạc vào vườn nhiệt đới Nong Nooch đẹp như xứ sở thần tiên"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối tại nhà hàng. 🎭 Thưởng thức Show nghệ thuật đặc sắc (Alcazar / Colosseum Show). 🛏 Nghỉ đêm tại Pattaya."
+      "text": "Khách tại Biên Hòa, Đồng Nai vui lòng trao đổi nhu cầu di chuyển ra sân bay khi đăng ký; dịch vụ đưa đón được xác nhận và báo giá riêng nếu có."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 03: 🚍 PATTAYA – BANGKOK – CHÙA LINH THIÊNG"
+      "text": "Cần chuẩn bị gì trước khi đăng ký?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng – làm thủ tục trả phòng."
+      "text": "Gửi số khách, độ tuổi trẻ em, thời gian muốn đi và tình trạng hộ chiếu/visa để được kiểm tra chương trình phù hợp. Khi chốt tour, quý khách nhận xác nhận bằng văn bản về ngày bay, dịch vụ, khoản phụ thu, tiến độ thanh toán và điều kiện đổi/hủy. Không áp dụng một mức đặt cọc hoặc chính sách hủy chung cho mọi chuyến."
     },
     {
       "type": "p",
-      "text": "🚍 Xe đưa đoàn về Bangkok . 📍 Tham quan: 🛕 Chùa Phật Vàng (Wat Traimit) – nơi lưu giữ tượng Phật bằng vàng nguyên khối. 🛕 Chùa Thuyền (Wat Yannawa) – kiến trúc độc đáo hình con thuyền."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/chua-vang-thai-lan-1.jpg",
-      "alt": "10 điều cần biết trước khi ghé thăm chùa Vàng Thái Lan"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/chua-thuyen-thai-lan-1-1698131099.png",
-      "alt": "Chùa Thuyền Thái Lan - Wat Yannawa cổ kính giữa lòng thủ đô Bangkok"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🏨 Chiều Nhận phòng khách sạn Bangkok. 🛍 Tự do mua sắm tại Big C – Central World – Siam Paragon ."
-    },
-    {
-      "type": "p",
-      "text": "🛏 Nghỉ đêm tại Bangkok."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 04: 🛍 BANGKOK – TỰ DO KHÁM PHÁ"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
-    },
-    {
-      "type": "p",
-      "text": "🛍 Quý khách tự do mua sắm , khám phá Bangkok hoặc tham gia các tour tự chọn: 🚢 Du thuyền sông Chao Phraya 🎡 Safari World 🍜 Khám phá ẩm thực đường phố Thái Lan"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/trai-nghiem-du-thuyen-bangkok.jpg",
-      "alt": "TRẢI NGHIỆM DU THUYỀN HOT NHẤT TRÊN SÔNG CHAO PHRAYA BANGKOK"
-    },
-    {
-      "type": "p",
-      "text": "🛏 Nghỉ đêm tại Bangkok."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 05: ✈️ BANGKOK – VIỆT NAM"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng – làm thủ tục trả phòng."
-    },
-    {
-      "type": "p",
-      "text": "🚍 Xe đưa đoàn ra sân bay Bangkok, làm thủ tục đáp chuyến bay về Việt Nam."
-    },
-    {
-      "type": "p",
-      "text": "🏁 Kết thúc chương trình Tour Thái Lan 5N4Đ , chia tay và hẹn gặp lại Quý khách trong những hành trình tiếp theo cùng TodayTourist ."
-    },
-    {
-      "type": "h2",
-      "text": "💰 GIÁ TOUR THAM KHẢO"
-    },
-    {
-      "type": "p",
-      "text": "💵 Từ 7.990.000đ/khách (Giá áp dụng cho đoàn từ 20 khách, thay đổi theo thời điểm & hãng bay)"
-    },
-    {
-      "type": "h2",
-      "text": "✅ GIÁ TOUR BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✈️ Vé máy bay khứ hồi Việt Nam – Thái Lan 🚍 Xe du lịch đời mới suốt tuyến 🏨 Khách sạn 4★ (2 khách/phòng) 🍽 Ăn uống theo chương trình 🎟 Vé tham quan các điểm theo lịch trình 🎭 Vé xem show nghệ thuật 🧑‍✈️ Trưởng đoàn & HDV địa phương 🛡 Bảo hiểm du lịch quốc tế 🎒 Nón du lịch TodayTourist – nước suối"
-    },
-    {
-      "type": "h2",
-      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✖️ Hộ chiếu còn hạn trên 6 tháng ✖️ Chi phí cá nhân ngoài chương trình ✖️ Các trò chơi tự chọn tại đảo ✖️ Thuế VAT"
+      "text": "<strong>Tư vấn TodayTourist: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo nhận lịch trình và báo giá</a>"
     }
   ],
   "hidden": true
