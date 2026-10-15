@@ -2,7 +2,7 @@
   "slug": "hanh-trinh-tam-linh-con-dao-2n2d-01-24",
   "title": "HÀNH TRÌNH TÂM LINH – CÔN ĐẢO 2N2Đ",
   "category": "Hành trình khách đoàn",
-  "image": "news/hanh-trinh-tam-linh-con-dao-2n2d-01-24-1.jpg",
+  "image": "hanh-trinh-tam-linh-con-dao-2n2d-01-24.jpg",
   "summary": "Đi Côn Đảo những ngày này, không chỉ là du lịch – mà là một cuộc trở về.",
   "body": "",
   "published_at": "2026-01-24",
@@ -12,9 +12,8 @@
       "text": "Đi Côn Đảo những ngày này, không chỉ là du lịch – mà là một cuộc trở về."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-trinh-tam-linh-con-dao-2n2d-01-24-2.jpg",
-      "alt": "HÀNH TRÌNH TÂM LINH – CÔN ĐẢO 2N2Đ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-trinh-tam-linh-con-dao-2n2d-01-24-2.jpg\" alt=\"HÀNH TRÌNH TÂM LINH – CÔN ĐẢO 2N2Đ\"></figure>"
     },
     {
       "type": "p",
