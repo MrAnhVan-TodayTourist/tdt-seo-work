@@ -7,7 +7,7 @@
   "duration": "5 ngày 4 đêm",
   "price": "Từ 18.990.000đ/khách",
   "image": "han-quoc.webp",
-  "desc": "Hành trình Hàn Quốc mùa đông 5N4Đ từ TP.HCM: đảo Nami, Seoul, Namsan, Gyeongbokgung và Gangwon-do. Lịch 01/01/2027 giá 18.990.000đ/khách. TodayTourist tư vấn khách lẻ và đoàn riêng từ 20 khách.",
+  "desc": "Tour Hàn Quốc 5N4Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Seoul, đảo Nami và trải nghiệm tuyết Gangwon-do. Bay từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Đảo Nami và không khí mùa đông Hàn Quốc",
     "Trải nghiệm tuyết tại Gangwon-do",
@@ -32,11 +32,11 @@
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Phương tiện:</strong> Vietnam Airlines từ TP.HCM + xe du lịch theo hành trình"
+      "text": "<strong>Phương tiện:</strong> Vietnam Airlines từ TP.HCM + xe du lịch theo hành trình"
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 4 sao địa phương tại Seoul hoặc khu vực bố trí theo đoàn, 2 người/phòng"
+      "text": "🏨 <strong>Lưu trú:</strong> khách sạn tiêu chuẩn 4 sao địa phương, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước"
     },
     {
       "type": "p",
@@ -52,47 +52,51 @@
     },
     {
       "type": "p",
-      "text": "Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn để gặp hướng dẫn viên của đoàn và làm thủ tục hàng không. TodayTourist tư vấn lịch tập trung, giấy tờ và phương án di chuyển phù hợp cho khách tại Biên Hòa, Đồng Nai."
+      "text": "Quý khách tại nội ô trung tâm Biên Hòa có nhu cầu xe đưa ra sân bay Tân Sơn Nhất vui lòng đăng ký địa chỉ đón khi đặt tour. TodayTourist tư vấn phương án đón tại địa chỉ hoặc về điểm tập kết tại trụ sở công ty: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai, tùy tuyến xe và số lượng khách."
     },
     {
       "type": "p",
-      "text": "📌 Khách cần xe từ Biên Hòa ra sân bay và đón về vui lòng báo khi đăng ký. Dịch vụ này được xác nhận, báo giá riêng; không mặc định nằm trong giá tour quốc tế."
+      "text": "Quý khách ở dọc tuyến xe đi qua có thể đăng ký điểm đón thuận đường; khách tại TP.HCM có thể tập trung trực tiếp tại ga quốc tế Tân Sơn Nhất theo giờ hẹn của đoàn. Chiều về, điểm đón sân bay và trả khách được thống nhất khi đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "Điểm đón, giờ đón, khả năng bố trí xe và chi phí được TodayTourist xác nhận trước khi khách chốt dịch vụ."
     },
     {
       "type": "h3",
-      "text": "✈️ NGÀY 01: TP.HCM – SEOUL"
+      "text": "NGÀY 01: TP.HCM – SEOUL"
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn. Hướng dẫn viên của đoàn hỗ trợ thủ tục bay đi Incheon, Hàn Quốc."
+      "text": "<strong>Buổi tối:</strong> Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn. Hướng dẫn viên của đoàn hỗ trợ thủ tục bay đi Incheon, Hàn Quốc."
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Nghỉ đêm:</strong> Nghỉ trên máy bay. Do chuyến bay đêm, giờ tập trung có thể vào đêm trước ngày ghi trên lịch; thực hiện theo xác nhận vé và hướng dẫn trước chuyến đi."
+      "text": "<strong>Nghỉ đêm:</strong> Nghỉ trên máy bay. Do chuyến bay đêm, giờ tập trung có thể vào đêm trước ngày ghi trên lịch; thực hiện theo xác nhận vé và hướng dẫn trước chuyến đi."
     },
     {
       "type": "h3",
-      "text": "🌲 NGÀY 02: ĐẢO NAMI – MYEONGDONG"
+      "text": "NGÀY 02: ĐẢO NAMI – MYEONGDONG"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Đến sân bay Incheon, làm thủ tục nhập cảnh, dùng bữa sáng theo sắp xếp của đoàn. Xe đưa quý khách đến <strong>đảo Nami</strong>, dạo dưới những hàng cây, ngắm cảnh và chụp ảnh cùng gia đình."
+      "text": "<strong>Buổi sáng:</strong> Đến sân bay Incheon, làm thủ tục nhập cảnh, dùng bữa sáng theo sắp xếp của đoàn. Xe đưa quý khách đến <strong>đảo Nami</strong>, dạo dưới những hàng cây, ngắm cảnh và chụp ảnh cùng gia đình."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương."
     },
     {
       "type": "p",
-      "text": "🛍️ <strong>Buổi chiều:</strong> Ghé cửa hàng miễn thuế; tiếp tục đến <strong>phố Myeongdong</strong>. Quý khách có thời gian dạo phố, chọn quà hoặc thưởng thức món ăn đường phố theo nhu cầu cá nhân."
+      "text": "<strong>Buổi chiều:</strong> Ghé cửa hàng miễn thuế; tiếp tục đến <strong>phố Myeongdong</strong>. Quý khách có thời gian dạo phố, chọn quà hoặc thưởng thức món ăn đường phố theo nhu cầu cá nhân."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối theo chương trình, về khách sạn nhận phòng và nghỉ ngơi."
+      "text": "<strong>Buổi tối:</strong> Ăn tối theo chương trình, về khách sạn nhận phòng và nghỉ ngơi."
     },
     {
       "type": "p",
-      "text": "💡 <strong>Bạn có biết:</strong> Nami gắn với bộ phim “Bản tình ca mùa đông”; những lối đi dưới hàng cây là điểm được nhiều khách tìm đến để chụp ảnh. <a href=\"https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=215120\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu đảo Nami</a>."
+      "text": "<strong>Bạn có biết:</strong> Nami gắn với bộ phim “Bản tình ca mùa đông”; những lối đi dưới hàng cây là điểm được nhiều khách tìm đến để chụp ảnh. <a href=\"https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=215120\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu đảo Nami</a>."
     },
     {
       "type": "html",
@@ -100,23 +104,23 @@
     },
     {
       "type": "h3",
-      "text": "🏙️ NGÀY 03: SEOUL – NAMSAN – THƯ VIỆN STARFIELD"
+      "text": "NGÀY 03: SEOUL – NAMSAN – THƯ VIỆN STARFIELD"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Đoàn ghé các điểm mua sắm trong chương trình: trung tâm nhân sâm, mỹ phẩm và cửa hàng tinh dầu thông đỏ."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng tại khách sạn. Đoàn ghé các điểm mua sắm trong chương trình: trung tâm nhân sâm, mỹ phẩm và cửa hàng tinh dầu thông đỏ."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
     },
     {
       "type": "p",
-      "text": "📸 <strong>Buổi chiều:</strong> Tham quan khu vực <strong>tháp Namsan</strong>, chụp ảnh và dạo khu ổ khóa tình yêu. <em>Vé thang máy lên đài quan sát chưa bao gồm.</em> Tiếp tục đến <strong>thư viện Starfield</strong>, ngắm không gian sách và lưu lại những góc ảnh của Seoul hiện đại."
+      "text": "<strong>Buổi chiều:</strong> Tham quan khu vực <strong>tháp Namsan</strong>, chụp ảnh và dạo khu ổ khóa tình yêu. <em>Vé thang máy lên đài quan sát chưa bao gồm.</em> Tiếp tục đến <strong>thư viện Starfield</strong>, ngắm không gian sách và lưu lại những góc ảnh của Seoul hiện đại."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối tại nhà hàng, nghỉ đêm tại khách sạn."
+      "text": "<strong>Buổi tối:</strong> Ăn tối tại nhà hàng, nghỉ đêm tại khách sạn."
     },
     {
       "type": "html",
@@ -124,23 +128,23 @@
     },
     {
       "type": "h3",
-      "text": "⛄ NGÀY 04: HANBOK – KIMCHI – TRẢI NGHIỆM TUYẾT GANGWON-DO"
+      "text": "NGÀY 04: HANBOK – KIMCHI – TRẢI NGHIỆM TUYẾT GANGWON-DO"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Dùng bữa sáng, ghé cửa hàng nông sản theo lịch. Quý khách trải nghiệm <strong>mặc Hanbok và làm kimchi</strong>, kết hợp tìm hiểu một phần sinh hoạt, ẩm thực Hàn Quốc."
+      "text": "<strong>Buổi sáng:</strong> Dùng bữa sáng, ghé cửa hàng nông sản theo lịch. Quý khách trải nghiệm <strong>mặc Hanbok và làm kimchi</strong>, kết hợp tìm hiểu một phần sinh hoạt, ẩm thực Hàn Quốc."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
     },
     {
       "type": "p",
-      "text": "🎿 <strong>Buổi chiều:</strong> Đến khu vui chơi mùa đông ở <strong>Gangwon-do</strong>. Gói chương trình có máng trượt cơ bản; cáp treo, quần áo, găng tay, gậy, mũ và dụng cụ hoặc hoạt động nâng cao tính riêng theo nhu cầu. Hoạt động tùy điều kiện tuyết và vận hành tại điểm đến."
+      "text": "<strong>Buổi chiều:</strong> Đến khu vui chơi mùa đông ở <strong>Gangwon-do</strong>. Gói chương trình có máng trượt cơ bản; cáp treo, quần áo, găng tay, gậy, mũ và dụng cụ hoặc hoạt động nâng cao tính riêng theo nhu cầu. Hoạt động tùy điều kiện tuyết và vận hành tại điểm đến."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Về khách sạn nghỉ ngơi. Bữa tối ngày này được xác nhận cụ thể trong bảng dịch vụ khi đăng ký; quý khách kiểm tra khoản bao gồm hoặc tự túc trước khi chốt tour."
+      "text": "<strong>Buổi tối:</strong> Về khách sạn nghỉ ngơi. Bữa tối ngày này được xác nhận cụ thể trong bảng dịch vụ khi đăng ký; quý khách kiểm tra khoản bao gồm hoặc tự túc trước khi chốt tour."
     },
     {
       "type": "html",
@@ -148,23 +152,23 @@
     },
     {
       "type": "h3",
-      "text": "🏯 NGÀY 05: GYEONGBOKGUNG – INSADONG – TP.HCM"
+      "text": "NGÀY 05: GYEONGBOKGUNG – INSADONG – TP.HCM"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Tham quan <strong>cung điện Gyeongbokgung</strong>, <strong>Bảo tàng Dân tộc Quốc gia</strong>; chụp hình bên ngoài khu <strong>Nhà Xanh</strong> theo điều kiện tiếp cận thực tế."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Tham quan <strong>cung điện Gyeongbokgung</strong>, <strong>Bảo tàng Dân tộc Quốc gia</strong>; chụp hình bên ngoài khu <strong>Nhà Xanh</strong> theo điều kiện tiếp cận thực tế."
     },
     {
       "type": "p",
-      "text": "🏮 <strong>Trong hành trình:</strong> Dạo <strong>phố Insadong</strong>, xem các cửa hàng đồ thủ công, tranh và quà lưu niệm. Thứ tự các điểm được điều chỉnh cho phù hợp giờ bay."
+      "text": "<strong>Trong hành trình:</strong> Dạo <strong>phố Insadong</strong>, xem các cửa hàng đồ thủ công, tranh và quà lưu niệm. Thứ tự các điểm được điều chỉnh cho phù hợp giờ bay."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Ăn tại nhà hàng, sau đó xe đưa đoàn ra sân bay Incheon."
+      "text": "<strong>Buổi trưa:</strong> Ăn tại nhà hàng, sau đó xe đưa đoàn ra sân bay Incheon."
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Chiều – tối:</strong> Làm thủ tục bay về TP.HCM. Đến Tân Sơn Nhất, hướng dẫn viên chia tay đoàn, kết thúc hành trình."
+      "text": "<strong>Chiều – tối:</strong> Làm thủ tục bay về TP.HCM. Đến Tân Sơn Nhất, hướng dẫn viên chia tay đoàn, kết thúc hành trình."
     },
     {
       "type": "html",
@@ -176,7 +180,15 @@
     },
     {
       "type": "p",
-      "text": "💵 <strong>Người lớn và trẻ từ 11 tuổi:</strong> 18.990.000đ/khách · Lịch <strong>01/01 – 05/01/2027</strong>."
+      "text": "💵 <strong>Người lớn và trẻ từ 11 tuổi:</strong> 18.990.000đ/khách."
+    },
+    {
+      "type": "h3",
+      "text": "LỊCH KHỞI HÀNH ÁP DỤNG GIÁ TRÊN"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Ngày đi – ngày về:</strong> 01/01 – 05/01/2027."
     },
     {
       "type": "p",
@@ -188,11 +200,11 @@
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Phòng đơn:</strong> liên hệ báo giá."
+      "text": "<strong>Phòng đơn:</strong> liên hệ báo giá."
     },
     {
       "type": "p",
-      "text": "📌 Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
+      "text": "Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
     },
     {
       "type": "h3",
@@ -200,23 +212,27 @@
     },
     {
       "type": "p",
-      "text": "✅ Vé máy bay Vietnam Airlines theo hành trình; 10kg xách tay và 23kg ký gửi theo điều kiện vé đoàn."
+      "text": "Vé máy bay Vietnam Airlines theo hành trình; 10kg xách tay và 23kg ký gửi theo điều kiện vé đoàn."
     },
     {
       "type": "p",
-      "text": "✅ Khách sạn 4 sao địa phương, xe và vé tham quan theo chương trình, vé tàu qua Nami."
+      "text": "Khách sạn 4 sao địa phương, xe và vé tham quan theo chương trình, vé tàu qua Nami."
     },
     {
       "type": "p",
-      "text": "✅ Bữa ăn theo bảng dịch vụ xác nhận; trải nghiệm Hanbok, kimchi và máng trượt cơ bản theo lịch."
+      "text": "<strong>Khách sạn dự kiến:</strong> tại Seoul: The Recenz Hotel, Golden City Hotel hoặc tương đương."
     },
     {
       "type": "p",
-      "text": "✅ Visa du lịch theo đoàn; hướng dẫn viên, nước uống, bảo hiểm du lịch theo quyền lợi hợp đồng."
+      "text": "Bữa ăn theo bảng dịch vụ xác nhận; trải nghiệm Hanbok, kimchi và máng trượt cơ bản theo lịch."
     },
     {
       "type": "p",
-      "text": "✅ VAT theo chương trình áp dụng."
+      "text": "Visa du lịch theo đoàn; hướng dẫn viên, nước uống, bảo hiểm du lịch theo quyền lợi hợp đồng."
+    },
+    {
+      "type": "p",
+      "text": "VAT theo chương trình áp dụng."
     },
     {
       "type": "h3",
@@ -224,19 +240,19 @@
     },
     {
       "type": "p",
-      "text": "❌ Xe sân bay tại Việt Nam nếu đặt thêm, hộ chiếu, phòng đơn, quá cước và chi tiêu cá nhân."
+      "text": "Xe sân bay tại Việt Nam nếu đặt thêm, hộ chiếu, phòng đơn, quá cước và chi tiêu cá nhân."
     },
     {
       "type": "p",
-      "text": "❌ Vé thang máy lên Namsan; cáp treo, trang phục, dụng cụ và các hoạt động tuyết ngoài gói cơ bản."
+      "text": "Vé thang máy lên Namsan; cáp treo, trang phục, dụng cụ và các hoạt động tuyết ngoài gói cơ bản."
     },
     {
       "type": "p",
-      "text": "❌ Bồi dưỡng hướng dẫn viên, tài xế: 2 USD/khách cho đêm trước khởi hành và 6 USD/khách/ngày; khách từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
+      "text": "Bồi dưỡng hướng dẫn viên, tài xế: 2 USD/khách cho đêm trước khởi hành và 6 USD/khách/ngày; khách từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
     },
     {
       "type": "p",
-      "text": "❌ Phụ thu quốc tịch, visa tái nhập Việt Nam và dịch vụ ngoài chương trình, nếu phát sinh."
+      "text": "Phụ thu quốc tịch, visa tái nhập Việt Nam và dịch vụ ngoài chương trình, nếu phát sinh."
     },
     {
       "type": "h3",
@@ -244,23 +260,23 @@
     },
     {
       "type": "p",
-      "text": "📌 Tour có điểm mua sắm theo lịch, không tự ý tách đoàn. Phí bỏ điểm tham khảo: nhân sâm 3.200.000đ; thông đỏ 2.200.000đ; mỹ phẩm 1.700.000đ; miễn thuế hoặc nông sản 1.200.000đ/điểm. Tách đoàn cần được chấp thuận, có thể áp dụng phí 4.500.000đ. Các mức này được kiểm tra lại trước đăng ký."
+      "text": "Tour có điểm mua sắm theo lịch, không tự ý tách đoàn. Phí bỏ điểm tham khảo: nhân sâm 3.200.000đ; thông đỏ 2.200.000đ; mỹ phẩm 1.700.000đ; miễn thuế hoặc nông sản 1.200.000đ/điểm. Tách đoàn cần được chấp thuận, có thể áp dụng phí 4.500.000đ. Các mức này được kiểm tra lại trước đăng ký."
     },
     {
       "type": "p",
-      "text": "📌 Chuẩn bị hồ sơ visa sớm; hộ chiếu còn hạn trên 6 tháng tính từ ngày nhập cảnh lại Việt Nam theo điều kiện chương trình. Hồ sơ cụ thể và khoản không hoàn khi không đạt visa được xác nhận trước thanh toán."
+      "text": "Chuẩn bị hồ sơ visa sớm; hộ chiếu còn hạn trên 6 tháng tính từ ngày nhập cảnh lại Việt Nam theo điều kiện chương trình. Hồ sơ cụ thể và khoản không hoàn khi không đạt visa được xác nhận trước thanh toán."
     },
     {
       "type": "p",
-      "text": "📌 Mức cọc, thời hạn thanh toán và phí đổi/hủy thực hiện theo xác nhận của tour quốc tế này; không mặc định dùng điều kiện đoàn từ 10 khách của tour nội địa."
+      "text": "Mức cọc, thời hạn thanh toán và phí đổi/hủy thực hiện theo xác nhận của tour quốc tế này; không mặc định dùng điều kiện đoàn từ 10 khách của tour nội địa."
     },
     {
       "type": "p",
-      "text": "📌 Mang áo giữ ấm, giày phù hợp đi bộ và hoạt động mùa đông. Tuyết, cảnh quan và hoạt động ngoài trời phụ thuộc thời tiết."
+      "text": "Mang áo giữ ấm, giày phù hợp đi bộ và hoạt động mùa đông. Tuyết, cảnh quan và hoạt động ngoài trời phụ thuộc thời tiết."
     },
     {
       "type": "p",
-      "text": "📌 Giờ bay, khách sạn, bữa tối ngày 4 và thứ tự tham quan được xác nhận theo đoàn."
+      "text": "Giờ bay, khách sạn, bữa tối ngày 4 và thứ tự tham quan được xác nhận theo đoàn."
     },
     {
       "type": "h3",
@@ -272,15 +288,15 @@
     },
     {
       "type": "p",
-      "text": "✅ Chọn lịch phù hợp kỳ nghỉ và thời gian chuẩn bị hồ sơ visa."
+      "text": "Chọn lịch phù hợp kỳ nghỉ và thời gian chuẩn bị hồ sơ visa."
     },
     {
       "type": "p",
-      "text": "✅ Cân đối trải nghiệm tuyết, mua sắm và nhịp đi bộ cho từng độ tuổi."
+      "text": "Cân đối trải nghiệm tuyết, mua sắm và nhịp đi bộ cho từng độ tuổi."
     },
     {
       "type": "p",
-      "text": "✅ Trao đổi yêu cầu khách sạn, bữa ăn, xe sân bay và hoạt động đoàn để có phương án riêng."
+      "text": "Trao đổi yêu cầu khách sạn, bữa ăn, xe sân bay và hoạt động đoàn để có phương án riêng."
     },
     {
       "type": "p",
@@ -296,7 +312,7 @@
     },
     {
       "type": "p",
-      "text": "Không. Khách lẻ hoặc nhóm nhỏ đăng ký ghép đoàn theo lịch còn nhận khách; từ 20 khách có thể xin phương án đoàn riêng."
+      "text": "Quý khách đi một mình hoặc theo nhóm nhỏ đều có thể đăng ký ghép đoàn theo lịch còn chỗ. Đoàn từ 20 khách có thể yêu cầu phương án đi riêng."
     },
     {
       "type": "p",
