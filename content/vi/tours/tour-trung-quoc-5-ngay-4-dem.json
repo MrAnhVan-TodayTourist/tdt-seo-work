@@ -1,194 +1,158 @@
 {
   "slug": "tour-trung-quoc-5-ngay-4-dem",
-  "name": "Tour Trung Quốc 5 Ngày 4 Đêm",
+  "name": "Tour Trung Quốc 6 Ngày 5 Đêm – Thượng Hải, Hàng Châu, Tây Ô Trấn và Tô Châu",
   "region": "international",
   "region_name": "Châu Á",
-  "departure": "Biên Hòa / TP.HCM",
-  "duration": "5 ngày 4 đêm",
-  "price": "19.990.000đ/khách",
+  "departure": "TP.HCM – sân bay Tân Sơn Nhất",
+  "duration": "6 ngày 5 đêm",
+  "price": "Từ 16.990.000đ/khách",
   "image": "trung-quoc.webp",
-  "desc": "Trung Hoa rộng lớn với Thượng Hải lung linh, Tô Châu cổ kính và Vạn Lý Trường Thành hùng vĩ.",
+  "desc": "Khám phá Giang Nam 6N5Đ từ TP.HCM: Thượng Hải, du thuyền Tây Hồ, Ô Trấn Tây Sách và Tô Châu. Giá 16.990.000đ/khách cho lịch 13 hoặc 27/01/2027; tư vấn khách lẻ và đoàn riêng từ 20 khách.",
   "highlights": [
-    "Thượng Hải - Lục Gia Chủy",
-    "Vườn Tô Châu",
-    "Ẩm thực Trung Hoa",
-    "Vé máy bay khứ hồi"
+    "Bến Thượng Hải và khu Lục Gia Chủy",
+    "Du thuyền Tây Hồ ở Hàng Châu",
+    "Tham quan Ô Trấn Tây Sách",
+    "Hàn Sơn Tự và phố cổ Bình Giang",
+    "Bay Vietjet Air từ TP.HCM",
+    "Nhận khách ghép đoàn và tư vấn đoàn riêng"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "h2",
-      "text": "✨ Bắc Kinh – Thượng Hải Tinh hoa Trung Hoa: Cổ kính & Hiện đại"
+      "text": "Giang Nam 6N5Đ: từ Thượng Hải đến những phố bên kênh"
+    },
+    {
+      "type": "p",
+      "text": "Muốn kết hợp tham quan đô thị với một chuyến đi qua những khu phố truyền thống, quý khách có thể cân nhắc tuyến Giang Nam này. TodayTourist trình bày chương trình theo từng chặng để khách dễ xem điểm dừng, số lần đổi khách sạn và phần chi phí cần dự trù trước khi đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Khởi hành:</strong> Tân Sơn Nhất, TP.HCM · <strong>Thời gian:</strong> 6 ngày 5 đêm, có chuyến bay đêm · <strong>Hàng không:</strong> Vietjet Air · <strong>Khách sạn:</strong> 4 sao địa phương, tiêu chuẩn 2 người/phòng."
     },
     {
       "type": "h2",
-      "text": "📌 THÔNG TIN CHƯƠNG TRÌNH"
+      "text": "Lịch khởi hành và giá tháng 01/2027"
+    },
+    {
+      "type": "html",
+      "html": "<table><thead><tr><th><div>Ngày đi – ngày về</div></th><th><div>Giá người lớn</div></th></tr></thead><tbody><tr><td><div>13/01 – 18/01/2027</div></td><td><div><strong>16.990.000đ/khách</strong></div></td></tr><tr><td><div>27/01 – 01/02/2027</div></td><td><div><strong>16.990.000đ/khách</strong></div></td></tr></tbody></table>"
     },
     {
       "type": "p",
-      "text": "🗓 Thời gian: 5 ngày 4 đêm ✈️ Hàng không: Vietnam Airlines / China Southern / Air China (theo thời điểm) 🚍 Phương tiện: Xe du lịch đời mới suốt tuyến 🏨 Lưu trú: Khách sạn 4★ tiêu chuẩn Trung Quốc 📍 Khởi hành: Theo yêu cầu 👥 Đối tượng: Gia đình – Nhóm bạn – Doanh nghiệp – Đoàn thể"
+      "text": "Giá tham khảo ghép đoàn, đối chiếu ngày 15/10/2026; cần kiểm tra lại chỗ và giá lúc xác nhận. Trẻ em, phòng đơn và lịch khác được báo riêng. Đoàn riêng từ 20 khách được tính theo ngày đi và yêu cầu dịch vụ."
     },
     {
       "type": "h2",
-      "text": "🌏 GIỚI THIỆU TOUR"
+      "text": "Lịch trình tham quan"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 1 · TP.HCM – Thượng Hải"
     },
     {
       "type": "p",
-      "text": "Trung Quốc – quốc gia rộng lớn với lịch sử hơn 5.000 năm, nơi giao thoa giữa những công trình cổ đại tráng lệ và đô thị hiện đại bậc nhất châu Á . Cùng TodayTourist , Quý khách sẽ khám phá Bắc Kinh uy nghi – trái tim lịch sử Trung Hoa và Thượng Hải hoa lệ – biểu tượng phát triển vượt bậc của Trung Quốc hiện đại."
+      "text": "Bay tối đến Phố Đông, nhập cảnh rồi về khách sạn."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 2 · Thượng Hải"
+    },
+    {
+      "type": "p",
+      "text": "Lục Gia Chủy, chụp ngoài tháp Đông Phương Minh Châu, Bến Thượng Hải, Miếu Thành Hoàng, Nam Kinh; ghé cửa hàng ngọc, thuốc. Ăn sáng, trưa, tối."
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/avt-mieu-thanh-hoang.jpg\" alt=\"Khu Miếu Thành Hoàng tại Thượng Hải\" style=\"width:100%;height:auto\"><figcaption>Khu Miếu Thành Hoàng tại Thượng Hải — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/depositphotos177123766xl-1710810994949.jpg\" alt=\"Bến Thượng Hải bên sông Hoàng Phố\" style=\"width:100%;height:auto\"><figcaption>Bến Thượng Hải bên sông Hoàng Phố — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 3 · Thượng Hải – Hàng Châu"
+    },
+    {
+      "type": "p",
+      "text": "Đi thuyền Tây Hồ, dạo Tô Đê, làng trà Long Tỉnh và Thanh Hà Phường. Ăn sáng, trưa, tối; nghỉ Hàng Châu."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 4 · Tây Ô Trấn – Tô Châu"
+    },
+    {
+      "type": "p",
+      "text": "Tham quan Ô Trấn Tây Sách; ghé cửa hàng lụa hoặc đồ gia dụng. Ăn sáng, trưa, tối; nghỉ Tô Châu."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 5 · Tô Châu – sân bay Phố Đông"
+    },
+    {
+      "type": "p",
+      "text": "Hàn Sơn Tự, phố Bình Giang rồi ra sân bay. Ăn sáng, trưa, tối. Cầu lễ và thuyền tự chọn tự trả."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 6 · Thượng Hải – TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "Bay rạng sáng về Tân Sơn Nhất, kết thúc chuyến đi."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 01: ✈️ VIỆT NAM – BẮC KINH"
+      "text": "Dịch vụ và chi phí cần biết"
     },
     {
       "type": "p",
-      "text": "🌅 Sáng / Trưa ✈️ Trưởng đoàn TodayTourist đón Quý khách tại sân bay, làm thủ tục xuất cảnh đi Bắc Kinh ."
+      "text": "<strong>Bao gồm:</strong> vé bay 7kg xách tay, 20kg ký gửi; khách sạn, xe, ăn, vé theo lịch; hướng dẫn viên, bảo hiểm, VAT."
     },
     {
       "type": "p",
-      "text": "🌙 Tối 🛬 Đến Bắc Kinh, xe & HDV đón đoàn. 🍽 Dùng bữa tối tại nhà hàng địa phương. 🛏 Nghỉ đêm tại khách sạn Bắc Kinh."
+      "text": "<strong>Chưa gồm:</strong> hộ chiếu, phòng đơn, quá cước, chi tiêu riêng; bồi dưỡng 2 USD đêm trước khởi hành và 5 USD/ngày. Visa dán phát sinh hoặc cho khách nước ngoài báo riêng. Tour có điểm mua sắm; bỏ điểm có phí."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 02: 🏯 BẮC KINH – CỐ CUNG – THIÊN AN MÔN"
+      "text": "Lưu ý khi chọn tour Giang Nam"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Ngày đầu đến khách sạn muộn và ngày cuối bay rạng sáng. Quý khách nên để khoảng nghỉ hợp lý trước và sau chuyến đi, đặc biệt nếu đi cùng trẻ nhỏ hoặc người lớn tuổi. Thông tin thời gian trên vé là căn cứ để sắp xếp xe ra sân bay."
     },
     {
       "type": "p",
-      "text": "📍 Tham quan: 🏛 Quảng trường Thiên An Môn – quảng trường lớn nhất thế giới. 👑 Tử Cấm Thành (Cố Cung) – cung điện hoàng gia triều Minh – Thanh (tham quan theo quy định)."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/quang-truong-thien-an-mon-17.jpg",
-      "alt": "Quảng Trường Thiên An Môn: Biểu Tượng Lịch Sử Giữa Lòng Bắc Kinh"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/tu-cam-thanh-19.jpg",
-      "alt": "Review Du lịch Tử Cấm Thành Trung Quốc: Khám phá Cố Cung bí ẩn nhất Trung Hoa"
+      "text": "Tour này tập trung vào Giang Nam; không có Bắc Kinh hay Vạn Lý Trường Thành. Nếu muốn kết hợp thêm các vùng khác, quý khách trao đổi nhu cầu để TodayTourist tư vấn một chương trình riêng phù hợp hơn."
     },
     {
       "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🏯 Chiều ⛩ Di Hòa Viên – cung điện mùa hè của Từ Hy Thái Hậu. 🛍 Tự do mua sắm đặc sản Bắc Kinh."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/dihoavien-6.jpg",
-      "alt": "DI HOÀ VIÊN - CUNG ĐIỆN MÙA HÈ BẮC KINH"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Bắc Kinh."
+      "text": "Quý khách cần cung cấp quốc tịch và tình trạng hộ chiếu/visa ngay khi hỏi tour. Loại visa áp dụng, chi phí hồ sơ, phí bỏ điểm mua sắm và điều kiện đổi/hủy sẽ được xác nhận trong hồ sơ đăng ký; không mặc định mọi trường hợp có cùng chi phí."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 03: 🧱 VẠN LÝ TRƯỜNG THÀNH – THƯỢNG HẢI"
+      "text": "Khách lẻ và đoàn riêng từ 20 khách"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Đi một mình, cùng gia đình hoặc nhóm bạn, quý khách có thể đăng ký ghép đoàn theo lịch còn nhận khách. Với đoàn riêng từ 20 người, TodayTourist tiếp nhận yêu cầu ngày đi, ngân sách và tiêu chuẩn dịch vụ để xây dựng phương án phù hợp cùng đơn vị chuyên vận hành quốc tế. Giá đoàn riêng được báo theo yêu cầu thực tế."
     },
     {
       "type": "p",
-      "text": "📍 Tham quan: 🧱 Vạn Lý Trường Thành – kỳ quan thế giới, biểu tượng vĩ đại của Trung Hoa."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/1755102530.jpeg",
-      "alt": "Toàn cảnh Vạn Lý Trường Thành và các cửa ải vô cùng hùng vĩ"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🚄 Chiều 🚄 Trải nghiệm tàu cao tốc đi Thượng Hải ."
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Thượng Hải."
+      "text": "Khách tại Biên Hòa, Đồng Nai vui lòng trao đổi nhu cầu di chuyển ra sân bay khi đăng ký; dịch vụ đưa đón được xác nhận và báo giá riêng nếu có."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 04: 🌆 THƯỢNG HẢI – MIẾU THÀNH HOÀNG – BẾN THƯỢNG HẢI"
+      "text": "Cần chuẩn bị gì trước khi đăng ký?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Gửi số khách, độ tuổi trẻ em, thời gian muốn đi và tình trạng hộ chiếu/visa để được kiểm tra chương trình phù hợp. Khi chốt tour, quý khách nhận xác nhận bằng văn bản về ngày bay, dịch vụ, khoản phụ thu, tiến độ thanh toán và điều kiện đổi/hủy. Không áp dụng một mức đặt cọc hoặc chính sách hủy chung cho mọi chuyến."
     },
     {
       "type": "p",
-      "text": "📍 Tham quan: 🏯 Miếu Thành Hoàng – khu phố cổ sầm uất. 🛍 Phố Nam Tường – thiên đường mua sắm & ẩm thực."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/avt-mieu-thanh-hoang.jpg",
-      "alt": "Ghé Miếu Thành Hoàng - Khám phá nét cổ xưa giữa lòng Thượng Hải"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🌉 Chiều 📸 Bến Thượng Hải – ngắm toàn cảnh Lục Gia Chủy. 🏙 Check-in với Tháp Đông Phương Minh Châu (bên ngoài)."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/depositphotos177123766xl-1710810994949.jpg",
-      "alt": "Du lịch Bến Thượng Hải có gì đẹp? Bến Thượng Hải lộng lẫy về đêm | Vietjet Air"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🌃 Tự do khám phá Thượng Hải về đêm. 🛏 Nghỉ đêm tại Thượng Hải."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 05: ✈️ THƯỢNG HẢI – VIỆT NAM"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng – làm thủ tục trả phòng."
-    },
-    {
-      "type": "p",
-      "text": "🚍 Xe đưa đoàn ra sân bay, làm thủ tục đáp chuyến bay về Việt Nam."
-    },
-    {
-      "type": "p",
-      "text": "🏁 Kết thúc chương trình Tour Trung Quốc 5N4Đ , HDV chia tay và hẹn gặp lại Quý khách."
-    },
-    {
-      "type": "h2",
-      "text": "💰 GIÁ TOUR THAM KHẢO"
-    },
-    {
-      "type": "p",
-      "text": "💵 Từ 19.990.000đ/khách (Áp dụng cho đoàn từ 20 khách – giá thay đổi theo mùa & hãng bay)"
-    },
-    {
-      "type": "h2",
-      "text": "✅ GIÁ TOUR BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✈️ Vé máy bay khứ hồi Việt Nam – Trung Quốc 🚍 Xe du lịch đời mới suốt tuyến 🏨 Khách sạn 4★ (2 khách/phòng) 🍽 Ăn uống theo chương trình 🎟 Vé tham quan các điểm trong chương trình 🚄 Vé tàu cao tốc nội địa 🧑‍✈️ Trưởng đoàn TodayTourist & HDV địa phương 🛡 Bảo hiểm du lịch quốc tế 💧 Nước suối – nón du lịch"
-    },
-    {
-      "type": "h2",
-      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✖️ Phí visa Trung Quốc ✖️ Hộ chiếu còn hạn trên 6 tháng ✖️ Chi phí cá nhân ngoài chương trình ✖️ Thuế VAT"
+      "text": "<strong>Tư vấn TodayTourist: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo nhận lịch trình và báo giá</a>"
     }
   ],
   "hidden": true
