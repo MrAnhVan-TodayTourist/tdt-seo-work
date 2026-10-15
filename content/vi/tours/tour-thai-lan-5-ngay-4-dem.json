@@ -7,7 +7,7 @@
   "duration": "5 ngày 4 đêm",
   "price": "Từ 9.990.000đ/khách",
   "image": "thai-lan.webp",
-  "desc": "Tour Thái Lan 5N4Đ bay từ TP.HCM: Bangkok – Pattaya, đảo Coral, vườn Nong Nooch, thuyền sông Chao Phraya và buffet Baiyoke Sky. Giá 9.990.000đ/khách cho lịch 11/02/2027; nhận khách lẻ và tư vấn đoàn riêng từ 20 khách.",
+  "desc": "Tour Thái Lan 5N4Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Bangkok, Pattaya, đảo Coral và vườn Nong Nooch. Bay từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Đảo Coral và vườn nhiệt đới Nong Nooch",
     "Show Alcazar trong chương trình",
@@ -32,11 +32,11 @@
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Phương tiện:</strong> Vietnam Airlines từ TP.HCM + xe du lịch theo hành trình"
+      "text": "<strong>Phương tiện:</strong> Vietnam Airlines từ TP.HCM + xe du lịch theo hành trình"
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 4 sao địa phương, 2 người/phòng; phòng ba tùy khả năng bố trí"
+      "text": "🏨 <strong>Lưu trú:</strong> khách sạn tiêu chuẩn 4 sao địa phương, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước"
     },
     {
       "type": "p",
@@ -52,31 +52,35 @@
     },
     {
       "type": "p",
-      "text": "Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn để gặp hướng dẫn viên của đoàn và làm thủ tục hàng không. TodayTourist tư vấn lịch tập trung, giấy tờ và phương án di chuyển phù hợp cho khách tại Biên Hòa, Đồng Nai."
+      "text": "Quý khách tại nội ô trung tâm Biên Hòa có nhu cầu xe đưa ra sân bay Tân Sơn Nhất vui lòng đăng ký địa chỉ đón khi đặt tour. TodayTourist tư vấn phương án đón tại địa chỉ hoặc về điểm tập kết tại trụ sở công ty: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai, tùy tuyến xe và số lượng khách."
     },
     {
       "type": "p",
-      "text": "📌 Khách cần xe từ Biên Hòa ra sân bay và đón về vui lòng báo khi đăng ký. Dịch vụ này được xác nhận, báo giá riêng; không mặc định nằm trong giá tour quốc tế."
+      "text": "Quý khách ở dọc tuyến xe đi qua có thể đăng ký điểm đón thuận đường; khách tại TP.HCM có thể tập trung trực tiếp tại ga quốc tế Tân Sơn Nhất theo giờ hẹn của đoàn. Chiều về, điểm đón sân bay và trả khách được thống nhất khi đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "Điểm đón, giờ đón, khả năng bố trí xe và chi phí được TodayTourist xác nhận trước khi khách chốt dịch vụ."
     },
     {
       "type": "h3",
-      "text": "✈️ NGÀY 01: TP.HCM – BANGKOK – PATTAYA"
+      "text": "NGÀY 01: TP.HCM – BANGKOK – PATTAYA"
     },
     {
       "type": "p",
-      "text": "🌅 <strong>Buổi sáng:</strong> Quý khách gặp hướng dẫn viên tại sân bay Tân Sơn Nhất, làm thủ tục bay đến Bangkok. Đến nơi, xe và hướng dẫn viên địa phương đón đoàn, khởi hành về thành phố biển Pattaya."
+      "text": "<strong>Buổi sáng:</strong> Quý khách gặp hướng dẫn viên tại sân bay Tân Sơn Nhất, làm thủ tục bay đến Bangkok. Đến nơi, xe và hướng dẫn viên địa phương đón đoàn, khởi hành về thành phố biển Pattaya."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng theo sắp xếp thực tế của đoàn."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng theo sắp xếp thực tế của đoàn."
     },
     {
       "type": "p",
-      "text": "🛕 <strong>Buổi chiều:</strong> Ghé thưởng thức café và bánh phủ vàng; tham quan <strong>Wat Phra Yai – Chùa Phật Lớn</strong>, dành thời gian chiêm bái và chụp ảnh trong khuôn viên."
+      "text": "<strong>Buổi chiều:</strong> Ghé thưởng thức café và bánh phủ vàng; tham quan <strong>Wat Phra Yai – Chùa Phật Lớn</strong>, dành thời gian chiêm bái và chụp ảnh trong khuôn viên."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Dùng bữa BBQ tại nhà hàng. Sau đó tự do khám phá Pattaya về đêm, nghỉ tại khách sạn ở Pattaya."
+      "text": "<strong>Buổi tối:</strong> Dùng bữa BBQ tại nhà hàng. Sau đó tự do khám phá Pattaya về đêm, nghỉ tại khách sạn ở Pattaya."
     },
     {
       "type": "html",
@@ -84,23 +88,23 @@
     },
     {
       "type": "h3",
-      "text": "🌊 NGÀY 02: ĐẢO CORAL – NONG NOOCH – TRÂN BẢO PHẬT SƠN"
+      "text": "NGÀY 02: ĐẢO CORAL – NONG NOOCH – TRÂN BẢO PHẬT SƠN"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, đi canô đến <strong>đảo Coral</strong>. Quý khách tự do tắm biển, chụp ảnh; các trò chơi biển và hoạt động tự chọn thanh toán riêng."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, đi canô đến <strong>đảo Coral</strong>. Quý khách tự do tắm biển, chụp ảnh; các trò chơi biển và hoạt động tự chọn thanh toán riêng."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng cơm tại nhà hàng địa phương."
+      "text": "<strong>Buổi trưa:</strong> Dùng cơm tại nhà hàng địa phương."
     },
     {
       "type": "p",
-      "text": "🌿 <strong>Buổi chiều:</strong> Ghé trung tâm đá quý World Gems Collection hoặc cửa hàng trầm hương; tiếp tục tham quan <strong>vườn nhiệt đới Nong Nooch</strong>, xem chương trình biểu diễn theo khung giờ vận hành. Đoàn ghé <strong>Trân Bảo Phật Sơn</strong> với hình Phật trên vách núi."
+      "text": "<strong>Buổi chiều:</strong> Ghé trung tâm đá quý World Gems Collection hoặc cửa hàng trầm hương; tiếp tục tham quan <strong>vườn nhiệt đới Nong Nooch</strong>, xem chương trình biểu diễn theo khung giờ vận hành. Đoàn ghé <strong>Trân Bảo Phật Sơn</strong> với hình Phật trên vách núi."
     },
     {
       "type": "p",
-      "text": "🎭 <strong>Buổi tối:</strong> Ăn tối và thưởng thức <strong>Alcazar Show</strong> theo chương trình. Nghỉ đêm tại Pattaya."
+      "text": "<strong>Buổi tối:</strong> Ăn tối và thưởng thức <strong>Alcazar Show</strong> theo chương trình. Nghỉ đêm tại Pattaya."
     },
     {
       "type": "html",
@@ -112,23 +116,23 @@
     },
     {
       "type": "h3",
-      "text": "🛕 NGÀY 03: PATTAYA – BANGKOK – WAT SAKET"
+      "text": "NGÀY 03: PATTAYA – BANGKOK – WAT SAKET"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng và khởi hành về Bangkok. Trên đường, tham quan <strong>bảo tàng nghệ thuật ánh sáng và vườn khinh khí cầu</strong>, thưởng thức phần xôi xoài hoặc trà sữa theo chương trình."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng và khởi hành về Bangkok. Trên đường, tham quan <strong>bảo tàng nghệ thuật ánh sáng và vườn khinh khí cầu</strong>, thưởng thức phần xôi xoài hoặc trà sữa theo chương trình."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng."
     },
     {
       "type": "p",
-      "text": "🏙️ <strong>Buổi chiều:</strong> Ghé trung tâm latex, trại rắn và <strong>chùa Wat Saket</strong>. Quý khách cân nhắc sức khỏe khi đi bậc thang; nghe hướng dẫn trước khi tham quan."
+      "text": "<strong>Buổi chiều:</strong> Ghé trung tâm latex, trại rắn và <strong>chùa Wat Saket</strong>. Quý khách cân nhắc sức khỏe khi đi bậc thang; nghe hướng dẫn trước khi tham quan."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, tự do khám phá Bangkok, có thể dạo khu Khao San theo sắp xếp của đoàn. Về khách sạn đúng giờ hẹn, nghỉ Bangkok."
+      "text": "<strong>Buổi tối:</strong> Ăn tối, tự do khám phá Bangkok, có thể dạo khu Khao San theo sắp xếp của đoàn. Về khách sạn đúng giờ hẹn, nghỉ Bangkok."
     },
     {
       "type": "html",
@@ -136,27 +140,27 @@
     },
     {
       "type": "h3",
-      "text": "🚤 NGÀY 04: CHÙA THUYỀN – CHAO PHRAYA – BAIYOKE SKY"
+      "text": "NGÀY 04: CHÙA THUYỀN – CHAO PHRAYA – BAIYOKE SKY"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, tham quan <strong>Wat Yannawa – Chùa Thuyền</strong>, sau đó dạo thuyền trên sông Chao Phraya để ngắm một góc Bangkok từ mặt nước."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, tham quan <strong>Wat Yannawa – Chùa Thuyền</strong>, sau đó dạo thuyền trên sông Chao Phraya để ngắm một góc Bangkok từ mặt nước."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Thưởng thức <strong>buffet tại Baiyoke Sky</strong>, kết hợp ngắm cảnh thành phố từ trên cao."
+      "text": "<strong>Buổi trưa:</strong> Thưởng thức <strong>buffet tại Baiyoke Sky</strong>, kết hợp ngắm cảnh thành phố từ trên cao."
     },
     {
       "type": "p",
-      "text": "🛍️ <strong>Buổi chiều:</strong> Ghé đền Erawan, sau đó tự do mua sắm ở Big C, Platinum hoặc trung tâm phù hợp với lịch vận hành."
+      "text": "<strong>Buổi chiều:</strong> Ghé đền Erawan, sau đó tự do mua sắm ở Big C, Platinum hoặc trung tâm phù hợp với lịch vận hành."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Quý khách <strong>tự túc bữa tối</strong>, tự do trải nghiệm ẩm thực Bangkok. Nghỉ đêm tại khách sạn."
+      "text": "<strong>Buổi tối:</strong> Quý khách <strong>tự túc bữa tối</strong>, tự do trải nghiệm ẩm thực Bangkok. Nghỉ đêm tại khách sạn."
     },
     {
       "type": "p",
-      "text": "💡 <strong>Bạn có biết:</strong> Wat Yannawa có công trình hình thuyền mang nét kiến trúc Trung Hoa – chi tiết tạo nên tên gọi Chùa Thuyền quen thuộc với khách Việt. <a href=\"https://www.tourismthailand.org/Attraction/wat-yan-nawa\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu điểm đến</a>."
+      "text": "<strong>Bạn có biết:</strong> Wat Yannawa có công trình hình thuyền mang nét kiến trúc Trung Hoa – chi tiết tạo nên tên gọi Chùa Thuyền quen thuộc với khách Việt. <a href=\"https://www.tourismthailand.org/Attraction/wat-yan-nawa\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu điểm đến</a>."
     },
     {
       "type": "html",
@@ -164,15 +168,15 @@
     },
     {
       "type": "h3",
-      "text": "🏠 NGÀY 05: BANGKOK – TP.HCM"
+      "text": "NGÀY 05: BANGKOK – TP.HCM"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Xe đưa đoàn ra sân bay Bangkok, làm thủ tục chuyến bay về TP.HCM."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Xe đưa đoàn ra sân bay Bangkok, làm thủ tục chuyến bay về TP.HCM."
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Kết thúc hành trình:</strong> Đến sân bay Tân Sơn Nhất, hướng dẫn viên chia tay đoàn. Giờ bay và thời gian có mặt ở sân bay thực hiện theo xác nhận chuyến đi."
+      "text": "<strong>Kết thúc hành trình:</strong> Đến sân bay Tân Sơn Nhất, hướng dẫn viên chia tay đoàn. Giờ bay và thời gian có mặt ở sân bay thực hiện theo xác nhận chuyến đi."
     },
     {
       "type": "h3",
@@ -192,11 +196,11 @@
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Phòng đơn:</strong> liên hệ báo giá."
+      "text": "<strong>Phòng đơn:</strong> liên hệ báo giá."
     },
     {
       "type": "p",
-      "text": "📌 Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
+      "text": "Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
     },
     {
       "type": "h3",
@@ -204,23 +208,34 @@
     },
     {
       "type": "p",
-      "text": "✅ Vé máy bay theo hành trình Vietnam Airlines; 10kg xách tay, 23kg ký gửi theo điều kiện vé đoàn."
+      "text": "Vé máy bay theo hành trình Vietnam Airlines; 10kg xách tay, 23kg ký gửi theo điều kiện vé đoàn."
     },
     {
       "type": "p",
-      "text": "✅ Khách sạn 4 sao địa phương và xe tham quan theo chương trình."
+      "text": "Khách sạn 4 sao địa phương và xe tham quan theo chương trình."
     },
     {
       "type": "p",
-      "text": "✅ Các bữa ăn được ghi trong lịch trình, gồm buffet Baiyoke Sky; vé tham quan và Alcazar Show."
+      "text": "<strong>Khách sạn dự kiến hoặc tương đương cùng hạng:</strong>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Bangkok: Madison, SD Avenue, Jazzotel, The Pantip.",
+        "Pattaya: Memo, Crystal Palace, Aiyara Palace, Kudos Parc, Boutique City."
+      ]
     },
     {
       "type": "p",
-      "text": "✅ Hướng dẫn viên, nước uống trên xe và bảo hiểm du lịch theo quyền lợi hợp đồng."
+      "text": "Các bữa ăn được ghi trong lịch trình, gồm buffet Baiyoke Sky; vé tham quan và Alcazar Show."
     },
     {
       "type": "p",
-      "text": "✅ VAT theo chương trình áp dụng."
+      "text": "Hướng dẫn viên, nước uống trên xe và bảo hiểm du lịch theo quyền lợi hợp đồng."
+    },
+    {
+      "type": "p",
+      "text": "VAT theo chương trình áp dụng."
     },
     {
       "type": "h3",
@@ -228,19 +243,19 @@
     },
     {
       "type": "p",
-      "text": "❌ Xe đưa đón sân bay Tân Sơn Nhất; hộ chiếu, phụ thu phòng đơn và hành lý quá cước."
+      "text": "Xe đưa đón sân bay Tân Sơn Nhất; hộ chiếu, phụ thu phòng đơn và hành lý quá cước."
     },
     {
       "type": "p",
-      "text": "❌ Bữa tối ngày 4, trò chơi biển, mua sắm và các dịch vụ ngoài chương trình."
+      "text": "Bữa tối ngày 4, trò chơi biển, mua sắm và các dịch vụ ngoài chương trình."
     },
     {
       "type": "p",
-      "text": "❌ Tiền bồi dưỡng hướng dẫn viên, tài xế: 4 USD/khách/ngày; trẻ từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
+      "text": "Tiền bồi dưỡng hướng dẫn viên, tài xế: 4 USD/khách/ngày; trẻ từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
     },
     {
       "type": "p",
-      "text": "❌ Phụ thu khách quốc tịch nước ngoài theo chương trình; visa tái nhập Việt Nam nếu cần."
+      "text": "Phụ thu khách quốc tịch nước ngoài theo chương trình; visa tái nhập Việt Nam nếu cần."
     },
     {
       "type": "h3",
@@ -248,23 +263,23 @@
     },
     {
       "type": "p",
-      "text": "📌 Chương trình có điểm tham quan kết hợp mua sắm. Nhu cầu bỏ điểm hoặc tách đoàn phải trao đổi trước và được xác nhận điều kiện, chi phí."
+      "text": "Chương trình có điểm tham quan kết hợp mua sắm. Nhu cầu bỏ điểm hoặc tách đoàn phải trao đổi trước và được xác nhận điều kiện, chi phí."
     },
     {
       "type": "p",
-      "text": "📌 Hộ chiếu cần còn hạn trên 6 tháng tính từ ngày nhập cảnh lại Việt Nam theo điều kiện chương trình. Khách có quốc tịch khác cần kiểm tra hồ sơ riêng."
+      "text": "Hộ chiếu cần còn hạn trên 6 tháng tính từ ngày nhập cảnh lại Việt Nam theo điều kiện chương trình. Khách có quốc tịch khác cần kiểm tra hồ sơ riêng."
     },
     {
       "type": "p",
-      "text": "📌 Lịch trình có thể đổi thứ tự theo giờ bay, giao thông, thời tiết; hoạt động ra đảo phụ thuộc điều kiện thực tế."
+      "text": "Lịch trình có thể đổi thứ tự theo giờ bay, giao thông, thời tiết; hoạt động ra đảo phụ thuộc điều kiện thực tế."
     },
     {
       "type": "p",
-      "text": "📌 Tiến độ thanh toán, mức cọc và phí đổi/hủy được xác nhận cho đúng ngày đi trước khi thanh toán. Điều kiện đoàn từ 10 khách của tour nội địa không áp dụng mặc định cho tour này."
+      "text": "Tiến độ thanh toán, mức cọc và phí đổi/hủy được xác nhận cho đúng ngày đi trước khi thanh toán. Điều kiện đoàn từ 10 khách của tour nội địa không áp dụng mặc định cho tour này."
     },
     {
       "type": "p",
-      "text": "📌 Mang trang phục phù hợp khi vào chùa; tự bảo quản giấy tờ và tài sản cá nhân."
+      "text": "Mang trang phục phù hợp khi vào chùa; tự bảo quản giấy tờ và tài sản cá nhân."
     },
     {
       "type": "h3",
@@ -276,15 +291,15 @@
     },
     {
       "type": "p",
-      "text": "✅ Chọn ngày đi và tiêu chuẩn khách sạn phù hợp ngân sách."
+      "text": "Chọn ngày đi và tiêu chuẩn khách sạn phù hợp ngân sách."
     },
     {
       "type": "p",
-      "text": "✅ Cân đối tham quan, nghỉ biển, mua sắm và nhu cầu của gia đình hoặc doanh nghiệp."
+      "text": "Cân đối tham quan, nghỉ biển, mua sắm và nhu cầu của gia đình hoặc doanh nghiệp."
     },
     {
       "type": "p",
-      "text": "✅ Trao đổi nhu cầu xe sân bay, thực đơn và các hoạt động tập thể để báo riêng."
+      "text": "Trao đổi nhu cầu xe sân bay, thực đơn và các hoạt động tập thể để báo riêng."
     },
     {
       "type": "p",
@@ -300,7 +315,7 @@
     },
     {
       "type": "p",
-      "text": "Đoàn tập trung ở sân bay Tân Sơn Nhất. Khách cần xe từ Biên Hòa vui lòng báo trước để nhận báo giá riêng."
+      "text": "Đoàn làm thủ tục tại ga quốc tế Tân Sơn Nhất. Khách tại Biên Hòa đăng ký nhu cầu đón nội ô hoặc tại điểm tập kết; khách dọc tuyến đăng ký điểm đón thuận đường. TodayTourist xác nhận tuyến xe, giờ đón và chi phí trước khi chốt dịch vụ."
     },
     {
       "type": "p",
