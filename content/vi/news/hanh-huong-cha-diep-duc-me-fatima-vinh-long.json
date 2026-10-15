@@ -2,7 +2,7 @@
   "slug": "hanh-huong-cha-diep-duc-me-fatima-vinh-long",
   "title": "HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG",
   "category": "Hành trình khách đoàn",
-  "image": "news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-1.jpg",
+  "image": "hanh-huong-cha-diep-duc-me-fatima-vinh-long.jpg",
   "summary": "Có những chuyến đi không phải để tham quan, mà để tìm sự bình an, để dâng lời cầu nguyện, để đặt những lo toan đời sống vào vòng tay yêu thương của Cha Diệp & Đức Mẹ.",
   "body": "",
   "published_at": "2026-09-21",
@@ -12,9 +12,8 @@
       "text": "Khởi hành tối Thứ 7 hằng tuần"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-2.jpg",
-      "alt": "HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-2.jpg\" alt=\"HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG\"></figure>"
     },
     {
       "type": "p",
