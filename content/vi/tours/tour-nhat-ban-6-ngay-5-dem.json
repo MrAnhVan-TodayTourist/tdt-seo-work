@@ -7,7 +7,7 @@
   "duration": "6 ngày 5 đêm",
   "price": "Từ 34.990.000đ/khách",
   "image": "nhat-ban.webp",
-  "desc": "Tour Nhật Bản 6N5Đ từ TP.HCM qua Tokyo, Phú Sĩ, Takayama, làng Shirakawago, Kyoto và Osaka. Giá 34.990.000đ/khách cho lịch 12 hoặc 26/01/2027. Tư vấn khách lẻ và đoàn riêng từ 20 khách.",
+  "desc": "Tour Nhật Bản 6N5Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Tokyo, Phú Sĩ, Takayama, Shirakawago, Kyoto và Osaka. Bay từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Tokyo và khu vực núi Phú Sĩ",
     "Phố cổ Takayama và làng Shirakawago",
@@ -32,11 +32,11 @@
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Phương tiện:</strong> Vietjet Air từ TP.HCM + xe du lịch theo hành trình"
+      "text": "<strong>Phương tiện:</strong> Vietjet Air từ TP.HCM + xe du lịch theo hành trình"
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn tiêu chuẩn 3 sao, 2 người/phòng; địa điểm lưu trú theo từng chặng"
+      "text": "🏨 <strong>Lưu trú:</strong> khách sạn tiêu chuẩn 3 sao, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước"
     },
     {
       "type": "p",
@@ -52,47 +52,51 @@
     },
     {
       "type": "p",
-      "text": "Quý khách tập trung tại ga quốc tế sân bay Tân Sơn Nhất theo giờ hẹn để gặp hướng dẫn viên của đoàn và làm thủ tục hàng không. TodayTourist tư vấn lịch tập trung, giấy tờ và phương án di chuyển phù hợp cho khách tại Biên Hòa, Đồng Nai."
+      "text": "Quý khách tại nội ô trung tâm Biên Hòa có nhu cầu xe đưa ra sân bay Tân Sơn Nhất vui lòng đăng ký địa chỉ đón khi đặt tour. TodayTourist tư vấn phương án đón tại địa chỉ hoặc về điểm tập kết tại trụ sở công ty: 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai, tùy tuyến xe và số lượng khách."
     },
     {
       "type": "p",
-      "text": "📌 Khách cần xe từ Biên Hòa ra sân bay và đón về vui lòng báo khi đăng ký. Dịch vụ này được xác nhận, báo giá riêng; không mặc định nằm trong giá tour quốc tế."
+      "text": "Quý khách ở dọc tuyến xe đi qua có thể đăng ký điểm đón thuận đường; khách tại TP.HCM có thể tập trung trực tiếp tại ga quốc tế Tân Sơn Nhất theo giờ hẹn của đoàn. Chiều về, điểm đón sân bay và trả khách được thống nhất khi đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "Điểm đón, giờ đón, khả năng bố trí xe và chi phí được TodayTourist xác nhận trước khi khách chốt dịch vụ."
     },
     {
       "type": "h3",
-      "text": "✈️ NGÀY 01: TP.HCM – NARITA"
+      "text": "NGÀY 01: TP.HCM – NARITA"
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Quý khách tập trung tại ga quốc tế Tân Sơn Nhất theo giờ hẹn. Hướng dẫn viên hỗ trợ làm thủ tục chuyến bay đi Narita, Nhật Bản."
+      "text": "<strong>Buổi tối:</strong> Quý khách tập trung tại ga quốc tế Tân Sơn Nhất theo giờ hẹn. Hướng dẫn viên hỗ trợ làm thủ tục chuyến bay đi Narita, Nhật Bản."
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Nghỉ đêm:</strong> Nghỉ trên máy bay. Quý khách xem xác nhận vé để sắp xếp thời gian ra sân bay, hành lý và bữa ăn phù hợp."
+      "text": "<strong>Nghỉ đêm:</strong> Nghỉ trên máy bay. Quý khách xem xác nhận vé để sắp xếp thời gian ra sân bay, hành lý và bữa ăn phù hợp."
     },
     {
       "type": "h3",
-      "text": "🏮 NGÀY 02: TOKYO – ASAKUSA – YAMANASHI"
+      "text": "NGÀY 02: TOKYO – ASAKUSA – YAMANASHI"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Đến Narita, làm thủ tục nhập cảnh, dùng bữa sáng nhẹ theo chương trình. Xe đưa đoàn vào Tokyo tham quan <strong>Asakusa Kannon</strong> và khu phố mua sắm Nakamise. Quý khách ngắm kiến trúc cổng, tháp và các gian hàng truyền thống."
+      "text": "<strong>Buổi sáng:</strong> Đến Narita, làm thủ tục nhập cảnh, dùng bữa sáng nhẹ theo chương trình. Xe đưa đoàn vào Tokyo tham quan <strong>Asakusa Kannon</strong> và khu phố mua sắm Nakamise. Quý khách ngắm kiến trúc cổng, tháp và các gian hàng truyền thống."
     },
     {
       "type": "p",
-      "text": "📸 <strong>Trong buổi tham quan Tokyo:</strong> Chụp ảnh <strong>Tokyo Skytree</strong> và <strong>Hoàng cung</strong> từ bên ngoài; chương trình không bao gồm vào đài quan sát hoặc nội cung."
+      "text": "<strong>Trong buổi tham quan Tokyo:</strong> Chụp ảnh <strong>Tokyo Skytree</strong> và <strong>Hoàng cung</strong> từ bên ngoài; chương trình không bao gồm vào đài quan sát hoặc nội cung."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng theo lịch đoàn."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng theo lịch đoàn."
     },
     {
       "type": "p",
-      "text": "🏡 <strong>Buổi chiều:</strong> Di chuyển về Yamanashi, ghé <strong>làng Oshino Hakkai</strong> ở khu vực chân núi Phú Sĩ. Quý khách dạo làng, ngắm những hồ nước và chụp ảnh."
+      "text": "<strong>Buổi chiều:</strong> Di chuyển về Yamanashi, ghé <strong>làng Oshino Hakkai</strong> ở khu vực chân núi Phú Sĩ. Quý khách dạo làng, ngắm những hồ nước và chụp ảnh."
     },
     {
       "type": "p",
-      "text": "♨️ <strong>Buổi tối:</strong> Dùng bữa tối có chân cua tuyết theo chương trình, về khách sạn vùng Phú Sĩ. Tự do trải nghiệm tắm onsen theo hướng dẫn tại nơi lưu trú."
+      "text": "<strong>Buổi tối:</strong> Dùng bữa tối có chân cua tuyết theo chương trình, về khách sạn vùng Phú Sĩ. Tự do trải nghiệm tắm onsen theo hướng dẫn tại nơi lưu trú."
     },
     {
       "type": "html",
@@ -100,23 +104,23 @@
     },
     {
       "type": "h3",
-      "text": "🗻 NGÀY 03: PHÚ SĨ – KAWAGUCHIKO – MATSUMOTO – TAKAYAMA"
+      "text": "NGÀY 03: PHÚ SĨ – KAWAGUCHIKO – MATSUMOTO – TAKAYAMA"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Tham quan <strong>núi Phú Sĩ</strong>; lên trạm 5 nếu thời tiết và đường đi cho phép. Khi không thể lên trạm, đoàn tham quan chân núi hoặc trung tâm thông tin theo phương án thực tế."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Tham quan <strong>núi Phú Sĩ</strong>; lên trạm 5 nếu thời tiết và đường đi cho phép. Khi không thể lên trạm, đoàn tham quan chân núi hoặc trung tâm thông tin theo phương án thực tế."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng trên tuyến."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng trên tuyến."
     },
     {
       "type": "p",
-      "text": "🏞️ <strong>Buổi chiều:</strong> Với lịch tháng 1, đoàn ghé <strong>hồ Kawaguchiko</strong>, sau đó chụp hình bên ngoài <strong>lâu đài Matsumoto</strong> và tiếp tục chặng đến khu vực Takayama."
+      "text": "<strong>Buổi chiều:</strong> Với lịch tháng 1, đoàn ghé <strong>hồ Kawaguchiko</strong>, sau đó chụp hình bên ngoài <strong>lâu đài Matsumoto</strong> và tiếp tục chặng đến khu vực Takayama."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, nhận phòng nghỉ tại Takayama hoặc Matsumoto theo bố trí của đoàn."
+      "text": "<strong>Buổi tối:</strong> Ăn tối, nhận phòng nghỉ tại Takayama hoặc Matsumoto theo bố trí của đoàn."
     },
     {
       "type": "html",
@@ -124,23 +128,23 @@
     },
     {
       "type": "h3",
-      "text": "🏡 NGÀY 04: TAKAYAMA – SHIRAKAWAGO – GIFU"
+      "text": "NGÀY 04: TAKAYAMA – SHIRAKAWAGO – GIFU"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Dạo <strong>phố cổ Sanmachi</strong> tại Takayama, ngắm những dãy nhà gỗ, cửa hàng thủ công và không gian phố truyền thống."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng. Dạo <strong>phố cổ Sanmachi</strong> tại Takayama, ngắm những dãy nhà gỗ, cửa hàng thủ công và không gian phố truyền thống."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa theo chương trình; trong chặng này có một bữa thưởng thức bò Hida."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa theo chương trình; trong chặng này có một bữa thưởng thức bò Hida."
     },
     {
       "type": "p",
-      "text": "📸 <strong>Buổi chiều:</strong> Tham quan <strong>Shirakawago</strong>, dạo trong khu làng để ngắm kiến trúc nhà cổ và chụp ảnh. Sau đó đoàn tiếp tục đến khu vực Gifu."
+      "text": "<strong>Buổi chiều:</strong> Tham quan <strong>Shirakawago</strong>, dạo trong khu làng để ngắm kiến trúc nhà cổ và chụp ảnh. Sau đó đoàn tiếp tục đến khu vực Gifu."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, nghỉ tại Gifu, Nagoya hoặc Toyohashi theo sắp xếp khách sạn."
+      "text": "<strong>Buổi tối:</strong> Ăn tối, nghỉ tại Gifu, Nagoya hoặc Toyohashi theo sắp xếp khách sạn."
     },
     {
       "type": "p",
@@ -156,23 +160,23 @@
     },
     {
       "type": "h3",
-      "text": "🏯 NGÀY 05: KYOTO – OSAKA – KANSAI"
+      "text": "NGÀY 05: KYOTO – OSAKA – KANSAI"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng, đi Kyoto tham quan <strong>Chùa Vàng Kinkaku-ji</strong>. Nếu đủ thời gian, đoàn ghé <strong>Fushimi Inari</strong>, chụp ảnh khu cổng torii."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng, đi Kyoto tham quan <strong>Chùa Vàng Kinkaku-ji</strong>. Nếu đủ thời gian, đoàn ghé <strong>Fushimi Inari</strong>, chụp ảnh khu cổng torii."
     },
     {
       "type": "p",
-      "text": "🍽️ <strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương."
+      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương."
     },
     {
       "type": "p",
-      "text": "🏙️ <strong>Buổi chiều:</strong> Di chuyển đến Osaka, chụp hình khuôn viên bên ngoài <strong>lâu đài Osaka</strong>. Dạo mua sắm ở <strong>Shinsaibashi</strong> nếu thời gian cho phép."
+      "text": "<strong>Buổi chiều:</strong> Di chuyển đến Osaka, chụp hình khuôn viên bên ngoài <strong>lâu đài Osaka</strong>. Dạo mua sắm ở <strong>Shinsaibashi</strong> nếu thời gian cho phép."
     },
     {
       "type": "p",
-      "text": "🌙 <strong>Buổi tối:</strong> Ăn tối, nhận phòng khách sạn tại khu vực Kansai, chuẩn bị hành lý cho chuyến bay về."
+      "text": "<strong>Buổi tối:</strong> Ăn tối, nhận phòng khách sạn tại khu vực Kansai, chuẩn bị hành lý cho chuyến bay về."
     },
     {
       "type": "html",
@@ -180,15 +184,15 @@
     },
     {
       "type": "h3",
-      "text": "🏠 NGÀY 06: KANSAI – TP.HCM"
+      "text": "NGÀY 06: KANSAI – TP.HCM"
     },
     {
       "type": "p",
-      "text": "🍳 <strong>Buổi sáng:</strong> Ăn sáng, trả phòng; xe đưa đoàn ra sân bay Kansai làm thủ tục bay về TP.HCM."
+      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng; xe đưa đoàn ra sân bay Kansai làm thủ tục bay về TP.HCM."
     },
     {
       "type": "p",
-      "text": "✈️ <strong>Kết thúc hành trình:</strong> Về đến Tân Sơn Nhất, hướng dẫn viên chia tay đoàn. Giờ bay, thứ tự điểm và khách sạn được xác nhận theo chuyến thực tế."
+      "text": "<strong>Kết thúc hành trình:</strong> Về đến Tân Sơn Nhất, hướng dẫn viên chia tay đoàn. Giờ bay, thứ tự điểm và khách sạn được xác nhận theo chuyến thực tế."
     },
     {
       "type": "h3",
@@ -199,8 +203,12 @@
       "text": "💵 <strong>Người lớn và trẻ từ 11 tuổi:</strong> 34.990.000đ/khách."
     },
     {
+      "type": "h3",
+      "text": "LỊCH KHỞI HÀNH ÁP DỤNG GIÁ TRÊN"
+    },
+    {
       "type": "p",
-      "text": "📅 <strong>Lịch áp dụng:</strong> 12/01 – 17/01/2027 hoặc 26/01 – 31/01/2027."
+      "text": "<strong>Ngày đi – ngày về:</strong> 12/01 – 17/01/2027 hoặc 26/01 – 31/01/2027."
     },
     {
       "type": "p",
@@ -212,11 +220,11 @@
     },
     {
       "type": "p",
-      "text": "🛏️ <strong>Phòng đơn:</strong> liên hệ báo giá. Nhu cầu phòng đôi một giường hoặc phòng ba cần kiểm tra trước."
+      "text": "<strong>Phòng đơn:</strong> liên hệ báo giá. Nhu cầu phòng đôi một giường hoặc phòng ba cần kiểm tra trước."
     },
     {
       "type": "p",
-      "text": "📌 Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
+      "text": "Giá tham khảo đối chiếu ngày 15/10/2026, áp dụng cho lịch ghi trên và tình trạng chỗ tại thời điểm xác nhận. Ngày khác, phòng đơn và yêu cầu riêng được báo giá trước khi đăng ký."
     },
     {
       "type": "h3",
@@ -224,23 +232,44 @@
     },
     {
       "type": "p",
-      "text": "✅ Vé bay Vietjet Air theo hành trình, 7kg xách tay và 20kg ký gửi theo điều kiện vé đoàn."
+      "text": "Vé bay Vietjet Air theo hành trình, 7kg xách tay và 20kg ký gửi theo điều kiện vé đoàn."
     },
     {
       "type": "p",
-      "text": "✅ Khách sạn 3 sao, xe tham quan, bữa ăn và vé các điểm đã ghi trong chương trình."
+      "text": "Khách sạn 3 sao, xe tham quan, bữa ăn và vé các điểm đã ghi trong chương trình."
     },
     {
       "type": "p",
-      "text": "✅ Trải nghiệm onsen, bữa chân cua tuyết và một bữa bò Hida theo lịch."
+      "text": "<strong>Khách sạn dự kiến theo chương trình (hoặc tương đương):</strong>"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Kansai: N Gate Hotel Osaka.",
+        "Osaka: KKR Hotel Osaka / Osaka Castle Hotel.",
+        "Nagoya: Cypress Garden Hotel / Toyoko INN Nagoya Kanayama Hotel.",
+        "Fuji: Jiragonno Fuji No Yakata / Fuji Zakura Hotel.",
+        "Narita: Marroad International Hotel Narita.",
+        "Tokyo: Hotel Villa Fontaine Tokyo Kayabacho / Shinjuku Granbell Hotel.",
+        "Takayama: Hotel Kuretakeso Takayama ekimae.",
+        "Gifu: Hotel Koyo."
+      ]
     },
     {
       "type": "p",
-      "text": "✅ Visa du lịch theo đoàn; hướng dẫn viên, nước uống, bảo hiểm du lịch theo quyền lợi hợp đồng."
+      "text": "Danh sách trên là phương án khách sạn dự kiến của chương trình; nơi nghỉ thực tế theo chặng và xác nhận của từng đoàn. Không phải tất cả địa danh trong danh sách đều có đêm lưu trú trong chuyến đi."
     },
     {
       "type": "p",
-      "text": "✅ VAT theo chương trình áp dụng."
+      "text": "Trải nghiệm onsen, bữa chân cua tuyết và một bữa bò Hida theo lịch."
+    },
+    {
+      "type": "p",
+      "text": "Visa du lịch theo đoàn; hướng dẫn viên, nước uống, bảo hiểm du lịch theo quyền lợi hợp đồng."
+    },
+    {
+      "type": "p",
+      "text": "VAT theo chương trình áp dụng."
     },
     {
       "type": "h3",
@@ -248,19 +277,19 @@
     },
     {
       "type": "p",
-      "text": "❌ Xe đưa đón Tân Sơn Nhất, hộ chiếu, phòng đơn, quá cước và nhu cầu chọn chỗ máy bay có thu phí."
+      "text": "Dịch vụ xe đưa đón Tân Sơn Nhất theo yêu cầu, hộ chiếu, phòng đơn, quá cước và nhu cầu chọn chỗ máy bay có thu phí."
     },
     {
       "type": "p",
-      "text": "❌ Ăn uống, mua sắm, tham quan ngoài chương trình và các dịch vụ cá nhân."
+      "text": "Ăn uống, mua sắm, tham quan ngoài chương trình và các dịch vụ cá nhân."
     },
     {
       "type": "p",
-      "text": "❌ Bồi dưỡng hướng dẫn viên, tài xế: 2 USD/khách cho đêm trước khởi hành và 6 USD/khách/ngày; từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
+      "text": "Bồi dưỡng hướng dẫn viên, tài xế: 2 USD/khách cho đêm trước khởi hành và 6 USD/khách/ngày; từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí."
     },
     {
       "type": "p",
-      "text": "❌ Visa tái nhập Việt Nam và các khoản phụ thu theo hồ sơ, nếu có."
+      "text": "Visa tái nhập Việt Nam và các khoản phụ thu theo hồ sơ, nếu có."
     },
     {
       "type": "h3",
@@ -268,27 +297,27 @@
     },
     {
       "type": "p",
-      "text": "📌 Hành trình đi qua nhiều địa phương, có thay đổi khách sạn; quý khách cân nhắc nhịp di chuyển và báo trước nhu cầu của trẻ nhỏ, người lớn tuổi."
+      "text": "Hành trình đi qua nhiều địa phương, có thay đổi khách sạn; quý khách cân nhắc nhịp di chuyển và báo trước nhu cầu của trẻ nhỏ, người lớn tuổi."
     },
     {
       "type": "p",
-      "text": "📌 Lịch tháng 1 áp dụng tuyến mùa đông Kawaguchiko – Matsumoto. Việc lên trạm 5 Phú Sĩ, tầm nhìn núi và cảnh tuyết phụ thuộc thời tiết, tình trạng đường."
+      "text": "Lịch tháng 1 áp dụng tuyến mùa đông Kawaguchiko – Matsumoto. Việc lên trạm 5 Phú Sĩ, tầm nhìn núi và cảnh tuyết phụ thuộc thời tiết, tình trạng đường."
     },
     {
       "type": "p",
-      "text": "📌 Fushimi Inari và Shinsaibashi là điểm nếu thời gian cho phép, không phải cam kết vào mọi chuyến."
+      "text": "Fushimi Inari và Shinsaibashi là điểm nếu thời gian cho phép, không phải cam kết vào mọi chuyến."
     },
     {
       "type": "p",
-      "text": "📌 Hộ chiếu cần còn hạn theo yêu cầu chương trình; hồ sơ visa, mức cọc, đổi/hủy và khoản xử lý khi không đạt visa được xác nhận riêng trước thanh toán."
+      "text": "Hộ chiếu cần còn hạn theo yêu cầu chương trình; hồ sơ visa, mức cọc, đổi/hủy và khoản xử lý khi không đạt visa được xác nhận riêng trước thanh toán."
     },
     {
       "type": "p",
-      "text": "📌 Chương trình này áp dụng điều kiện tour quốc tế; không mặc định dùng mức đoàn tối thiểu hoặc mức cọc của tour nội địa."
+      "text": "Chương trình này áp dụng điều kiện tour quốc tế; không mặc định dùng mức đoàn tối thiểu hoặc mức cọc của tour nội địa."
     },
     {
       "type": "p",
-      "text": "📌 Chuẩn bị quần áo giữ ấm, giày đi bộ; làm theo quy định tại onsen và các điểm tham quan."
+      "text": "Chuẩn bị quần áo giữ ấm, giày đi bộ; làm theo quy định tại onsen và các điểm tham quan."
     },
     {
       "type": "h3",
@@ -300,15 +329,15 @@
     },
     {
       "type": "p",
-      "text": "✅ Chọn thời điểm đi và tuyến phù hợp sức khỏe, sở thích của đoàn."
+      "text": "Chọn thời điểm đi và tuyến phù hợp sức khỏe, sở thích của đoàn."
     },
     {
       "type": "p",
-      "text": "✅ Trao đổi số đêm từng nơi, tiêu chuẩn khách sạn và yêu cầu ăn uống."
+      "text": "Trao đổi số đêm từng nơi, tiêu chuẩn khách sạn và yêu cầu ăn uống."
     },
     {
       "type": "p",
-      "text": "✅ Cân đối tham quan, mua sắm, xe sân bay và hoạt động đoàn theo ngân sách."
+      "text": "Cân đối tham quan, mua sắm, xe sân bay và hoạt động đoàn theo ngân sách."
     },
     {
       "type": "p",
@@ -356,15 +385,15 @@
     },
     {
       "type": "p",
-      "text": "Khách lẻ có thể đăng ký ghép đoàn; từ 20 khách TodayTourist tiếp nhận yêu cầu đoàn riêng."
+      "text": "Quý khách có thể đăng ký ghép đoàn; từ 20 khách TodayTourist tiếp nhận yêu cầu đoàn riêng."
     },
     {
       "type": "p",
-      "text": "<strong>Xe từ Biên Hòa ra sân bay có trong giá không?</strong>"
+      "text": "<strong>Đăng ký xe từ Biên Hòa ra sân bay thế nào?</strong>"
     },
     {
       "type": "p",
-      "text": "Chưa bao gồm. Quý khách yêu cầu báo giá xe riêng khi cần."
+      "text": "Quý khách báo địa chỉ và số người khi đặt tour. TodayTourist xác nhận điểm đón, giờ đón và chi phí trước khi chốt dịch vụ."
     },
     {
       "type": "h3",
