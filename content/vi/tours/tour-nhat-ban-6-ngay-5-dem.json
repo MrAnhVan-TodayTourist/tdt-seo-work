@@ -1,219 +1,158 @@
 {
   "slug": "tour-nhat-ban-6-ngay-5-dem",
-  "name": "Tour Nhật Bản 6 Ngày 5 Đêm",
+  "name": "Tour Nhật Bản 6 Ngày 5 Đêm – Phú Sĩ, Takayama, Shirakawago, Kyoto và Osaka",
   "region": "international",
   "region_name": "Châu Á",
-  "departure": "Biên Hòa / TP.HCM",
+  "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "6 ngày 5 đêm",
-  "price": "29.990.000đ/khách",
+  "price": "Từ 34.990.000đ/khách",
   "image": "nhat-ban.webp",
-  "desc": "Đất nước mặt trời mọc với Tokyo hiện đại, núi Phú Sĩ hùng vĩ và Osaka náo nhiệt.",
+  "desc": "Tour Nhật Bản 6N5Đ từ TP.HCM qua Tokyo, Phú Sĩ, Takayama, làng Shirakawago, Kyoto và Osaka. Giá 34.990.000đ/khách cho lịch 12 hoặc 26/01/2027. Tư vấn khách lẻ và đoàn riêng từ 20 khách.",
   "highlights": [
-    "Núi Phú Sĩ",
-    "Tokyo - thủ đô hiện đại",
-    "Osaka - chợ Dotonbori",
-    "Vé máy bay khứ hồi"
+    "Tokyo và khu vực núi Phú Sĩ",
+    "Phố cổ Takayama và làng Shirakawago",
+    "Chùa Vàng Kinkaku-ji tại Kyoto",
+    "Onsen và trải nghiệm ẩm thực Nhật",
+    "Bay Vietjet Air từ TP.HCM",
+    "Visa đoàn trong gói dịch vụ"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "h2",
-      "text": "✨ Tokyo – Núi Phú Sĩ – Kyoto – Osaka Khám phá tinh hoa Nhật Bản: Truyền thống & Hiện đại"
+      "text": "Nhật Bản 6N5Đ: thêm những điểm dừng ngoài đô thị"
+    },
+    {
+      "type": "p",
+      "text": "Với gia đình muốn tìm một hành trình có cả thành phố và không gian làng cổ, tuyến này tạo ra nhiều thay đổi cảnh quan trong cùng kỳ nghỉ. TodayTourist giới thiệu lịch đi qua vùng Phú Sĩ và miền trung Nhật Bản, giúp quý khách hình dung rõ nhịp di chuyển trước khi lựa chọn."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Khởi hành:</strong> Tân Sơn Nhất, TP.HCM · <strong>Thời gian:</strong> 6 ngày 5 đêm, có đêm bay · <strong>Hàng không:</strong> Vietjet Air · <strong>Lưu trú:</strong> khách sạn 3 sao, tiêu chuẩn 2 người/phòng."
     },
     {
       "type": "h2",
-      "text": "📌 THÔNG TIN CHƯƠNG TRÌNH"
+      "text": "Lịch khởi hành và giá tháng 01/2027"
+    },
+    {
+      "type": "html",
+      "html": "<table><thead><tr><th><div>Ngày đi – ngày về</div></th><th><div>Giá người lớn</div></th></tr></thead><tbody><tr><td><div>12/01 – 17/01/2027</div></td><td><div><strong>34.990.000đ/khách</strong></div></td></tr><tr><td><div>26/01 – 31/01/2027</div></td><td><div><strong>34.990.000đ/khách</strong></div></td></tr></tbody></table>"
     },
     {
       "type": "p",
-      "text": "🗓 Thời gian: 6 ngày 5 đêm ✈️ Hàng không: Vietnam Airlines / ANA / Japan Airlines (theo thời điểm) 🚍 Phương tiện: Xe du lịch đời mới suốt tuyến 🏨 Lưu trú: Khách sạn 3–4★ tiêu chuẩn Nhật Bản 📍 Khởi hành: Theo yêu cầu 👥 Đối tượng: Gia đình – Nhóm bạn – Doanh nghiệp – Đoàn thể"
+      "text": "Giá ghép đoàn tham khảo, đối chiếu ngày 15/10/2026; cần xác nhận giá và chỗ khi đăng ký. Trẻ em, phòng đơn và ngày khác được báo riêng; đoàn riêng từ 20 khách có báo giá theo phương án thực tế."
     },
     {
       "type": "h2",
-      "text": "🌏 GIỚI THIỆU TOUR"
+      "text": "Lịch trình tham quan"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 1 · TP.HCM – Narita"
     },
     {
       "type": "p",
-      "text": "Nhật Bản – đất nước mặt trời mọc nổi tiếng với kỷ luật, tinh thần hiếu khách và cảnh quan bốn mùa tuyệt đẹp . Tham gia tour Nhật Bản 6N5Đ cùng TodayTourist , Quý khách sẽ khám phá sự sôi động của Tokyo , chiêm ngưỡng núi Phú Sĩ hùng vĩ , trải nghiệm nét cổ kính của Kyoto và tận hưởng nhịp sống hiện đại tại Osaka ."
+      "text": "Bay đêm từ Tân Sơn Nhất; nghỉ trên máy bay."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 2 · Tokyo – Yamanashi"
+    },
+    {
+      "type": "p",
+      "text": "Asakusa, chụp ngoài Skytree và Hoàng cung; đi Oshino Hakkai. Ăn sáng, trưa, tối; nghỉ vùng Phú Sĩ, trải nghiệm onsen."
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/z6033826513431_41c91df4f0a583eb2d8036526f2a0dbc.jpg_medium.webp\" alt=\"Asakusa Kannon, điểm tham quan tại Tokyo\" style=\"width:100%;height:auto\"><figcaption>Asakusa Kannon, điểm tham quan tại Tokyo — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/tokyo-skytree-1024x576-1687921129.jpg\" alt=\"Tokyo Skytree, chụp ảnh từ bên ngoài\" style=\"width:100%;height:auto\"><figcaption>Tokyo Skytree, chụp ảnh từ bên ngoài — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 3 · Phú Sĩ – Takayama"
+    },
+    {
+      "type": "p",
+      "text": "Trạm 5 Phú Sĩ nếu thời tiết cho phép; tháng 1 đi Kawaguchiko, chụp ngoài Matsumoto. Ăn sáng, trưa, tối; nghỉ Takayama/Matsumoto."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 4 · Takayama – Shirakawago – Gifu"
+    },
+    {
+      "type": "p",
+      "text": "Dạo Sanmachi, thăm Shirakawago. Ăn sáng, trưa, tối; có một bữa bò Hida. Nghỉ Gifu/Nagoya/Toyohashi."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 5 · Kyoto – Osaka – Kansai"
+    },
+    {
+      "type": "p",
+      "text": "Thăm Kinkaku-ji, chụp ngoài lâu đài Osaka; Fushimi Inari và Shinsaibashi nếu đủ thời gian. Ăn sáng, trưa, tối; nghỉ Kansai."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 6 · Kansai – TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "Ăn sáng, trả phòng và bay về Tân Sơn Nhất."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 01: ✈️ VIỆT NAM – TOKYO (NHẬT BẢN)"
+      "text": "Dịch vụ trong giá và chi phí riêng"
     },
     {
       "type": "p",
-      "text": "🌅 Sáng / Trưa ✈️ Trưởng đoàn TodayTourist đón Quý khách tại sân bay, làm thủ tục xuất cảnh đi Tokyo – Nhật Bản ."
+      "text": "<strong>Bao gồm:</strong> vé bay 7kg xách tay, 20kg ký gửi; khách sạn, xe, bữa ăn, vé theo lịch; visa đoàn, hướng dẫn viên, bảo hiểm, VAT."
     },
     {
       "type": "p",
-      "text": "🌙 Tối 🛬 Đến sân bay Narita/Haneda, xe và HDV địa phương đón đoàn về khách sạn. 🍽 Dùng bữa tối (tùy giờ bay). 🛏 Nghỉ đêm tại Tokyo hoặc khu vực lân cận."
+      "text": "<strong>Chưa gồm:</strong> đưa đón Tân Sơn Nhất, hộ chiếu, phòng đơn, quá cước, chi tiêu ngoài lịch; bồi dưỡng 2 USD đêm trước khởi hành và 6 USD/ngày."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 02: 🏙 TOKYO – ASAKUSA – AKIHABARA"
+      "text": "Chọn hành trình này cần lưu ý gì?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Đây là tour qua nhiều địa phương, phù hợp với khách muốn xem nhiều cảnh quan và chấp nhận đổi khách sạn trong chuyến đi. Nếu muốn nghỉ dưỡng tại một nơi lâu hơn hoặc giảm quãng đường di chuyển cho người lớn tuổi, quý khách nên trao đổi khi xin phương án đoàn riêng."
     },
     {
       "type": "p",
-      "text": "📍 Tham quan thủ đô Tokyo: ⛩ Chùa Asakusa Kannon – ngôi chùa cổ kính nhất Tokyo. 🏮 Phố Nakamise – mua sắm quà lưu niệm truyền thống. 📸 Chụp hình với Tháp Tokyo Skytree (tham quan bên ngoài)."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/z6033826513431_41c91df4f0a583eb2d8036526f2a0dbc.jpg_medium.webp",
-      "alt": "Chùa cổ Asakusa Kannon - 1 Trong Những Ngôi Chùa Linh Thiêng của Nhật Bản - Công ty Du Lịch Triều Hảo"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/tokyo-skytree-1024x576-1687921129.jpg",
-      "alt": "Tháp Tokyo Skytree - Khám phá tòa Tháp Truyền hình cao nhất Thế giới"
+      "text": "Cảnh tuyết, tầm nhìn núi và điểm tham quan ngoài trời tùy thời tiết. Chương trình tháng 1 không được quảng cáo như tour hoa anh đào. Quý khách nhận lịch trình cuối cùng, giờ tập trung và danh sách khách sạn trước chuyến đi."
     },
     {
       "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng địa phương."
-    },
-    {
-      "type": "p",
-      "text": "🛍 Chiều 🎮 Tham quan Akihabara – thiên đường điện tử & anime. 🛒 Mua sắm tại các trung tâm thương mại lớn."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/akihabara.jpg",
-      "alt": "Du lịch Nhật Bản - Khám phá khu phố điện tử Akihabara đậm chất công nghệ - iVIVU.com"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Tokyo."
+      "text": "Nhu cầu giường đôi, phòng ba hoặc ăn uống riêng cần báo ngay lúc đăng ký. Hồ sơ visa được xem xét theo từng khách; điều kiện xử lý visa và đổi/hủy được xác nhận bằng văn bản trước khi thanh toán."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 03: 🗻 TOKYO – NÚI PHÚ SĨ – HAKONE"
+      "text": "Khách lẻ và đoàn riêng từ 20 khách"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Đi một mình, cùng gia đình hoặc nhóm bạn, quý khách có thể đăng ký ghép đoàn theo lịch còn nhận khách. Với đoàn riêng từ 20 người, TodayTourist tiếp nhận yêu cầu ngày đi, ngân sách và tiêu chuẩn dịch vụ để xây dựng phương án phù hợp cùng đơn vị chuyên vận hành quốc tế. Giá đoàn riêng được báo theo yêu cầu thực tế."
     },
     {
       "type": "p",
-      "text": "🚍 Khởi hành đi khu vực núi Phú Sĩ : 🗻 Tham quan Núi Phú Sĩ – trạm 5 (nếu thời tiết cho phép). 📸 Chụp hình lưu niệm với biểu tượng thiêng liêng của Nhật Bản."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/edf4f7b7e8171a9f2da5041848de04e6.jpeg",
-      "alt": "Tour Osaka - Kyoto - Nagoya - Tokyo 5N5Đ từ TP.HCM - Tết Nguyên Đán 2026"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "♨ Chiều 🚠 Trải nghiệm Hakone – khu nghỉ dưỡng nổi tiếng. ♨ Tự do tắm Onsen thư giãn theo phong cách Nhật Bản."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/chinh-phuc-hakone-1-1703950587.jpg",
-      "alt": "Du lịch Hakone: Vẻ đẹp mộc mạc ẩn mình dưới chân dãy Phú Sĩ"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại khu vực Hakone / Yamanashi."
+      "text": "Khách tại Biên Hòa, Đồng Nai vui lòng trao đổi nhu cầu di chuyển ra sân bay khi đăng ký; dịch vụ đưa đón được xác nhận và báo giá riêng nếu có."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 04: 🚄 HAKONE – KYOTO – OSAKA"
+      "text": "Cần chuẩn bị gì trước khi đăng ký?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Gửi số khách, độ tuổi trẻ em, thời gian muốn đi và tình trạng hộ chiếu/visa để được kiểm tra chương trình phù hợp. Khi chốt tour, quý khách nhận xác nhận bằng văn bản về ngày bay, dịch vụ, khoản phụ thu, tiến độ thanh toán và điều kiện đổi/hủy. Không áp dụng một mức đặt cọc hoặc chính sách hủy chung cho mọi chuyến."
     },
     {
       "type": "p",
-      "text": "🚄 Trải nghiệm tàu cao tốc Shinkansen – niềm tự hào công nghệ Nhật Bản (1 chặng)."
-    },
-    {
-      "type": "p",
-      "text": "🏯 Trưa – Chiều 📍 Tham quan Kyoto – cố đô nghìn năm tuổi: ⛩ Chùa Thanh Thủy (Kiyomizu-dera) – di sản văn hóa thế giới. 🏮 Phố cổ Gion – nơi lưu giữ nét đẹp truyền thống Geisha."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/map-of-kyoto-japan-travel-scaled.jpg",
-      "alt": "Informative Map of Kyoto - Tourist Japan"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Tối 🚍 Di chuyển về Osaka . 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Osaka."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 05: 🎡 OSAKA – LÂU ĐÀI – MUA SẮM"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
-    },
-    {
-      "type": "p",
-      "text": "🏯 Tham quan Lâu đài Osaka (tham quan bên ngoài) – biểu tượng lịch sử của thành phố."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/lau-dai-osaka-mua-xuan.jpg",
-      "alt": "Khám phá lâu đài Osaka - biểu tượng xứ phù tang Nhật Bản"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🛍 Chiều 🛒 Tự do mua sắm tại Shinsaibashi – Dotonbori – khu mua sắm sầm uất bậc nhất Osaka. 🍢 Thưởng thức ẩm thực đường phố nổi tiếng."
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Osaka."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 06: ✈️ OSAKA – VIỆT NAM"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng – làm thủ tục trả phòng."
-    },
-    {
-      "type": "p",
-      "text": "🚍 Xe đưa đoàn ra sân bay Kansai, làm thủ tục đáp chuyến bay về Việt Nam."
-    },
-    {
-      "type": "p",
-      "text": "🏁 Kết thúc chương trình Tour Nhật Bản 6N5Đ , chia tay và hẹn gặp lại Quý khách trong những hành trình tiếp theo cùng TodayTourist ."
-    },
-    {
-      "type": "h2",
-      "text": "💰 GIÁ TOUR THAM KHẢO"
-    },
-    {
-      "type": "p",
-      "text": "💵 Từ 29.990.000đ/khách (Giá áp dụng cho đoàn từ 20 khách, thay đổi theo mùa & hãng bay)"
-    },
-    {
-      "type": "h2",
-      "text": "✅ GIÁ TOUR BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✈️ Vé máy bay khứ hồi Việt Nam – Nhật Bản 🧳 Hành lý ký gửi theo quy định hãng bay 🚍 Xe du lịch đời mới suốt tuyến 🏨 Khách sạn 3–4★ (2 khách/phòng) 🍽 Ăn uống theo chương trình 🎟 Vé tham quan các điểm trong chương trình 🚄 Vé tàu Shinkansen (1 chặng) 🧑‍✈️ Trưởng đoàn TodayTourist & HDV địa phương 🛡 Bảo hiểm du lịch quốc tế 🎒 Nón du lịch – nước suối"
-    },
-    {
-      "type": "h2",
-      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✖️ Phí visa Nhật Bản ✖️ Hộ chiếu còn hạn trên 6 tháng ✖️ Chi phí cá nhân ngoài chương trình ✖️ Vé tham quan ngoài chương trình ✖️ Thuế VAT"
+      "text": "<strong>Tư vấn TodayTourist: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo nhận lịch trình và báo giá</a>"
     }
   ],
   "hidden": true
