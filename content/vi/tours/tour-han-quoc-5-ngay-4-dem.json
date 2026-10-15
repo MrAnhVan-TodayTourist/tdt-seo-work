@@ -1,199 +1,150 @@
 {
   "slug": "tour-han-quoc-5-ngay-4-dem",
-  "name": "Tour Hàn Quốc 5 Ngày 4 Đêm",
+  "name": "Tour Hàn Quốc 5 Ngày 4 Đêm – Seoul, Nami và Trải Nghiệm Tuyết Gangwon-do",
   "region": "international",
   "region_name": "Châu Á",
-  "departure": "Biên Hòa / TP.HCM",
+  "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "5 ngày 4 đêm",
-  "price": "15.990.000đ/khách",
+  "price": "Từ 18.990.000đ/khách",
   "image": "han-quoc.webp",
-  "desc": "Xứ sở kim chi với Seoul hiện đại, cung điện Gyeongbokgung và đảo Nami thơ mộng.",
+  "desc": "Hành trình Hàn Quốc mùa đông 5N4Đ từ TP.HCM: đảo Nami, Seoul, Namsan, Gyeongbokgung và Gangwon-do. Lịch 01/01/2027 giá 18.990.000đ/khách. TodayTourist tư vấn khách lẻ và đoàn riêng từ 20 khách.",
   "highlights": [
-    "Cung điện Gyeongbokgung",
-    "Đảo Nami",
-    "Seoul Tower",
-    "Vé máy bay khứ hồi"
+    "Đảo Nami và không khí mùa đông Hàn Quốc",
+    "Trải nghiệm tuyết tại Gangwon-do",
+    "Cung điện Gyeongbokgung và tháp Namsan",
+    "Mặc Hanbok, trải nghiệm làm kimchi",
+    "Bay Vietnam Airlines từ TP.HCM",
+    "Visa đoàn trong gói dịch vụ"
   ],
   "itinerary": [],
   "content": [
     {
       "type": "h2",
-      "text": "✨ Seoul – Nami – Everland Khám phá xứ sở Kim Chi – Văn hóa – Giải trí – Mua sắm"
+      "text": "Seoul mùa đông: một hành trình để đổi nhịp kỳ nghỉ"
+    },
+    {
+      "type": "p",
+      "text": "Nếu muốn dành kỳ nghỉ đầu năm cho thời tiết lạnh và những trải nghiệm khác với ngày thường, quý khách có thể cân nhắc tuyến Seoul – Nami – Gangwon-do. TodayTourist giới thiệu chương trình theo từng ngày để gia đình dễ cân đối thời gian tham quan, mua sắm và nghỉ ngơi trước khi quyết định đăng ký."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Thời gian:</strong> 5 ngày 4 đêm, có đêm bay · <strong>Khởi hành:</strong> Tân Sơn Nhất, TP.HCM · <strong>Hàng không:</strong> Vietnam Airlines · <strong>Khách sạn:</strong> 4 sao địa phương, 2 người/phòng."
     },
     {
       "type": "h2",
-      "text": "📌 THÔNG TIN CHƯƠNG TRÌNH"
+      "text": "Lịch đi và giá đầu năm 2027"
+    },
+    {
+      "type": "html",
+      "html": "<table><thead><tr><th><div>Ngày đi – ngày về</div></th><th><div>Giá người lớn</div></th></tr></thead><tbody><tr><td><div>01/01 – 05/01/2027</div></td><td><div><strong>18.990.000đ/khách</strong></div></td></tr></tbody></table>"
     },
     {
       "type": "p",
-      "text": "🗓 Thời gian: 5 ngày 4 đêm ✈️ Hàng không: Vietnam Airlines / Asiana Airlines / Korean Air (theo thời điểm) 🚍 Phương tiện: Xe du lịch đời mới suốt tuyến 🏨 Lưu trú: Khách sạn 3–4★ trung tâm Seoul hoặc khu vực lân cận 📍 Khởi hành: Theo yêu cầu 👥 Đối tượng: Gia đình – Nhóm bạn – Doanh nghiệp – Đoàn thể"
+      "text": "Giá tham khảo ghép đoàn, đối chiếu ngày 15/10/2026; chỗ và giá được kiểm tra lại khi đăng ký. Thời gian tập trung có thể vào đêm trước ngày khởi hành ghi trên lịch; quý khách cần xem xác nhận vé để sắp xếp di chuyển. Trẻ em, phòng đơn và các ngày khác được báo riêng."
     },
     {
       "type": "h2",
-      "text": "🌏 GIỚI THIỆU TOUR"
+      "text": "Lịch trình tham quan"
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 1 · TP.HCM – Seoul"
     },
     {
       "type": "p",
-      "text": "Hàn Quốc – đất nước giao thoa hài hòa giữa nét truyền thống lâu đời và nhịp sống hiện đại sôi động . Đồng hành cùng TodayTourist , Quý khách sẽ khám phá thủ đô Seoul , dạo bước trên đảo Nami lãng mạn , vui chơi tại công viên Everland và trải nghiệm văn hóa, ẩm thực đặc trưng của xứ sở Kim Chi."
+      "text": "Tập trung tại Tân Sơn Nhất, bay đêm đến Incheon; nghỉ trên máy bay."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 2 · Đảo Nami – Myeongdong"
+    },
+    {
+      "type": "p",
+      "text": "Nhập cảnh, đi Nami, cửa hàng miễn thuế và phố Myeongdong. Ăn sáng, trưa, tối; về khách sạn nghỉ."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 3 · Namsan – Starfield"
+    },
+    {
+      "type": "p",
+      "text": "Ghé các cửa hàng nhân sâm, mỹ phẩm, thông đỏ; tham quan Namsan, thư viện Starfield. Vé thang máy lên tháp tự trả. Ăn sáng, trưa, tối."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 4 · Hanbok – Kimchi – Gangwon-do"
+    },
+    {
+      "type": "p",
+      "text": "Ghé cửa hàng nông sản, mặc Hanbok, làm kimchi và trải nghiệm tuyết. Gói có máng trượt cơ bản; quần áo, dụng cụ, cáp treo phát sinh tự trả."
+    },
+    {
+      "type": "h3",
+      "text": "Ngày 5 · Gyeongbokgung – TP.HCM"
+    },
+    {
+      "type": "p",
+      "text": "Thăm cung điện, Bảo tàng Dân tộc, chụp ngoài Nhà Xanh, dạo Insadong rồi ra sân bay. Ăn sáng, trưa."
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/c17171b613b6a83e6a41c6e23aa27455.png\" alt=\"Cung điện Gyeongbokgung trong hành trình Seoul\" style=\"width:100%;height:auto\"><figcaption>Cung điện Gyeongbokgung trong hành trình Seoul — ảnh minh họa điểm đến</figcaption></figure>"
+    },
+    {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/42961629-0032-4543-945a-f56792e44f75.jpg\" alt=\"Khu vực Nhà Xanh, điểm chụp ảnh bên ngoài\" style=\"width:100%;height:auto\"><figcaption>Khu vực Nhà Xanh, điểm chụp ảnh bên ngoài — ảnh minh họa điểm đến</figcaption></figure>"
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 01: ✈️ VIỆT NAM – SEOUL (HÀN QUỐC)"
+      "text": "Dịch vụ và khoản cần dự trù"
     },
     {
       "type": "p",
-      "text": "🌅 Sáng ✈️ Trưởng đoàn TodayTourist đón Quý khách tại sân bay, làm thủ tục xuất cảnh đi Seoul – Hàn Quốc ."
+      "text": "<strong>Bao gồm:</strong> vé bay 10kg xách tay, 23kg ký gửi; khách sạn, xe, ăn và vé theo lịch; visa đoàn, hướng dẫn viên, bảo hiểm, VAT."
     },
     {
       "type": "p",
-      "text": "🌙 Tối 🛬 Đến sân bay Incheon, xe và HDV địa phương đón đoàn về khách sạn. 🍽 Dùng bữa tối (tùy giờ bay). 🛏 Nghỉ đêm tại Seoul hoặc khu vực lân cận."
+      "text": "<strong>Chưa gồm:</strong> hộ chiếu, phòng đơn, chi tiêu riêng, quá cước và bồi dưỡng: 2 USD đêm trước khởi hành, 6 USD/ngày. Có điểm mua sắm bắt buộc; bỏ điểm hoặc tách đoàn có phí, cần xem điều kiện trước khi đặt."
+    },
+    {
+      "type": "p",
+      "text": "Bữa ăn từng ngày, đặc biệt bữa tối sau hoạt động tuyết, được xác nhận trong bảng dịch vụ trước khi đăng ký."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 02: 🏛 SEOUL – CUNG ĐIỆN – NHÀ XANH – LÀNG CỔ"
+      "text": "Tour này phù hợp với ai?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Phù hợp với khách thích chụp ảnh, khám phá thành phố và muốn thử hoạt động mùa đông trong cùng chuyến đi. Gia đình có trẻ nhỏ hoặc người lớn tuổi nên trao đổi trước về khả năng đi bộ, chịu lạnh và nhu cầu nghỉ ngơi. Hoạt động tuyết tùy điều kiện thời tiết và vận hành tại khu vui chơi; ảnh tuyết không phải cam kết cảnh quan vào mọi ngày."
     },
     {
       "type": "p",
-      "text": "📍 Tham quan các điểm nổi bật tại Seoul: 🏯 Cung điện Gyeongbokgung – biểu tượng quyền lực của triều đại Joseon. 🏛 Nhà Xanh (Blue House) – nơi làm việc của Tổng thống Hàn Quốc (tham quan bên ngoài). 🏘 Làng cổ Bukchon Hanok – không gian kiến trúc truyền thống giữa lòng Seoul."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/c17171b613b6a83e6a41c6e23aa27455.png",
-      "alt": "Khám phá cung điện Gyeongbokgung Hàn Quốc: Biểu tượng văn hóa lịch sử"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/42961629-0032-4543-945a-f56792e44f75.jpg",
-      "alt": "Khám phá Nhà Xanh: Điểm đến nổi bật trong hành trình tham quan Seoul"
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/9d133ccd423879defe333ce8a0b321f2.png",
-      "alt": "Làng cổ Hanok Bukchon Hàn Quốc - Nơi lưu giữ giá trị văn hóa độc đáo"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng địa phương."
-    },
-    {
-      "type": "p",
-      "text": "🛍 Chiều 📍 Tham quan Bảo tàng Rong Biển Kimchi – trải nghiệm làm kimchi truyền thống. 👘 Trải nghiệm mặc Hanbok chụp hình lưu niệm."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/Tour-Hàn-Quốc-ivivu-14-Bảo-tàng-Rong-Biển.jpg",
-      "alt": "Trải nghiệm những hoạt động mùa đông độc đáo trong tour Hàn Quốc 5N4Đ - iVIVU.com"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🌙 Tự do khám phá Seoul về đêm . 🛏 Nghỉ đêm tại Seoul."
+      "text": "Hồ sơ visa cần được kiểm tra theo từng trường hợp. Quý khách nên chuẩn bị sớm và chờ hướng dẫn trước khi đặt thêm dịch vụ riêng không hoàn lại."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 03: 🌸 ĐẢO NAMI – THÁP NAMSAN"
+      "text": "Khách lẻ và đoàn riêng từ 20 khách"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Đi một mình, cùng gia đình hoặc nhóm bạn, quý khách có thể đăng ký ghép đoàn theo lịch còn nhận khách. Với đoàn riêng từ 20 người, TodayTourist tiếp nhận yêu cầu ngày đi, ngân sách và tiêu chuẩn dịch vụ để xây dựng phương án phù hợp cùng đơn vị chuyên vận hành quốc tế. Giá đoàn riêng được báo theo yêu cầu thực tế."
     },
     {
       "type": "p",
-      "text": "🚍 Khởi hành tham quan Đảo Nami – hòn đảo lãng mạn nổi tiếng, bối cảnh của nhiều bộ phim Hàn Quốc. 📸 Tự do dạo bước, chụp hình dưới những hàng cây tuyệt đẹp theo mùa."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/dao-nami-mua-thu-1.jpg",
-      "alt": "Đảo Nami mùa thu - Bức tranh thiên nhiên tuyệt đẹp ở Hàn Quốc"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🏙 Chiều 📍 Tham quan Tháp Namsan Seoul Tower – biểu tượng của thủ đô Seoul (không bao gồm vé lên tháp). ❤️ Check-in khu vực Ổ khóa tình yêu ."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/Namsan-Tower-during-autumn-in-Seoul-South-Korea.jpg",
-      "alt": "Khám phá sự kỳ diệu của Tháp Namsan: Hướng dẫn du lịch tuyệt vời của bạn đến địa danh mang tính biểu tượng của Seoul » Agoda: See The World For Less"
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối tại nhà hàng. 🛏 Nghỉ đêm tại Seoul."
+      "text": "Khách tại Biên Hòa, Đồng Nai vui lòng trao đổi nhu cầu di chuyển ra sân bay khi đăng ký; dịch vụ đưa đón được xác nhận và báo giá riêng nếu có."
     },
     {
       "type": "h2",
-      "text": "🟢 NGÀY 04: 🎢 EVERLAND – MUA SẮM SEOUL"
+      "text": "Cần chuẩn bị gì trước khi đăng ký?"
     },
     {
       "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng tại khách sạn."
+      "text": "Gửi số khách, độ tuổi trẻ em, thời gian muốn đi và tình trạng hộ chiếu/visa để được kiểm tra chương trình phù hợp. Khi chốt tour, quý khách nhận xác nhận bằng văn bản về ngày bay, dịch vụ, khoản phụ thu, tiến độ thanh toán và điều kiện đổi/hủy. Không áp dụng một mức đặt cọc hoặc chính sách hủy chung cho mọi chuyến."
     },
     {
       "type": "p",
-      "text": "🎡 Tham quan Công viên giải trí Everland – một trong những công viên lớn nhất Hàn Quốc với nhiều khu vui chơi, vườn hoa theo mùa và các trò chơi hấp dẫn."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/European-adventure-everland.jpg",
-      "alt": "Công Viên Everland - Thiên Đường Giải Trí Xứ Hàn"
-    },
-    {
-      "type": "p",
-      "text": "🍽 Trưa Dùng bữa trưa tại nhà hàng."
-    },
-    {
-      "type": "p",
-      "text": "🛍 Chiều 🚍 Xe đưa đoàn mua sắm tại: 🛒 Cửa hàng mỹ phẩm nội địa Hàn Quốc 🛒 Cửa hàng nhân sâm – tinh dầu thông đỏ 🛍 Chợ Myeongdong / Dongdaemun – thiên đường mua sắm & ẩm thực đường phố."
-    },
-    {
-      "type": "p",
-      "text": "🕕 Tối 🍽 Dùng bữa tối. 🛏 Nghỉ đêm tại Seoul."
-    },
-    {
-      "type": "h2",
-      "text": "🟢 NGÀY 05: ✈️ SEOUL – VIỆT NAM"
-    },
-    {
-      "type": "p",
-      "text": "🍳 Sáng 🍽 Dùng bữa sáng – làm thủ tục trả phòng."
-    },
-    {
-      "type": "p",
-      "text": "🚍 Xe đưa đoàn ra sân bay Incheon , làm thủ tục đáp chuyến bay về Việt Nam."
-    },
-    {
-      "type": "p",
-      "text": "🏁 Kết thúc chương trình Tour Hàn Quốc 5N4Đ , HDV chia tay và hẹn gặp lại Quý khách trong những hành trình tiếp theo cùng TodayTourist ."
-    },
-    {
-      "type": "h2",
-      "text": "💰 GIÁ TOUR THAM KHẢO"
-    },
-    {
-      "type": "p",
-      "text": "💵 Từ 15.990.000đ/khách (Giá áp dụng cho đoàn từ 20 khách, thay đổi theo mùa & hãng bay)"
-    },
-    {
-      "type": "h2",
-      "text": "✅ GIÁ TOUR BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✈️ Vé máy bay khứ hồi Việt Nam – Hàn Quốc 🧳 Hành lý ký gửi theo quy định hãng bay 🚍 Xe du lịch đời mới suốt tuyến 🏨 Khách sạn 3–4★ (2 khách/phòng) 🍽 Ăn uống theo chương trình 🎟 Vé tham quan các điểm theo lịch trình 🎡 Vé vào cổng Everland 🧑‍✈️ Trưởng đoàn TodayTourist & HDV địa phương 🛡 Bảo hiểm du lịch quốc tế 🎒 Nón du lịch TodayTourist – nước suối"
-    },
-    {
-      "type": "h2",
-      "text": "❌ GIÁ TOUR KHÔNG BAO GỒM"
-    },
-    {
-      "type": "p",
-      "text": "✖️ Phí visa Hàn Quốc ✖️ Hộ chiếu còn hạn trên 6 tháng ✖️ Chi phí cá nhân ngoài chương trình ✖️ Vé tham quan ngoài chương trình ✖️ Thuế VAT"
+      "text": "<strong>Tư vấn TodayTourist: Mr. Anh Văn – <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo nhận lịch trình và báo giá</a>"
     }
   ],
   "hidden": true
