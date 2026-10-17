@@ -2,7 +2,7 @@
   "slug": "tuy-hoa-bai-xep-nghinh-phong-chon-diem-trong-tour-phu-yen",
   "title": "Tuy Hòa – Bãi Xép – Nghinh Phong: chọn điểm trong tour Phú Yên",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "tuy-hoa-bai-xep-nghinh-phong-chon-diem-trong-tour-phu-yen.jpg",
+  "image": "tuy-hoa-bai-xep-nghinh-phong-chon-diem-trong-tour-phu-yen.webp",
   "summary": "Gợi ý chọn Tháp Nhạn, quảng trường Nghinh Phong và Bãi Xép trong tour Phú Yên; sắp điểm theo tuyến và nhịp đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Điểm tham quan có giá trị văn hóa, cần dành thời gian tìm hiểu thay vì chỉ chụp ảnh. Kiểm tra đường tiếp cận, đoạn đi bộ, điều kiện tham quan và nhu cầu của người lớn tuổi. Nếu có phần giới thiệu chuyên sâu, nên chốt nội dung và thời lượng với người phụ trách chương trình. Đừng xếp sát một chặng ra sân bay hoặc trả khách gấp."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217737878-0.jpg",
-      "alt": "Tuy Hòa – Bãi Xép – Nghinh Phong: chọn điểm trong tour Phú Yên"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217737878-0.jpg\" alt=\"Tuy Hòa – Bãi Xép – Nghinh Phong: chọn điểm trong tour Phú Yên\"></figure>"
     },
     {
       "type": "h2",
