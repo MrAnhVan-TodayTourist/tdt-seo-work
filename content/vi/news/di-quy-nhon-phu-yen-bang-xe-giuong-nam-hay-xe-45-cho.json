@@ -20,9 +20,8 @@
       "text": "Nếu chương trình xuất phát buổi tối, chỗ nằm có thể giúp khách nghỉ trong chặng dài. Hãy xác nhận số giường thực tế, cách phân chỗ, không gian hành lý và các điểm dừng. Không mặc định mọi xe giường nằm đều có cùng sức chứa hoặc tiện ích. Đoàn có trẻ nhỏ, người cao tuổi hay người khó di chuyển cần trao đổi nhu cầu bố trí từ đầu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217322677-0.jpg",
-      "alt": "Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217322677-0.jpg\" alt=\"Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?\"></figure>"
     },
     {
       "type": "h2",
