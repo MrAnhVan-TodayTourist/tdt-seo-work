@@ -2,7 +2,7 @@
   "slug": "di-le-con-dao-can-chuan-bi-gi-le-vat-trang-phuc-va-hanh-ly",
   "title": "Đi lễ Côn Đảo cần chuẩn bị gì: lễ vật, trang phục và hành lý",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "di-le-con-dao-can-chuan-bi-gi-le-vat-trang-phuc-va-hanh-ly.jpg",
+  "image": "di-le-con-dao-can-chuan-bi-gi-le-vat-trang-phuc-va-hanh-ly.webp",
   "summary": "Chuẩn bị đi lễ Côn Đảo gọn và phù hợp: kiểm tra nội quy, chọn lễ vật, trang phục, hành lý và khoản chi riêng.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nội quy có thể khác giữa các điểm, nên hỏi hoặc xem nguồn chính thức trước khi chuẩn bị. Không có cơ sở để xem mọi danh sách truyền trên mạng là yêu cầu bắt buộc. Với Hàng Dương, thông tin hiện hành trên trang chính thức nêu không đốt vàng mã trong khu vực. Khách nên ưu tiên cách chuẩn bị giản dị, phù hợp hướng dẫn và hạn chế rác sau khi viếng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218368456-0.jpg",
-      "alt": "Đi lễ Côn Đảo cần chuẩn bị gì: lễ vật, trang phục và hành lý"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218368456-0.jpg\" alt=\"Đi lễ Côn Đảo cần chuẩn bị gì: lễ vật, trang phục và hành lý\"></figure>"
     },
     {
       "type": "h2",
