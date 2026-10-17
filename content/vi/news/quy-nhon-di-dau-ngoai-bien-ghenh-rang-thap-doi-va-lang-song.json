@@ -2,7 +2,7 @@
   "slug": "quy-nhon-di-dau-ngoai-bien-ghenh-rang-thap-doi-va-lang-song",
   "title": "Quy Nhơn đi đâu ngoài biển? Ghềnh Ráng, Tháp Đôi và Làng Sông",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "quy-nhon-di-dau-ngoai-bien-ghenh-rang-thap-doi-va-lang-song.jpg",
+  "image": "quy-nhon-di-dau-ngoai-bien-ghenh-rang-thap-doi-va-lang-song.webp",
   "summary": "Sắp xếp tuyến văn hóa Quy Nhơn với Ghềnh Ráng, Tháp Đôi và Làng Sông; chọn điểm theo thời gian và đối tượng đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoàn có thể tìm hiểu không gian gắn với Hàn Mặc Tử và cảnh quan ven biển. Dành thời gian cho hướng dẫn, đi bộ và nghỉ theo nhu cầu. Không nên chỉ ghi tên khu vực trong lịch rồi khiến khách hiểu mọi hạng mục đều được tham quan. Cần xác nhận phần tuyến, vé và thời lượng cụ thể trước khi chốt chương trình."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217658701-0.jpg",
-      "alt": "Quy Nhơn đi đâu ngoài biển? Ghềnh Ráng, Tháp Đôi và Làng Sông"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217658701-0.jpg\" alt=\"Quy Nhơn đi đâu ngoài biển? Ghềnh Ráng, Tháp Đôi và Làng Sông\"></figure>"
     },
     {
       "type": "h2",
