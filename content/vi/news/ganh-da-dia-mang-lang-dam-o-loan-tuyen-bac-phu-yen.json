@@ -2,7 +2,7 @@
   "slug": "ganh-da-dia-mang-lang-dam-o-loan-tuyen-bac-phu-yen",
   "title": "Gành Đá Đĩa – Mằng Lăng – Đầm Ô Loan: tuyến Bắc Phú Yên",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "ganh-da-dia-mang-lang-dam-o-loan-tuyen-bac-phu-yen.jpg",
+  "image": "ganh-da-dia-mang-lang-dam-o-loan-tuyen-bac-phu-yen.webp",
   "summary": "Chọn tuyến Bắc Phú Yên với Gành Đá Đĩa, Mằng Lăng và Đầm Ô Loan; cân đối cảnh quan, văn hóa, bữa ăn và thời gian.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Các khối đá ven biển là phần cảnh quan nổi bật. Đoàn cần đi theo lối phù hợp, cân nhắc bề mặt, đoạn lên xuống và điều kiện thời tiết. Với khách muốn chụp ảnh, nên dành khoảng riêng và thống nhất giờ tập trung. Không khuyến khích tới sát mép sóng hoặc vị trí khó đi chỉ để lấy góc ảnh."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217669222-0.jpg",
-      "alt": "Gành Đá Đĩa – Mằng Lăng – Đầm Ô Loan: tuyến Bắc Phú Yên"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217669222-0.jpg\" alt=\"Gành Đá Đĩa – Mằng Lăng – Đầm Ô Loan: tuyến Bắc Phú Yên\"></figure>"
     },
     {
       "type": "h2",
