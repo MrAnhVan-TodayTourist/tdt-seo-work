@@ -2,7 +2,7 @@
   "slug": "chon-khach-san-resort-quy-nhon-phu-yen-cho-khach-doan",
   "title": "Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "chon-khach-san-resort-quy-nhon-phu-yen-cho-khach-doan.jpg",
+  "image": "chon-khach-san-resort-quy-nhon-phu-yen-cho-khach-doan.webp",
   "summary": "Chọn nơi lưu trú Quy Nhơn – Phú Yên theo tuyến đi, cơ cấu phòng, bãi xe, nhà hàng và không gian Team Building, Gala.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Lưu trú gần trung tâm có thể thuận tiện ăn uống và tham quan đô thị; khu nghỉ dưỡng ven biển có thể đáp ứng mục tiêu nghỉ tại chỗ. Với hành trình liên tuyến, xem chặng xe từ nơi ở đến các hướng tham quan. Một điểm lưu trú đẹp nhưng lệch tuyến có thể làm tăng thời gian di chuyển mỗi ngày. Chọn theo kế hoạch thực tế của đoàn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217553220-0.jpg",
-      "alt": "Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217553220-0.jpg\" alt=\"Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn\"></figure>"
     },
     {
       "type": "h2",
