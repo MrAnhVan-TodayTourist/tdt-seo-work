@@ -6,7 +6,7 @@
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "5 ngày 4 đêm",
   "price": "Liên hệ lịch và giá 2027",
-  "image": "",
+  "image": "bia-singapore-malaysia.webp",
   "desc": "Tour Singapore – Malaysia 5N4Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Kuala Lumpur, Genting, Malacca và Singapore. Bay Vietnam Airlines từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Khám phá hai nước Singapore và Malaysia trong một hành trình",
@@ -279,5 +279,5 @@
       "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Nhắn Zalo để nhận lịch trình, kiểm tra chỗ và báo giá theo ngày đi.</strong></a>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
