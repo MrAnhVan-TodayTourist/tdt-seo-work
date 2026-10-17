@@ -2,7 +2,7 @@
   "slug": "mui-dien-vung-ro-hon-nua-chon-tuyen-nam-phu-yen",
   "title": "Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "mui-dien-vung-ro-hon-nua-chon-tuyen-nam-phu-yen.jpg",
+  "image": "mui-dien-vung-ro-hon-nua-chon-tuyen-nam-phu-yen.webp",
   "summary": "Cân nhắc tuyến Nam Phú Yên: Mũi Điện, Bãi Môn, Vũng Rô và Hòn Nưa theo sức đi bộ, thời gian và điều kiện biển.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoạn lên khu vực hải đăng có bậc thang và cần thời gian. Đoàn nên chọn giờ phù hợp, chuẩn bị đồ cá nhân và giữ khoảng nghỉ. Nếu mục tiêu ngắm bình minh, phải cân nhắc giờ xuất phát và khả năng nghỉ của đoàn, không chỉ cảnh ảnh. Không cần dùng khẳng định 'cực Đông' hoặc 'đầu tiên Việt Nam' để giới thiệu giá trị cảnh quan của điểm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217681676-0.jpg",
-      "alt": "Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217681676-0.jpg\" alt=\"Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên\"></figure>"
     },
     {
       "type": "h2",
