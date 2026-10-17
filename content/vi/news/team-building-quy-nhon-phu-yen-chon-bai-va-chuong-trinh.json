@@ -2,7 +2,7 @@
   "slug": "team-building-quy-nhon-phu-yen-chon-bai-va-chuong-trinh",
   "title": "Team Building Quy Nhơn – Phú Yên: chọn bãi và chương trình",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "team-building-quy-nhon-phu-yen-chon-bai-va-chuong-trinh.jpg",
+  "image": "team-building-quy-nhon-phu-yen-chon-bai-va-chuong-trinh.webp",
   "summary": "Chọn địa điểm và kịch bản Team Building Quy Nhơn – Phú Yên theo số người, mục tiêu, mặt bằng và phương án thời tiết.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Kiểm tra diện tích sử dụng, mặt cát, đường vào, khoảng cách tới phòng nghỉ, nhà vệ sinh và nguồn điện nếu cần. Bãi công cộng và bãi của cơ sở lưu trú có điều kiện sử dụng khác nhau; phải xác nhận trước. Eo Gió, Gành Đá Đĩa hay một bãi đá đẹp không mặc nhiên là nơi phù hợp để chạy trò chơi tập thể."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217361170-0.jpg",
-      "alt": "Team Building Quy Nhơn – Phú Yên: chọn bãi và chương trình"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217361170-0.jpg\" alt=\"Team Building Quy Nhơn – Phú Yên: chọn bãi và chương trình\"></figure>"
     },
     {
       "type": "h2",
