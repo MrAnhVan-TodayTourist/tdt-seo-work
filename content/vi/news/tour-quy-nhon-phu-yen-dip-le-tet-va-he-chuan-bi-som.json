@@ -2,7 +2,7 @@
   "slug": "tour-quy-nhon-phu-yen-dip-le-tet-va-he-chuan-bi-som",
   "title": "Tour Quy Nhơn – Phú Yên dịp lễ, Tết và hè: chuẩn bị sớm",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "tour-quy-nhon-phu-yen-dip-le-tet-va-he-chuan-bi-som.jpg",
+  "image": "tour-quy-nhon-phu-yen-dip-le-tet-va-he-chuan-bi-som.webp",
   "summary": "Chuẩn bị tour Quy Nhơn – Phú Yên dịp lễ, Tết và hè: ngày đi, phòng, phương tiện, ngân sách và hạn chốt đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Gửi ngày muốn đi, số ngày nghỉ và một vài lựa chọn khác nếu có. Công ty cần đối chiếu kế hoạch sản xuất và lịch nhân sự trước khi giữ dịch vụ. Đoàn trường học nên xem thời điểm phù hợp mục tiêu chuyến đi. Không sử dụng lịch hoặc giá năm trước như điều kiện đang có cho chuyến mới."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217859179-0.jpg",
-      "alt": "Tour Quy Nhơn – Phú Yên dịp lễ, Tết và hè: chuẩn bị sớm"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217859179-0.jpg\" alt=\"Tour Quy Nhơn – Phú Yên dịp lễ, Tết và hè: chuẩn bị sớm\"></figure>"
     },
     {
       "type": "h2",
