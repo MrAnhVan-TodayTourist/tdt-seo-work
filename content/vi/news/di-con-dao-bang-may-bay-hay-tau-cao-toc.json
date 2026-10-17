@@ -2,7 +2,7 @@
   "slug": "di-con-dao-bang-may-bay-hay-tau-cao-toc",
   "title": "Đi Côn Đảo bằng máy bay hay tàu cao tốc?",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "di-con-dao-bang-may-bay-hay-tau-cao-toc.jpg",
+  "image": "di-con-dao-bang-may-bay-hay-tau-cao-toc.webp",
   "summary": "So sánh máy bay và tàu đi Côn Đảo theo tổng thời gian, chặng nối, chi phí và nhu cầu của đoàn; kiểm tra lịch trước khi đặt.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Phương án bay gồm chặng tới sân bay, thời gian làm thủ tục, chuyến bay và xe tới khách sạn. Phương án tàu gồm đường bộ ra cảng, thời gian tập trung, hành trình biển và xe tại đảo. Nên đặt hai phương án lên cùng một lịch ngày để thấy phần thời gian có thể tham quan. Một chặng chính ngắn hơn vẫn có thể đi kèm nhiều thời gian chờ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218223127-0.jpg",
-      "alt": "Đi Côn Đảo bằng máy bay hay tàu cao tốc?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218223127-0.jpg\" alt=\"Đi Côn Đảo bằng máy bay hay tàu cao tốc?\"></figure>"
     },
     {
       "type": "h2",
