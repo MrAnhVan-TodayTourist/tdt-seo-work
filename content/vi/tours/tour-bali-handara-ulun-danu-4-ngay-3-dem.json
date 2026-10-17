@@ -35,8 +35,14 @@
       "text": "<strong>Từ 11.990.000đ/người lớn</strong>, các ngày <strong>05/11, 12/11, 19/11 và 26/11/2026</strong>. Tour 4 ngày 3 đêm, bay Vietnam Airlines, khách sạn 4 sao. <strong>Giá chưa gồm VAT và tip.</strong>"
     },
     {
-      "type": "html",
-      "html": "<table><tbody><tr><th><div>Khoản chi</div></th><th><div>Mức áp dụng/người</div></th></tr><tr><td><div>Giá tour các ngày nêu trên</div></td><td><div>11.990.000đ</div></td></tr><tr><td><div>Tip hướng dẫn viên, tài xế địa phương</div></td><td><div>Mức đề nghị 20 USD/tour</div></td></tr><tr><td><div>Phòng đơn nếu yêu cầu</div></td><td><div>2.500.000đ/tour</div></td></tr><tr><td><div>Phí du lịch Bali 150.000 rupiah</div></td><td><div>Đã gồm theo chương trình</div></td></tr><tr><td><div>VAT, visa theo trường hợp, chi tiêu ngoài chương trình</div></td><td><div>Tính riêng</div></td></tr></tbody></table>"
+      "type": "list",
+      "items": [
+        "Giá tour các ngày nêu trên: 11.990.000đ",
+        "Tip hướng dẫn viên, tài xế địa phương: Mức đề nghị 20 USD/tour",
+        "Phòng đơn nếu yêu cầu: 2.500.000đ/tour",
+        "Phí du lịch Bali 150.000 rupiah: Đã gồm theo chương trình",
+        "VAT, visa theo trường hợp, chi tiêu ngoài chương trình: Tính riêng"
+      ]
     },
     {
       "type": "p",
