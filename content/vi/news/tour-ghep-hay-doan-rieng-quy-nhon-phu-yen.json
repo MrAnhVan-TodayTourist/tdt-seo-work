@@ -2,7 +2,7 @@
   "slug": "tour-ghep-hay-doan-rieng-quy-nhon-phu-yen",
   "title": "Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "tour-ghep-hay-doan-rieng-quy-nhon-phu-yen.jpg",
+  "image": "tour-ghep-hay-doan-rieng-quy-nhon-phu-yen.webp",
   "summary": "So sánh tour ghép và đoàn riêng Quy Nhơn – Phú Yên theo chi phí, lịch, điểm đón, phòng và hoạt động riêng của đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Khách tham gia cùng những nhóm khác nên thường theo điểm đón, thời gian và chương trình chung. Hỏi lịch cụ thể, điều kiện đủ khách, cơ cấu phòng và những trải nghiệm lựa chọn thêm. Không nên hiểu lịch quảng cáo của đơn vị khác là lịch TodayTourist đang vận hành. Mọi ngày khởi hành cần được xác nhận trước khi khách sắp xếp nghỉ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217510197-0.jpg",
-      "alt": "Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217510197-0.jpg\" alt=\"Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?\"></figure>"
     },
     {
       "type": "h2",
