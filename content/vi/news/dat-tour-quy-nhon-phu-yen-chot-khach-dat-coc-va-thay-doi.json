@@ -2,7 +2,7 @@
   "slug": "dat-tour-quy-nhon-phu-yen-chot-khach-dat-coc-va-thay-doi",
   "title": "Đặt tour Quy Nhơn – Phú Yên: chốt khách, đặt cọc và thay đổi",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "dat-tour-quy-nhon-phu-yen-chot-khach-dat-coc-va-thay-doi.jpg",
+  "image": "dat-tour-quy-nhon-phu-yen-chot-khach-dat-coc-va-thay-doi.webp",
   "summary": "Chuẩn bị yêu cầu đặt tour Quy Nhơn – Phú Yên và kiểm tra báo giá, dịch vụ, thời hạn chốt khách, đặt cọc, đổi lịch.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Cần số khách dự kiến, ngày đi, điểm đón, thời lượng, ngân sách và trải nghiệm ưu tiên. Nêu cơ cấu người lớn, trẻ em, yêu cầu phòng, bữa ăn và chương trình công ty. Nếu chưa chốt số người, cung cấp khoảng dự kiến và hạn cập nhật. Một yêu cầu rõ giúp so phương án, thay vì nhận nhiều mức giá không cùng dịch vụ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217925738-0.jpg",
-      "alt": "Đặt tour Quy Nhơn – Phú Yên: chốt khách, đặt cọc và thay đổi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217925738-0.jpg\" alt=\"Đặt tour Quy Nhơn – Phú Yên: chốt khách, đặt cọc và thay đổi\"></figure>"
     },
     {
       "type": "h2",
