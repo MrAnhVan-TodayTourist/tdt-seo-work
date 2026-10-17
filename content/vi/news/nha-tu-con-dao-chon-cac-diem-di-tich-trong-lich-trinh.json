@@ -2,7 +2,7 @@
   "slug": "nha-tu-con-dao-chon-cac-diem-di-tich-trong-lich-trinh",
   "title": "Nhà tù Côn Đảo: chọn các điểm di tích trong lịch trình",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "nha-tu-con-dao-chon-cac-diem-di-tich-trong-lich-trinh.jpg",
+  "image": "nha-tu-con-dao-chon-cac-diem-di-tich-trong-lich-trinh.webp",
   "summary": "Sắp lịch tham quan nhà tù Côn Đảo: chọn điểm trọng tâm, thời gian thuyết minh và cách tiếp cận phù hợp đối tượng đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -16,9 +16,8 @@
       "text": "Chọn phạm vi trước khi chốt thời gian"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792202719669-0.jpg",
-      "alt": "Di tích nhà tù Côn Đảo - TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792202719669-0.jpg\" alt=\"Di tích nhà tù Côn Đảo - TodayTourist\"></figure>"
     },
     {
       "type": "p",
