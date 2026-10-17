@@ -2,7 +2,7 @@
   "slug": "to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan",
   "title": "Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan.jpg",
+  "image": "to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan.webp",
   "summary": "Chuẩn bị đoàn đông đi Côn Đảo: thống nhất danh sách, chia chuyến, phòng, bữa ăn và đầu mối điều phối để hạn chế chờ.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Mỗi khách cần có thông tin phục vụ đặt vé, nhóm di chuyển và yêu cầu phòng. Người đại diện nên quản lý một bản danh sách chính; thay đổi phải cập nhật tới các bộ phận liên quan. Chia nhóm theo chuyến và người phụ trách, không chỉ theo phòng. Nếu thành viên có nhu cầu riêng, ghi tại đúng nhóm để hướng dẫn viên nhận đủ thông tin trước khi đón."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218312201-0.jpg",
-      "alt": "Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218312201-0.jpg\" alt=\"Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan\"></figure>"
     },
     {
       "type": "h2",
