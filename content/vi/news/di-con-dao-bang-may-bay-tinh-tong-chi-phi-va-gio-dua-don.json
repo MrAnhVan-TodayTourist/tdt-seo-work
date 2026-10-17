@@ -2,7 +2,7 @@
   "slug": "di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don",
   "title": "Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don.jpg",
+  "image": "di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don.webp",
   "summary": "Lập phương án Côn Đảo bằng máy bay: so giá vé khứ hồi, hành lý, xe đưa đón và giờ nhận trả phòng trước khi đặt.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Kiểm tra ngày, giờ, hành lý, điều kiện đổi hoàn và các khoản thuế phí đã có trong giá. Mức giá quảng cáo thấp nhất có thể không áp dụng cho ngày khách chọn hoặc đủ chỗ cho cả đoàn. Với doanh nghiệp, cần biết số vé có thể giữ hoặc xuất cùng chuyến, thời hạn thanh toán và điều kiện thay đổi tên theo quy định hãng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218257733-0.jpg",
-      "alt": "Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218257733-0.jpg\" alt=\"Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón\"></figure>"
     },
     {
       "type": "h2",
