@@ -2,7 +2,7 @@
   "slug": "tay-son-bao-tang-quang-trung-ham-ho-trong-tour-quy-nhon",
   "title": "Tây Sơn – Bảo tàng Quang Trung – Hầm Hô trong tour Quy Nhơn",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "tay-son-bao-tang-quang-trung-ham-ho-trong-tour-quy-nhon.jpg",
+  "image": "tay-son-bao-tang-quang-trung-ham-ho-trong-tour-quy-nhon.webp",
   "summary": "Chọn tuyến Tây Sơn, Bảo tàng Quang Trung và Hầm Hô để kết hợp văn hóa, cảnh quan trong tour Quy Nhơn cho đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoàn muốn tìm hiểu lịch sử nên có phần hướng dẫn và thời gian quan sát phù hợp. Không biến chuyến thăm thành một lần chụp ảnh rồi lên xe. Nếu muốn xem biểu diễn nhạc võ hoặc chương trình riêng, cần kiểm tra lịch, khả năng phục vụ và chi phí, không mặc định có trong mọi vé tham quan hoặc mọi khung giờ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217640205-0.jpg",
-      "alt": "Tây Sơn – Bảo tàng Quang Trung – Hầm Hô trong tour Quy Nhơn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217640205-0.jpg\" alt=\"Tây Sơn – Bảo tàng Quang Trung – Hầm Hô trong tour Quy Nhơn\"></figure>"
     },
     {
       "type": "h2",
