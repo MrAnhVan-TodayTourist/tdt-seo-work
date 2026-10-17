@@ -20,9 +20,8 @@
       "text": "Lập một dòng cho mỗi đêm: ngủ tại khách sạn nào hay trên phương tiện nào. Phương án máy bay thường được xây khác tour xe xuất phát từ tối hôm trước. Nếu hai chương trình đều ghi bốn ngày, hãy so giờ đến và giờ về, số bữa ăn, thời gian tự do và số lần chuyển khách sạn. Đây mới là cơ sở đánh giá lịch trình."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217294513-0.jpg",
-      "alt": "Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217294513-0.jpg\" alt=\"Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?\"></figure>"
     },
     {
       "type": "h2",
