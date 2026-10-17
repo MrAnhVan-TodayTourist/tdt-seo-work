@@ -2,7 +2,7 @@
   "slug": "di-con-dao-qua-tran-de-xe-noi-tuyen-tau-va-thoi-gian-nghi",
   "title": "Đi Côn Đảo qua Trần Đề: xe nối tuyến, tàu và thời gian nghỉ",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "di-con-dao-qua-tran-de-xe-noi-tuyen-tau-va-thoi-gian-nghi.jpg",
+  "image": "di-con-dao-qua-tran-de-xe-noi-tuyen-tau-va-thoi-gian-nghi.webp",
   "summary": "Chuẩn bị chuyến Côn Đảo qua Trần Đề: chọn xe nối tuyến, khớp vé tàu hai chiều, ăn nghỉ và hành lý cho khách đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoàn nên trao đổi phương án xe giường nằm hoặc xe 45 chỗ khi cần chặng đường bộ dài, tùy điều kiện phục vụ. Nhóm nhỏ có thể cân nhắc 16 hoặc 29 chỗ phù hợp số người và hành lý. Báo giá cần ghi rõ loại xe, số chỗ sử dụng và tuyến; không mặc định tên tour có đêm xe đồng nghĩa đã bao gồm xe giường nằm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218229785-0.jpg",
-      "alt": "Đi Côn Đảo qua Trần Đề: xe nối tuyến, tàu và thời gian nghỉ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218229785-0.jpg\" alt=\"Đi Côn Đảo qua Trần Đề: xe nối tuyến, tàu và thời gian nghỉ\"></figure>"
     },
     {
       "type": "h2",
