@@ -2,7 +2,7 @@
   "slug": "cu-lao-xanh-danh-bao-nhieu-thoi-gian-trong-tour-quy-nhon",
   "title": "Cù Lao Xanh: dành bao nhiêu thời gian trong tour Quy Nhơn?",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "cu-lao-xanh-danh-bao-nhieu-thoi-gian-trong-tour-quy-nhon.jpg",
+  "image": "cu-lao-xanh-danh-bao-nhieu-thoi-gian-trong-tour-quy-nhon.webp",
   "summary": "Chọn trải nghiệm Cù Lao Xanh theo hành trình đảo, thời gian đi về, cơ sở dịch vụ và phương án biển cho khách đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Tổng thời lượng gồm xe đến bến, tập trung, di chuyển biển, tham quan, ăn và quay lại. Không lấy thời gian canô chạy làm thời gian toàn chương trình. Đoàn đông cần thêm khoảng chia nhóm và kiểm đếm. Nếu buổi tối có Gala hoặc chuyến về đã định giờ, nên cân nhắc khoảng đệm và khả năng thay đổi theo điều kiện biển."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217631212-0.jpg",
-      "alt": "Cù Lao Xanh: dành bao nhiêu thời gian trong tour Quy Nhơn?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217631212-0.jpg\" alt=\"Cù Lao Xanh: dành bao nhiêu thời gian trong tour Quy Nhơn?\"></figure>"
     },
     {
       "type": "h2",
