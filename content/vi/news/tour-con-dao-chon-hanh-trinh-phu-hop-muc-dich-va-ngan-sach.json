@@ -2,7 +2,7 @@
   "slug": "tour-con-dao-chon-hanh-trinh-phu-hop-muc-dich-va-ngan-sach",
   "title": "Tour Côn Đảo: chọn hành trình phù hợp mục đích và ngân sách",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "tour-con-dao-chon-hanh-trinh-phu-hop-muc-dich-va-ngan-sach.jpg",
+  "image": "tour-con-dao-chon-hanh-trinh-phu-hop-muc-dich-va-ngan-sach.webp",
   "summary": "Chọn tour Côn Đảo theo mục đích viếng, về nguồn hoặc nghỉ dưỡng; cân nhắc thời gian, phương tiện và ngân sách trước khi đặt.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nếu đoàn ưu tiên viếng, hãy dành khoảng thời gian đủ thoải mái cho Hàng Dương và giữ nhịp di chuyển nhẹ. Nếu là hành trình về nguồn, phần thuyết minh, tham quan di tích và nghi thức tưởng niệm cần được chuẩn bị riêng. Nếu thiên về nghỉ dưỡng, nên giữ thời gian tự do tại nơi lưu trú; không xếp liên tiếp nhiều điểm chỉ để chương trình nhìn phong phú."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217946638-0.jpg",
-      "alt": "Tour Côn Đảo: chọn hành trình phù hợp mục đích và ngân sách"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217946638-0.jpg\" alt=\"Tour Côn Đảo: chọn hành trình phù hợp mục đích và ngân sách\"></figure>"
     },
     {
       "type": "h2",
