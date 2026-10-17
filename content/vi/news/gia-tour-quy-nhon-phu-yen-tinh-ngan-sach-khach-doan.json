@@ -20,9 +20,8 @@
       "text": "Gửi cùng một yêu cầu: số người lớn và trẻ em, ngày đi, điểm đón, thời lượng, loại phòng, số bữa ăn và các điểm bắt buộc. Đoàn công ty cần ghi thêm mục tiêu Team Building, Gala hoặc hội nghị. Nếu hai phương án khác số đêm khách sạn, vé đảo hoặc tiêu chuẩn bữa ăn, chênh lệch giá không thể hiện đầy đủ mức tiết kiệm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217192158-0.jpg",
-      "alt": "Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217192158-0.jpg\" alt=\"Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn\"></figure>"
     },
     {
       "type": "h2",
