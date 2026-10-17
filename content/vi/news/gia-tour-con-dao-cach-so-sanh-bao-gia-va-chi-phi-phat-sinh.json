@@ -2,7 +2,7 @@
   "slug": "gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh",
   "title": "Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh.jpg",
+  "image": "gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh.webp",
   "summary": "Tìm hiểu các khoản tạo nên giá tour Côn Đảo: vé, xe, phòng, bữa ăn và dịch vụ đoàn; so sánh báo giá theo cùng tiêu chuẩn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Cần so cùng ngày đi, điểm xuất phát, số khách, số đêm khách sạn và loại phòng. Kiểm tra vé máy bay hoặc tàu là khứ hồi hay chỉ một chiều; hành lý, phí cảng và xe nối tuyến có nằm trong giá không. Một gói chưa gồm vé sẽ khó so trực tiếp với gói đã gồm vận chuyển. Phòng ba người và phòng hai người cũng không phải cùng tiêu chuẩn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217968206-0.jpg",
-      "alt": "Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217968206-0.jpg\" alt=\"Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh\"></figure>"
     },
     {
       "type": "h2",
