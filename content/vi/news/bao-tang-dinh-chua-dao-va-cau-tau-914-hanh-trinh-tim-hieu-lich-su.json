@@ -2,7 +2,7 @@
   "slug": "bao-tang-dinh-chua-dao-va-cau-tau-914-hanh-trinh-tim-hieu-lich-su",
   "title": "Bảo tàng, Dinh Chúa Đảo và Cầu tàu 914: hành trình tìm hiểu lịch sử",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "bao-tang-dinh-chua-dao-va-cau-tau-914-hanh-trinh-tim-hieu-lich-su.jpg",
+  "image": "bao-tang-dinh-chua-dao-va-cau-tau-914-hanh-trinh-tim-hieu-lich-su.webp",
   "summary": "Chọn Bảo tàng Côn Đảo, Dinh Chúa Đảo và Cầu tàu 914 trong tour; phân bổ thời gian tìm hiểu lịch sử và tham quan.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Bảo tàng có thể là điểm bắt đầu để khách hình dung bối cảnh địa phương và các giai đoạn được trưng bày. Người đại diện nên trao đổi mức độ thuyết minh mong muốn, nhất là với đoàn học sinh hoặc đoàn thể. Không nên chỉ dành thời gian xuống xe và chụp hình bên ngoài nếu mục đích chuyến đi là tìm hiểu. Khách cần biết phạm vi được tham quan thực tế."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218391249-0.jpg",
-      "alt": "Bảo tàng, Dinh Chúa Đảo và Cầu tàu 914: hành trình tìm hiểu lịch sử"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218391249-0.jpg\" alt=\"Bảo tàng, Dinh Chúa Đảo và Cầu tàu 914: hành trình tìm hiểu lịch sử\"></figure>"
     },
     {
       "type": "h2",
