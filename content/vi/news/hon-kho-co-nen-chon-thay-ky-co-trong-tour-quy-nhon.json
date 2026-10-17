@@ -2,7 +2,7 @@
   "slug": "hon-kho-co-nen-chon-thay-ky-co-trong-tour-quy-nhon",
   "title": "Hòn Khô: có nên chọn thay Kỳ Co trong tour Quy Nhơn?",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "hon-kho-co-nen-chon-thay-ky-co-trong-tour-quy-nhon.jpg",
+  "image": "hon-kho-co-nen-chon-thay-ky-co-trong-tour-quy-nhon.webp",
   "summary": "Cân nhắc Hòn Khô trong tour Quy Nhơn theo thời gian, phương tiện, hoạt động biển và nhu cầu của đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hòn Khô gắn với khu vực Nhơn Hải và trải nghiệm biển đảo. Đoàn muốn tìm hiểu làng chài, cảnh biển và hoạt động nước có thể xem xét tuyến này. Tuy nhiên, cần hỏi gói phục vụ cụ thể, thời gian trên đảo và cách di chuyển. Không chọn chỉ vì một bức ảnh đẹp hoặc giả định mọi dịch vụ quảng cáo đều luôn có."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217620267-0.jpg",
-      "alt": "Hòn Khô: có nên chọn thay Kỳ Co trong tour Quy Nhơn?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217620267-0.jpg\" alt=\"Hòn Khô: có nên chọn thay Kỳ Co trong tour Quy Nhơn?\"></figure>"
     },
     {
       "type": "h2",
