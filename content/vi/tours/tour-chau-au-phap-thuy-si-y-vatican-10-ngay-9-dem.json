@@ -5,7 +5,7 @@
   "region_name": "Châu Âu",
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "10 ngày 9 đêm",
-  "price": "Liên hệ lịch và giá 2027",
+  "price": "Từ 71.900.000đ/khách (chưa gồm visa)",
   "image": "bia-chau-au.webp",
   "desc": "Tour châu Âu 10N9Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Paris, Colmar, Lucerne, Milan, Venice, Pisa, Rome và Vatican. Bay từ TP.HCM; nhận ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
@@ -232,15 +232,25 @@
     },
     {
       "type": "p",
-      "text": "<strong>Liên hệ nhận lịch và báo giá 2027.</strong> Chương trình nguồn đang có giá tham khảo 71.900.000đ/khách cho lịch 20–29/11/2026, đối chiếu ngày 16/10/2026; <strong>không phải giá đã chốt cho năm 2027</strong>. Ngày khác và đoàn riêng được báo giá theo chuyến bay, tình trạng phòng và dịch vụ."
+      "text": "<strong>Giá người lớn: 71.900.000đ/khách.</strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Trẻ em theo chương trình tham khảo:</strong> dưới 2 tuổi tính 40%; từ 2 đến dưới 9 tuổi tính 90% nếu ngủ chung, 100% nếu có giường riêng; từ đủ 9 tuổi tính giá người lớn. Em bé không có ghế máy bay và giường riêng, hành lý theo điều kiện vé."
+      "text": "<strong>Khởi hành:</strong> 20/11/2026 – <strong>kết thúc:</strong> 29/11/2026."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Visa Schengen chưa bao gồm: 5.500.000đ/khách, chưa gồm dịch vụ premium nếu sử dụng.",
+        "Bồi dưỡng hướng dẫn viên và tài xế chưa bao gồm: 70 EUR/khách/hành trình.",
+        "Tổng giá tour và visa: 77.400.000đ/người lớn + 70 EUR tiền bồi dưỡng, chưa tính phòng đơn, dịch vụ premium và trải nghiệm tự chọn.",
+        "Phụ thu phòng đơn cho chuyến trên: 14.000.000đ/khách.",
+        "Giá trẻ em được xác nhận theo ngày sinh và nhu cầu giường trước khi đăng ký; bảng giá ngày đi và điều kiện phân tuổi của nguồn chưa thống nhất, nên TodayTourist không áp dụng tự động tỷ lệ giá trẻ em."
+      ]
     },
     {
       "type": "p",
-      "text": "<strong>Phòng đơn:</strong> nguồn tham khảo 2.000.000đ/khách/đêm. Nếu không có khách ghép phòng hoặc người ghép hủy/không đạt visa, phụ thu phòng đơn được xử lý theo điều kiện đã thông báo trước khi đăng ký."
+      "text": "Giá và lịch đối chiếu ngày 17/10/2026 theo chương trình EU801.10 của TransViet, áp dụng cho chuyến ghi trên và tình trạng chỗ khi xác nhận. Ngày khác, đoàn riêng và lịch năm 2027 có báo giá riêng. TodayTourist kiểm tra thời gian chuẩn bị visa, chỗ bay và phòng trước khi nhận thanh toán."
     },
     {
       "type": "h3",
