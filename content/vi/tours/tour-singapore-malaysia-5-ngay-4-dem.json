@@ -5,16 +5,16 @@
   "region_name": "Châu Á",
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "5 ngày 4 đêm",
-  "price": "Liên hệ lịch và giá 2027",
+  "price": "Từ 12.590.000đ/khách",
   "image": "bia-singapore-malaysia.webp",
   "desc": "Tour Singapore – Malaysia 5N4Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Kuala Lumpur, Genting, Malacca và Singapore. Bay Vietnam Airlines từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
-    "Khám phá hai nước Singapore và Malaysia trong một hành trình",
-    "Tham quan động Batu và trải nghiệm cáp treo Genting",
-    "Chụp hình tháp đôi Petronas tại Kuala Lumpur",
-    "Dạo thành phố di sản Malacca và quảng trường Hà Lan",
-    "Tham quan Sentosa, Gardens by the Bay và Merlion Park",
-    "Bay Vietnam Airlines; tư vấn ghép đoàn và đoàn riêng từ 20 khách"
+    "Bay Vietnam Airlines từ TP.HCM, hành lý ký gửi 23kg",
+    "Động Batu và cáp treo cao nguyên Genting",
+    "Chùa Bà Thiên Hậu, tháp đôi Petronas và phố cổ Malacca",
+    "Merlion Park, Gardens by the Bay và đảo Sentosa",
+    "Buffet BBQ tại Malaysia, buffet lẩu Hotpot tại Singapore",
+    "Nhận khách ghép đoàn; tư vấn đoàn riêng từ 20 khách"
   ],
   "itinerary": [],
   "content": [
@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 3–4 sao, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước. Nghỉ tại Kuala Lumpur, Malacca/Johor Bahru và Singapore theo xác nhận đoàn."
+      "text": "🏨 <strong>Lưu trú:</strong> khách sạn 3–4 sao, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước. Nghỉ tại Kuala Lumpur, Johor Bahru và Singapore theo xác nhận đoàn."
     },
     {
       "type": "p",
@@ -64,83 +64,79 @@
     },
     {
       "type": "p",
-      "text": "<strong>Buổi chiều:</strong> Quý khách có mặt tại Tân Sơn Nhất theo giờ hẹn, gặp hướng dẫn viên và làm thủ tục bay đi Kuala Lumpur. Lịch bay cụ thể được xác nhận theo chuyến đã đăng ký."
+      "text": "<strong>Khởi hành:</strong> Quý khách tập trung tại ga quốc tế Tân Sơn Nhất, gặp trưởng đoàn và làm thủ tục bay Vietnam Airlines đến Kuala Lumpur. Giờ bay thực hiện theo xác nhận của chuyến đăng ký."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi tối:</strong> Sau thủ tục nhập cảnh, xe đưa đoàn về trung tâm, dùng bữa tại nhà hàng địa phương và nhận phòng khách sạn. Nghỉ đêm tại Kuala Lumpur."
+      "text": "<strong>Đến Malaysia:</strong> Hoàn tất nhập cảnh, xe và hướng dẫn viên đưa đoàn về khách sạn nhận phòng. Nghỉ đêm tại Kuala Lumpur. Ngày đầu không ghi bữa ăn trong chương trình; quý khách chuẩn bị chi phí ăn uống ngoài dịch vụ đã xác nhận."
     },
     {
       "type": "h3",
-      "text": "NGÀY 02: ĐỘNG BATU – GENTING – KUALA LUMPUR"
+      "text": "NGÀY 02: ĐỘNG BATU – GENTING – THÁP ĐÔI PETRONAS"
     },
     {
       "type": "p",
-      "text": "<strong>Buổi sáng:</strong> Ăn sáng tại khách sạn, khởi hành đi Genting. Đoàn ghé động Batu, quần thể đền Hindu giữa những vách đá vôi, dành thời gian tham quan theo hướng dẫn. Trên tuyến có các điểm mua sắm miễn thuế hoặc phong thủy, đặc sản và cao su theo chương trình."
+      "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, tham quan động Batu và các bậc thang nhiều màu sắc. Đoàn ghé cửa hàng đặc sản, vàng bạc đá quý và trung tâm cao su theo chương trình."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi trưa và chiều:</strong> Dùng bữa tại nhà hàng, trải nghiệm cáp treo lên cao nguyên Genting và tự do khám phá khu nghỉ mát. <strong>Các trò chơi, hoạt động vui chơi tự chọn thanh toán riêng.</strong> Về Kuala Lumpur, đoàn dừng chụp hình bên ngoài tháp đôi Petronas."
+      "text": "<strong>Buổi trưa và chiều:</strong> Dùng cơm trưa, đến cao nguyên Genting. <strong>Đã bao gồm vé cáp treo</strong>; các trò chơi và hoạt động tự chọn thanh toán riêng. Trở lại Kuala Lumpur, đoàn dừng chụp hình bên ngoài tháp đôi Petronas."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi tối:</strong> Ăn tối, nghỉ đêm tại Kuala Lumpur. Chương trình có một bữa BBQ tại Malaysia theo sắp xếp của đoàn."
+      "text": "<strong>Buổi tối:</strong> Ăn tối, về khách sạn nghỉ tại Kuala Lumpur. Quý khách có thể tự do khám phá phố đêm sau khi thống nhất giờ về với hướng dẫn viên."
     },
     {
       "type": "h3",
-      "text": "NGÀY 03: PUTRAJAYA – MALACCA / JOHOR BAHRU"
+      "text": "NGÀY 03: KUALA LUMPUR – MALACCA – JOHOR BAHRU"
     },
     {
       "type": "p",
-      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng và tham quan thành phố Putrajaya. Quý khách ngắm không gian đô thị được quy hoạch bên hồ, sau đó ghé cửa hàng chocolate."
+      "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, trả phòng. Tham quan chùa Bà Thiên Hậu, ghé cửa hàng chocolate, khu Cung điện Hoàng gia, quảng trường Độc Lập và Tượng đài Chiến sĩ Vô danh theo lộ trình."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi trưa:</strong> Dùng bữa theo chương trình, tiếp tục di chuyển đến Malacca."
+      "text": "<strong>Buổi trưa:</strong> Thưởng thức buffet BBQ theo chương trình."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi chiều:</strong> Dạo khu di sản với pháo đài A’Famosa, nhà thờ St. Paul và quảng trường Hà Lan. Những công trình còn lại qua nhiều giai đoạn lịch sử tạo nên nét riêng của thành phố; quý khách tham quan và chụp hình theo lộ trình hướng dẫn viên."
+      "text": "<strong>Buổi chiều:</strong> Đến Malacca, tìm hiểu khu di sản với pháo đài A’Famosa, quảng trường Hà Lan và đền Cheng Hoon Teng. Quý khách dạo phố và chụp hình theo thời gian của đoàn."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi tối:</strong> Ăn tối, nhận phòng và nghỉ tại Malacca hoặc Johor Bahru theo phương án khách sạn của chuyến đi."
+      "text": "<strong>Buổi tối:</strong> Di chuyển đến Johor Bahru, dùng cơm tối và nhận phòng khách sạn. Nghỉ đêm tại Johor Bahru."
     },
     {
       "type": "h3",
-      "text": "NGÀY 04: MALACCA / JOHOR BAHRU – SINGAPORE – SENTOSA"
+      "text": "NGÀY 04: SINGAPORE – GARDENS BY THE BAY – SENTOSA"
     },
     {
       "type": "p",
-      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng; xe đưa đoàn đến cửa khẩu làm thủ tục sang Singapore. Đoàn ghé cửa hàng trang sức và dầu gió theo chương trình."
+      "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, trả phòng; đi qua cửa khẩu Tuas Link vào Singapore. Đoàn viếng Phật Nha Tự, tham quan khuôn viên Gardens by the Bay, Merlion Park và chụp hình bên ngoài City Hall, Esplanade."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi trưa:</strong> Ăn trưa tại nhà hàng địa phương."
+      "text": "<strong>Buổi trưa:</strong> Dùng buffet lẩu Hotpot."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi chiều:</strong> Tham quan đảo Sentosa. Quý khách có thể chọn thêm các điểm vui chơi theo thời gian thực tế; <strong>vé thủy cung, Madame Tussauds và Universal không nằm trong giá chương trình này</strong>. Tên điểm mở cửa, suất vé và thời gian sử dụng được kiểm tra trước khi đặt thêm."
+      "text": "<strong>Buổi chiều:</strong> Đến đảo Sentosa, chụp hình bên ngoài Universal Studios Singapore. <strong>Không bao gồm vé vào Universal hoặc các khu vui chơi có thu phí.</strong> Thủy cung là lựa chọn tự túc khi đủ thời gian và có dịch vụ vận hành phù hợp."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi tối:</strong> Dùng bữa tại nhà hàng, về khách sạn nghỉ tại Singapore. Chương trình có một bữa Bak Kut Teh tại Singapore theo sắp xếp thực tế."
+      "text": "<strong>Buổi tối:</strong> Ăn tại nhà hàng, về khách sạn Singapore. Chương trình Singapore by Night, MRT và du thuyền buổi tối là lựa chọn thanh toán riêng."
     },
     {
       "type": "h3",
-      "text": "NGÀY 05: GARDENS BY THE BAY – MERLION PARK – TP.HCM"
+      "text": "NGÀY 05: JEWEL CHANGI – TP.HCM"
     },
     {
       "type": "p",
-      "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng và khám phá khuôn viên Gardens by the Bay. Quý khách ngắm các siêu cây; <strong>OCBC Skyway, Flower Dome và Cloud Forest tính vé riêng</strong>. Tiếp tục tham quan Merlion Park và ngắm nhà hát Esplanade từ bên ngoài."
+      "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, trả phòng. Ghé trung tâm chế tác vàng bạc đá quý và cửa hàng dầu gió theo lịch. Xe đưa đoàn ra sân bay Changi, tham quan khu Jewel và thác Rain Vortex theo thời gian, điều kiện vận hành thực tế."
     },
     {
       "type": "p",
-      "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng trước khi ra sân bay Changi."
-    },
-    {
-      "type": "p",
-      "text": "<strong>Buổi chiều và tối:</strong> Làm thủ tục bay về TP.HCM. Nếu thời gian và điều kiện vận hành cho phép, quý khách có thể ghé khu Jewel ngắm Rain Vortex. Dịch vụ kết thúc tại sân bay Tân Sơn Nhất; đoàn riêng có xe về Biên Hòa theo phương án đã thống nhất."
+      "text": "<strong>Kết thúc:</strong> Làm thủ tục bay Vietnam Airlines về TP.HCM. Đến Tân Sơn Nhất, nhập cảnh và nhận hành lý; hướng dẫn viên chia tay đoàn. Ngày này chương trình gồm bữa sáng; các bữa khác ngoài dịch vụ được xác nhận do quý khách tự túc."
     },
     {
       "type": "h3",
@@ -148,11 +144,24 @@
     },
     {
       "type": "p",
-      "text": "<strong>Liên hệ nhận lịch và báo giá 2027.</strong> Giá được xác nhận theo ngày bay, số chỗ, hạng phòng và dịch vụ áp dụng. TodayTourist gửi bảng giá trước khi khách đăng ký; đoàn riêng từ 20 khách có báo giá riêng."
+      "text": "<strong>Người lớn và trẻ từ đủ 11 tuổi: 12.590.000đ/khách.</strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Chính sách trẻ em của chương trình tham khảo:</strong> dưới 2 tuổi tính 30%; từ 2 đến dưới 9 tuổi tính 90% nếu ngủ chung, 100% nếu có giường riêng; từ đủ 9 tuổi tính giá người lớn. Em bé không có ghế máy bay và giường riêng; hành lý theo điều kiện vé. Mức áp dụng được kiểm tra lại cho đúng chuyến."
+      "text": "<strong>Lịch áp dụng:</strong> 06/01/2027 – 10/01/2027."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Trẻ từ 2 đến dưới 11 tuổi, ngủ cùng người lớn: 11.590.000đ/khách.",
+        "Trẻ dưới 2 tuổi: 2.400.000đ/khách, không có ghế máy bay và giường riêng.",
+        "Phụ thu phòng đơn: 4.620.000đ/khách.",
+        "Tiền bồi dưỡng hướng dẫn viên và tài xế chưa bao gồm: 25 USD/khách/trọn tour."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Giá đối chiếu ngày 17/10/2026 theo lịch cụ thể chương trình SM803.05 của TransViet. Nguồn còn niêm yết lịch 13–17/01 và 20–24/01/2027 cùng mức giá người lớn; tình trạng chỗ và giá từng độ tuổi cần kiểm tra lại trước khi xác nhận. Hai người lớn kèm một trẻ dưới 11 tuổi; trẻ thứ hai tính giá người lớn để có giường riêng."
     },
     {
       "type": "h3",
@@ -161,12 +170,12 @@
     {
       "type": "list",
       "items": [
-        "Vé máy bay theo hành trình, 10kg xách tay và 1 kiện 23kg ký gửi theo điều kiện vé đoàn.",
-        "Khách sạn 3–4 sao theo tiêu chuẩn phòng nêu trên; xe tham quan liên tuyến.",
-        "Các bữa ăn, vé tham quan theo chương trình và cáp treo Genting.",
-        "Hướng dẫn viên từ Việt Nam, hướng dẫn viên địa phương; nước uống 1 chai/khách/ngày tham quan.",
-        "Bảo hiểm theo hợp đồng chương trình, mức trách nhiệm tối đa 735.000.000đ/trường hợp, theo phạm vi và điều kiện bảo hiểm; khách từ 85 tuổi có phụ thu gói riêng.",
-        "VAT theo chương trình áp dụng."
+        "Vé Vietnam Airlines theo hành trình; 10kg xách tay và 1 kiện 23kg ký gửi theo điều kiện vé. Chọn chỗ ngồi theo yêu cầu có thể phát sinh phí.",
+        "Khách sạn 3–4 sao, 2 người lớn/phòng; phòng 3 bố trí khi cần và thông báo trước. Nghỉ Kuala Lumpur, Johor Bahru và Singapore.",
+        "Xe máy lạnh, vé tham quan được ghi là bao gồm, vé cáp treo Genting.",
+        "Các bữa ăn ghi theo từng ngày, gồm BBQ ngày 3 và lẩu Hotpot ngày 4.",
+        "Hướng dẫn viên từ Việt Nam theo đoàn và hướng dẫn viên địa phương; nón du lịch, thẻ hành lý, nước uống trên xe.",
+        "Bảo hiểm du lịch quốc tế theo hợp đồng, mức trách nhiệm tối đa 10.000 USD/vụ theo phạm vi và điều kiện bảo hiểm."
       ]
     },
     {
@@ -176,10 +185,11 @@
     {
       "type": "list",
       "items": [
-        "Xe Biên Hòa – Tân Sơn Nhất trong giá ghép đoàn; xe này chỉ bố trí cho đoàn riêng từ 20 khách theo báo giá.",
-        "Hộ chiếu, phòng đơn, quá cước, phụ thu quốc tịch và chi phí tái nhập Việt Nam nếu có.",
-        "Các vé tự chọn tại Sentosa, OCBC Skyway, Flower Dome, Cloud Forest; mua sắm và chi tiêu cá nhân.",
-        "Bồi dưỡng hướng dẫn viên, tài xế: 5 USD/khách/ngày; trẻ từ 2 tuổi tính như người lớn, dưới 2 tuổi miễn phí, ngày tự do nếu có theo điều kiện chương trình."
+        "Tiền bồi dưỡng 25 USD/khách/trọn tour; phụ thu phòng đơn 4.620.000đ/khách.",
+        "Xe Biên Hòa – Tân Sơn Nhất trong giá ghép đoàn; chỉ bố trí cho đoàn riêng từ 20 khách theo báo giá.",
+        "Hộ chiếu, quá cước, chọn ghế, mua sắm, chi phí cá nhân và bữa ăn ngoài chương trình.",
+        "Vé khu vui chơi tại Sentosa, vé nhà kính hoặc cầu trên cao tại Gardens by the Bay, Singapore by Night và dịch vụ tự chọn.",
+        "Visa Singapore, Malaysia đối với quốc tịch cần visa; visa tái nhập Việt Nam và phụ thu quốc tịch nếu có."
       ]
     },
     {
