@@ -2,7 +2,7 @@
   "slug": "to-chuc-tour-quy-nhon-phu-yen-cho-cong-ty-xi-nghiep",
   "title": "Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "to-chuc-tour-quy-nhon-phu-yen-cho-cong-ty-xi-nghiep.jpg",
+  "image": "to-chuc-tour-quy-nhon-phu-yen-cho-cong-ty-xi-nghiep.webp",
   "summary": "Lập tour Quy Nhơn – Phú Yên cho doanh nghiệp từ mục tiêu, ca làm, ngân sách đến Team Building, Gala và điều phối đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nghỉ dưỡng, gắn kết, khen thưởng và hội nghị là các mục tiêu khác nhau. Nếu ưu tiên nghỉ dưỡng, đừng dành toàn bộ ngày cho di chuyển. Nếu ưu tiên gắn kết, giữ thời gian đủ cho Team Building và Gala. Có thể gửi một yêu cầu ngắn gồm số khách, ngày dự kiến, điểm đón, ngân sách và hoạt động quan trọng nhất để nhận phương án sát nhu cầu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217352170-0.jpg",
-      "alt": "Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217352170-0.jpg\" alt=\"Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp\"></figure>"
     },
     {
       "type": "h2",
