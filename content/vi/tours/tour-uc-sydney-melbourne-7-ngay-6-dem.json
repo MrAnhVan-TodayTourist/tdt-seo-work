@@ -6,7 +6,7 @@
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "7 ngày 6 đêm",
   "price": "Liên hệ lịch và giá 2027",
-  "image": "",
+  "image": "bia-uc.webp",
   "desc": "Tour Úc 7N6Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Sydney, Blue Mountains, Melbourne và Dandenong. Bay từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Ngắm Nhà hát Con Sò, cầu cảng Sydney và khu The Rocks",
@@ -328,5 +328,5 @@
       "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Nhắn Zalo để nhận lịch trình, kiểm tra chỗ và báo giá theo ngày đi.</strong></a>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
