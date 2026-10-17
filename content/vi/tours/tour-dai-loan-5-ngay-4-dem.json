@@ -79,12 +79,28 @@
       "text": "<strong>Buổi sáng:</strong> Ăn sáng, trả phòng và đến Đài Bắc. Đoàn ghé cửa hàng đặc sản, trải nghiệm làm bánh, sau đó đến làng Thập Phần thả đèn trời theo tiêu chuẩn <strong>4 khách/đèn</strong>. Quý khách tiếp tục ngắm thác Thập Phần và cảnh quan quanh làng."
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201471853-0.jpg\" alt=\"Thác Thập Phần giữa thiên nhiên Đài Loan. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Thác Thập Phần giữa thiên nhiên Đài Loan.</em>"
+    },
+    {
       "type": "p",
       "text": "<strong>Buổi trưa:</strong> Dùng bữa tại nhà hàng địa phương. Chương trình ngày này có lẩu một người và mì bò theo sắp xếp bữa trưa, bữa tối."
     },
     {
       "type": "p",
       "text": "<strong>Buổi chiều:</strong> Tham quan khu vực Taipei 101 và thưởng thức một phần trà sữa trong chương trình. <strong>Vé lên đài quan sát Taipei 101 chưa bao gồm</strong>; nhu cầu mua thêm được kiểm tra theo thời gian và tình trạng vé."
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201471853-1.jpg\" alt=\"Taipei 101 nổi bật giữa thành phố Đài Bắc. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Taipei 101 nổi bật giữa thành phố Đài Bắc.</em>"
     },
     {
       "type": "p",
@@ -101,6 +117,14 @@
     {
       "type": "p",
       "text": "<strong>Buổi trưa và chiều:</strong> Dùng bữa theo chương trình, đi thuyền trên hồ Nhật Nguyệt để ngắm mặt nước và núi đồi xung quanh. Đoàn tham quan Văn Võ Miếu, ghé cửa hàng linh chi rồi tiếp tục về Đài Trung."
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201471854-2.jpg\" alt=\"Mặt hồ Nhật Nguyệt và núi đồi Nam Đầu. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Mặt hồ Nhật Nguyệt và núi đồi Nam Đầu.</em>"
     },
     {
       "type": "p",
