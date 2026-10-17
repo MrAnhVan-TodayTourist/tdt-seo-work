@@ -5,7 +5,7 @@
   "region_name": "Châu Úc",
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "7 ngày 6 đêm",
-  "price": "Liên hệ lịch và giá 2027",
+  "price": "Từ 38.990.000đ/khách",
   "image": "bia-uc.webp",
   "desc": "Tour Úc 7N6Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Sydney, Blue Mountains, Melbourne và Dandenong. Bay từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
@@ -180,15 +180,25 @@
     },
     {
       "type": "p",
-      "text": "<strong>Liên hệ nhận lịch và giá 2027.</strong> Giá tham khảo của chương trình đang công bố là 38.990.000đ/khách cho lịch 19–25/11/2026, đối chiếu ngày 16/10/2026; <strong>không phải giá đã chốt cho năm 2027</strong>. TodayTourist kiểm tra lại chuyến bay, khách sạn và chỗ trước khi gửi báo giá."
+      "text": "<strong>Người lớn và trẻ từ đủ 11 tuổi: 38.990.000đ/khách.</strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Trẻ em theo chương trình tham khảo:</strong> dưới 2 tuổi tính 40%; từ 2 đến dưới 11 tuổi tính 90% nếu ngủ chung, 100% nếu có giường riêng; từ đủ 11 tuổi tính giá người lớn. Em bé không có ghế máy bay và giường riêng; hành lý theo điều kiện vé."
+      "text": "<strong>Khởi hành:</strong> 19/11/2026 – <strong>kết thúc:</strong> 25/11/2026."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Trẻ từ 2 đến dưới 11 tuổi, ngủ chung người lớn: 35.091.000đ/khách; có giường riêng: 38.990.000đ/khách.",
+        "Trẻ dưới 2 tuổi: 15.596.000đ/khách, không có ghế máy bay và giường riêng.",
+        "Phụ thu phòng đơn: 8.000.000đ/khách.",
+        "Bồi dưỡng hướng dẫn viên, tài xế chưa gồm trong giá: 42 USD/khách/trọn tour.",
+        "Chưa bao gồm visa Úc; nguồn nêu khoản phí visa không hoàn lại 6.800.000đ trong các trường hợp áp dụng. Phí hồ sơ thực thu được xác nhận trước khi đăng ký."
+      ]
     },
     {
       "type": "p",
-      "text": "<strong>Phòng đơn:</strong> báo riêng. Khách đi một mình được hỗ trợ tìm người ghép phòng cùng giới; nếu không ghép được hoặc người ghép thay đổi, phụ thu phòng đơn được thông báo theo điều kiện đặt tour."
+      "text": "Giá và lịch đối chiếu ngày 17/10/2026 theo chương trình AU800.07 của TransViet, áp dụng cho chuyến ghi trên và tình trạng chỗ khi xác nhận. Ngày khác được báo giá riêng; không áp dụng mặc định cho năm 2027. TodayTourist kiểm tra chỗ, thời gian xử lý visa và xác nhận dịch vụ trước khi nhận thanh toán."
     },
     {
       "type": "h3",
