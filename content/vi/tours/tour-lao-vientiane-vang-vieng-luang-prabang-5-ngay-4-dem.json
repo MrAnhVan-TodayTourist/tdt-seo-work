@@ -35,8 +35,13 @@
       "text": "<strong>Từ 12.990.000đ/người lớn</strong> cho các ngày <strong>11/11, 25/11 và 09/12/2026</strong>. Thời gian 5 ngày 4 đêm. Giá chưa gồm VAT và tip."
     },
     {
-      "type": "html",
-      "html": "<table><tbody><tr><th><div>Khoản cần dự trù</div></th><th><div>Mức tham khảo/người</div></th></tr><tr><td><div>Giá tour</div></td><td><div>12.990.000đ</div></td></tr><tr><td><div>Tip hướng dẫn viên và tài xế địa phương</div></td><td><div>25 USD/tour</div></td></tr><tr><td><div>Phòng đơn nếu yêu cầu</div></td><td><div>100 USD/tour</div></td></tr><tr><td><div>VAT, visa theo quốc tịch, dịch vụ tự chọn</div></td><td><div>Báo riêng theo trường hợp</div></td></tr></tbody></table>"
+      "type": "list",
+      "items": [
+        "Giá tour: 12.990.000đ",
+        "Tip hướng dẫn viên và tài xế địa phương: 25 USD/tour",
+        "Phòng đơn nếu yêu cầu: 100 USD/tour",
+        "VAT, visa theo quốc tịch, dịch vụ tự chọn: Báo riêng theo trường hợp"
+      ]
     },
     {
       "type": "p",
