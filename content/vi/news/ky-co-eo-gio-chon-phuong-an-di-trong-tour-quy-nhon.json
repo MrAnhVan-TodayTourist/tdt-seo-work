@@ -2,7 +2,7 @@
   "slug": "ky-co-eo-gio-chon-phuong-an-di-trong-tour-quy-nhon",
   "title": "Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "ky-co-eo-gio-chon-phuong-an-di-trong-tour-quy-nhon.jpg",
+  "image": "ky-co-eo-gio-chon-phuong-an-di-trong-tour-quy-nhon.webp",
   "summary": "Phân biệt trải nghiệm Kỳ Co và Eo Gió; kiểm tra canô, đường bộ, vé, bữa ăn và thời gian phù hợp cho khách đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Thời gian ở Kỳ Co cần tính cả di chuyển, thay đồ, tắm biển nếu phù hợp và nghỉ. Eo Gió cần xét đường đi bộ, bậc thang, nắng và gió. Với đoàn nhiều thế hệ, nên xác định người tham gia toàn bộ và người muốn phần nhẹ hơn. Không dùng ảnh một nơi để minh họa dịch vụ ở nơi còn lại."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217611769-0.jpg",
-      "alt": "Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217611769-0.jpg\" alt=\"Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn\"></figure>"
     },
     {
       "type": "h2",
