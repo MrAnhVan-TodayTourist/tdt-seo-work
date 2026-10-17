@@ -2,7 +2,7 @@
   "slug": "vieng-mo-co-sau-va-nghia-trang-hang-duong-chuan-bi-chuyen-di",
   "title": "Viếng mộ cô Sáu và Nghĩa trang Hàng Dương: chuẩn bị chuyến đi",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "vieng-mo-co-sau-va-nghia-trang-hang-duong-chuan-bi-chuyen-di.jpg",
+  "image": "vieng-mo-co-sau-va-nghia-trang-hang-duong-chuan-bi-chuyen-di.webp",
   "summary": "Hướng dẫn chuẩn bị viếng Hàng Dương, mộ Võ Thị Sáu: thời gian, trang phục, cách tổ chức đoàn và giữ không gian trang nghiêm.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Khách nên xem thông tin chính thức và xác nhận lại khi gần ngày đi. Không dựa vào lời truyền miệng rằng phải đến một giờ khuya nhất định. Với đoàn vừa tới đảo sau chặng dài, chọn giờ phù hợp sức khách và lịch nghỉ. Nếu muốn nghi thức tập thể, trao đổi trước để đơn vị quản lý hướng dẫn, không tới nơi mới tự tổ chức theo một kịch bản chưa thống nhất."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792202933016-0.jpg",
-      "alt": "Chuẩn bị chuyến viếng mộ cô Sáu và nghĩa trang Hàng Dương, Côn Đảo"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792202933016-0.jpg\" alt=\"Chuẩn bị chuyến viếng mộ cô Sáu và nghĩa trang Hàng Dương, Côn Đảo\"></figure>"
     },
     {
       "type": "h2",
