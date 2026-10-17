@@ -2,7 +2,7 @@
   "slug": "con-dao-di-dau-chon-diem-theo-thoi-gian-va-doi-tuong-khach",
   "title": "Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "con-dao-di-dau-chon-diem-theo-thoi-gian-va-doi-tuong-khach.jpg",
+  "image": "con-dao-di-dau-chon-diem-theo-thoi-gian-va-doi-tuong-khach.webp",
   "summary": "Chọn điểm du lịch Côn Đảo theo nhu cầu viếng, lịch sử, cảnh biển và sinh thái; phân bổ vừa sức cho gia đình và khách đoàn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nhóm viếng và văn hóa phù hợp người muốn tưởng niệm hoặc đi lễ. Nhóm bảo tàng, nhà tù dành cho nhu cầu tìm hiểu lịch sử. Nhóm bãi biển và đường ven biển đáp ứng nghỉ, ngắm cảnh hoặc chụp hình. Trải nghiệm hòn và sinh thái cần điều kiện riêng. Đoàn có thể kết hợp vài nhóm nhưng nên chọn một trọng tâm để lịch có mạch rõ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218402260-0.jpg",
-      "alt": "Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218402260-0.jpg\" alt=\"Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách\"></figure>"
     },
     {
       "type": "h2",
