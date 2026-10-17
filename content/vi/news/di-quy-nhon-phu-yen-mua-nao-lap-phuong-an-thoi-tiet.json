@@ -2,7 +2,7 @@
   "slug": "di-quy-nhon-phu-yen-mua-nao-lap-phuong-an-thoi-tiet",
   "title": "Đi Quy Nhơn – Phú Yên mùa nào? Lập phương án thời tiết",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "di-quy-nhon-phu-yen-mua-nao-lap-phuong-an-thoi-tiet.jpg",
+  "image": "di-quy-nhon-phu-yen-mua-nao-lap-phuong-an-thoi-tiet.webp",
   "summary": "Chọn thời điểm Quy Nhơn – Phú Yên theo trải nghiệm và lịch đoàn; chuẩn bị phương án khi biển, mưa hoặc gió ảnh hưởng chuyến đi.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Kỳ Co, Hòn Khô, Cù Lao Xanh hay Hòn Nưa cần điều kiện phục vụ phù hợp. Hỏi lịch vận hành, phương tiện và cách xử lý nếu phải đổi chương trình. Không lấy một ảnh biển xanh hoặc một câu 'mùa đẹp' để bảo đảm chắc chắn có thể đi đảo. Kế hoạch nên có lựa chọn thay thế với dịch vụ và thời gian đã cân nhắc."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217797860-0.jpg",
-      "alt": "Đi Quy Nhơn – Phú Yên mùa nào? Lập phương án thời tiết"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217797860-0.jpg\" alt=\"Đi Quy Nhơn – Phú Yên mùa nào? Lập phương án thời tiết\"></figure>"
     },
     {
       "type": "h2",
