@@ -2,7 +2,7 @@
   "slug": "tour-hanh-huong-con-dao-ket-hop-vieng-va-tham-quan-the-nao",
   "title": "Tour hành hương Côn Đảo: kết hợp viếng và tham quan thế nào?",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "tour-hanh-huong-con-dao-ket-hop-vieng-va-tham-quan-the-nao.jpg",
+  "image": "tour-hanh-huong-con-dao-ket-hop-vieng-va-tham-quan-the-nao.webp",
   "summary": "Chuẩn bị tour hành hương Côn Đảo theo mục đích đoàn; sắp lịch viếng, điểm văn hóa, ăn nghỉ và chi phí phù hợp.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoàn có thể ưu tiên Hàng Dương, kết hợp một số điểm văn hóa tâm linh và tham quan lịch sử. Cần phân biệt mục tiêu tưởng niệm với kỳ vọng cầu nguyện của từng người; đơn vị tổ chức hỗ trợ chuyến đi, không thể hứa kết quả tâm linh. Nên dành thời gian đủ cho điểm chính thay vì gom nhiều nơi vào một buổi chỉ để đủ danh sách."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218349533-0.jpg",
-      "alt": "Tour hành hương Côn Đảo: kết hợp viếng và tham quan thế nào?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218349533-0.jpg\" alt=\"Tour hành hương Côn Đảo: kết hợp viếng và tham quan thế nào?\"></figure>"
     },
     {
       "type": "h2",
