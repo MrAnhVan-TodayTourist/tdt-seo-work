@@ -2,7 +2,7 @@
   "slug": "di-quy-nhon-phu-yen-cung-tre-nho-va-nguoi-lon-tuoi",
   "title": "Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "di-quy-nhon-phu-yen-cung-tre-nho-va-nguoi-lon-tuoi.jpg",
+  "image": "di-quy-nhon-phu-yen-cung-tre-nho-va-nguoi-lon-tuoi.webp",
   "summary": "Lập chuyến Quy Nhơn – Phú Yên cho gia đình nhiều thế hệ: phương tiện, phòng, bữa ăn, khoảng nghỉ và lựa chọn không ra đảo.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Người khó ngủ trên xe có thể cân nhắc phương án bay hoặc tăng thời gian nghỉ sau khi đến. Chuyến bay vẫn cần tính chặng xe đưa đón và thời gian chờ. Nếu đi xe, trao đổi nhu cầu chỗ ngồi hoặc giường, hành lý và điểm dừng. Không nên chọn chỉ theo thời lượng quảng cáo mà bỏ qua sự thoải mái của từng thành viên."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217501195-0.jpg",
-      "alt": "Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217501195-0.jpg\" alt=\"Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi\"></figure>"
     },
     {
       "type": "h2",
