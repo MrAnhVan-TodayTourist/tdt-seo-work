@@ -2,7 +2,7 @@
   "slug": "an-gi-o-quy-nhon-phu-yen-chon-thuc-don-cho-doan",
   "title": "Ăn gì ở Quy Nhơn – Phú Yên? Chọn thực đơn cho đoàn",
   "category": "Tour Quy Nhơn – Phú Yên – Tư vấn đoàn",
-  "image": "an-gi-o-quy-nhon-phu-yen-chon-thuc-don-cho-doan.jpg",
+  "image": "an-gi-o-quy-nhon-phu-yen-chon-thuc-don-cho-doan.webp",
   "summary": "Gợi ý ẩm thực Quy Nhơn – Phú Yên và cách chọn bữa đoàn: món địa phương, thực đơn, hải sản, ăn chay và khoản gọi thêm.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Ở Quy Nhơn có thể tìm hiểu bánh hỏi cháo lòng, bún chả cá, bánh xèo và các món biển; Phú Yên có bánh canh hẹ, mắt cá ngừ và món ăn gắn với Đầm Ô Loan. Đây là gợi ý tìm hiểu, không có nghĩa mọi món đều nằm trong tour. Hãy chọn vài món đoàn quan tâm và hỏi nơi phục vụ phù hợp theo tuyến."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217603811-0.jpg",
-      "alt": "Ăn gì ở Quy Nhơn – Phú Yên? Chọn thực đơn cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217603811-0.jpg\" alt=\"Ăn gì ở Quy Nhơn – Phú Yên? Chọn thực đơn cho đoàn\"></figure>"
     },
     {
       "type": "h2",
