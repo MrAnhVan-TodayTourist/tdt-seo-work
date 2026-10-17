@@ -20,9 +20,8 @@
       "text": "Với phương án đi xe vào đêm đầu, chương trình có thể gồm một đêm trên xe và hai đêm tại khách sạn. Không nên suy ra cơ cấu này chỉ từ tên 3N3Đ; hãy kiểm tra lịch chi tiết. Đồng thời hỏi giờ nhận phòng, điều kiện gửi hành lý và nơi vệ sinh cá nhân khi đến sớm. Nhận phòng sớm không mặc nhiên nằm trong giá tour."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217209985-0.jpg",
-      "alt": "Tour Quy Nhơn – Phú Yên 3 ngày 3 đêm: đọc lịch trình đúng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217209985-0.jpg\" alt=\"Tour Quy Nhơn – Phú Yên 3 ngày 3 đêm: đọc lịch trình đúng\"></figure>"
     },
     {
       "type": "h2",
