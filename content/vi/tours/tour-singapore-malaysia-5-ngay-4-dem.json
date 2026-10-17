@@ -79,8 +79,24 @@
       "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, tham quan động Batu và các bậc thang nhiều màu sắc. Đoàn ghé cửa hàng đặc sản, vàng bạc đá quý và trung tâm cao su theo chương trình."
     },
     {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201361168-0.jpg\" alt=\"Động Batu và tượng thần Murugan tại Malaysia. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Động Batu và tượng thần Murugan tại Malaysia.</em>"
+    },
+    {
       "type": "p",
       "text": "<strong>Buổi trưa và chiều:</strong> Dùng cơm trưa, đến cao nguyên Genting. <strong>Đã bao gồm vé cáp treo</strong>; các trò chơi và hoạt động tự chọn thanh toán riêng. Trở lại Kuala Lumpur, đoàn dừng chụp hình bên ngoài tháp đôi Petronas."
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201361168-1.jpg\" alt=\"Tháp đôi Petronas tại Kuala Lumpur. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Tháp đôi Petronas tại Kuala Lumpur.</em>"
     },
     {
       "type": "p",
@@ -113,6 +129,14 @@
     {
       "type": "p",
       "text": "<strong>Buổi sáng:</strong> Ăn buffet sáng, trả phòng; đi qua cửa khẩu Tuas Link vào Singapore. Đoàn viếng Phật Nha Tự, tham quan khuôn viên Gardens by the Bay, Merlion Park và chụp hình bên ngoài City Hall, Esplanade."
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792201361168-2.jpg\" alt=\"Tượng Merlion bên vịnh Marina, Singapore. – TodayTourist\" style=\"max-width:100%;width:auto;height:auto;margin:0 auto\"></figure>"
+    },
+    {
+      "type": "p",
+      "text": "<em>Tượng Merlion bên vịnh Marina, Singapore.</em>"
     },
     {
       "type": "p",
