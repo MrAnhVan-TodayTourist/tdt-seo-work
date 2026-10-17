@@ -6,7 +6,7 @@
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "5 ngày 4 đêm",
   "price": "Từ 19.990.000đ/khách",
-  "image": "",
+  "image": "bia-dai-loan.webp",
   "desc": "Tour Đài Loan 5N4Đ dành cho khách tại Biên Hòa, Đồng Nai và TP.HCM: Thập Phần, Đài Bắc, hồ Nhật Nguyệt, Đài Nam và Cao Hùng. Bay Vietnam Airlines từ TP.HCM; nhận đăng ký ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Thả đèn trời tại Thập Phần, 4 khách/đèn theo chương trình",
@@ -298,5 +298,5 @@
       "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong>Nhắn Zalo để nhận lịch trình, kiểm tra chỗ và báo giá theo ngày đi.</strong></a>"
     }
   ],
-  "hidden": true
+  "hidden": false
 }
