@@ -2,7 +2,7 @@
   "slug": "tour-con-dao-2-ngay-2-dem-lich-trinh-va-cach-tinh-so-dem",
   "title": "Tour Côn Đảo 2 ngày 2 đêm: lịch trình và cách tính số đêm",
   "category": "Tour Côn Đảo – Tư vấn đoàn",
-  "image": "tour-con-dao-2-ngay-2-dem-lich-trinh-va-cach-tinh-so-dem.jpg",
+  "image": "tour-con-dao-2-ngay-2-dem-lich-trinh-va-cach-tinh-so-dem.webp",
   "summary": "Hiểu lịch tour Côn Đảo 2N2Đ, phân biệt đêm trên xe với đêm khách sạn và chọn điểm tham quan phù hợp khi đi từ Đồng Nai.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Ở chương trình 2N2Đ hiện có của TodayTourist, một đêm dành cho chặng xe và một đêm lưu trú tại đảo. Khách nên xem rõ giờ tập trung, điều kiện nghỉ trên xe và giờ nhận phòng. Nếu cần hai đêm khách sạn để nghỉ dưỡng, hãy trao đổi một phương án khác; không chọn chỉ dựa vào số đêm ghi trên tên tour."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217992637-0.jpg",
-      "alt": "Tour Côn Đảo 2 ngày 2 đêm: lịch trình và cách tính số đêm"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217992637-0.jpg\" alt=\"Tour Côn Đảo 2 ngày 2 đêm: lịch trình và cách tính số đêm\"></figure>"
     },
     {
       "type": "h2",
