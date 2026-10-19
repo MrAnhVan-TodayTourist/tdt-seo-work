@@ -6,7 +6,7 @@
   "departure": "TP.HCM – sân bay Tân Sơn Nhất",
   "duration": "10 ngày 9 đêm",
   "price": "Từ 98.500.000đ/khách (chưa gồm visa)",
-  "image": "bia-my-dong-tay.jpg",
+  "image": "my-dong-tay.webp",
   "desc": "Hành trình hai bờ Hoa Kỳ từ New York, Philadelphia và Washington D.C. đến Los Angeles, Las Vegas và San Diego. Bay từ TP.HCM; nhận ghép đoàn và tư vấn đoàn riêng từ 20 khách.",
   "highlights": [
     "Bay China Airlines, nối chuyến qua Đài Bắc",
@@ -136,7 +136,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792213918128-0.jpg\" alt=\"Hollywood, Los Angeles. – TodayTourist\" style=\"margin:0px auto\"></figure>"
+      "html": "<figure style=\"width:675px\"><img src=\"/content/vi/images/pasted-1792213918128-0.jpg\" alt=\"Hollywood, Los Angeles. – TodayTourist\" style=\"margin:0px auto;width:675px;height:900px\"></figure>"
     },
     {
       "type": "p",
@@ -160,7 +160,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792213918129-1.jpg\" alt=\"Những công trình trên Las Vegas Strip. – TodayTourist\" style=\"margin:0px auto\"></figure>"
+      "html": "<figure style=\"width:1000px\"><img src=\"/content/vi/images/pasted-1792213918129-1.jpg\" alt=\"Những công trình trên Las Vegas Strip. – TodayTourist\" style=\"margin:0px auto;width:1000px;height:668px\"></figure>"
     },
     {
       "type": "p",
