@@ -2,7 +2,7 @@
   "slug": "team-building-ho-tram-ho-coc-kiem-tra-mat-bang-truoc-khi-dat",
   "title": "Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-team-building-ho-tram-ho-coc-k-v2.jpg",
   "summary": "Đoàn chọn Hồ Tràm–Hồ Cốc thường muốn kết hợp trò chơi với nghỉ dưỡng.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Mỗi mặt bằng phù hợp một kiểu hoạt động. Bãi biển có nắng, gió và điều kiện mặt nước; sân cỏ có giới hạn diện tích; phòng trong nhà có giới hạn tiếng ồn và cách bố trí. Không lấy ảnh một khu lớn để cam kết cho đoàn nếu chưa xác nhận diện tích thực tế được đặt."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220655671-0.jpg",
-      "alt": "Crowded beach in Bà Rịa - Vũng Tàu, showcasing vibrant summer activiti"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220655671-0.jpg\" alt=\"Crowded beach in Bà Rịa - Vũng Tàu, showcasing vibrant summer activiti\"></figure>"
     },
     {
       "type": "h2",
