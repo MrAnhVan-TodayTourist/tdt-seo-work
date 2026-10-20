@@ -2,7 +2,7 @@
   "slug": "tour-phu-quoc-don-tai-dao-danh-cho-khach-da-co-ve-may-bay-hoac-tau",
   "title": "Tour Phú Quốc đón tại đảo: dành cho khách đã có vé máy bay hoặc tàu",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-phu-quoc-don-tai-dao-danh-cho-khach-da-co-ve-may-bay-hoac-tau.jpg",
+  "image": "anh-bia-pq-10-v2.jpg",
   "summary": "Khách đã mua vé hoặc đang ở Phú Quốc có thể cần phần xe, phòng, bữa ăn và tham quan.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Cần ngày, giờ, sân bay hoặc bến tàu, số người và địa chỉ đang lưu trú nếu có. Nếu các thành viên đến khác chuyến, tách từng nhóm để bố trí xe. Trường hợp chuyến vận chuyển thay đổi giờ, phải có đầu mối cập nhật và điều kiện chờ hoặc đón lại."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216485129-0.jpg",
-      "alt": "Tour Phú Quốc đón tại đảo: dành cho khách đã có vé máy bay hoặc tàu"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216485129-0.jpg\" alt=\"Tour Phú Quốc đón tại đảo: dành cho khách đã có vé máy bay hoặc tàu\"></figure>"
     },
     {
       "type": "h2",
