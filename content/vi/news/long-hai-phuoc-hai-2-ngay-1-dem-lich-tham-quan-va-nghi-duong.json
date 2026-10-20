@@ -2,7 +2,7 @@
   "slug": "long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong",
   "title": "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-long-hai-phuoc-hai-2-ngay-1-dem-lich-tha-v2.jpg",
   "summary": "Một đêm lưu trú giúp chuyến Long Hải–Phước Hải có thời gian nghỉ biển và tham quan nhẹ.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Có thể chọn Song Vĩnh hoặc Minh Đạm làm phần tham quan buổi sáng, tùy sức khỏe và tuyến đường. Sau ăn trưa, nhận phòng theo điều kiện cơ sở lưu trú. Không nên đưa quá nhiều điểm vào sáng đầu tiên rồi bắt đoàn tham gia trò chơi ngay khi vừa tới. Đoàn cần nghỉ nên giữ buổi chiều tự do."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220405330-0.jpg",
-      "alt": "Beautiful aerial view of a luxury beachfront resort in Hồ Tràm, Vietna"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220405330-0.jpg\" alt=\"Beautiful aerial view of a luxury beachfront resort in Hồ Tràm, Vietna\"></figure>"
     },
     {
       "type": "h2",
