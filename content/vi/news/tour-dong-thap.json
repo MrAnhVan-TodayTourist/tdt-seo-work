@@ -2,7 +2,7 @@
   "slug": "tour-dong-thap",
   "title": "Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-dong-thap-v2.jpg",
   "summary": "Tour Đồng Tháp về nguồn. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Tại khu di tích, dành thời gian cho phần giới thiệu và những khu phục vụ khách theo hướng dẫn. Ở Xẻo Quýt, cần hỏi hình thức tham quan và chặng di chuyển đang hoạt động. Không mặc định mọi đoàn đều sử dụng cùng một tuyến xuồng, hoặc chỉ cần đến nơi là đủ toàn bộ nội dung về nguồn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407048024-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407048024-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
