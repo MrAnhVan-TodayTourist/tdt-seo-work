@@ -2,7 +2,7 @@
   "slug": "team-building-vung-tau-chon-bai-va-kich-ban-cho-doan-cong-ty",
   "title": "Team Building Vũng Tàu: chọn bãi và kịch bản cho đoàn công ty",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-team-building-vung-tau-chon-ba-v2.jpg",
   "summary": "Team Building Vũng Tàu hiệu quả khi trò chơi phù hợp mục tiêu doanh nghiệp và mặt bằng thực tế.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đoàn muốn làm quen giữa phòng ban cần hoạt động phối hợp nhẹ. Đoàn muốn tăng khả năng trao đổi cần trò chơi có phần phân công và phản hồi. Gửi số người, độ tuổi, thể lực và nội dung cần tránh cho người xây kịch bản. Không dùng trò gây khó chịu, bêu tên hoặc ép người không muốn vận động."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220648618-0.jpg",
-      "alt": "A picturesque view of Vũng Tàu city with ships on the sea and vibrant "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220648618-0.jpg\" alt=\"A picturesque view of Vũng Tàu city with ships on the sea and vibrant \"></figure>"
     },
     {
       "type": "h2",
