@@ -2,7 +2,7 @@
   "slug": "tour-tra-vinh",
   "title": "Tour Trà Vinh–Cồn Chim: chọn trải nghiệm văn hóa và cộng đồng",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-tra-vinh-v2.jpg",
   "summary": "Tour Trà Vinh–Cồn Chim. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Chùa Âng và Ao Bà Om có thể là cụm tham quan trước hoặc sau phần Cồn Chim, tùy tuyến thực tế. Đoàn nên có thời gian đi bộ, tìm hiểu và nghỉ, không ghé quá nhanh chỉ để lấy ảnh. Trang phục và quay chụp tại khu thờ tự cần theo hướng dẫn nơi tiếp nhận."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407068737-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407068737-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
