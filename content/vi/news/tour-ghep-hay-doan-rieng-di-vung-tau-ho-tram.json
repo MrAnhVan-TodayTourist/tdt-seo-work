@@ -2,7 +2,7 @@
   "slug": "tour-ghep-hay-doan-rieng-di-vung-tau-ho-tram",
   "title": "Tour ghép hay đoàn riêng đi Vũng Tàu – Hồ Tràm?",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-tour-ghep-hay-doan-rieng-di-vu-v2.jpg",
   "summary": "Tour ghép và tour đoàn riêng khác nhau ở mức chủ động, cấu trúc dịch vụ và cách tính giá.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Khách lẻ nên hỏi ngày khởi hành, điểm đón, tình trạng nhận khách và điều kiện thực hiện chuyến. Lịch tham khảo trên website không chứng minh mọi ngày đều có xe chạy. Cần biết dịch vụ chung, thời gian tự do và quy định khi không tham gia một điểm trong chương trình."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220700770-0.jpg",
-      "alt": "Fishing boats lined up on a serene beach in Ba Ria, Vietnam under a cl"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220700770-0.jpg\" alt=\"Fishing boats lined up on a serene beach in Ba Ria, Vietnam under a cl\"></figure>"
     },
     {
       "type": "h2",
