@@ -2,7 +2,7 @@
   "slug": "tour-hoc-sinh-mien-tay",
   "title": "Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-hoc-sinh-mien-tay-v2.jpg",
   "summary": "Tour học sinh Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Học sinh nhỏ có thể ưu tiên quan sát vườn, làm bánh hoặc tìm hiểu sản phẩm từ dừa tại điểm phù hợp. Học sinh lớn có thể đi Xẻo Quýt, khu di tích hoặc tìm hiểu văn hóa Khmer. Không ghép quá nhiều nội dung chuyên sâu vào một ngày; nên có câu hỏi hoặc nhiệm vụ vừa sức để các em tham gia."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406804487-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406804487-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
