@@ -2,7 +2,7 @@
   "slug": "bbq-va-lua-trai-trong-tour-bien-to-chuc-dung-dieu-kien-dia-diem",
   "title": "BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-bbq-va-lua-trai-trong-tour-bie-v2.jpg",
   "summary": "BBQ hoặc lửa trại có thể tạo phần sinh hoạt tối gần gũi, nhưng không phải bãi biển hay resort nào cũng cho phép.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "BBQ là hình thức bữa ăn, có thể do nhà hàng chế biến và phục vụ. Lửa trại là hoạt động riêng liên quan khu vực sử dụng, nhân sự và điều kiện an toàn. Không gộp hai nội dung thành một quyền lợi mặc định. Nếu địa điểm không cho dùng lửa, có thể chọn giao lưu, trò chơi nhẹ hoặc chương trình ánh sáng phù hợp."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220670712-0.jpg",
-      "alt": "Picturesque scenery of coast with rocks near serene blue sea on sunny "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220670712-0.jpg\" alt=\"Picturesque scenery of coast with rocks near serene blue sea on sunny \"></figure>"
     },
     {
       "type": "h2",
