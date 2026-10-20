@@ -2,7 +2,7 @@
   "slug": "sunset-town-cau-hon-va-show-phu-quoc-chon-buoi-toi-phu-hop",
   "title": "Sunset Town, Cầu Hôn và show Phú Quốc: chọn buổi tối phù hợp",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "sunset-town-cau-hon-va-show-phu-quoc-chon-buoi-toi-phu-hop.jpg",
+  "image": "anh-bia-pq-b4-3-v2.jpg",
   "summary": "Sunset Town có thể kết hợp dạo, chụp ảnh và xem show.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Khách chỉ muốn dạo và chụp ảnh khác với khách muốn xem show có vé. Gia đình có trẻ nhỏ cần cân nhắc thời gian kết thúc và chặng về. Đoàn đã có Gala Dinner không nhất thiết cần thêm show cùng tối; hãy chọn theo thời gian và ngân sách."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216978121-0.jpg",
-      "alt": "Sunset Town, Cầu Hôn và show Phú Quốc: chọn buổi tối phù hợp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216978121-0.jpg\" alt=\"Sunset Town, Cầu Hôn và show Phú Quốc: chọn buổi tối phù hợp\"></figure>"
     },
     {
       "type": "h2",
