@@ -2,7 +2,7 @@
   "slug": "tour-con-son",
   "title": "Tour Cồn Sơn Cần Thơ: chọn trải nghiệm cộng đồng và bữa ăn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-can-tho.jpg",
+  "image": "anh-bia-tour-con-son-v2.jpg",
   "summary": "Tour Cồn Sơn Cần Thơ. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Có thể trao đổi về làm bánh dân gian, tham quan vườn hoặc trải nghiệm tại bè cá tùy nơi phục vụ. Cần hỏi điểm thực tế, số người mỗi lượt và thời lượng. Chương trình cộng đồng không phải một khu lớn có mọi hoạt động ở cùng chỗ, nên tính cả đường đi và phần chuyển giữa các hộ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407000953-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407000953-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
