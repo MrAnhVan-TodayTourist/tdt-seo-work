@@ -2,7 +2,7 @@
   "slug": "chon-khach-san-vung-tau-cho-doan-vi-tri-phong-va-bua-an",
   "title": "Chọn khách sạn Vũng Tàu cho đoàn: vị trí, phòng và bữa ăn",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-chon-khach-san-vung-tau-cho-do-v2.jpg",
   "summary": "Khách sạn phù hợp đoàn không chỉ cần đủ phòng.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hỏi khoảng cách đến biển, nhà hàng và điểm sinh hoạt. 'Gần biển' không đồng nghĩa phòng có hướng biển hoặc ra biển không cần băng đường. Với xe 45 chỗ, kiểm tra nơi dừng, bãi đỗ và lối lấy hành lý. Đoàn có người lớn tuổi cần lối đi và thang máy thuận tiện."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220707665-0.jpg",
-      "alt": "A stunning aerial shot of a luxury resort nestled along a Vietnamese b"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220707665-0.jpg\" alt=\"A stunning aerial shot of a luxury resort nestled along a Vietnamese b\"></figure>"
     },
     {
       "type": "h2",
