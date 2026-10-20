@@ -2,7 +2,7 @@
   "slug": "tour-can-tho",
   "title": "Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-can-tho.jpg",
+  "image": "anh-bia-tour-can-tho-v2.jpg",
   "summary": "Tour Cần Thơ. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nếu muốn đi chợ nổi Cái Răng buổi sớm, lưu trú tại Cần Thơ giúp bớt chặng đường trước giờ lên thuyền. Buổi chiều hôm trước có thể nghỉ hoặc tham quan nhẹ. Đoàn có Gala Dinner nên cân nhắc giờ kết thúc với lịch dậy sáng; không cần vừa tiệc muộn vừa bắt đầu ngày mới quá sớm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406976306-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406976306-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
