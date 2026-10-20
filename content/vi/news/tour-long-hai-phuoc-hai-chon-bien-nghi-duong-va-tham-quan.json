@@ -2,7 +2,7 @@
   "slug": "tour-long-hai-phuoc-hai-chon-bien-nghi-duong-va-tham-quan",
   "title": "Tour Long Hải – Phước Hải: chọn biển, nghỉ dưỡng và tham quan",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-tour-long-hai-phuoc-hai-chon-bien-nghi-d-v2.jpg",
   "summary": "Long Hải và Phước Hải thường được cân nhắc cho chuyến nghỉ biển ngắn ngày.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hỏi khách sạn hoặc resort nằm ở đâu, cách bãi biển bao xa và đoàn có sử dụng hồ bơi hay không. Với nhóm muốn trải nghiệm làng chài và ăn hải sản, có thể đề nghị phần chương trình tại Phước Hải. Với nhóm muốn viếng Dinh Cô, cần bố trí giờ ghé Long Hải phù hợp. Không nên suy ra tên tour đồng nghĩa nghỉ ngay sát biển."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220345800-0.jpg",
-      "alt": "Stunning aerial shot of Hồ Tràm beach, lagoon, and resort pool in Viet"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220345800-0.jpg\" alt=\"Stunning aerial shot of Hồ Tràm beach, lagoon, and resort pool in Viet\"></figure>"
     },
     {
       "type": "h2",
