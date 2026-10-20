@@ -2,7 +2,7 @@
   "slug": "tour-vung-tau-tron-goi-chon-lich-trinh-truoc-khi-dat",
   "title": "Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-tour-vung-tau-tron-goi-chon-lich-trinh-t-v2.jpg",
   "summary": "Tìm tour Vũng Tàu, khách thường muốn biết đi đâu, ở đâu và tổng chi phí ra sao.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nếu mục tiêu là tắm biển và thư giãn, hãy dành phần lớn thời gian cho biển và nơi lưu trú. Nếu muốn tham quan, chọn một vài điểm phù hợp thay vì đưa toàn bộ địa danh vào lịch. Bãi Sau, Thích Ca Phật Đài và Tượng Chúa Kitô là các lựa chọn có trong sản phẩm của TodayTourist; thứ tự và khả năng tham gia cần được điều chỉnh theo đoàn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220312776-0.jpg",
-      "alt": "Rustic beach scene with an overturned boat on Ba Ria's shore, Vietnam."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220312776-0.jpg\" alt=\"Rustic beach scene with an overturned boat on Ba Ria's shore, Vietnam.\"></figure>"
     },
     {
       "type": "h2",
