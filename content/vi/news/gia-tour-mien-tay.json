@@ -2,7 +2,7 @@
   "slug": "gia-tour-mien-tay",
   "title": "Giá tour Miền Tây: tính đủ chi phí trước khi chọn chương trình",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "cover-gia-tour-mien-tay.jpg",
   "summary": "Giá tour Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Xe, hướng dẫn viên và tổ chức chương trình là những khoản cần phân bổ theo quy mô đoàn. Bữa ăn, phòng, vé và trải nghiệm sông nước thường tính theo người hoặc dịch vụ sử dụng. Tour một ngày không có phòng ngủ, còn tour hai ngày cần kiểm tra số người mỗi phòng và phụ thu phòng riêng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406547185-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406547185-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
