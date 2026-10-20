@@ -2,7 +2,7 @@
   "slug": "tour-cu-lao-thoi-son",
   "title": "Cù lao Thới Sơn: chọn thuyền, xuồng chèo và trải nghiệm miệt vườn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-ben-tre-con-phung.jpg",
+  "image": "anh-bia-tour-cu-lao-thoi-son-v2.jpg",
   "summary": "Cù lao Thới Sơn. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Thuyền du lịch đưa khách trên sông không giống xuồng chèo trong rạch nhỏ. Chương trình cần ghi phần thuyền, xuồng và điểm lên xuống cụ thể. Khi muốn giảm lượt chuyển phương tiện cho người lớn tuổi, trao đổi trước để chọn hoạt động thích hợp thay vì đến bến mới quyết định."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406941094-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406941094-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
