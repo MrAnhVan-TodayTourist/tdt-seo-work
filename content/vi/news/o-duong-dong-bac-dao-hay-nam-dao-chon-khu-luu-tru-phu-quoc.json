@@ -2,7 +2,7 @@
   "slug": "o-duong-dong-bac-dao-hay-nam-dao-chon-khu-luu-tru-phu-quoc",
   "title": "Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "o-duong-dong-bac-dao-hay-nam-dao-chon-khu-luu-tru-phu-quoc.jpg",
+  "image": "anh-bia-pq-b3-1-v2.jpg",
   "summary": "Vị trí nơi ở ảnh hưởng thời gian xe mỗi ngày.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Khách thích dạo chợ, ăn uống hoặc chương trình tham quan nhiều hướng có thể cân nhắc vị trí thuận tiếp cận các dịch vụ cần dùng. Cần kiểm tra địa chỉ thật và chặng xe, không chỉ nhãn 'trung tâm'. Phòng gần đường hoặc khu đông khách có thể khác nhu cầu nghỉ yên tĩnh."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216702546-0.jpg",
-      "alt": "Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216702546-0.jpg\" alt=\"Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc\"></figure>"
     },
     {
       "type": "h2",
