@@ -2,7 +2,7 @@
   "slug": "tour-bac-lieu",
   "title": "Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-can-tho.jpg",
+  "image": "anh-bia-tour-bac-lieu-v2.jpg",
   "summary": "Tour Bạc Liêu. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nhà Công tử Bạc Liêu có thể là điểm tìm hiểu trong tuyến, nhưng cần hỏi giờ phục vụ và phần vé. Nếu muốn ghé khu điện gió, phải xác nhận quyền tiếp cận cùng dịch vụ đang hoạt động; không lấy ảnh quảng bá làm cam kết được vào mọi khu vực hoặc đi đến chân từng trụ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407141276-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407141276-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
