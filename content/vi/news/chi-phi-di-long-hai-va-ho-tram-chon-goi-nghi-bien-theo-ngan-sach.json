@@ -2,7 +2,7 @@
   "slug": "chi-phi-di-long-hai-va-ho-tram-chon-goi-nghi-bien-theo-ngan-sach",
   "title": "Chi phí đi Long Hải và Hồ Tràm: chọn gói nghỉ biển theo ngân sách",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-chi-phi-di-long-hai-va-ho-tram-v2.jpg",
   "summary": "Khi so Long Hải với Hồ Tràm, khách nên cân nhắc tổng gói sử dụng thay vì chỉ giá phòng.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Ghi riêng vận chuyển, lưu trú, bữa ăn, vé, hoạt động tập thể và dự phòng. Với resort, kiểm tra quyền dùng hồ bơi, bãi hoạt động, phòng thay đồ và khu tiệc. Với chuyến một ngày, gói dùng trong ngày cần được làm rõ. Phòng biển, phòng vườn hoặc phòng ở khu khác có thể có điều kiện sử dụng và mức giá khác nhau."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220611626-0.jpg",
-      "alt": "Beautiful aerial view of a luxury beachfront resort in Hồ Tràm, Vietna"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220611626-0.jpg\" alt=\"Beautiful aerial view of a luxury beachfront resort in Hồ Tràm, Vietna\"></figure>"
     },
     {
       "type": "h2",
