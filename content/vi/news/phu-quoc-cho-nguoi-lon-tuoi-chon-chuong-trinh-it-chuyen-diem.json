@@ -2,7 +2,7 @@
   "slug": "phu-quoc-cho-nguoi-lon-tuoi-chon-chuong-trinh-it-chuyen-diem",
   "title": "Phú Quốc cho người lớn tuổi: chọn chương trình ít chuyển điểm",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "phu-quoc-cho-nguoi-lon-tuoi-chon-chuong-trinh-it-chuyen-diem.jpg",
+  "image": "anh-bia-pq-b2-8-v2.jpg",
   "summary": "Đoàn có người lớn tuổi thường cần giảm thời gian chờ và chuyển phương tiện.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Máy bay và xe–tàu đều có các chặng chờ, lên xuống và di chuyển. Cần trao đổi khả năng đi đêm, đi biển và nhu cầu hỗ trợ, rồi chọn lịch phù hợp. Không dùng lời hứa 'không mệt' hoặc 'không say' để thay cho việc đánh giá nhu cầu thực tế."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216675185-0.jpg",
-      "alt": "Phú Quốc cho người lớn tuổi: chọn chương trình ít chuyển điểm"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216675185-0.jpg\" alt=\"Phú Quốc cho người lớn tuổi: chọn chương trình ít chuyển điểm\"></figure>"
     },
     {
       "type": "h2",
