@@ -2,7 +2,7 @@
   "slug": "gia-tour-phu-quoc-cach-tinh-tong-chi-phi-truoc-khi-dat",
   "title": "Giá tour Phú Quốc: cách tính tổng chi phí trước khi đặt",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "gia-tour-phu-quoc-cach-tinh-tong-chi-phi-truoc-khi-dat.jpg",
+  "image": "anh-bia-pq-2-v2.jpg",
   "summary": "Một tour có giá mở đầu thấp chưa chắc có tổng chi phí thấp.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Gửi ngày đi, số người, điểm đón, số đêm, phương tiện và loại phòng. Nếu số khách chưa chốt, yêu cầu vài mức quy mô để thấy phần nào thay đổi. Giá vé máy bay hoặc tàu phải gắn với ngày và điều kiện cụ thể. Không lấy giá áp dụng cho đoàn đông hoặc ngày thường để dự toán mọi chuyến."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216377722-0.jpg",
-      "alt": "Giá tour Phú Quốc: cách tính tổng chi phí trước khi đặt"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216377722-0.jpg\" alt=\"Giá tour Phú Quốc: cách tính tổng chi phí trước khi đặt\"></figure>"
     },
     {
       "type": "h2",
