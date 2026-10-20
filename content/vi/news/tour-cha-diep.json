@@ -2,7 +2,7 @@
   "slug": "tour-cha-diep",
   "title": "Tour Cha Diệp–Tắc Sậy: chọn chuyến hành hương theo nhu cầu đoàn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-chau-doc-mieu-ba-chua-xu-va-nui-sam.jpg",
+  "image": "anh-bia-tour-cha-diep-v2.jpg",
   "summary": "Tour Cha Diệp–Tắc Sậy. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nếu nhóm muốn cầu nguyện hoặc tham dự Thánh lễ, phải xác nhận lịch thực tế với nơi tiếp nhận trước khi xây chương trình. Không mặc định mọi tour đến đúng giờ lễ hoặc có phần nghi thức riêng. Đoàn có thời gian tự do nên thống nhất giờ gặp và người liên hệ để không vội ở cuối chuyến."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407164977-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407164977-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
