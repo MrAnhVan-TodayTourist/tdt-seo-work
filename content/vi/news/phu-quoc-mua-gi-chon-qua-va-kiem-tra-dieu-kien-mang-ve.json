@@ -2,7 +2,7 @@
   "slug": "phu-quoc-mua-gi-chon-qua-va-kiem-tra-dieu-kien-mang-ve",
   "title": "Phú Quốc mua gì: chọn quà và kiểm tra điều kiện mang về",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "phu-quoc-mua-gi-chon-qua-va-kiem-tra-dieu-kien-mang-ve.jpg",
+  "image": "anh-bia-pq-b3-3-v2.jpg",
   "summary": "Nước mắm, tiêu và các sản phẩm địa phương thường được khách cân nhắc làm quà.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Với thực phẩm, xem nhãn, thành phần, hạn sử dụng, bao gói và cách bảo quản. Với ngọc trai hoặc sản phẩm có giá trị, yêu cầu thông tin nguồn gốc, chứng từ và điều kiện đổi trả. Không dùng màu sắc hay câu quảng cáo tại chỗ để tự kết luận chất lượng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216727610-0.jpg",
-      "alt": "Phú Quốc mua gì: chọn quà và kiểm tra điều kiện mang về"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216727610-0.jpg\" alt=\"Phú Quốc mua gì: chọn quà và kiểm tra điều kiện mang về\"></figure>"
     },
     {
       "type": "h2",
