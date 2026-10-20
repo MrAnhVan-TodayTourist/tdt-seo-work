@@ -2,7 +2,7 @@
   "slug": "tour-phu-quoc-3-ngay-2-dem-bang-may-bay-chon-gio-bay-va-lich",
   "title": "Tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-phu-quoc-3-ngay-2-dem-bang-may-bay-chon-gio-bay-va-lich.jpg",
+  "image": "anh-bia-pq-3-v2.jpg",
   "summary": "Ba ngày hai đêm bằng máy bay thuận tiện khi khách muốn giảm chặng đường bộ.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Cần xác nhận giờ tập trung, sân bay, nhà ga và xe đưa đón. Sau khi đến đảo, dành thời gian lấy hành lý, ăn và nhận phòng theo điều kiện khách sạn. Bay đến sớm không đồng nghĩa được nhận phòng sớm. Nếu đến muộn, chương trình đầu ngày nên nhẹ và không đặt vé khó thay đổi quá sát giờ hạ cánh."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216388304-0.jpg",
-      "alt": "Tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216388304-0.jpg\" alt=\"Tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch\"></figure>"
     },
     {
       "type": "h2",
