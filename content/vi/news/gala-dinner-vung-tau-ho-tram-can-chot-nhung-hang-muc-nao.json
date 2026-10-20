@@ -2,7 +2,7 @@
   "slug": "gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao",
   "title": "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-gala-dinner-vung-tau-ho-tram-c-v2.jpg",
   "summary": "Một bữa tối có giao lưu không tự động là gói Gala Dinner đầy đủ.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Xác định tiệc tri ân, tổng kết hay giao lưu. Lập các phần mở đầu, phát biểu, trao thưởng, tiết mục và trò chơi theo thời gian thực tế. Hạn chế phần phát biểu quá dài khi đoàn đã có ngày di chuyển và hoạt động biển. Cần biết giờ phục vụ món để chương trình không ngắt quãng bữa ăn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220662836-0.jpg",
-      "alt": "Discover the serene beauty of Vũng Tàu's coastline with colorful boats"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220662836-0.jpg\" alt=\"Discover the serene beauty of Vũng Tàu's coastline with colorful boats\"></figure>"
     },
     {
       "type": "h2",
