@@ -2,7 +2,7 @@
   "slug": "tour-mien-tay-1-ngay",
   "title": "Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "cover-tour-mien-tay-1-ngay.jpg",
   "summary": "Tour Miền Tây 1 ngày. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Mỹ Tho–Bến Tre thích hợp cho thuyền sông Tiền, cù lao và bữa ăn miệt vườn. Sa Đéc phù hợp người thích hoa, ảnh và văn hóa địa phương. Trà Vinh–Cồn Chim thiên về trải nghiệm cộng đồng, nhưng cần kiểm tra thời gian đường và qua sông trước khi chốt lịch một ngày."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406557803-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406557803-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
