@@ -2,7 +2,7 @@
   "slug": "vung-tau-di-dau-chon-bai-sau-tam-thang-va-cac-diem-tham-quan",
   "title": "Vũng Tàu đi đâu: chọn Bãi Sau, Tam Thắng và các điểm tham quan",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-vung-tau-di-dau-chon-bai-sau-t-v2.jpg",
   "summary": "Một danh sách điểm check-in dài chưa chắc tạo nên lịch tour tốt.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Bãi Sau và khu Tam Thắng có thể dành cho phần dạo biển, chụp ảnh. Các điểm như Thích Ca Phật Đài hoặc Tượng Chúa Kitô thuộc phần tham quan có yêu cầu di chuyển và ứng xử riêng. Không coi mọi địa điểm là điểm dừng nhanh; đoàn đông cần thêm thời gian xuống xe và tập trung."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220731658-0.jpg",
-      "alt": "Tranquil image of a fishing boat on Phước Hải Beach, Vietnam at dusk, "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220731658-0.jpg\" alt=\"Tranquil image of a fishing boat on Phước Hải Beach, Vietnam at dusk, \"></figure>"
     },
     {
       "type": "h2",
