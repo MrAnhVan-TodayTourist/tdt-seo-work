@@ -2,7 +2,7 @@
   "slug": "giay-to-va-hanh-ly-di-phu-quoc-kiem-tra-theo-hang-va-thanh-vien",
   "title": "Giấy tờ và hành lý đi Phú Quốc: kiểm tra theo hãng và thành viên",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "giay-to-va-hanh-ly-di-phu-quoc-kiem-tra-theo-hang-va-thanh-vien.jpg",
+  "image": "anh-bia-giay-to-va-hanh-ly-di-phu-quoc-kiem-tra--v2.jpg",
   "summary": "Giấy tờ và hành lý cần được chuẩn bị theo phương tiện, hãng và thông tin của từng khách.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Họ tên và thông tin đặt vé phải khớp giấy tờ được chấp nhận. Với trẻ em, khách nước ngoài hoặc người có trường hợp đặc biệt, hỏi đúng nhà vận chuyển trước khi giữ vé. Quy định có thể thay đổi; dùng thông tin chính thức của hãng thực tế, không mặc định chính sách một hãng áp dụng cho tất cả."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217052118-0.jpg",
-      "alt": "Giấy tờ và hành lý đi Phú Quốc: kiểm tra theo hãng và thành viên"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217052118-0.jpg\" alt=\"Giấy tờ và hành lý đi Phú Quốc: kiểm tra theo hãng và thành viên\"></figure>"
     },
     {
       "type": "h2",
