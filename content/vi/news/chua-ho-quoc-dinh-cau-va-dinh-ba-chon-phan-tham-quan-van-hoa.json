@@ -2,7 +2,7 @@
   "slug": "chua-ho-quoc-dinh-cau-va-dinh-ba-chon-phan-tham-quan-van-hoa",
   "title": "Chùa Hộ Quốc, Dinh Cậu và Dinh Bà: chọn phần tham quan văn hóa",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "chua-ho-quoc-dinh-cau-va-dinh-ba-chon-phan-tham-quan-van-hoa.jpg",
+  "image": "anh-bia-pq-b4-7-v2.jpg",
   "summary": "Các điểm tín ngưỡng có thể tạo phần tham quan văn hóa cho chuyến Phú Quốc.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Khách quan tâm chùa Hộ Quốc có thể đề nghị kiểm tra phần tuyến Nam đảo; Dinh Cậu và Dinh Bà cần được bố trí theo nơi ở và lịch thực tế. Không gộp mọi điểm vào một buổi mà bỏ qua chặng xe và mức đi bộ. Thông tin mở cửa, khu được tham quan và tình trạng tiếp đón cần kiểm tra trước ngày đi."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217010154-0.jpg",
-      "alt": "Chùa Hộ Quốc, Dinh Cậu và Dinh Bà: chọn phần tham quan văn hóa"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217010154-0.jpg\" alt=\"Chùa Hộ Quốc, Dinh Cậu và Dinh Bà: chọn phần tham quan văn hóa\"></figure>"
     },
     {
       "type": "h2",
