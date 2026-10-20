@@ -2,7 +2,7 @@
   "slug": "tour-nam-dao-phu-quoc-chon-bien-di-tich-va-trai-nghiem",
   "title": "Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-nam-dao-phu-quoc-chon-bien-di-tich-va-trai-nghiem.jpg",
+  "image": "anh-bia-pq-b3-5-v2.jpg",
   "summary": "Nam đảo có nhiều kiểu trải nghiệm, từ tham quan đến vui chơi và hoạt động biển.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Đoàn muốn tìm hiểu có thể chọn di tích và một trải nghiệm nghề phù hợp. Đoàn thích nghỉ biển có thể dành thời gian Bãi Sao. Nhóm muốn Hòn Thơm nên xem loại vé và thời gian sử dụng. Sunset Town có phần dạo, chụp ảnh hoặc show riêng; không phải tất cả đều thuộc một vé."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216751134-0.jpg",
-      "alt": "Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216751134-0.jpg\" alt=\"Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm\"></figure>"
     },
     {
       "type": "h2",
