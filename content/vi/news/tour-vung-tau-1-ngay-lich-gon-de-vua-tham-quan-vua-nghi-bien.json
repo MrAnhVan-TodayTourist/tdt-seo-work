@@ -2,7 +2,7 @@
   "slug": "tour-vung-tau-1-ngay-lich-gon-de-vua-tham-quan-vua-nghi-bien",
   "title": "Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-1-ngay-v2.jpg",
   "summary": "Tour Vũng Tàu 1 ngày phù hợp với đoàn có quỹ thời gian ngắn.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Lịch tham khảo có thể bắt đầu bằng đón đoàn, ăn sáng và ghé một điểm phù hợp trên tuyến. Cần tính cả thời gian tập trung khách, điểm dừng vệ sinh và giao thông. Với đoàn xuất phát từ nhiều nơi, thống nhất điểm tập kết trước; giờ đón cụ thể được chốt theo địa chỉ thực tế."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220320280-0.jpg",
-      "alt": "Tranquil seascape with boats at sunset in Vũng Tàu, Vietnam."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220320280-0.jpg\" alt=\"Tranquil seascape with boats at sunset in Vũng Tàu, Vietnam.\"></figure>"
     },
     {
       "type": "h2",
