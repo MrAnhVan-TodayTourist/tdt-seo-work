@@ -2,7 +2,7 @@
   "slug": "hoi-nghi-ket-hop-nghi-bien-lap-chuong-trinh-mice-vung-tau-ho-tram",
   "title": "Hội nghị kết hợp nghỉ biển: lập chương trình MICE Vũng Tàu – Hồ Tràm",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-hoi-nghi-ket-hop-nghi-bien-lap-v2.jpg",
   "summary": "Chương trình hội nghị kết hợp nghỉ biển cần đáp ứng việc họp trước, rồi mới bố trí nghỉ dưỡng và giao lưu.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Gửi số người dự họp, hình thức bàn ghế, số phiên và nhu cầu thảo luận nhóm. Sức chứa phòng phụ thuộc cách kê bàn, sân khấu, lối đi và thiết bị. Hỏi hệ thống trình chiếu, micro, internet và nơi tiếp đón. Nếu có phiên trực tuyến, cần thử đường truyền và thiết bị trước, không chỉ dựa vào thông tin có wifi."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220677885-0.jpg",
-      "alt": "Rustic beach scene with an overturned boat on Ba Ria's shore, Vietnam."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220677885-0.jpg\" alt=\"Rustic beach scene with an overturned boat on Ba Ria's shore, Vietnam.\"></figure>"
     },
     {
       "type": "h2",
