@@ -2,7 +2,7 @@
   "slug": "tour-mien-tay-gia-dinh",
   "title": "Tour Miền Tây cho gia đình có trẻ nhỏ: chọn lịch và dịch vụ phù hợp",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-mien-tay-gia-dinh-v2.jpg",
   "summary": "Tour Miền Tây cho gia đình có trẻ nhỏ. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Có thể dành buổi sáng cho thuyền và vườn, buổi chiều cho nghỉ hoặc một điểm nhẹ. Với chuyến hai ngày, chọn hoạt động thật sự muốn làm rồi giữ khoảng trống cho sinh hoạt gia đình. Trẻ nhỏ thường khó theo lịch nhiều điểm liên tục, nhất là sau khi phải dậy sớm di chuyển."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406905518-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406905518-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
