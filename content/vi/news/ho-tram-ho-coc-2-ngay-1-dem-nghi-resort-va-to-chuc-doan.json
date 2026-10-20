@@ -2,7 +2,7 @@
   "slug": "ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan",
   "title": "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-ho-tram-ho-coc-2-ngay-1-dem-ng-v2.jpg",
   "summary": "Hồ Tràm–Hồ Cốc hai ngày một đêm là phương án để đoàn có một buổi nghỉ biển và một tối sinh hoạt chung.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Có thể ghé một điểm thuận tuyến trước bữa trưa, sau đó nhận phòng theo giờ của cơ sở. Buổi chiều chọn nghỉ, hồ bơi hoặc Team Building đã đặt trước. Các nhóm có trẻ nhỏ hoặc người lớn tuổi nên được bố trí thời gian nghỉ phù hợp, không phải chờ cả đoàn dưới nắng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220552327-0.jpg",
-      "alt": "Stunning aerial view of a luxury beach resort along Hồ Tràm coastline,"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220552327-0.jpg\" alt=\"Stunning aerial view of a luxury beach resort along Hồ Tràm coastline,\"></figure>"
     },
     {
       "type": "h2",
