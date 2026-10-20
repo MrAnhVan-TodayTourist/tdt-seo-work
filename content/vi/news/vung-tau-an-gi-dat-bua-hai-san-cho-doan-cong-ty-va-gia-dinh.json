@@ -2,7 +2,7 @@
   "slug": "vung-tau-an-gi-dat-bua-hai-san-cho-doan-cong-ty-va-gia-dinh",
   "title": "Vũng Tàu ăn gì: đặt bữa hải sản cho đoàn công ty và gia đình",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-vung-tau-an-gi-dat-bua-hai-san-v2.jpg",
   "summary": "Với đoàn đông, bữa ăn cần ngon, đủ và phục vụ đúng giờ.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Có thể đề nghị bữa hải sản kết hợp món thịt, rau và canh để người không ăn hải sản vẫn dùng được. Đừng chỉ gửi tên 'thực đơn hải sản'; cần ghi món, số người mỗi bàn và phần thay thế. Trẻ em hoặc khách có yêu cầu ăn riêng nên được thống kê từ đầu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220723285-0.jpg",
-      "alt": "Overview of a hilltop temple with lush gardens and cityscape in the ba"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220723285-0.jpg\" alt=\"Overview of a hilltop temple with lush gardens and cityscape in the ba\"></figure>"
     },
     {
       "type": "h2",
