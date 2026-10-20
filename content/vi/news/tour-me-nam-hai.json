@@ -2,7 +2,7 @@
   "slug": "tour-me-nam-hai",
   "title": "Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-me-nam-hai-v2.jpg",
   "summary": "Tour Mẹ Nam Hải Bạc Liêu. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Hãy gửi mục tiêu của nhóm cùng số người, không chỉ tên tour. Nếu cần khoảng sinh hoạt riêng, trao đổi trước và theo hướng dẫn nơi tiếp nhận. Việc thắp hương, quay chụp hay tập trung tại khu thờ tự phải phù hợp quy định thực tế; không đưa nghi thức vào dịch vụ khi chưa xác nhận."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407177243-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407177243-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
