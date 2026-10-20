@@ -2,7 +2,7 @@
   "slug": "phu-quoc-an-gi-chon-dac-san-va-thuc-don-hai-san-cho-doan",
   "title": "Phú Quốc ăn gì: chọn đặc sản và thực đơn hải sản cho đoàn",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "phu-quoc-an-gi-chon-dac-san-va-thuc-don-hai-san-cho-doan.jpg",
+  "image": "anh-bia-pq-b3-2-v2.jpg",
   "summary": "Tìm món ăn ở Phú Quốc, khách có thể thích hải sản và trải nghiệm địa phương.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Bữa ăn đoàn nên có hải sản cùng món thịt, rau, canh hoặc lựa chọn phù hợp người không ăn hải sản. Nếu muốn thử bún quậy, bún kèn hay món địa phương, cần kiểm tra nơi phục vụ và khả năng tiếp nhận đoàn. Không đưa tên món vào tour rồi tự hiểu sẽ có đủ cho mọi khách."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216712146-0.jpg",
-      "alt": "Phú Quốc ăn gì: chọn đặc sản và thực đơn hải sản cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216712146-0.jpg\" alt=\"Phú Quốc ăn gì: chọn đặc sản và thực đơn hải sản cho đoàn\"></figure>"
     },
     {
       "type": "h2",
