@@ -2,7 +2,7 @@
   "slug": "phu-quoc-di-dau-chia-bac-dao-nam-dao-va-thoi-gian-nghi",
   "title": "Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "phu-quoc-di-dau-chia-bac-dao-nam-dao-va-thoi-gian-nghi.jpg",
+  "image": "anh-bia-pq-b3-4-v2.jpg",
   "summary": "Muốn sắp lịch Phú Quốc dễ theo dõi, hãy chia theo khu vực và mục tiêu.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "VinWonders, Safari và Grand World là những lựa chọn thường được xem trong phần Bắc đảo. Mỗi nơi có cách sử dụng vé và thời gian trải nghiệm riêng. Không nên mặc định đi hết trong một buổi. Gia đình chọn theo độ tuổi; đoàn công ty chọn theo thời gian còn lại ngoài hoạt động chung."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216739193-0.jpg",
-      "alt": "Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216739193-0.jpg\" alt=\"Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ\"></figure>"
     },
     {
       "type": "h2",
