@@ -2,7 +2,7 @@
   "slug": "tour-rung-tram-tra-su",
   "title": "Rừng tràm Trà Sư: chọn thuyền và lịch kết hợp Châu Đốc",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-chau-doc-mieu-ba-chua-xu-va-nui-sam.jpg",
+  "image": "anh-bia-tour-rung-tram-tra-su-v2.jpg",
   "summary": "Rừng tràm Trà Sư. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Cần xác nhận khu được đi, thuyền sử dụng, thời lượng và phần đi bộ. Các hạng mục tại điểm có thể được bán theo gói khác nhau; không coi mọi vé đều gồm toàn bộ trải nghiệm. Nhóm có người cần hạn chế vận động nên hỏi lối đi, điểm lên xuống và chỗ nghỉ trước ngày khởi hành."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407091131-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407091131-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
