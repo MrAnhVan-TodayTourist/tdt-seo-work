@@ -2,7 +2,7 @@
   "slug": "tour-mien-tay-4-ngay-3-dem",
   "title": "Tour Miền Tây 4–6 ngày: chọn một trục tuyến thay vì chạy nhiều điểm",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "cover-tour-mien-tay-4-ngay-3-dem.jpg",
   "summary": "Tour Miền Tây 4–6 ngày. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nếu muốn đến Đất Mũi, có thể xây trục Cần Thơ–Sóc Trăng–Bạc Liêu–Cà Mau. Nếu ưu tiên cảnh quan An Giang và Hà Tiên, chọn trục Châu Đốc–Trà Sư–Hà Tiên. Kết hợp cả hai cần kiểm tra bản đồ, số chặng và thời gian nghỉ, thay vì thêm điểm chỉ vì còn ngày."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406621754-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406621754-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
