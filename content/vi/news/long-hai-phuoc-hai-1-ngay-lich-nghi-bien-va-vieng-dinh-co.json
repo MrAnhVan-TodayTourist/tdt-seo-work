@@ -2,7 +2,7 @@
   "slug": "long-hai-phuoc-hai-1-ngay-lich-nghi-bien-va-vieng-dinh-co",
   "title": "Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-long-hai-phuoc-hai-1-ngay-lich-nghi-bien-v2.jpg",
   "summary": "Đi Long Hải–Phước Hải trong ngày cần lựa chọn rõ giữa nghỉ biển, tham quan và hoạt động tập thể.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Có thể đề nghị dừng Song Vĩnh hoặc một điểm phù hợp với tuyến đón thực tế, sau đó đi về khu biển. Mỗi điểm dừng cần có chỗ xe đỗ và thời gian tập trung lại. Đoàn đông không nên thêm điểm chỉ vì tiện trên bản đồ; phải tính việc xuống xe, vệ sinh và di chuyển của cả nhóm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220353528-0.jpg",
-      "alt": "Rustic coastal village scene in Ba Ria, showcasing seaside buildings a"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220353528-0.jpg\" alt=\"Rustic coastal village scene in Ba Ria, showcasing seaside buildings a\"></figure>"
     },
     {
       "type": "h2",
