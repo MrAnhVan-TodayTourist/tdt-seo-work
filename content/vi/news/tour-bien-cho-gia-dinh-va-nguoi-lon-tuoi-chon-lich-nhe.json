@@ -2,7 +2,7 @@
   "slug": "tour-bien-cho-gia-dinh-va-nguoi-lon-tuoi-chon-lich-nhe",
   "title": "Tour biển cho gia đình và người lớn tuổi: chọn lịch nhẹ",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-tour-bien-cho-gia-dinh-va-nguo-v2.jpg",
   "summary": "Một chuyến biển cho gia đình có trẻ nhỏ hoặc người lớn tuổi nên giảm thời gian chờ, đi bộ và chuyển điểm.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hỏi thang máy, khoảng cách phòng đến nhà hàng, loại giường và quyền dùng tiện ích. Gia đình cần biết sức chứa phòng và phụ thu cho trẻ, giường phụ hoặc khách thêm. Không chọn bằng hạng sao một mình; phòng ở khu xa hoặc nhiều bậc thang có thể không phù hợp nhu cầu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220685410-0.jpg",
-      "alt": "Stunning aerial view of Hồ Tràm Beach with blue ocean and sandy shores"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220685410-0.jpg\" alt=\"Stunning aerial view of Hồ Tràm Beach with blue ocean and sandy shores\"></figure>"
     },
     {
       "type": "h2",
