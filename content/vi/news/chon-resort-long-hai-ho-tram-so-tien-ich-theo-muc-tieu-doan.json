@@ -2,7 +2,7 @@
   "slug": "chon-resort-long-hai-ho-tram-so-tien-ich-theo-muc-tieu-doan",
   "title": "Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-chon-resort-long-hai-ho-tram-s-v2.jpg",
   "summary": "Resort phù hợp là nơi đoàn sử dụng được những tiện ích mình cần.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hỏi hồ bơi, khu trẻ em, bãi hoạt động, nhà hàng và dịch vụ tự chọn. Ảnh trên website có thể thuộc nhiều khu hoặc nhiều loại phòng. Yêu cầu tên loại phòng, vị trí và cơ cấu giường. Với đoàn gia đình, hỏi điều kiện khách thêm và trẻ em trước khi chia ngân sách."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220715720-0.jpg",
-      "alt": "High angle of picturesque scenery of bungalows with blooming trees nea"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220715720-0.jpg\" alt=\"High angle of picturesque scenery of bungalows with blooming trees nea\"></figure>"
     },
     {
       "type": "h2",
