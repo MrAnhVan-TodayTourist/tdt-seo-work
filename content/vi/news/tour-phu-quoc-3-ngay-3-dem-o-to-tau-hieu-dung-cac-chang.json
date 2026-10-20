@@ -2,7 +2,7 @@
   "slug": "tour-phu-quoc-3-ngay-3-dem-o-to-tau-hieu-dung-cac-chang",
   "title": "Tour Phú Quốc 3 ngày 3 đêm ô tô – tàu: hiểu đúng các chặng",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-phu-quoc-3-ngay-3-dem-o-to-tau-hieu-dung-cac-chang.jpg",
+  "image": "anh-bia-pq-4-v2.jpg",
   "summary": "Tour ô tô–tàu giúp khách cân nhắc một phương án khác với máy bay.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Chương trình tham khảo của TodayTourist có một đêm trên xe và hai đêm khách sạn. Loại xe và bố trí chỗ cần được xác nhận theo chuyến; nếu muốn xe giường nằm, hãy yêu cầu cụ thể. Đoàn nên biết điểm đón, nơi dừng nghỉ và hành lý có thể sử dụng khi đến bến."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216406626-0.jpg",
-      "alt": "Tour Phú Quốc 3 ngày 3 đêm ô tô – tàu: hiểu đúng các chặng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216406626-0.jpg\" alt=\"Tour Phú Quốc 3 ngày 3 đêm ô tô – tàu: hiểu đúng các chặng\"></figure>"
     },
     {
       "type": "h2",
