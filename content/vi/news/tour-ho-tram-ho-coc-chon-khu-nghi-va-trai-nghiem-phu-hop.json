@@ -2,7 +2,7 @@
   "slug": "tour-ho-tram-ho-coc-chon-khu-nghi-va-trai-nghiem-phu-hop",
   "title": "Tour Hồ Tràm – Hồ Cốc: chọn khu nghỉ và trải nghiệm phù hợp",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-tour-ho-tram-ho-coc-chon-khu-n-v2.jpg",
   "summary": "Tìm tour Hồ Tràm hoặc Hồ Cốc, nhiều khách ưu tiên nghỉ dưỡng và không gian sinh hoạt hơn số điểm tham quan.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hồ Tràm và Hồ Cốc là những tên điểm đến thường đi cùng trong chương trình, nhưng nơi nghỉ thực tế phải được ghi chính xác. Hỏi bãi biển trước cơ sở lưu trú hay phải đi xe, hồ bơi có được sử dụng không, nhà hàng nằm ở đâu. Không nên chọn bằng ảnh quảng cáo mà chưa biết ảnh đó thuộc khu nào."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220424324-0.jpg",
-      "alt": "Stunning aerial view of Hồ Tràm beach with luxury resorts and lush gre"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220424324-0.jpg\" alt=\"Stunning aerial view of Hồ Tràm beach with luxury resorts and lush gre\"></figure>"
     },
     {
       "type": "h2",
