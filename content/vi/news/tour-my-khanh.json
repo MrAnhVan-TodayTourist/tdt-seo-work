@@ -2,7 +2,7 @@
   "slug": "tour-my-khanh",
   "title": "Mỹ Khánh Cần Thơ: chọn vé tham quan và gói phục vụ đoàn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-can-tho.jpg",
+  "image": "anh-bia-tour-my-khanh-v2.jpg",
   "summary": "Mỹ Khánh Cần Thơ. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Gia đình có thể chọn phần vui chơi phù hợp tuổi trẻ; công ty cần hỏi khu hoạt động và bữa ăn đoàn. Trường học cần hoạt động có nội dung cùng thời lượng quản lý nhóm. Danh sách dịch vụ công bố là cơ sở tìm hiểu, còn hoạt động phục vụ ngày đi cần được xác nhận cụ thể."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407012655-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407012655-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
