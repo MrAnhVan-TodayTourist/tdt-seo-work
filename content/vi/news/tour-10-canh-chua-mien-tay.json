@@ -2,7 +2,7 @@
   "slug": "tour-10-canh-chua-mien-tay",
   "title": "Tour 10 cảnh chùa Miền Tây: chọn tuyến và thời gian chiêm bái",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-chau-doc-mieu-ba-chua-xu-va-nui-sam.jpg",
+  "image": "anh-bia-tour-10-canh-chua-mien-tay-v2.jpg",
   "summary": "Tour 10 cảnh chùa Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Chương trình phải ghi rõ những điểm được dự kiến ghé, đường đi và điều kiện tiếp nhận. Nếu một nơi không phục vụ đúng ngày, phương án thay thế cần trao đổi với đoàn. Không coi cụm từ mười cảnh chùa là cam kết có đủ một danh sách cố định cho mọi thời điểm và mọi điểm xuất phát."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407191842-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407191842-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
