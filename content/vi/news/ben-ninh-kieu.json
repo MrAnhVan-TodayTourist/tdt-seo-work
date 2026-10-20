@@ -2,7 +2,7 @@
   "slug": "ben-ninh-kieu",
   "title": "Bến Ninh Kiều và du thuyền Cần Thơ: chọn trải nghiệm buổi tối",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-can-tho.jpg",
+  "image": "anh-bia-ben-ninh-kieu-v2.jpg",
   "summary": "Bến Ninh Kiều và du thuyền Cần Thơ. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Dạo bến phù hợp nhóm muốn tự do và ít ràng buộc thời gian. Du thuyền cần đặt rõ dịch vụ ăn, khu chỗ ngồi, giờ lên và xuống. Không mặc định mọi nhà hàng gần sông đều là du thuyền chạy, hoặc mọi vé du thuyền đã có bữa ăn giống nhau."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407025774-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407025774-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
