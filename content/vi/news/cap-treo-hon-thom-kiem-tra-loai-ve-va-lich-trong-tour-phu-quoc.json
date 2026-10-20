@@ -2,7 +2,7 @@
   "slug": "cap-treo-hon-thom-kiem-tra-loai-ve-va-lich-trong-tour-phu-quoc",
   "title": "Cáp treo Hòn Thơm: kiểm tra loại vé và lịch trong tour Phú Quốc",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "cap-treo-hon-thom-kiem-tra-loai-ve-va-lich-trong-tour-phu-quoc.jpg",
+  "image": "anh-bia-pq-b4-2-v2.jpg",
   "summary": "Hòn Thơm có thể là phần vui chơi chính trong lịch Nam đảo.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Sun World giới thiệu tuyến cáp treo kết nối khu Hòn Thơm với phần Nam đảo. Các gói có thể có quyền lợi vui chơi hoặc bữa ăn khác nhau. Báo giá cần tên vé và phần bao gồm cụ thể. Không suy mọi dịch vụ tại khu đều thuộc một gói."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216966121-0.jpg",
-      "alt": "Cáp treo Hòn Thơm: kiểm tra loại vé và lịch trong tour Phú Quốc"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216966121-0.jpg\" alt=\"Cáp treo Hòn Thơm: kiểm tra loại vé và lịch trong tour Phú Quốc\"></figure>"
     },
     {
       "type": "h2",
