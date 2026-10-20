@@ -2,7 +2,7 @@
   "slug": "vinwonders-phu-quoc-trong-tour-chon-ve-va-danh-du-thoi-gian",
   "title": "VinWonders Phú Quốc trong tour: chọn vé và dành đủ thời gian",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "vinwonders-phu-quoc-trong-tour-chon-ve-va-danh-du-thoi-gian.jpg",
+  "image": "anh-bia-pq-b3-7-v2.jpg",
   "summary": "VinWonders nên được xem như một hoạt động chính của ngày, thay vì điểm ghé ngắn.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Công viên có nhiều nhóm trải nghiệm; gia đình nên xem phần phù hợp độ tuổi và yêu cầu của từng hoạt động. Đoàn cần nghỉ có thể chọn lịch nhẹ, không phải chơi mọi trò. Hướng dẫn tại điểm là căn cứ khi tham gia, không suy điều kiện từ ảnh hoặc quảng cáo."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216833108-0.jpg",
-      "alt": "VinWonders Phú Quốc trong tour: chọn vé và dành đủ thời gian"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216833108-0.jpg\" alt=\"VinWonders Phú Quốc trong tour: chọn vé và dành đủ thời gian\"></figure>"
     },
     {
       "type": "h2",
