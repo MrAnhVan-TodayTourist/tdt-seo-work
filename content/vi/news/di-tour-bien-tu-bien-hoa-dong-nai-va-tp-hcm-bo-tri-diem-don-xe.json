@@ -2,7 +2,7 @@
   "slug": "di-tour-bien-tu-bien-hoa-dong-nai-va-tp-hcm-bo-tri-diem-don-xe",
   "title": "Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-di-tour-bien-tu-bien-hoa-dong--v2.jpg",
   "summary": "Điểm đón hợp lý giúp đoàn tiết kiệm thời gian ngay từ đầu chuyến đi.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Có thể đề nghị đón tại công ty, trường hoặc vị trí tập trung phù hợp. Với khu công nghiệp như Amata và Biên Hòa 2, cần xác nhận cổng nào, giờ tập trung và người liên hệ. Không mặc định xe lớn vào được mọi đường hoặc mọi khuôn viên. Nhiều điểm đón có thể làm chặng xuất phát dài hơn dự kiến."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220693418-0.jpg",
-      "alt": "A tranquil rocky beach scene with waves crashing under a bright blue s"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220693418-0.jpg\" alt=\"A tranquil rocky beach scene with waves crashing under a bright blue s\"></figure>"
     },
     {
       "type": "h2",
