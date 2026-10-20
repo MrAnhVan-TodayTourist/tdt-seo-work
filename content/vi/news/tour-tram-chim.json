@@ -2,7 +2,7 @@
   "slug": "tour-tram-chim",
   "title": "Tour Tràm Chim Đồng Tháp: chọn trải nghiệm sinh thái theo thời điểm",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-tram-chim-v2.jpg",
   "summary": "Tour Tràm Chim Đồng Tháp. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Cần hỏi điểm xuất phát, phương tiện, thời lượng và khu được tham quan ngày đi. Không mặc định mọi tuyến xuồng hoặc trải nghiệm mùa nước nổi đều hoạt động liên tục. Đoàn nên chọn một chương trình cụ thể rồi tính xe và bữa ăn theo chương trình đó, thay vì đặt xe trước rồi mới tìm hoạt động tại điểm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407058386-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407058386-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
