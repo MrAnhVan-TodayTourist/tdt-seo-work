@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TodayTourist">
-  <rect width="64" height="64" rx="14" fill="#0f766e" />
-  <path d="M14 20h36v9H36.5v22h-9V29H14z" fill="#faf6ee" />
-  <circle cx="48" cy="46" r="6" fill="#f97316" />
-</svg>

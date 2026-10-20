@@ -1,28 +1,37 @@
 #!/usr/bin/env python3
 """Sinh bộ icon + ảnh chia sẻ mặc định (SEO) cho site.
 
-Ghi ra `site/public/`:
-    favicon-192.png, favicon-512.png, apple-touch-icon.png  — icon vuông thương hiệu
-    og-default.jpg                                         — 1200x630 cho og:image mặc định
+Nguồn: `content/vi/images/logo.png` (biểu trưng tròn + chữ "todaytourist").
+Icon/favicon chỉ lấy phần biểu trưng — ở 16-32px chữ trong logo không đọc được.
 
-Các file dưới đây KHÔNG sinh ở đây (viết tay): `favicon.svg`, `site.webmanifest`.
+Ghi ra `site/public/`:
+    favicon.ico, favicon-32/48/96/192/512.png  — favicon (tab trình duyệt + Google)
+    apple-touch-icon.png                       — 180x180 cho iOS
+    og-default.jpg                             — 1200x630 cho og:image mặc định
+
+`site.webmanifest` viết tay (không sinh ở đây).
 
 Cần: pip install pillow
 Chạy: python site/scripts/make-brand-assets.py
 
-Chạy lại khi đổi palette thương hiệu (màu lấy từ site/src/styles/global.css).
+Chạy lại khi đổi logo thương hiệu.
 """
 
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
+REPO = ROOT.parent
 PUBLIC = ROOT / "public"
+
+# Ảnh logo gốc 74x80: vòng tròn ở nửa trên, chữ "todaytourist" bắt đầu từ hàng 65.
+LOGO_PATH = REPO / "content" / "vi" / "images" / "logo.png"
+EMBLEM_BOX = (3, 0, 68, 65)
+ICON_MASTER = 512
 
 # Palette — phải khớp token trong site/src/styles/global.css
 SAND = (250, 246, 238)
-SEA = (15, 118, 110)
 SEA_DEEP = (17, 94, 89)
 ACCENT = (249, 115, 22)
 INK = (31, 42, 55)
@@ -47,28 +56,29 @@ def load_font(candidates, size):
     return ImageFont.load_default()
 
 
-def draw_centered(draw, box, text, fnt, fill):
-    """Vẽ `text` căn giữa trong box (left, top, right, bottom) theo bbox thật."""
-    left, top, right, bottom = box
-    bbox = draw.textbbox((0, 0), text, font=fnt)
-    w, h = bbox[2] - bbox[0], bbox[3] - bbox[1]
-    x = left + (right - left - w) / 2 - bbox[0]
-    y = top + (bottom - top - h) / 2 - bbox[1]
-    draw.text((x, y), text, font=fnt, fill=fill)
+def load_emblem():
+    """Biểu trưng tròn, phóng to + làm nét nhẹ (nguồn gốc chỉ ~65px)."""
+    emblem = Image.open(LOGO_PATH).convert("RGBA").crop(EMBLEM_BOX)
+    icon = emblem.resize((ICON_MASTER, ICON_MASTER), Image.LANCZOS)
+    rgb = icon.convert("RGB").filter(
+        ImageFilter.UnsharpMask(radius=2, percent=80, threshold=2)
+    )
+    return Image.merge("RGBA", (*rgb.split(), icon.split()[3]))
 
 
-def make_icon(size):
-    """Icon vuông: nền sea bo góc, chữ T màu sand, chấm accent góc dưới phải."""
-    scale = 4  # vẽ lớn rồi thu nhỏ -> cạnh mượt
-    s = size * scale
-    img = Image.new("RGBA", (s, s), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(img)
-    draw.rounded_rectangle((0, 0, s - 1, s - 1), radius=int(s * 0.22), fill=SEA)
-    draw_centered(draw, (0, 0, s, int(s * 0.94)), "T", load_font(FONT_BOLD_CANDIDATES, int(s * 0.66)), SAND)
-    dot = int(s * 0.15)
-    off = int(s * 0.11)
-    draw.ellipse((s - dot - off, s - dot - off, s - off, s - off), fill=ACCENT)
-    return img.resize((size, size), Image.LANCZOS)
+def make_icon(size, background=None, padding=0.0):
+    """Icon vuông từ biểu trưng; `background` để lấp nền (iOS không nhận alpha)."""
+    inner = max(1, int(size * (1 - 2 * padding)))
+    icon = load_emblem().resize((inner, inner), Image.LANCZOS)
+    canvas = Image.new("RGBA", (size, size), background or (0, 0, 0, 0))
+    off = (size - inner) // 2
+    canvas.alpha_composite(icon, (off, off))
+    return canvas
+
+
+def save_icon(img, path, **kwargs):
+    """Lưu PNG 256 màu — giữ gradient nhưng nhẹ hơn nhiều so với RGBA."""
+    img.quantize(colors=256, method=Image.FASTOCTREE).save(path, "PNG", optimize=True, **kwargs)
 
 
 def make_og_image():
@@ -78,9 +88,9 @@ def make_og_image():
     img = Image.new("RGB", (width, height), SAND)
     draw = ImageDraw.Draw(img)
 
-    # Khối thương hiệu (icon) + chữ
-    draw.rounded_rectangle((72, 86, 72 + 96, 86 + 96), radius=22, fill=SEA)
-    draw_centered(draw, (72, 86, 72 + 96, 86 + 96), "T", load_font(FONT_BOLD_CANDIDATES, 64), SAND)
+    # Khối thương hiệu: biểu trưng logo thay cho chữ "T" cũ
+    emblem = load_emblem().resize((96, 96), Image.LANCZOS)
+    img.paste(emblem, (72, 86), emblem)
 
     draw.text((196, 96), "TODAYTOURIST", font=load_font(FONT_BOLD_CANDIDATES, 60), fill=INK)
     draw.text(
@@ -124,9 +134,21 @@ def make_og_image():
 def main():
     PUBLIC.mkdir(parents=True, exist_ok=True)
 
-    for size, name in ((192, "favicon-192.png"), (512, "favicon-512.png"), (180, "apple-touch-icon.png")):
-        make_icon(size).save(PUBLIC / name)
+    for size in (32, 48, 96, 192, 512):
+        name = f"favicon-{size}.png"
+        save_icon(make_icon(size), PUBLIC / name)
         print(f"[brand] {name} ({size}x{size})")
+
+    # iOS không nhận nền trong suốt -> lấp nền trắng, logo thụt vào 7%.
+    save_icon(
+        make_icon(180, background=(255, 255, 255, 255), padding=0.07),
+        PUBLIC / "apple-touch-icon.png",
+    )
+    print("[brand] apple-touch-icon.png (180x180)")
+
+    ico = PUBLIC / "favicon.ico"
+    load_emblem().save(ico, format="ICO", sizes=[(16, 16), (32, 32), (48, 48)])
+    print("[brand] favicon.ico (16/32/48)")
 
     og = PUBLIC / "og-default.jpg"
     make_og_image().save(og, "JPEG", quality=88, optimize=True, progressive=True)

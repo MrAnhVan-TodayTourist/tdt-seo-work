@@ -304,7 +304,7 @@ export function travelAgencyLd(lang) {
     url: absUrl(homePath(lang)),
     description: c.meta_description || undefined,
     slogan: c.brand_tagline || undefined,
-    logo: { '@type': 'ImageObject', url: absUrl('/content/vi/images/logo.png') },
+    logo: { '@type': 'ImageObject', url: absUrl('/favicon-512.png') },
     image: absUrl(DEFAULT_OG_IMAGE),
     telephone: tel || undefined,
     email: c.email || undefined,
