@@ -2,7 +2,7 @@
   "slug": "mice-phu-quoc-ket-hop-hoi-nghi-nghi-duong-va-su-kien-cong-ty",
   "title": "MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "mice-phu-quoc-ket-hop-hoi-nghi-nghi-duong-va-su-kien-cong-ty.jpg",
+  "image": "anh-bia-pq-b2-6-v2.jpg",
   "summary": "Chuyến hội nghị tại Phú Quốc phải đáp ứng mục tiêu làm việc trước khi thêm hoạt động nghỉ dưỡng.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Gửi số người, cách bố trí, thời lượng, số phiên và nhu cầu chia nhóm. Sức chứa thay đổi theo bàn ghế, sân khấu và lối đi. Hỏi trình chiếu, micro, internet và người hỗ trợ. Với phiên trực tuyến hoặc nội dung quan trọng, cần có thời gian thử thiết bị, không chỉ xác nhận rằng khách sạn có wifi."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216652145-0.jpg",
-      "alt": "MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216652145-0.jpg\" alt=\"MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty\"></figure>"
     },
     {
       "type": "h2",
