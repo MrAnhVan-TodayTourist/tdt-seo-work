@@ -2,7 +2,7 @@
   "slug": "ho-tram-3-ngay-2-dem-danh-thoi-gian-cho-nghi-duong-va-hoi-nghi",
   "title": "Hồ Tràm 3 ngày 2 đêm: dành thời gian cho nghỉ dưỡng và hội nghị",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-ho-tram-3-ngay-2-dem-danh-thoi-v2.jpg",
   "summary": "Với ba ngày hai đêm, đoàn có thể tách hội nghị, sinh hoạt tập thể và thời gian nghỉ thành các phần rõ ràng.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nếu có hội nghị, hãy xác định số phiên, thời lượng và thiết bị trước. Sau đó đặt khoảng nghỉ và hoạt động tập thể. Gia đình không có nhu cầu họp có thể dành ngày giữa cho tiện ích tại nơi lưu trú. Chương trình ba ngày là phương án thiết kế theo yêu cầu; cần xác nhận dịch vụ trước khi công bố thành tour cụ thể."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220584650-0.jpg",
-      "alt": "Stunning aerial view of Hồ Tràm beach with luxury resorts and lush gre"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220584650-0.jpg\" alt=\"Stunning aerial view of Hồ Tràm beach with luxury resorts and lush gre\"></figure>"
     },
     {
       "type": "h2",
