@@ -2,7 +2,7 @@
   "slug": "chua-vinh-trang",
   "title": "Chùa Vĩnh Tràng trong tour Mỹ Tho: bố trí tham quan đúng nhịp",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-chau-doc-mieu-ba-chua-xu-va-nui-sam.jpg",
+  "image": "anh-bia-chua-vinh-trang-v2.jpg",
   "summary": "Chùa Vĩnh Tràng trong tour Mỹ Tho. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nếu buổi sáng đi thuyền, có thể cân nhắc chùa trong một khung khác phù hợp đường xe và giờ phục vụ. Không nên ghé quá vội chỉ để đánh dấu thêm điểm. Với đoàn học sinh, chuẩn bị nội dung ngắn về không gian và cách ứng xử, tránh biến toàn bộ chuyến thăm thành hoạt động chụp ảnh."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406951567-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406951567-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
