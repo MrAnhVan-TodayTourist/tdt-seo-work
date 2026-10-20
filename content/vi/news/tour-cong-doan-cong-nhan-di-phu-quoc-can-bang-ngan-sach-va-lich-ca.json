@@ -2,7 +2,7 @@
   "slug": "tour-cong-doan-cong-nhan-di-phu-quoc-can-bang-ngan-sach-va-lich-ca",
   "title": "Tour công đoàn, công nhân đi Phú Quốc: cân bằng ngân sách và lịch ca",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-cong-doan-cong-nhan-di-phu-quoc-can-bang-ngan-sach-va-lich-ca.jpg",
+  "image": "anh-bia-pq-b2-2-v2.jpg",
   "summary": "Đoàn công đoàn cần cân đối ngày nghỉ, ngân sách và khả năng tổ chức nhiều xe hoặc nhiều chuyến bay.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Xe–tàu có thể gồm chặng đi đêm và chặng xe sau khi về đất liền. Máy bay vẫn cần thời gian đưa đón và làm thủ tục. Hãy so lịch hoàn chỉnh với ca làm việc, không chỉ đọc số ngày trên tên tour. Nếu chia nhiều đợt, kiểm tra tiêu chuẩn và tình trạng dịch vụ từng ngày."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216532123-0.jpg",
-      "alt": "Tour công đoàn, công nhân đi Phú Quốc: cân bằng ngân sách và lịch ca"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216532123-0.jpg\" alt=\"Tour công đoàn, công nhân đi Phú Quốc: cân bằng ngân sách và lịch ca\"></figure>"
     },
     {
       "type": "h2",
