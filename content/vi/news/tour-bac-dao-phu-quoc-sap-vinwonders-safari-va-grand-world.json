@@ -2,7 +2,7 @@
   "slug": "tour-bac-dao-phu-quoc-sap-vinwonders-safari-va-grand-world",
   "title": "Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-bac-dao-phu-quoc-sap-vinwonders-safari-va-grand-world.jpg",
+  "image": "anh-bia-pq-b3-6-v2.jpg",
   "summary": "Bắc đảo thường được khách cân nhắc cho vui chơi và tham quan.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "VinWonders phù hợp nhu cầu công viên chủ đề; Safari dành cho trải nghiệm động vật; Grand World có không gian dạo và các hoạt động riêng. Không dùng một tên 'Vinpearl' để đại diện quyền vào tất cả. Gia đình cần xem điều kiện trò chơi; đoàn công ty cần tính thời gian ngoài chương trình chung."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216769193-0.jpg",
-      "alt": "Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216769193-0.jpg\" alt=\"Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World\"></figure>"
     },
     {
       "type": "h2",
