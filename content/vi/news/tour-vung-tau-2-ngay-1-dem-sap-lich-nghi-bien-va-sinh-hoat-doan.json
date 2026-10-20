@@ -2,7 +2,7 @@
   "slug": "tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan",
   "title": "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-v2.jpg",
   "summary": "Hai ngày một đêm giúp chuyến đi Vũng Tàu có thêm thời gian nghỉ và sinh hoạt chung.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Buổi sáng nên chọn một điểm tham quan và bữa trưa. Khi chưa đến giờ nhận phòng, cần có nơi gửi hành lý và nghỉ phù hợp; nhận phòng sớm chỉ được áp dụng khi cơ sở lưu trú xác nhận. Buổi chiều có thể dành cho biển hoặc Team Building, tùy điều kiện thời tiết và mặt bằng đã đặt."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220328610-0.jpg",
-      "alt": "Tranquil image of a fishing boat on Phước Hải Beach, Vietnam at dusk, "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220328610-0.jpg\" alt=\"Tranquil image of a fishing boat on Phước Hải Beach, Vietnam at dusk, \"></figure>"
     },
     {
       "type": "h2",
