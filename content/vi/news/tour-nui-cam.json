@@ -2,7 +2,7 @@
   "slug": "tour-nui-cam",
   "title": "Tour Núi Cấm An Giang: bố trí phần lên núi và chiêm bái",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-nui-cam-v2.jpg",
   "summary": "Tour Núi Cấm An Giang. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Hỏi phương tiện hoặc dịch vụ cáp treo có trong chương trình, thời gian hoạt động và điểm tập trung. Không tự hiểu xe tour sẽ đi đến mọi vị trí trên núi. Các chặng đi bộ và phần tham quan phải được mô tả rõ để người lớn tuổi hoặc thành viên ít vận động cân nhắc."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407102694-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407102694-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
