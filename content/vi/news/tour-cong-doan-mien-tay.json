@@ -2,7 +2,7 @@
   "slug": "tour-cong-doan-mien-tay",
   "title": "Tour công đoàn, công nhân đi Miền Tây: cân bằng lịch ca và ngân sách",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-cong-doan-mien-tay-v2.jpg",
   "summary": "Tour công đoàn, công nhân đi Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Đơn vị nên xác nhận nhân sự có vừa tan ca đêm hay không, thời điểm ra khỏi cổng và ngày làm tiếp theo. Tour một ngày cần dự trù giờ về; tour qua đêm cần tính giờ dậy sớm. Nếu chia nhiều đợt, mỗi đợt phải có chương trình và dịch vụ rõ, không mặc định cùng giá cho mọi ngày."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406721469-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406721469-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
