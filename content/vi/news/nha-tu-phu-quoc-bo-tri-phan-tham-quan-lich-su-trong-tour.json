@@ -2,7 +2,7 @@
   "slug": "nha-tu-phu-quoc-bo-tri-phan-tham-quan-lich-su-trong-tour",
   "title": "Nhà tù Phú Quốc: bố trí phần tham quan lịch sử trong tour",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "nha-tu-phu-quoc-bo-tri-phan-tham-quan-lich-su-trong-tour.jpg",
+  "image": "anh-bia-pq-b4-8-v2.jpg",
   "summary": "Di tích Nhà tù Phú Quốc là lựa chọn cho khách muốn tìm hiểu lịch sử hoặc đoàn về nguồn.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Đoàn cơ quan có thể cần một phần về nguồn; gia đình cần giới thiệu dễ hiểu; học sinh cần nội dung phù hợp tuổi. Không biến di tích thành điểm chụp ảnh nhanh hoặc dùng chi tiết gây sốc để thu hút. Thông tin thuyết minh nên dựa trên tư liệu tại điểm và nguồn được kiểm chứng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217019152-0.jpg",
-      "alt": "Nhà tù Phú Quốc: bố trí phần tham quan lịch sử trong tour"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217019152-0.jpg\" alt=\"Nhà tù Phú Quốc: bố trí phần tham quan lịch sử trong tour\"></figure>"
     },
     {
       "type": "h2",
