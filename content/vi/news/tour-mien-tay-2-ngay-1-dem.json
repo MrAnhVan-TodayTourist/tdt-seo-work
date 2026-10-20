@@ -2,7 +2,7 @@
   "slug": "tour-mien-tay-2-ngay-1-dem",
   "title": "Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "cover-tour-mien-tay-2-ngay-1-dem.jpg",
   "summary": "Tour Miền Tây 2 ngày 1 đêm. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Có thể tham khảo hướng Mỹ Tho–Thới Sơn với thuyền, xuồng chèo và trải nghiệm miệt vườn, sau đó di chuyển đến Cần Thơ nhận phòng. Nếu thêm Cồn Phụng, cần tính thời lượng tại từng cồn để không nhận phòng quá muộn. Chương trình cụ thể phải ghi rõ điểm nào thực sự được bao gồm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406571628-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406571628-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
