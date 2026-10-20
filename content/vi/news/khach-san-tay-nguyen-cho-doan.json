@@ -20,6 +20,10 @@
       "text": "Ghi số phòng đôi, phòng nhiều người và phòng riêng; hỏi loại giường, ăn sáng và thời gian nhận trả. Đoàn có gia đình hoặc người cần hỗ trợ nên báo yêu cầu từ đầu. Không mặc định ghép thêm người vào một phòng sẽ luôn có giường phụ phù hợp."
     },
     {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/pasted-1792455855781-0.jpg\" alt=\"Tây Nguyên – TodayTourist\" style=\"width:100%;height:534px\"></figure>"
+    },
+    {
       "type": "h2",
       "text": "Xem lối xe và thời gian nhận phòng"
     },
