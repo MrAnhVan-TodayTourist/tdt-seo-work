@@ -20,6 +20,10 @@
       "text": "Lịch mẫu TodayTourist hiện giới thiệu chặng tham quan Măng Đen trong hành trình liên tuyến. Người muốn một đêm tại đây cần yêu cầu riêng để xem phòng và cách điều chỉnh đường đi. Không coi tên điểm có trong tour là bằng chứng khách được ngủ tại điểm đó."
     },
     {
+      "type": "html",
+      "html": "<figure style=\"width:100%\"><img src=\"/content/vi/images/pasted-1792455729652-0.jpg\" alt=\"Tây Nguyên – TodayTourist\" style=\"width:100%;height:534px\"></figure>"
+    },
+    {
       "type": "h2",
       "text": "Chọn phần tham quan theo nhịp nghỉ"
     },
