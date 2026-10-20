@@ -2,7 +2,7 @@
   "slug": "tour-chau-doc-ha-tien",
   "title": "Tour Châu Đốc–Hà Tiên: chọn lịch văn hóa, hành hương và biển",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-chau-doc-mieu-ba-chua-xu-va-nui-sam.jpg",
+  "image": "anh-bia-tour-chau-doc-ha-tien-v2.jpg",
   "summary": "Tour Châu Đốc–Hà Tiên. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Chương trình TodayTourist tham khảo có đêm đầu di chuyển và một đêm khách sạn. Khi đặt, kiểm tra lại điểm đón, loại xe và nơi nghỉ xác nhận. Nếu muốn xuất phát ban ngày hoặc tăng một đêm phòng, đó là thay đổi chương trình và cần báo giá phù hợp, không mặc định giữ nguyên giá mẫu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407115422-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407115422-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
