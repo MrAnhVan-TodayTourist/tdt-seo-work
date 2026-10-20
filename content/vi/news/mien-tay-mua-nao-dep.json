@@ -2,7 +2,7 @@
   "slug": "mien-tay-mua-nao-dep",
   "title": "Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-mien-tay-mua-nao-dep-v2.jpg",
   "summary": "Đi Miền Tây mùa nào. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Cùng một thời điểm, các loại cây và khu vườn có thể có sản lượng khác nhau. Hỏi tên vườn, loại trái, hoạt động hái hoặc thưởng thức và điều kiện vé. Với Sa Đéc hay Lai Vung, ảnh từ mùa trước không bảo đảm trạng thái ngày đi; nên xác nhận gần thời điểm đặt dịch vụ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407203106-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407203106-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
