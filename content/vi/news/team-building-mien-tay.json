@@ -2,7 +2,7 @@
   "slug": "team-building-mien-tay",
   "title": "Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-team-building-mien-tay-v2.jpg",
   "summary": "Team Building Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Hỏi diện tích sử dụng, độ phẳng, bóng mát, khu thay đồ và lối tiếp cận cho xe. Bến Tre hoặc Cần Thơ có thể có khu phù hợp, nhưng mỗi nơi giới hạn khác nhau. Với đoàn đông, nên xác nhận khu riêng, chia đội và khoảng di chuyển, tránh tổ chức tràn sang lối đi của khách khác."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406740401-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406740401-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
