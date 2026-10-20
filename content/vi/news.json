@@ -1,5 +1,5 @@
 {
-  "count": 600,
+  "count": 601,
   "order": [
     "nhom-tinh-nghia-kp29-phuong-long-binh-chung-mot-niem-tin-08-19",
     "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15",
@@ -600,7 +600,8 @@
     "bai-bang-hon-son",
     "ma-thien-lanh-hon-son",
     "tour-nam-du-ghep-doan",
-    "dat-tour-nam-du"
+    "dat-tour-nam-du",
+    "tour-da-nang"
   ],
   "list_title": "Tin tức",
   "list_text": "Cập nhật tin tức du lịch, cẩm nang và ưu đãi mới nhất từ TodayTourist.",
