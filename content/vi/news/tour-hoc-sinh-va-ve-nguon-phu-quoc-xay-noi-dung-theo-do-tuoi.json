@@ -2,7 +2,7 @@
   "slug": "tour-hoc-sinh-va-ve-nguon-phu-quoc-xay-noi-dung-theo-do-tuoi",
   "title": "Tour học sinh và về nguồn Phú Quốc: xây nội dung theo độ tuổi",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-hoc-sinh-va-ve-nguon-phu-quoc-xay-noi-dung-theo-do-tuoi.jpg",
+  "image": "anh-bia-pq-b4-1-v2.jpg",
   "summary": "Chuyến Phú Quốc cho học sinh hoặc đoàn về nguồn cần mục tiêu học tập rõ ràng.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Đoàn về nguồn có thể ưu tiên di tích Nhà tù Phú Quốc; đoàn trải nghiệm có thể tìm hiểu một nghề địa phương. Khu vui chơi là lựa chọn bổ sung, không thay mục tiêu chuyến đi. Với nội dung lịch sử, chuẩn bị thuyết minh và cách trình bày phù hợp độ tuổi, tránh chỉ đưa khách tới chụp ảnh."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216683000-0.jpg",
-      "alt": "Tour học sinh và về nguồn Phú Quốc: xây nội dung theo độ tuổi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216683000-0.jpg\" alt=\"Tour học sinh và về nguồn Phú Quốc: xây nội dung theo độ tuổi\"></figure>"
     },
     {
       "type": "h2",
