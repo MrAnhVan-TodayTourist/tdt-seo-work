@@ -2,7 +2,7 @@
   "slug": "tour-con-phung",
   "title": "Tour Cồn Phụng Bến Tre: đọc rõ vé và trải nghiệm trước khi đi",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-ben-tre-con-phung.jpg",
+  "image": "anh-bia-tour-con-phung-v2.jpg",
   "summary": "Tour Cồn Phụng Bến Tre. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Có thể tìm hiểu không gian gắn với Đạo Dừa, nghề kẹo dừa và sản phẩm địa phương theo chương trình. Những hoạt động vui chơi, ăn uống hoặc khu tổ chức đoàn cần được liệt kê riêng. Không nên hiểu vé đến cồn là quyền sử dụng tất cả dịch vụ tại điểm, nhất là trò chơi hoặc khu riêng."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406929788-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406929788-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
