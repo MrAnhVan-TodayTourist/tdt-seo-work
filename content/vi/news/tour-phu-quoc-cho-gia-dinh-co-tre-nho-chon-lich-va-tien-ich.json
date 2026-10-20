@@ -2,7 +2,7 @@
   "slug": "tour-phu-quoc-cho-gia-dinh-co-tre-nho-chon-lich-va-tien-ich",
   "title": "Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-phu-quoc-cho-gia-dinh-co-tre-nho-chon-lich-va-tien-ich.jpg",
+  "image": "anh-bia-pq-b2-7-v2.jpg",
   "summary": "Gia đình có trẻ nhỏ cần thời gian ăn, ngủ và di chuyển dễ chịu.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Hỏi cơ cấu giường, số người được ở, phụ thu trẻ em và khoảng cách tới nhà hàng. Tiện ích trẻ em có thể có điều kiện riêng theo tuổi hoặc gói phòng. Đừng mặc định mọi hoạt động trong resort đều miễn phí hoặc có người trông trẻ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216665155-0.jpg",
-      "alt": "Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216665155-0.jpg\" alt=\"Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích\"></figure>"
     },
     {
       "type": "h2",
