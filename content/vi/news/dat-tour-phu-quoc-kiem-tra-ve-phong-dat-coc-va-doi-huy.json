@@ -2,7 +2,7 @@
   "slug": "dat-tour-phu-quoc-kiem-tra-ve-phong-dat-coc-va-doi-huy",
   "title": "Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "dat-tour-phu-quoc-kiem-tra-ve-phong-dat-coc-va-doi-huy.jpg",
+  "image": "anh-bia-dat-tour-phu-quoc-kiem-tra-ve-phong-dat--v2.jpg",
   "summary": "Đặt tour Phú Quốc liên quan nhiều dịch vụ có điều kiện khác nhau.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Kiểm tra ngày đi, điểm đón, phương tiện, chuyến vận chuyển, số đêm khách sạn, loại phòng và bữa ăn. Phần tự chọn cần ghi rõ vé, xe và người tham gia. Đoàn có gala hoặc hội nghị cần danh sách hạng mục và địa điểm, không chỉ tên chương trình."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217062544-0.jpg",
-      "alt": "Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217062544-0.jpg\" alt=\"Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy\"></figure>"
     },
     {
       "type": "h2",
