@@ -2,7 +2,7 @@
   "slug": "ho-may-vung-tau-khi-nao-nen-dua-vao-lich-tour",
   "title": "Hồ Mây Vũng Tàu: khi nào nên đưa vào lịch tour?",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-ho-may-vung-tau-khi-nao-nen-du-v2.jpg",
   "summary": "Hồ Mây là một lựa chọn vui chơi tại Vũng Tàu.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nhà vận hành giới thiệu nhiều nhóm trải nghiệm như sinh thái, văn hóa và trò chơi. Đoàn nên xác định mình muốn tham gia phần nào, rồi kiểm tra hoạt động đang phục vụ. Không mặc định tất cả trò chơi hoặc chương trình đều phù hợp mọi lứa tuổi hoặc luôn mở."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220746643-0.jpg",
-      "alt": "A tranquil seascape with a small fishing boat near a rocky coastline o"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220746643-0.jpg\" alt=\"A tranquil seascape with a small fishing boat near a rocky coastline o\"></figure>"
     },
     {
       "type": "h2",
