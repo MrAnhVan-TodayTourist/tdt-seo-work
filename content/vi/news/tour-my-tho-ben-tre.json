@@ -2,7 +2,7 @@
   "slug": "tour-my-tho-ben-tre",
   "title": "Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-ben-tre-con-phung.jpg",
+  "image": "anh-bia-tour-my-tho-ben-tre-v2.jpg",
   "summary": "Tour Mỹ Tho–Bến Tre. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Tên Mỹ Tho–Bến Tre không tự động nghĩa đã đi đủ Thới Sơn, Cồn Phụng và mọi vườn trong khu vực. Hãy xem bến đi, thứ tự cồn và phần trải nghiệm. Nếu thêm chùa Vĩnh Tràng hoặc điểm văn hóa, cần dành thời gian riêng; không dùng tên tuyến thay cho danh sách dịch vụ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406917385-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406917385-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
