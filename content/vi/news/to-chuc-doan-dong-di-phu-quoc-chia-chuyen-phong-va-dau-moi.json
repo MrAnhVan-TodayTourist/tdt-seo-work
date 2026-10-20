@@ -2,7 +2,7 @@
   "slug": "to-chuc-doan-dong-di-phu-quoc-chia-chuyen-phong-va-dau-moi",
   "title": "Tổ chức đoàn đông đi Phú Quốc: chia chuyến, phòng và đầu mối",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "to-chuc-doan-dong-di-phu-quoc-chia-chuyen-phong-va-dau-moi.jpg",
+  "image": "anh-bia-pq-b2-3-v2.jpg",
   "summary": "Đoàn đông cần quản lý cả chuỗi vận chuyển, lưu trú và sự kiện.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Mỗi khách cần thông tin đúng giấy tờ và nhóm vận chuyển. Tách danh sách phòng, bữa ăn và hoạt động từ dữ liệu thống nhất, có người duyệt sửa. Không công khai giấy tờ hoặc thông tin khách trong nội dung truyền thông. Chốt mốc thay đổi trước khi xuất vé và giữ dịch vụ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216543157-0.jpg",
-      "alt": "Tổ chức đoàn đông đi Phú Quốc: chia chuyến, phòng và đầu mối"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216543157-0.jpg\" alt=\"Tổ chức đoàn đông đi Phú Quốc: chia chuyến, phòng và đầu mối\"></figure>"
     },
     {
       "type": "h2",
