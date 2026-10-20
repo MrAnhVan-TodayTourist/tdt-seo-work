@@ -2,7 +2,7 @@
   "slug": "resort-phu-quoc-cho-doan-kiem-tra-phong-bien-va-khu-su-kien",
   "title": "Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "resort-phu-quoc-cho-doan-kiem-tra-phong-bien-va-khu-su-kien.jpg",
+  "image": "anh-bia-pq-b2-9-v2.jpg",
   "summary": "Resort phù hợp đoàn cần đáp ứng các dịch vụ cùng lúc: phòng, bữa ăn, di chuyển nội khu và hoạt động chung.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Ghi loại giường, số người, phòng đơn, khách thêm và vị trí khu ở. Nếu phòng rải xa nhau, tính thời gian tập trung và hỗ trợ nội khu. Hỏi khoảng cách đến biển và quyền sử dụng hồ bơi; không mặc định tên 'beach resort' đảm bảo mọi phòng có tầm nhìn biển."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216691306-0.jpg",
-      "alt": "Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216691306-0.jpg\" alt=\"Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện\"></figure>"
     },
     {
       "type": "h2",
