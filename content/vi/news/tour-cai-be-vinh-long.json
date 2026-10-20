@@ -2,7 +2,7 @@
   "slug": "tour-cai-be-vinh-long",
   "title": "Tour Cái Bè–Vĩnh Long: chọn vườn, cù lao và làng nghề",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "anh-bia-tour-cai-be-vinh-long-v2.jpg",
   "summary": "Tour Cái Bè–Vĩnh Long. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Nhóm có thể trao đổi hướng vườn cây–cù lao hoặc làng nghề–nhà cổ, tùy điểm đang phục vụ ngày đi. Nếu muốn sang cù lao An Bình, cần xác nhận bến, chặng thuyền và khu ăn. Những tên điểm trong quảng bá là cơ sở tìm hiểu, không thay cho danh sách dịch vụ chốt cho đoàn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406963293-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406963293-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
