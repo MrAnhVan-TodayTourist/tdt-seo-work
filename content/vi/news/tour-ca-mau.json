@@ -2,7 +2,7 @@
   "slug": "tour-ca-mau",
   "title": "Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-ca-mau.jpg",
+  "image": "anh-bia-tour-ca-mau-v2.jpg",
   "summary": "Tour Cà Mau–Đất Mũi. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Chương trình phải ghi rõ điểm nghỉ, chặng tiếp cận và phương tiện thực tế. Không mặc định mọi tour dùng ca nô hoặc xe giống nhau; cần xác nhận dịch vụ đã chọn. Nếu đi đêm, nên có khoảng vệ sinh, ăn sáng và nghỉ trước phần tham quan, tránh nối các chặng liên tục làm cả đoàn mệt."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792407152985-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792407152985-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
