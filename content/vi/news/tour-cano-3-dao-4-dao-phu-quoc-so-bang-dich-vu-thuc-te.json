@@ -2,7 +2,7 @@
   "slug": "tour-cano-3-dao-4-dao-phu-quoc-so-bang-dich-vu-thuc-te",
   "title": "Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-cano-3-dao-4-dao-phu-quoc-so-bang-dich-vu-thuc-te.jpg",
+  "image": "anh-bia-pq-b4-4-v2.jpg",
   "summary": "Tour ba đảo và bốn đảo không nên được so chỉ bằng số địa danh.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Hỏi tên điểm, nơi xuất phát, xe đưa đón, loại canô hoặc tàu, quy mô nhóm và thời lượng. Một số điểm có thể chỉ đi qua hoặc chụp ảnh từ phương tiện, nên phải mô tả rõ. Không mua bằng ảnh rồi tự hiểu lịch sẽ giống trong mọi điều kiện biển."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216986079-0.jpg",
-      "alt": "Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216986079-0.jpg\" alt=\"Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế\"></figure>"
     },
     {
       "type": "h2",
