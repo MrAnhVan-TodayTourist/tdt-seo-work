@@ -2,7 +2,7 @@
   "slug": "tour-binh-chau-chon-trai-nghiem-khoang-nong-khi-di-ho-tram",
   "title": "Tour Bình Châu: chọn trải nghiệm khoáng nóng khi đi Hồ Tràm",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-tour-binh-chau-chon-trai-nghie-v2.jpg",
   "summary": "Khoáng nóng Bình Châu có thể trở thành hoạt động chính hoặc phần tự chọn trong chuyến nghỉ Hồ Tràm–Hồ Cốc.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nhà vận hành Minera công bố nhiều loại vé và gói dịch vụ, gồm tham quan, tắm khoáng và tắm bùn. Vì quyền sử dụng khác nhau, báo giá tour cần nêu tên gói cụ thể. Không nên dùng câu 'vé Bình Châu' để đại diện cho mọi trải nghiệm; hãy hỏi phạm vi, thời gian dùng và hạng mục trả thêm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220593425-0.jpg",
-      "alt": "A stunning aerial view of a coastal cityscape with skyscrapers and the"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220593425-0.jpg\" alt=\"A stunning aerial view of a coastal cityscape with skyscrapers and the\"></figure>"
     },
     {
       "type": "h2",
