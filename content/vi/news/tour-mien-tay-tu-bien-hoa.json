@@ -2,7 +2,7 @@
   "slug": "tour-mien-tay-tu-bien-hoa",
   "title": "Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón",
   "category": "Tour Miền Tây – Tư vấn đoàn",
-  "image": "thue-xe-di-mien-tay-nhieu-ngay.jpg",
+  "image": "cover-tour-mien-tay-tu-bien-hoa.jpg",
   "summary": "Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
   "body": "",
   "published_at": "2026-10-19",
@@ -20,9 +20,8 @@
       "text": "Thông tin hữu ích gồm địa chỉ, cổng vào, khoảng đậu xe và số khách tại mỗi điểm. Với đơn vị ở Amata hoặc khu công nghiệp Biên Hòa, cần xác nhận giờ vào cổng và đầu mối liên hệ. Không mặc định xe lớn có thể dừng ở mọi tuyến đường hoặc chờ lâu tại vị trí tập trung."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792406645891-0.jpg",
-      "alt": "Miền Tây sông nước – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792406645891-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
