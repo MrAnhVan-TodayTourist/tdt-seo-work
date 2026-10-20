@@ -2,7 +2,7 @@
   "slug": "ho-tram-ho-coc-1-ngay-can-dat-nhung-dich-vu-nao",
   "title": "Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-ho-tram-ho-coc-1-ngay-can-dat--v2.jpg",
   "summary": "Không ngủ lại không có nghĩa là không cần đặt dịch vụ tại điểm đến.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Yêu cầu mô tả khu vực đoàn được sử dụng: chỗ nghỉ, tủ đồ, nhà vệ sinh, tắm tráng, hồ bơi hoặc bãi hoạt động. Không mặc định đặt bữa trưa đồng nghĩa được dùng toàn bộ resort. Nếu cần phòng nghỉ riêng, hỏi số phòng, thời gian sử dụng và phụ phí."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220492276-0.jpg",
-      "alt": "Christ the King statue on Mount Nho, a prominent landmark of Vung Tau "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220492276-0.jpg\" alt=\"Christ the King statue on Mount Nho, a prominent landmark of Vung Tau \"></figure>"
     },
     {
       "type": "h2",
