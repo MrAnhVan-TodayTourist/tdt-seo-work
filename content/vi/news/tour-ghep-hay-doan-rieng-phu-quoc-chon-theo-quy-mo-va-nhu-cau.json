@@ -2,7 +2,7 @@
   "slug": "tour-ghep-hay-doan-rieng-phu-quoc-chon-theo-quy-mo-va-nhu-cau",
   "title": "Tour ghép hay đoàn riêng Phú Quốc: chọn theo quy mô và nhu cầu",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "tour-ghep-hay-doan-rieng-phu-quoc-chon-theo-quy-mo-va-nhu-cau.jpg",
+  "image": "anh-bia-pq-9-v2.jpg",
   "summary": "Khách lẻ và đoàn công ty thường cần cách tổ chức khác nhau.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Hỏi ngày nhận khách, điểm tập trung, tình trạng chuyến và điều kiện khởi hành. Một lịch trình tham khảo không chứng minh mọi ngày đều có đoàn. Nếu khách muốn bỏ một hoạt động, cần thống nhất nơi chờ, phương tiện và phần chi phí trước khi đăng ký."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216472621-0.jpg",
-      "alt": "Tour ghép hay đoàn riêng Phú Quốc: chọn theo quy mô và nhu cầu"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216472621-0.jpg\" alt=\"Tour ghép hay đoàn riêng Phú Quốc: chọn theo quy mô và nhu cầu\"></figure>"
     },
     {
       "type": "h2",
