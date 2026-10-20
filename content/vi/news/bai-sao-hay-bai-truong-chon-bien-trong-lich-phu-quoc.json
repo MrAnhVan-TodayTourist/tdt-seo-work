@@ -2,7 +2,7 @@
   "slug": "bai-sao-hay-bai-truong-chon-bien-trong-lich-phu-quoc",
   "title": "Bãi Sao hay Bãi Trường: chọn biển trong lịch Phú Quốc",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "bai-sao-hay-bai-truong-chon-bien-trong-lich-phu-quoc.jpg",
+  "image": "anh-bia-pq-b4-6-v2.jpg",
   "summary": "Khách chọn bãi biển cần xem điều kiện ngày đi và dịch vụ tại nơi muốn sử dụng.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Bãi Sao có thể đưa vào phần Nam đảo; khu Bãi Trường thường được khách cân nhắc cùng nghỉ dưỡng và ngắm cảnh bờ biển phía tây. Hãy tính chặng từ nơi ở và thời gian nghỉ. Không cần ghé nhiều bãi nếu đoàn chỉ muốn một buổi thư giãn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792217002130-0.jpg",
-      "alt": "Bãi Sao hay Bãi Trường: chọn biển trong lịch Phú Quốc"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217002130-0.jpg\" alt=\"Bãi Sao hay Bãi Trường: chọn biển trong lịch Phú Quốc\"></figure>"
     },
     {
       "type": "h2",
