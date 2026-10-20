@@ -2,7 +2,7 @@
   "slug": "team-building-phu-quoc-chon-bai-muc-tieu-va-phuong-an-mua",
   "title": "Team Building Phú Quốc: chọn bãi, mục tiêu và phương án mưa",
   "category": "Tour Phú Quốc – Tư vấn đoàn",
-  "image": "team-building-phu-quoc-chon-bai-muc-tieu-va-phuong-an-mua.jpg",
+  "image": "anh-bia-pq-b2-4-v2.jpg",
   "summary": "Team Building Phú Quốc cần gắn mục tiêu doanh nghiệp với điều kiện bãi hoạt động.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Xác định muốn làm quen, phối hợp phòng ban hay tổng kết thông điệp. Gửi số người, độ tuổi, khả năng vận động và nội dung cần tránh. Trò chơi cần có lựa chọn nhẹ cho người không tham gia vận động mạnh. Không ép khách xuống nước hoặc dùng hoạt động gây khó chịu để tạo tiếng cười."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216593204-0.jpg",
-      "alt": "Team Building Phú Quốc: chọn bãi, mục tiêu và phương án mưa"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216593204-0.jpg\" alt=\"Team Building Phú Quốc: chọn bãi, mục tiêu và phương án mưa\"></figure>"
     },
     {
       "type": "h2",
