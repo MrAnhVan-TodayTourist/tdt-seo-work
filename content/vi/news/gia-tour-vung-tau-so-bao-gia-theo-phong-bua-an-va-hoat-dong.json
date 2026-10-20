@@ -2,7 +2,7 @@
   "slug": "gia-tour-vung-tau-so-bao-gia-theo-phong-bua-an-va-hoat-dong",
   "title": "Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "anh-bia-vt-gia-tour-vung-tau-so-bao-gia-t-v2.jpg",
   "summary": "Giá tour Vũng Tàu không thể so công bằng nếu một chương trình ngủ lại còn chương trình khác đi trong ngày, hoặc hai báo giá dùng tiêu chuẩn phòng và bữa ăn khác nhau..",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Gửi ngày đi, điểm đón, số khách, số đêm, loại xe và tiêu chuẩn lưu trú. Đoàn có trẻ em cần danh sách tuổi hoặc thông tin mà nhà cung cấp yêu cầu. Nếu số người chưa chốt, đề nghị báo giá theo vài mức quy mô để thấy phần nào thay đổi. Không dùng giá quảng cáo dành cho đoàn đông để dự toán nhóm nhỏ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220601323-0.jpg",
-      "alt": "Fishing boats lined up on a serene beach in Ba Ria, Vietnam under a cl"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220601323-0.jpg\" alt=\"Fishing boats lined up on a serene beach in Ba Ria, Vietnam under a cl\"></figure>"
     },
     {
       "type": "h2",
