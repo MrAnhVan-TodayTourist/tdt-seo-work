@@ -3,7 +3,7 @@
   "title": "Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-mien-tay-1-ngay.jpg",
-  "summary": "Tour Miền Tây 1 ngày. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Tour Miền Tây 1 ngày từ Biên Hòa: so sánh Mỹ Tho–Bến Tre, Sa Đéc và Trà Vinh–Cồn Chim; chọn tuyến, điểm đón và dịch vụ phù hợp cho đoàn.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Mỹ Tho–Bến Tre thích hợp cho thuyền sông Tiền, cù lao và bữa ăn miệt vườn. Sa Đéc phù hợp người thích hoa, ảnh và văn hóa địa phương. Trà Vinh–Cồn Chim thiên về trải nghiệm cộng đồng, nhưng cần kiểm tra thời gian đường và qua sông trước khi chốt lịch một ngày."
+      "text": "<strong>Mỹ Tho–Bến Tre</strong> thích hợp cho thuyền sông Tiền, cù lao và bữa ăn miệt vườn. <strong>Sa Đéc</strong> phù hợp người thích hoa, ảnh và văn hóa địa phương. <strong>Trà Vinh–Cồn Chim</strong> thiên về trải nghiệm cộng đồng, nhưng cần kiểm tra thời gian đường và qua sông trước khi chốt lịch một ngày."
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792406557803-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406557803-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có thể xuất phát muộn để đi Miền Tây một ngày không?"
     },
     {
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn",
-        "Tour Sa Đéc: chọn làng hoa, văn hóa và vườn Lai Vung theo mùa",
-        "Tour Trà Vinh–Cồn Chim: chọn trải nghiệm văn hóa và cộng đồng"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-sa-dec/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Sa Đéc: chọn làng hoa, văn hóa và vườn Lai Vung theo mùa</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-tra-vinh/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Trà Vinh–Cồn Chim: chọn trải nghiệm văn hóa và cộng đồng</a>"
     },
     {
       "type": "h2",
