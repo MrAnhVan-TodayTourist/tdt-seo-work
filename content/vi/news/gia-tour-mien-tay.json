@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày",
-        "Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng",
-        "Đặt tour Miền Tây: kiểm tra chương trình, đặt cọc và điều kiện đổi"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Đặt tour Miền Tây: kiểm tra chương trình, đặt cọc và điều kiện đổi</a>"
     },
     {
       "type": "h2",
