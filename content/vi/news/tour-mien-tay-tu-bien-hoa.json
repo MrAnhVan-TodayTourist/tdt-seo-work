@@ -3,7 +3,7 @@
   "title": "Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-mien-tay-tu-bien-hoa-v2.jpg",
-  "summary": "Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Đi tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM: thống nhất điểm đón, giờ tập trung và lộ trình để đoàn di chuyển thuận tiện.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792406645891-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406645891-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có thể trả khách khác điểm đón không?"
     },
     {
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày",
-        "Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ",
-        "Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ</a>"
     },
     {
       "type": "h2",
