@@ -3,7 +3,7 @@
   "title": "Giá tour Miền Tây: tính đủ chi phí trước khi chọn chương trình",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-gia-tour-mien-tay.jpg",
-  "summary": "Giá tour Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Giá tour Miền Tây gồm những gì? Cách so chi phí xe, phòng, bữa ăn, vé tham quan và sự kiện để chọn chương trình phù hợp ngân sách khách đoàn.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Xe, hướng dẫn viên và tổ chức chương trình là những khoản cần phân bổ theo quy mô đoàn. Bữa ăn, phòng, vé và trải nghiệm sông nước thường tính theo người hoặc dịch vụ sử dụng. Tour một ngày không có phòng ngủ, còn tour hai ngày cần kiểm tra số người mỗi phòng và phụ thu phòng riêng."
+      "text": "<strong>Xe, hướng dẫn viên và tổ chức chương trình</strong> là những khoản cần phân bổ theo quy mô đoàn. Bữa ăn, phòng, vé và trải nghiệm sông nước thường tính theo người hoặc dịch vụ sử dụng. Tour một ngày không có phòng ngủ, còn tour hai ngày cần kiểm tra số người mỗi phòng và phụ thu phòng riêng."
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792406547185-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406547185-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -37,14 +37,14 @@
     },
     {
       "type": "p",
-      "text": "Bạn nên gửi ngày đi, số người lớn–trẻ em, điểm đón và mức ngân sách mong muốn. TodayTourist có thể tư vấn tuyến phù hợp rồi xác nhận giá theo dịch vụ và số khách chốt. Để giảm chi phí, nên cân nhắc bớt điểm hoặc đổi tiêu chuẩn, vẫn giữ rõ các điều kiện đã thống nhất."
+      "text": "Bạn nên gửi <strong>ngày đi, số người lớn–trẻ em, điểm đón và mức ngân sách mong muốn</strong>. TodayTourist có thể tư vấn tuyến phù hợp rồi xác nhận giá theo dịch vụ và số khách chốt. Để giảm chi phí, nên cân nhắc bớt điểm hoặc đổi tiêu chuẩn, vẫn giữ rõ các điều kiện đã thống nhất."
     },
     {
       "type": "h2",
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Đoàn đông có chắc rẻ hơn tour ghép?"
     },
     {
