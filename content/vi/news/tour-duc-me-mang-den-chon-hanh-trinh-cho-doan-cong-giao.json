@@ -2,7 +2,7 @@
   "slug": "tour-duc-me-mang-den-chon-hanh-trinh-cho-doan-cong-giao",
   "title": "Tour Đức Mẹ Măng Đen: chọn hành trình cho đoàn Công giáo",
   "category": "Hành hương – Tâm linh",
-  "image": "tour-duc-me-mang-den-chon-hanh-trinh-cho-doan-cong-giao.jpg",
+  "image": "tour-duc-me-mang-den-chon-hanh-trinh-cho-doan-cong-giao-v2.jpg",
   "summary": "tour Đức Mẹ Măng Đen: chọn tuyến, thời lượng, xe và dịch vụ cho đoàn từ Đồng Nai, TP.HCM. Gửi yêu cầu để TodayTourist tư vấn phương án phù hợp.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Hãy ghi rõ thời gian mong muốn tại trung tâm hành hương và hoạt động cần được xác nhận. Lịch lễ hoặc sinh hoạt riêng phải kiểm tra từ nơi đến cho ngày đoàn đi. Nếu muốn kết hợp Nhà thờ gỗ hoặc điểm tham quan khác, cần phân bổ đủ thời gian. Không mặc định mọi tour Măng Đen đều có phần sinh hoạt tôn giáo giống nhau."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214313986-0.jpg",
-      "alt": "Tour Đức Mẹ Măng Đen: chọn hành trình cho đoàn Công giáo"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214313986-0.jpg\" alt=\"Tour Đức Mẹ Măng Đen: chọn hành trình cho đoàn Công giáo\"></figure>"
     },
     {
       "type": "h2",
