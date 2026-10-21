@@ -3,7 +3,7 @@
   "title": "Tour Tràm Chim Đồng Tháp: chọn trải nghiệm sinh thái theo thời điểm",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-tram-chim-v2.jpg",
-  "summary": "Tour Tràm Chim Đồng Tháp. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Tour Tràm Chim Đồng Tháp: lựa chọn trải nghiệm sinh thái theo thời điểm, kiểm tra chương trình tham quan và dịch vụ trước khi đặt.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792407058386-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792407058386-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Đi Tràm Chim có chắc thấy sếu đầu đỏ không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Tràm Chim? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc tour Tràm Chim? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Mr Anh Văn</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc",
-        "Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước",
-        "Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-dong-thap/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</a>"
     },
     {
       "type": "h2",
