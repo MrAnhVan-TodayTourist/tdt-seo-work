@@ -2,7 +2,7 @@
   "slug": "thue-xe-di-pleiku-gia-lai",
   "title": "Thuê xe đi Pleiku – Gia Lai từ Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "thue-xe-di-pleiku-gia-lai.jpg",
+  "image": "thue-xe-di-pleiku-gia-lai-v2.jpg",
   "summary": "Thuê xe đi Pleiku – Gia Lai từ Biên Hòa, Đồng Nai, TP.HCM: đường đi, Biển Hồ, chùa Minh Thành, cách kết hợp Kon Tum và lưu ý đường dài.",
   "body": "",
   "published_at": "2026-10-11",
@@ -24,9 +24,8 @@
       "text": "Pleiku (Gia Lai) cách TP.HCM khoảng 500 km (ước tính theo quốc lộ), nên đoàn từ Biên Hòa, Đồng Nai thường chia 2 ngày đường hoặc nối chuyến Tây Nguyên 3–4 ngày. Đây là chuyến đi hợp đoàn thích thiên nhiên, dã ngoại, chụp ảnh và văn hóa Tây Nguyên."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203788737-0.jpg",
-      "alt": "Thuê xe đi Pleiku – Gia Lai từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203788737-0.jpg\" alt=\"Thuê xe đi Pleiku – Gia Lai từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
