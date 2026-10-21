@@ -3,7 +3,7 @@
   "title": "Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-xe-di-mien-tay-v2.jpg",
-  "summary": "Xe đi tour Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Chọn xe đi tour Miền Tây: so sánh xe 45 chỗ, giường nằm, 29 và 16 chỗ theo số khách, chặng đường và nhu cầu nghỉ ngơi.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792407240767-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792407240767-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có thể đặt riêng xe, không đặt tour Miền Tây không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc xe đi miền Tây? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc xe đi miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón",
-        "Tour công đoàn, công nhân đi Miền Tây: cân bằng lịch ca và ngân sách",
-        "Tour Miền Tây 3 ngày: phân biệt 3N2Đ và 3N3Đ trước khi đặt"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-tu-bien-hoa/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-cong-doan-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour công đoàn, công nhân đi Miền Tây: cân bằng lịch ca và ngân sách</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 3 ngày: phân biệt 3N2Đ và 3N3Đ trước khi đặt</a>"
     },
     {
       "type": "h2",
