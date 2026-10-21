@@ -2,7 +2,7 @@
   "slug": "thue-xe-di-nha-trang",
   "title": "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "thue-xe-di-nha-trang.jpg",
+  "image": "thue-xe-di-nha-trang-v2.jpg",
   "summary": "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM: quãng đường, đi đêm hay đi ngày, lưu ý hai tài xế. Mr Anh Văn 0902 898 726.",
   "body": "",
   "published_at": "2026-10-11",
@@ -24,9 +24,8 @@
       "text": "Nha Trang cách TP.HCM khoảng 400 km. Nhờ các đoạn cao tốc đã thông (TP.HCM – Long Thành – Dầu Giây – Phan Thiết – Vĩnh Hảo – Cam Lâm – Nha Trang), ô tô con chạy thuần khoảng 5–6 tiếng. Với xe đoàn từ Biên Hòa, Đồng Nai, bạn nên tính khoảng 7–8 tiếng cả giờ nghỉ ăn sáng, vệ sinh và dừng chân, vì xe lớn chạy chậm hơn và đoàn đông thì mỗi lần dừng đều mất thời gian."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203434647-0.jpg",
-      "alt": "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure style=\"width:1200px\"><img src=\"/content/vi/images/pasted-1792203434647-0.jpg\" alt=\"Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM\" style=\"width:1200px;height:675px\"></figure>"
     },
     {
       "type": "p",
