@@ -2,7 +2,7 @@
   "slug": "long-son-trong-tour-vung-tau-ket-hop-nha-lon-va-bua-hai-san",
   "title": "Long Sơn trong tour Vũng Tàu: kết hợp Nhà Lớn và bữa hải sản",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "long-son-trong-tour-vung-tau-ket-hop-nha-lon-va-bua-hai-san-v2.jpg",
   "summary": "Long Sơn có thể là một phần trải nghiệm riêng trong chuyến đi Vũng Tàu.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Nhà Lớn Long Sơn là nơi có câu chuyện văn hóa gắn với ông Trần. Đoàn muốn tham quan nên có thời gian nghe giới thiệu và ứng xử phù hợp tại điểm. Nếu mục tiêu chính là bữa ăn, chọn dịch vụ ăn uống trước rồi mới cân nhắc tham quan. Không biến một bữa ăn thành lời hứa có đủ trải nghiệm văn hóa."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220767776-0.jpg",
-      "alt": "Scenic view of traditional fishing boats on the sea in Ho Chi Minh Cit"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220767776-0.jpg\" alt=\"Scenic view of traditional fishing boats on the sea in Ho Chi Minh Cit\"></figure>"
     },
     {
       "type": "h2",
