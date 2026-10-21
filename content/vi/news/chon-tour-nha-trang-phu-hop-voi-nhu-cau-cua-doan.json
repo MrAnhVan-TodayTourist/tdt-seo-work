@@ -2,7 +2,7 @@
   "slug": "chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan",
   "title": "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan.jpg",
+  "image": "chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan-v2.jpg",
   "summary": "Một tour Nha Trang phù hợp cần trả lời ba câu hỏi: đoàn muốn trải nghiệm gì, có bao nhiêu thời gian và ngân sách dành cho những dịch vụ nào. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Đoàn thích biển có thể dành một buổi hoặc một ngày cho hành trình đảo. Gia đình muốn vui chơi có thể ưu tiên VinWonders; đoàn muốn thư giãn có thể chọn lưu trú nghỉ dưỡng và tắm bùn. Công ty cần gắn kết nên giữ thời gian riêng cho Team Building và Gala Dinner. Hãy chọn một hoặc hai mục tiêu chính để những hoạt động còn lại hỗ trợ đúng mục tiêu."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215756353-0.jpg",
-      "alt": "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215756353-0.jpg\" alt=\"Chọn tour Nha Trang phù hợp với nhu cầu của đoàn\"></figure>"
     },
     {
       "type": "h2",
