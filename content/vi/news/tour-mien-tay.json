@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406499836-0.jpg\" alt=\"Sông nước Miền Tây\"> </figure>"
+      "html": "<figure style=\"width:1200px\"> <img src=\"/content/vi/images/pasted-1792406499836-0.jpg\" alt=\"Sông nước Miền Tây\" style=\"width:1200px;height:675px\"> </figure>"
     },
     {
       "type": "h2",
