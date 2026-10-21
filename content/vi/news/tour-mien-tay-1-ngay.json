@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406557803-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
+      "html": "<figure style=\"width:1200px\"> <img src=\"/content/vi/images/pasted-1792406557803-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\" style=\"width:1200px;height:675px\"> </figure>"
     },
     {
       "type": "h2",
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây 1 ngày? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc tour miền Tây 1 ngày? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Mr Anh Văn</a>"
     },
     {
       "type": "p",
