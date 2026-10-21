@@ -3,7 +3,7 @@
   "title": "Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-bac-lieu-v2.jpg",
-  "summary": "Tour Bạc Liêu. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Tour Bạc Liêu: lựa chọn điểm văn hóa, Mẹ Nam Hải và tuyến kết hợp; cân đối thời gian di chuyển, tham quan và chiêm bái.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792407141276-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792407141276-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Bạc Liêu và Cà Mau có thể đi trong cùng tour không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Bạc Liêu? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc tour Bạc Liêu? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Mr Anh Văn</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp",
-        "Tour Cha Diệp–Tắc Sậy: chọn chuyến hành hương theo nhu cầu đoàn",
-        "Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-cha-diep/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cha Diệp–Tắc Sậy: chọn chuyến hành hương theo nhu cầu đoàn</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian</a>"
     },
     {
       "type": "h2",
