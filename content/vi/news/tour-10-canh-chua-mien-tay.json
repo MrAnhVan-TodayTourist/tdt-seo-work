@@ -3,7 +3,7 @@
   "title": "Tour 10 cảnh chùa Miền Tây: chọn tuyến và thời gian chiêm bái",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-10-canh-chua-mien-tay-v2.jpg",
-  "summary": "Tour 10 cảnh chùa Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Tour 10 cảnh chùa Miền Tây: lựa chọn tuyến, điểm chiêm bái và thời gian tại mỗi chùa phù hợp lịch trình, sức khỏe của đoàn.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792407191842-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792407191842-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có thể đi ít hơn mười chùa không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour 10 cảnh chùa miền Tây? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc tour 10 cảnh chùa miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Chùa Vĩnh Tràng trong tour Mỹ Tho: bố trí tham quan đúng nhịp",
-        "Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp",
-        "Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/chua-vinh-trang/\" target=\"_blank\" rel=\"noopener nofollow\">Chùa Vĩnh Tràng trong tour Mỹ Tho: bố trí tham quan đúng nhịp</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
     },
     {
       "type": "h2",
