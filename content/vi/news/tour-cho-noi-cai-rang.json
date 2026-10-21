@@ -3,7 +3,7 @@
   "title": "Chợ nổi Cái Răng: chọn giờ đi, thuyền và dịch vụ trong tour",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-cho-noi-cai-rang-v2.jpg",
-  "summary": "Chợ nổi Cái Răng. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Tham quan chợ nổi Cái Răng: thống nhất giờ đi, loại thuyền, bữa sáng và các dịch vụ đã gồm trong tour để đoàn chuẩn bị phù hợp.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792406989359-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406989359-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Chợ nổi có chắc đông như video không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour chợ nổi Cái Răng? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc tour chợ nổi Cái Răng? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902.898.726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Mr Anh Văn</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối",
-        "Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ",
-        "Tour Miền Tây cho gia đình có trẻ nhỏ: chọn lịch và dịch vụ phù hợp"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-gia-dinh/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho gia đình có trẻ nhỏ: chọn lịch và dịch vụ phù hợp</a>"
     },
     {
       "type": "h2",
