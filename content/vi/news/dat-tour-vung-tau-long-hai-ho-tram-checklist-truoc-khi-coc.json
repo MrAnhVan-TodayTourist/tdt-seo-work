@@ -2,7 +2,7 @@
   "slug": "dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc",
   "title": "Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc-v2.jpg",
   "summary": "Trước khi đặt cọc, người đại diện đoàn cần biết mình đang giữ những dịch vụ nào và điều kiện thay đổi ra sao.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Đối chiếu ngày đi, số người, điểm đón, xe, số đêm, nơi ở và bữa ăn. Ghi rõ hoạt động tự chọn, người không tham gia và phần trả thêm. Nếu danh sách chưa chốt, thống nhất mốc cập nhật cùng cách tính khi tăng hoặc giảm khách. Hỏi tuổi hoặc thông tin cần thiết để xác định chi phí trẻ em."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220760850-0.jpg",
-      "alt": "Tranquil seascape with boats at sunset in Vũng Tàu, Vietnam."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220760850-0.jpg\" alt=\"Tranquil seascape with boats at sunset in Vũng Tàu, Vietnam.\"></figure>"
     },
     {
       "type": "h2",
