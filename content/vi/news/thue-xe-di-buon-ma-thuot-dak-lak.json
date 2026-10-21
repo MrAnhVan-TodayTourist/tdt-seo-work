@@ -2,7 +2,7 @@
   "slug": "thue-xe-di-buon-ma-thuot-dak-lak",
   "title": "Thuê xe đi Buôn Ma Thuột – Đắk Lắk từ Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "thue-xe-di-buon-ma-thuot-dak-lak.jpg",
+  "image": "thue-xe-di-buon-ma-thuot-dak-lak-v2.jpg",
   "summary": "Thuê xe đi Buôn Ma Thuột – Đắk Lắk từ Biên Hòa, Đồng Nai, TP.HCM: tuyến đường, thời gian, điểm tham quan cà phê, Hồ Lắk, Buôn Đôn và cách chia ngày cho đoàn.",
   "body": "",
   "published_at": "2026-10-11",
@@ -24,9 +24,8 @@
       "text": "Buôn Ma Thuột thuộc tỉnh Đắk Lắk, là trung tâm của vùng cà phê Tây Nguyên. Từ Biên Hòa, Đồng Nai quãng đường khoảng 350–400 km (ước tính), xe đoàn nên tính khoảng 8–9 tiếng cả giờ nghỉ. Đoàn thường xuất phát sớm và nghỉ đêm tại thành phố để sáng hôm sau tham quan."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203780696-0.jpg",
-      "alt": "Thuê xe đi Buôn Ma Thuột – Đắk Lắk từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203780696-0.jpg\" alt=\"Thuê xe đi Buôn Ma Thuột – Đắk Lắk từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
