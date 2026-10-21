@@ -2,7 +2,7 @@
   "slug": "thue-xe-hanh-huong-duc-me-mang-den",
   "title": "Thuê xe hành hương Đức Mẹ Măng Đen tại Biên Hòa, Đồng Nai, TP.HCM",
   "category": "Cẩm nang thuê xe",
-  "image": "thue-xe-hanh-huong-duc-me-mang-den.jpg",
+  "image": "thue-xe-hanh-huong-duc-me-mang-den-v2.jpg",
   "summary": "Thuê xe hành hương Đức Mẹ Măng Đen tại Biên Hòa, Đồng Nai, TP.HCM: quãng đường từ Biên Hòa, cách chia 3 ngày 2 đêm, thời tiết cao nguyên và lưu ý đường đèo cho đoàn hành hương.",
   "body": "",
   "published_at": "2026-10-11",
@@ -24,9 +24,8 @@
       "text": "Thị trấn Măng Đen (Kon Plông, Kon Tum cũ) nằm ở độ cao hơn 1.200 m. Từ Pleiku khoảng 105 km, mất chừng 2 giờ; từ TP.HCM đi đường bộ khoảng 13–14 tiếng theo một nguồn tham khảo, nên đoàn thường chia 2 ngày đường hoặc bay đến Pleiku."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203708907-0.jpg",
-      "alt": "Thuê xe hành hương Đức Mẹ Măng Đen tại Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203708907-0.jpg\" alt=\"Thuê xe hành hương Đức Mẹ Măng Đen tại Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
