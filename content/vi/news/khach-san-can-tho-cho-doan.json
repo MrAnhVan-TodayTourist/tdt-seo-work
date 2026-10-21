@@ -3,7 +3,7 @@
   "title": "Khách sạn Miền Tây cho đoàn: kiểm tra phòng và không gian sự kiện",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-khach-san-can-tho-cho-doan-v2.jpg",
-  "summary": "Khách sạn Miền Tây cho đoàn. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Chọn khách sạn Miền Tây cho đoàn: kiểm tra số phòng, cách bố trí khách, bãi xe và không gian sự kiện theo chương trình dự kiến.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792407229121-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792407229121-0.jpg\" alt=\"Miền Tây sông nước – TodayTourist\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Khách sạn có nhà hàng thì tổ chức Gala được luôn không?"
     },
     {
@@ -57,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc khách sạn Cần Thơ cho đoàn? Gửi Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "Bạn đang cân nhắc khách sạn Cần Thơ cho đoàn? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
     },
     {
       "type": "p",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng",
-        "Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền",
-        "Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</a>"
     },
     {
       "type": "h2",
