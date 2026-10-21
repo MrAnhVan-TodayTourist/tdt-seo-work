@@ -3,7 +3,7 @@
   "title": "Tour Miền Tây: chọn tuyến sông nước, văn hóa hay hành hương",
   "category": "Tour Miền Tây – Tư vấn đoàn",
   "image": "anh-bia-tour-mien-tay.jpg",
-  "summary": "Tour Miền Tây. Tư vấn tuyến, dịch vụ và lịch đi cho khách đoàn, gia đình từ Đồng Nai, TP.HCM. Liên hệ Anh Văn 0902 898 726\\.",
+  "summary": "Chọn tour Miền Tây theo số ngày, trải nghiệm sông nước, văn hóa hoặc hành hương. TodayTourist tư vấn khách đoàn từ Biên Hòa, Đồng Nai và TP.HCM.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792406499836-0.jpg\" alt=\"Sông nước Miền Tây\"></figure>"
+      "html": "<figure> <img src=\"/content/vi/images/pasted-1792406499836-0.jpg\" alt=\"Sông nước Miền Tây\"> </figure>"
     },
     {
       "type": "h2",
@@ -44,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có phải tour Miền Tây nào cũng đi Cần Thơ?"
     },
     {
