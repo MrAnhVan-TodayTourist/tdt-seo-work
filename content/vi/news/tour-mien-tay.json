@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Miền Tây: tính đủ chi phí trước khi chọn chương trình",
-        "Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ",
-        "Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Giá tour Miền Tây: tính đủ chi phí trước khi chọn chương trình</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
     },
     {
       "type": "h2",
