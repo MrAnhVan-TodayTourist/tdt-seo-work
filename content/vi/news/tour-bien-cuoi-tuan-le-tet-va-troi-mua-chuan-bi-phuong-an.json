@@ -2,7 +2,7 @@
   "slug": "tour-bien-cuoi-tuan-le-tet-va-troi-mua-chuan-bi-phuong-an",
   "title": "Tour biển cuối tuần, lễ Tết và trời mưa: chuẩn bị phương án",
   "category": "Tour Vũng Tàu – Tư vấn đoàn",
-  "image": "vung-tau-cover.jpg",
+  "image": "tour-bien-cuoi-tuan-le-tet-va-troi-mua-chuan-bi-phuong-an-v2.jpg",
   "summary": "Khi đi biển vào cuối tuần hoặc dịp lễ, cần tính tình trạng phòng, giao thông và dịch vụ tập thể.",
   "body": "",
   "published_at": "2026-10-17",
@@ -20,9 +20,8 @@
       "text": "Hỏi số phòng, khu tiệc, xe và thời hạn giữ chỗ cùng lúc. Giá ngày thường, cuối tuần và dịp cao điểm có thể khác nhau. Nếu đoàn linh hoạt, so vài ngày trên cùng tiêu chuẩn. Không công bố 'còn phòng' hay 'giá lễ' khi chưa có xác nhận cho đúng ngày."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792220753968-0.jpg",
-      "alt": "A stunning aerial view of Vung Tau's coastal cityscape under a clear b"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792220753968-0.jpg\" alt=\"A stunning aerial view of Vung Tau's coastal cityscape under a clear b\"></figure>"
     },
     {
       "type": "h2",
