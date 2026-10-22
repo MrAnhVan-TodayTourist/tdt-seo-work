@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Team Building ngoài trời có thể tạo không gian để đội ngũ vận động và phối hợp, nhưng cần chọn sân theo cách tổ chức thực tế. Một nơi nhiều cảnh đẹp chưa chắc phù hợp cho số đội, âm thanh hoặc hoạt động mà doanh nghiệp muốn thực hiện."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Team Building ngoài trời có thể tạo không gian để đội ngũ vận động và phối hợp, nhưng cần chọn sân theo cách tổ chức thực tế. Một nơi nhiều cảnh đẹp chưa chắc phù hợp cho số đội, âm thanh hoặc hoạt động mà doanh nghiệp muốn thực hiện.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đối chiếu sân với số đội và nhiệm vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đối chiếu sân với số đội và nhiệm vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy xác định số người, cách chia đội và những khoảng di chuyển trong trò chơi. Địa điểm cần được xác nhận về khu vực dùng, thời lượng và điều kiện bàn giao. Các phần như bóng mát, vị trí nghỉ, chỗ tập trung hoặc đường tiếp cận đều ảnh hưởng cách tổ chức. Không chỉ nhìn sức chứa chung của khu du lịch, vì khu vực dành riêng cho chương trình có thể khác với không gian khách tự tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy xác định số người, cách chia đội và những khoảng di chuyển trong trò chơi. Địa điểm cần được xác nhận về khu vực dùng, thời lượng và điều kiện bàn giao. Các phần như bóng mát, vị trí nghỉ, chỗ tập trung hoặc đường tiếp cận đều ảnh hưởng cách tổ chức. Không chỉ nhìn sức chứa chung của khu du lịch, vì khu vực dành riêng cho chương trình có thể khác với không gian khách tự tham quan.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213166779-0.jpg",
-      "alt": "Team Building ngoài trời: chọn sân và kịch bản theo đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213166779-0.jpg\" alt=\"Team Building ngoài trời: chọn sân và kịch bản theo đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Lựa chọn mức vận động và cách tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lựa chọn mức vận động và cách tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nhiều độ tuổi có thể kết hợp nhiệm vụ di chuyển với phần suy nghĩ, trình bày hoặc hỗ trợ đồng đội. Không nên dùng sức mạnh làm tiêu chí duy nhất để mọi thành viên có cơ hội góp vai. Người tổ chức cần trao đổi điều kiện tham gia của từng hoạt động và yêu cầu riêng của đoàn. Những trò chơi có nước, địa hình đặc biệt hoặc thiết bị chuyên biệt không đưa vào chỉ vì tạo ảnh đẹp; phải xác nhận khả năng thực hiện phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhiều độ tuổi có thể kết hợp nhiệm vụ di chuyển với phần suy nghĩ, trình bày hoặc hỗ trợ đồng đội. Không nên dùng sức mạnh làm tiêu chí duy nhất để mọi thành viên có cơ hội góp vai. Người tổ chức cần trao đổi điều kiện tham gia của từng hoạt động và yêu cầu riêng của đoàn. Những trò chơi có nước, địa hình đặc biệt hoặc thiết bị chuyên biệt không đưa vào chỉ vì tạo ảnh đẹp; phải xác nhận khả năng thực hiện phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Ba trò chơi ngoài trời dễ triển khai"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ba trò chơi ngoài trời dễ triển khai</span></strong>"
     },
     {
       "type": "list",
@@ -46,35 +45,35 @@
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị lịch và phương án thay đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị lịch và phương án thay đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thời gian tập trung, phổ biến, chơi, nghỉ và tổng kết đều cần tính trong chương trình. Nếu kết hợp tour, nên chừa thời gian thay đồ trước bữa ăn hoặc tiệc. Doanh nghiệp cần chốt phần thay thế khi khu vực không sử dụng được theo kế hoạch, cùng đầu mối quyết định. TodayTourist tư vấn kịch bản theo đoàn và điều kiện điểm tổ chức được xác nhận; không hứa mọi hoạt động ngoài trời luôn diễn ra đủ trong mọi điều kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thời gian tập trung, phổ biến, chơi, nghỉ và tổng kết đều cần tính trong chương trình. Nếu kết hợp tour, nên chừa thời gian thay đồ trước bữa ăn hoặc tiệc. Doanh nghiệp cần chốt phần thay thế khi khu vực không sử dụng được theo kế hoạch, cùng đầu mối quyết định. TodayTourist tư vấn kịch bản theo đoàn và điều kiện điểm tổ chức được xác nhận; không hứa mọi hoạt động ngoài trời luôn diễn ra đủ trong mọi điều kiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Sân rộng có nghĩa có thể tăng số khách mà không đổi chương trình không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Sân rộng có nghĩa có thể tăng số khách mà không đổi chương trình không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Khi số khách tăng, cần xem lại số đội, dụng cụ, thời gian chờ và nhân sự điều phối, không chỉ diện tích sân."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Khi số khách tăng, cần xem lại số đội, dụng cụ, thời gian chờ và nhân sự điều phối, không chỉ diện tích sân.</span>"
     },
     {
       "type": "h3",
-      "text": "Nên tổ chức ngoài trời vào giờ nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nên tổ chức ngoài trời vào giờ nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên tránh khung nắng gắt giữa trưa, chọn buổi sáng sớm hoặc chiều muộn nếu địa điểm cho phép, và chuẩn bị nước uống, bóng mát."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên tránh khung nắng gắt giữa trưa, chọn buổi sáng sớm hoặc chiều muộn nếu địa điểm cho phép, và chuẩn bị nước uống, bóng mát.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -86,23 +85,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
