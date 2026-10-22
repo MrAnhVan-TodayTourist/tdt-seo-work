@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Bàu Trắng là điểm được nhiều khách quan tâm khi đến Mũi Né, và xe Jeep thường được nhắc cùng. Trước khi đặt, cần phân biệt rõ dịch vụ và hỏi kỹ các điều kiện."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Bàu Trắng là điểm được nhiều khách quan tâm khi đến Mũi Né, và xe Jeep thường được nhắc cùng. Trước khi đặt, cần phân biệt rõ dịch vụ và hỏi kỹ các điều kiện.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bàu Trắng trong tuyến tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bàu Trắng trong tuyến tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là điểm có đồi cát và hồ nước, thường nằm trong tuyến tham quan của khu vực. Thời gian đi, thời điểm trong ngày và thời tiết ảnh hưởng đến cảm nhận về nắng, gió và cát."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là điểm có đồi cát và hồ nước, thường nằm trong tuyến tham quan của khu vực. Thời gian đi, thời điểm trong ngày và thời tiết ảnh hưởng đến cảm nhận về nắng, gió và cát.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222484428-0.jpg",
-      "alt": "A Vietnamese vendor with a conical hat carrying baskets on a beach in "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222484428-0.jpg\" alt=\"A Vietnamese vendor with a conical hat carrying baskets on a beach in \"></figure>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt xe Jeep di chuyển và hoạt động trên cát"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt xe Jeep di chuyển và hoạt động trên cát</span></strong>"
     },
     {
       "type": "p",
-      "text": "Jeep có thể là phương tiện đưa khách theo tuyến, còn các hoạt động như xe địa hình trên cát là dịch vụ khác. Cần hỏi rõ: gói nào gồm điểm nào, thời gian bao lâu và có hoạt động tự chọn nào tính phí riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Jeep có thể là phương tiện đưa khách theo tuyến, còn các hoạt động như xe địa hình trên cát là dịch vụ khác. Cần hỏi rõ: gói nào gồm điểm nào, thời gian bao lâu và có hoạt động tự chọn nào tính phí riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Hỏi rõ giá, thời gian, tuyến và số khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi rõ giá, thời gian, tuyến và số khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy xác nhận giá theo xe hay theo người, số khách tối đa mỗi xe, tuyến đi, thời gian dừng tại từng điểm và phụ phí nếu có. Đoàn đông cần chia xe hợp lý để cùng đến và rời điểm gần nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy xác nhận giá theo xe hay theo người, số khách tối đa mỗi xe, tuyến đi, thời gian dừng tại từng điểm và phụ phí nếu có. Đoàn đông cần chia xe hợp lý để cùng đến và rời điểm gần nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý nắng nóng và an toàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý nắng nóng và an toàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mang mũ, kính, nước uống và giày phù hợp với cát. Thực hiện hướng dẫn của người lái và nhân viên, không tự ý rời nhóm. Người có bệnh nền hoặc trẻ nhỏ nên cân nhắc mức độ tham gia."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mang mũ, kính, nước uống và giày phù hợp với cát. Thực hiện hướng dẫn của người lái và nhân viên, không tự ý rời nhóm. Người có bệnh nền hoặc trẻ nhỏ nên cân nhắc mức độ tham gia.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần đặt xe Jeep trước không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần đặt xe Jeep trước không?</span>"
     },
     {
       "type": "p",
-      "text": "Nên hỏi trước, nhất là với đoàn đông hoặc dịp cao điểm, để biết số xe và giờ có thể phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên hỏi trước, nhất là với đoàn đông hoặc dịp cao điểm, để biết số xe và giờ có thể phục vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình",
-        "Du lịch Phan Thiết cùng gia đình: lịch trình cho trẻ nhỏ và người lớn tuổi",
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phan-thiet-mui-ne-co-gi-choi-goi-y-diem-tham-quan-theo-lich-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/du-lich-phan-thiet-cung-gia-dinh-lich-trinh-cho-tre-nho-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Du lịch Phan Thiết cùng gia đình: lịch trình cho trẻ nhỏ và người lớn tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
