@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Dinh Cô và Minh Đạm có thể bổ sung phần tìm hiểu văn hóa, lịch sử cho chuyến nghỉ biển Long Hải. Đoàn nên chọn mức tham quan phù hợp thay vì coi cả hai là các điểm chụp ảnh nhanh."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Dinh Cô và Minh Đạm có thể bổ sung phần tìm hiểu văn hóa, lịch sử cho chuyến nghỉ biển Long Hải. Đoàn nên chọn mức tham quan phù hợp thay vì coi cả hai là các điểm chụp ảnh nhanh.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dinh Cô: dành thời gian cho không gian tín ngưỡng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dinh Cô: dành thời gian cho không gian tín ngưỡng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuẩn bị trang phục lịch sự, giữ trật tự và theo hướng dẫn tại điểm. Người muốn viếng nên có đủ thời gian; người chỉ tham quan cần tôn trọng khách hành lễ. Đoàn đông thống nhất nơi tập trung, tránh đứng chắn lối đi. Nếu đi vào dịp đông khách, cần hỏi điều kiện tiếp cận và điểm xe dừng trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuẩn bị trang phục lịch sự, giữ trật tự và theo hướng dẫn tại điểm. Người muốn viếng nên có đủ thời gian; người chỉ tham quan cần tôn trọng khách hành lễ. Đoàn đông thống nhất nơi tập trung, tránh đứng chắn lối đi. Nếu đi vào dịp đông khách, cần hỏi điều kiện tiếp cận và điểm xe dừng trước.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Minh Đạm: xem khả năng đi bộ của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Minh Đạm: xem khả năng đi bộ của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phần tham quan có thể liên quan đường dốc và bậc thang; cần trao đổi độ tuổi, thể lực và mức tham gia. Đoàn học sinh nên có mục tiêu tìm hiểu và người quản lý nhóm. Người không tham gia cần phương án nghỉ an toàn, với đầu mối liên hệ rõ ràng. Không đưa toàn bộ đoàn vào cùng một hành trình nếu nhu cầu khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phần tham quan có thể liên quan đường dốc và bậc thang; cần trao đổi độ tuổi, thể lực và mức tham gia. Đoàn học sinh nên có mục tiêu tìm hiểu và người quản lý nhóm. Người không tham gia cần phương án nghỉ an toàn, với đầu mối liên hệ rõ ràng. Không đưa toàn bộ đoàn vào cùng một hành trình nếu nhu cầu khác nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép lịch với nghỉ biển hợp lý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép lịch với nghỉ biển hợp lý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trong một ngày, nên giới hạn điểm ghé để giữ bữa ăn và thời gian nghỉ. Với hai ngày, có thể phân bổ tham quan và biển vào các buổi khác nhau. Kiểm tra giờ tiếp đón và điều kiện thực tế trước khi chốt. Báo giá ghi rõ phần tham quan, vé nếu có và phương án thay đổi, tránh cam kết dịch vụ chưa xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trong một ngày, nên giới hạn điểm ghé để giữ bữa ăn và thời gian nghỉ. Với hai ngày, có thể phân bổ tham quan và biển vào các buổi khác nhau. Kiểm tra giờ tiếp đón và điều kiện thực tế trước khi chốt. Báo giá ghi rõ phần tham quan, vé nếu có và phương án thay đổi, tránh cam kết dịch vụ chưa xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chỉ viếng Dinh Cô rồi nghỉ biển không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chỉ viếng Dinh Cô rồi nghỉ biển không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị lịch phù hợp. Đoàn riêng không bắt buộc thêm Minh Đạm nếu mục tiêu và thể lực không phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị lịch phù hợp. Đoàn riêng không bắt buộc thêm Minh Đạm nếu mục tiêu và thể lực không phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô",
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Tour biển cho học sinh: chọn Vũng Tàu hay Long Hải?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-1-ngay-lich-nghi-bien-va-vieng-dinh-co/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bien-cho-hoc-sinh-chon-vung-tau-hay-long-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour biển cho học sinh: chọn Vũng Tàu hay Long Hải?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm",
         "Tour Long Hải – Phước Hải 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
