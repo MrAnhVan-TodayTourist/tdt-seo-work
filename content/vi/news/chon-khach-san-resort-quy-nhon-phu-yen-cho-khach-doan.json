@@ -8,96 +8,100 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khách sạn hoặc resort phù hợp cho tour Quy Nhơn – Phú Yên cần đáp ứng cả lịch trình và khả năng phục vụ đoàn. Ảnh phòng đẹp hay hạng sao không đủ để quyết định nếu số phòng, nhà hàng hoặc địa điểm hoạt động chưa phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour ghép và đoàn riêng Quy Nhơn – Phú Yên phù hợp các nhu cầu khác nhau. Khách ít người có thể quan tâm lịch ghép; công ty hoặc gia đình muốn thay đổi chương trình nên so thêm phương án riêng trước khi đặt.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn vị trí trước khi chọn hạng phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tour ghép: xem lịch đã được xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lưu trú gần trung tâm có thể thuận tiện ăn uống và tham quan đô thị; khu nghỉ dưỡng ven biển có thể đáp ứng mục tiêu nghỉ tại chỗ. Với hành trình liên tuyến, xem chặng xe từ nơi ở đến các hướng tham quan. Một điểm lưu trú đẹp nhưng lệch tuyến có thể làm tăng thời gian di chuyển mỗi ngày. Chọn theo kế hoạch thực tế của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách tham gia cùng những nhóm khác nên thường theo điểm đón, thời gian và chương trình chung. Hỏi lịch cụ thể, điều kiện đủ khách, cơ cấu phòng và những trải nghiệm lựa chọn thêm. Không nên hiểu lịch quảng cáo của đơn vị khác là lịch TodayTourist đang vận hành. Mọi ngày khởi hành cần được xác nhận trước khi khách sắp xếp nghỉ.</span>"
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792217553220-0.jpg\" alt=\"Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn\"></figure>"
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792217510197-0.jpg\" alt=\"Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra số phòng và cơ cấu giường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng: linh hoạt nhưng phải chốt phạm vi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi phòng đôi, phòng hai giường, phòng gia đình, giường phụ và khả năng bố trí gần nhau. Đoàn đông cần đủ phòng cùng tiêu chuẩn hoặc quy tắc phân hạng đã thống nhất. Không nên mặc định tất cả khách nhận phòng cùng lúc khi đến sớm. Ghi rõ thời gian nhận trả phòng và các khoản nếu muốn sử dụng ngoài khung đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị ngày đi, nơi đón, tiêu chuẩn phòng, nhịp tham quan và hoạt động công ty. Mức linh hoạt tùy điều kiện dịch vụ, không có nghĩa thay đổi mọi lúc mà không phát sinh. Chốt danh sách điểm bắt buộc và những lựa chọn có thể đổi, rồi ghi trong phương án để việc tư vấn, dự toán và tổ chức thống nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhà hàng, bãi xe và hoạt động tập thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So tổng chi phí thay vì giá mỗi người</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra khả năng phục vụ bữa sáng và bữa đoàn, luồng di chuyển, bãi xe, khu tập trung và không gian Gala. Nếu cần Team Building, hỏi diện tích bãi được phép dùng và phương án thời tiết. Không suy ra có bãi biển là tự động được tổ chức trò chơi, tiệc hoặc lửa trại; những phần này cần xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhỏ đặt riêng có thể phải chia chi phí xe và nhân sự cho ít khách hơn. Tour ghép có thể có phụ thu phòng đơn, nâng hạng hoặc lựa chọn đảo khác. So giá bao gồm cùng phạm vi và xem các khoản tự trả. Khi số người tăng, có thể yêu cầu tính lại phương án riêng; không cần dùng một ngưỡng cố định cho mọi chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Xin hai lựa chọn có tiêu chí rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khi đoàn cần Team Building hoặc Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thay vì danh sách dài tên cơ sở, yêu cầu hai phương án cùng mục tiêu, kèm vị trí, phòng, bữa sáng, không gian đoàn và điều kiện đặt. Có thể cân nhắc ở một nơi hoặc chia đêm giữa Quy Nhơn và Tuy Hòa tùy tuyến. TodayTourist kiểm tra dịch vụ theo ngày và số khách; tên cơ sở, phòng và tiện ích cuối cùng ghi trong xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hoạt động có nhận diện và thông điệp riêng thường cần chương trình riêng hoặc bố trí riêng đã xác nhận. Một nhóm tham gia tour ghép không mặc nhiên được đổi lịch cả xe để tổ chức sự kiện. TodayTourist tư vấn theo số khách, ngày đi, ngân sách và mức linh hoạt mong muốn; lịch ghép, phòng và dịch vụ sẽ được kiểm tra tại thời điểm đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Resort có luôn tốt hơn khách sạn cho công ty không? Tùy mục tiêu và điều kiện phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một nhóm nhỏ có thể yêu cầu đoàn riêng không? Có thể đề nghị báo giá để cân nhắc.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể nêu tên khách sạn mong muốn khi hỏi tour không? Có; cần kiểm tra số phòng và giá cho ngày cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour ghép có luôn rẻ hơn không? Cần so tổng khoản trả và các điều kiện đi cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?",
-        "Gala Dinner Quy Nhơn – Phú Yên: địa điểm, kịch bản và dự toán",
-        "Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-quy-nhon-phu-yen-tinh-ngan-sach-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-quy-nhon-phu-yen-cho-cong-ty-xi-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-quy-nhon-phu-yen-cung-tre-nho-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
