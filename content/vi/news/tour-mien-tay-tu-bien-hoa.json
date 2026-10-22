@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Điểm đón ảnh hưởng trực tiếp thời gian và chi phí tour Miền Tây. Với nhóm ở Biên Hòa, Đồng Nai hoặc TP.HCM, hãy thống nhất nơi tập trung trước khi chọn lịch. Đoàn riêng có thể trao đổi phương án đón tại công ty; khách ghép cần biết điểm hẹn và điều kiện trung chuyển cụ thể."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Điểm đón ảnh hưởng trực tiếp thời gian và chi phí tour Miền Tây. Với nhóm ở Biên Hòa, Đồng Nai hoặc TP.HCM, hãy thống nhất nơi tập trung trước khi chọn lịch. Đoàn riêng có thể trao đổi phương án đón tại công ty; khách ghép cần biết điểm hẹn và điều kiện trung chuyển cụ thể.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Gửi địa chỉ thực tế của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gửi địa chỉ thực tế của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thông tin hữu ích gồm địa chỉ, cổng vào, khoảng đậu xe và số khách tại mỗi điểm. Với đơn vị ở Amata hoặc khu công nghiệp Biên Hòa, cần xác nhận giờ vào cổng và đầu mối liên hệ. Không mặc định xe lớn có thể dừng ở mọi tuyến đường hoặc chờ lâu tại vị trí tập trung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thông tin hữu ích gồm địa chỉ, cổng vào, khoảng đậu xe và số khách tại mỗi điểm. Với đơn vị ở Amata hoặc khu công nghiệp Biên Hòa, cần xác nhận giờ vào cổng và đầu mối liên hệ. Không mặc định xe lớn có thể dừng ở mọi tuyến đường hoặc chờ lâu tại vị trí tập trung.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Gom điểm đón để giảm vòng đường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gom điểm đón để giảm vòng đường</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một đoàn có nhiều nhóm nên chọn một điểm chính và số điểm phụ vừa đủ. Hãy hỏi thứ tự đón, thời gian chờ và điểm trả khi về. Lịch đón Biên Hòa rồi TP.HCM phải được tính vào giờ đến bến thuyền, bữa ăn và phần tham quan, nhất là với chuyến chỉ đi một ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một đoàn có nhiều nhóm nên chọn một điểm chính và số điểm phụ vừa đủ. Hãy hỏi thứ tự đón, thời gian chờ và điểm trả khi về. Lịch đón Biên Hòa rồi TP.HCM phải được tính vào giờ đến bến thuyền, bữa ăn và phần tham quan, nhất là với chuyến chỉ đi một ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận việc đưa đón trong báo giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận việc đưa đón trong báo giá</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần biết xe đón riêng hay trung chuyển, khoản phí nếu có và nơi nhận khách cuối cùng. Thông tin đưa đón trên tour mẫu chỉ là cơ sở tham khảo; lịch cho ngày đi của bạn cần chốt lại. TodayTourist tư vấn phương án phù hợp quy mô đoàn và địa chỉ đã cung cấp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần biết xe đón riêng hay trung chuyển, khoản phí nếu có và nơi nhận khách cuối cùng. Thông tin đưa đón trên tour mẫu chỉ là cơ sở tham khảo; lịch cho ngày đi của bạn cần chốt lại. TodayTourist tư vấn phương án phù hợp quy mô đoàn và địa chỉ đã cung cấp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể trả khách khác điểm đón không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể trả khách khác điểm đón không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi khi thiết kế đoàn riêng. Cần báo trước địa chỉ trả, số khách và thời gian dự kiến để kiểm tra tuyến xe, chi phí và khả năng đáp ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi khi thiết kế đoàn riêng. Cần báo trước địa chỉ trả, số khách và thời gian dự kiến để kiểm tra tuyến xe, chi phí và khả năng đáp ứng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây từ Biên Hòa? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour miền Tây từ Biên Hòa? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
