@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Kịch bản Gala Dinner nên giúp khách dùng tiệc và theo dõi phần chương trình thuận tiện. Điều cần làm là xác định các mốc chính, ai thực hiện và phần nào có thể điều chỉnh. Một danh sách tiết mục chưa đủ để điều phối cả đêm tiệc."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Kịch bản Gala Dinner nên giúp khách dùng tiệc và theo dõi phần chương trình thuận tiện. Điều cần làm là xác định các mốc chính, ai thực hiện và phần nào có thể điều chỉnh. Một danh sách tiết mục chưa đủ để điều phối cả đêm tiệc.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chia chương trình thành những phần có mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia chương trình thành những phần có mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khung tham khảo có thể gồm đón khách, mở đầu, giới thiệu nội dung, phát biểu, dùng tiệc, vinh danh hoặc giao lưu và kết thúc. Không nhất thiết sự kiện nào cũng đủ mọi phần. Doanh nghiệp nên chọn nội dung bắt buộc trước rồi mới thêm tiết mục. Phần mở đầu cần giúp khách biết lý do buổi tiệc và điều sắp diễn ra, không kéo dài nhiều lời giới thiệu khiến giờ dùng bữa liên tục bị lùi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khung tham khảo có thể gồm đón khách, mở đầu, giới thiệu nội dung, phát biểu, dùng tiệc, vinh danh hoặc giao lưu và kết thúc. Không nhất thiết sự kiện nào cũng đủ mọi phần. Doanh nghiệp nên chọn nội dung bắt buộc trước rồi mới thêm tiết mục. Phần mở đầu cần giúp khách biết lý do buổi tiệc và điều sắp diễn ra, không kéo dài nhiều lời giới thiệu khiến giờ dùng bữa liên tục bị lùi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213219732-0.jpg",
-      "alt": "Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213219732-0.jpg\" alt=\"Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Gắn từng phần với người phụ trách và tín hiệu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gắn từng phần với người phụ trách và tín hiệu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi mục nên có người xuất hiện, thời lượng dự kiến, micro, nhạc hoặc hình ảnh cần dùng. Các tên gọi và nội dung trình chiếu phải được doanh nghiệp duyệt. Người điều phối cần biết lúc nào khách lên sân khấu và lúc nào nhà hàng phục vụ. Nếu có clip hoặc tiết mục nội bộ, phải nhận file và kiểm tra trước; không coi MC là người tự xử lý mọi thiết bị và mọi thay đổi ngay trên sân khấu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi mục nên có người xuất hiện, thời lượng dự kiến, micro, nhạc hoặc hình ảnh cần dùng. Các tên gọi và nội dung trình chiếu phải được doanh nghiệp duyệt. Người điều phối cần biết lúc nào khách lên sân khấu và lúc nào nhà hàng phục vụ. Nếu có clip hoặc tiết mục nội bộ, phải nhận file và kiểm tra trước; không coi MC là người tự xử lý mọi thiết bị và mọi thay đổi ngay trên sân khấu.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị phần điều chỉnh khi thực tế khác lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị phần điều chỉnh khi thực tế khác lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên xác định nội dung có thể rút ngắn hoặc đổi thứ tự khi khách đến trễ, phát biểu kéo dài hoặc bữa ăn thay đổi nhịp phục vụ. Quyết định điều chỉnh cần có đầu mối thống nhất. Kịch bản mẫu chỉ là cơ sở trao đổi, không phải lịch áp dụng nguyên cho mọi đoàn. TodayTourist tư vấn chương trình theo mục tiêu và địa điểm, đồng thời ghi rõ phần MC, điều phối, thiết bị và tiệc trong báo giá để doanh nghiệp đối chiếu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên xác định nội dung có thể rút ngắn hoặc đổi thứ tự khi khách đến trễ, phát biểu kéo dài hoặc bữa ăn thay đổi nhịp phục vụ. Quyết định điều chỉnh cần có đầu mối thống nhất. Kịch bản mẫu chỉ là cơ sở trao đổi, không phải lịch áp dụng nguyên cho mọi đoàn. TodayTourist tư vấn chương trình theo mục tiêu và địa điểm, đồng thời ghi rõ phần MC, điều phối, thiết bị và tiệc trong báo giá để doanh nghiệp đối chiếu.</span>"
     },
     {
       "type": "h2",
-      "text": "Mẫu khung kịch bản gợi ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mẫu khung kịch bản gợi ý</span></strong>"
     },
     {
       "type": "list",
@@ -57,63 +56,67 @@
     },
     {
       "type": "p",
-      "text": "Phần phát biểu nên đặt trước khi khách dùng món chính để không bị gián đoạn khi mọi người đang ăn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phần phát biểu nên đặt trước khi khách dùng món chính để không bị gián đoạn khi mọi người đang ăn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể dùng một kịch bản mẫu trên mạng cho mọi đêm Gala không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể dùng một kịch bản mẫu trên mạng cho mọi đêm Gala không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên áp nguyên. Cần sửa theo mục tiêu, khách tham dự, thực đơn, địa điểm và các phần doanh nghiệp đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên áp nguyên. Cần sửa theo mục tiêu, khách tham dự, thực đơn, địa điểm và các phần doanh nghiệp đã xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp",
-        "Gala vinh danh nhân viên: chuẩn bị danh sách và phần trao thưởng",
-        "MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-gala-dinner-chon-tiec-va-noi-dung-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-vinh-danh-nhan-vien-chuan-bi-danh-sach-va-phan-trao-thuong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala vinh danh nhân viên: chuẩn bị danh sách và phần trao thưởng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mc-am-thanh-san-khau-kiem-tra-pham-vi-goi-to-chuc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
