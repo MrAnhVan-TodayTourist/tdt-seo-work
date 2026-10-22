@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Hồ Tràm–Hồ Cốc hai ngày một đêm là phương án để đoàn có một buổi nghỉ biển và một tối sinh hoạt chung. Muốn tận dụng được thời gian, cần hạn chế việc di chuyển qua nhiều khu trong cùng ngày."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Hồ Tràm–Hồ Cốc hai ngày một đêm là phương án để đoàn có một buổi nghỉ biển và một tối sinh hoạt chung. Muốn tận dụng được thời gian, cần hạn chế việc di chuyển qua nhiều khu trong cùng ngày.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ngày một: ưu tiên ổn định nơi nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày một: ưu tiên ổn định nơi nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể ghé một điểm thuận tuyến trước bữa trưa, sau đó nhận phòng theo giờ của cơ sở. Buổi chiều chọn nghỉ, hồ bơi hoặc Team Building đã đặt trước. Các nhóm có trẻ nhỏ hoặc người lớn tuổi nên được bố trí thời gian nghỉ phù hợp, không phải chờ cả đoàn dưới nắng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể ghé một điểm thuận tuyến trước bữa trưa, sau đó nhận phòng theo giờ của cơ sở. Buổi chiều chọn nghỉ, hồ bơi hoặc Team Building đã đặt trước. Các nhóm có trẻ nhỏ hoặc người lớn tuổi nên được bố trí thời gian nghỉ phù hợp, không phải chờ cả đoàn dưới nắng.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Đặt tiệc tối theo quy mô thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt tiệc tối theo quy mô thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gala Dinner cần khu tiệc, số bàn, sân khấu, thiết bị và kịch bản. Nếu đoàn chỉ muốn ăn uống và nói chuyện, có thể chọn bữa tối thông thường để giảm chi phí. Phải kiểm tra giới hạn âm thanh, thời gian kết thúc và phương án chuyển vào trong nhà khi thời tiết thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gala Dinner cần khu tiệc, số bàn, sân khấu, thiết bị và kịch bản. Nếu đoàn chỉ muốn ăn uống và nói chuyện, có thể chọn bữa tối thông thường để giảm chi phí. Phải kiểm tra giới hạn âm thanh, thời gian kết thúc và phương án chuyển vào trong nhà khi thời tiết thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày hai: lựa chọn Bình Châu hoặc nghỉ tiếp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày hai: lựa chọn Bình Châu hoặc nghỉ tiếp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoáng nóng có thể là một phương án thêm, nhưng cần rõ loại vé và thời gian trải nghiệm. Nếu đoàn muốn tận hưởng resort, có thể giữ buổi sáng tự do rồi trả phòng và ăn trưa. Đừng ghi tất cả dịch vụ tự chọn vào phần bao gồm. Chốt nơi nghỉ cụ thể, loại phòng và số bữa để so sánh báo giá chính xác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoáng nóng có thể là một phương án thêm, nhưng cần rõ loại vé và thời gian trải nghiệm. Nếu đoàn muốn tận hưởng resort, có thể giữ buổi sáng tự do rồi trả phòng và ăn trưa. Đừng ghi tất cả dịch vụ tự chọn vào phần bao gồm. Chốt nơi nghỉ cụ thể, loại phòng và số bữa để so sánh báo giá chính xác.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần ghé cả Hồ Tràm và Hồ Cốc không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần ghé cả Hồ Tràm và Hồ Cốc không?</span>"
     },
     {
       "type": "p",
-      "text": "Không bắt buộc. Tên tuyến có thể bao quát hai khu, nhưng lịch thực tế nên phục vụ mục tiêu đoàn và được ghi rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không bắt buộc. Tên tuyến có thể bao quát hai khu, nhưng lịch thực tế nên phục vụ mục tiêu đoàn và được ghi rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm 3 ngày 2 đêm: dành thời gian cho nghỉ dưỡng và hội nghị",
-        "Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện",
-        "Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-3-ngay-2-dem-danh-thoi-gian-cho-nghi-duong-va-hoi-nghi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm 3 ngày 2 đêm: dành thời gian cho nghỉ dưỡng và hội nghị</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-doanh-nghiep-ho-tram-chon-resort-dap-ung-ca-nghi-va-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-long-hai-ho-tram-so-tien-ich-theo-muc-tieu-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
