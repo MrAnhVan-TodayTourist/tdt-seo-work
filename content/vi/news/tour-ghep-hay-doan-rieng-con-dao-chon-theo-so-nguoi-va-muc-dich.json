@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour ghép và đoàn riêng không chỉ khác số người mà còn khác khả năng điều chỉnh lịch. Khách lẻ thường quan tâm ngày khởi hành và giá, trong khi người đại diện công ty cần chương trình phù hợp cả tập thể. Hiểu rõ hình thức phục vụ giúp chọn đúng và tránh kỳ vọng những dịch vụ chưa nằm trong gói."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour ghép và đoàn riêng không chỉ khác số người mà còn khác khả năng điều chỉnh lịch. Khách lẻ thường quan tâm ngày khởi hành và giá, trong khi người đại diện công ty cần chương trình phù hợp cả tập thể. Hiểu rõ hình thức phục vụ giúp chọn đúng và tránh kỳ vọng những dịch vụ chưa nằm trong gói.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Khi tour ghép là lựa chọn phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khi tour ghép là lựa chọn phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách đi một mình, vài người hoặc gia đình có thể xem tour ghép nếu lịch và các điểm tham quan đáp ứng nhu cầu. Cần hỏi điều kiện khởi hành, điểm tập trung, quyền lợi phòng và cách ghép người nếu có. Không nên mặc định đăng ký là chuyến chắc chắn chạy; ngày, chỗ và điều kiện đủ đoàn cần được đơn vị tổ chức xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách đi một mình, vài người hoặc gia đình có thể xem tour ghép nếu lịch và các điểm tham quan đáp ứng nhu cầu. Cần hỏi điều kiện khởi hành, điểm tập trung, quyền lợi phòng và cách ghép người nếu có. Không nên mặc định đăng ký là chuyến chắc chắn chạy; ngày, chỗ và điều kiện đủ đoàn cần được đơn vị tổ chức xác nhận.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Khi nên thiết kế đoàn riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khi nên thiết kế đoàn riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty, cơ quan hoặc nhóm có lịch nghỉ chung có thể cần xe, hướng dẫn và nhịp đi riêng. Hình thức này thuận tiện khi tổ chức về nguồn, lễ viếng hoặc giao lưu. Tuy nhiên, đi riêng không đồng nghĩa tùy ý thay đổi vé tàu, chuyến bay hay quy định điểm tham quan. Các dịch vụ vẫn cần đặt trước và có điều kiện điều chỉnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty, cơ quan hoặc nhóm có lịch nghỉ chung có thể cần xe, hướng dẫn và nhịp đi riêng. Hình thức này thuận tiện khi tổ chức về nguồn, lễ viếng hoặc giao lưu. Tuy nhiên, đi riêng không đồng nghĩa tùy ý thay đổi vé tàu, chuyến bay hay quy định điểm tham quan. Các dịch vụ vẫn cần đặt trước và có điều kiện điều chỉnh.</span>"
     },
     {
       "type": "h2",
-      "text": "So tổng chi thay vì chỉ giá một khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So tổng chi thay vì chỉ giá một khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn riêng có thể có chi phí dùng chung được chia theo quy mô, nên số khách chốt ảnh hưởng giá. Với tour ghép, cần xem phụ thu phòng đơn, trẻ em và những dịch vụ mua thêm. Hãy so cùng ngày đi, tiêu chuẩn phòng, phương tiện và phần bao gồm. Một đoàn ít người nhưng cần nhiều dịch vụ riêng thường có cấu trúc giá khác nhóm ghép cơ bản."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn riêng có thể có chi phí dùng chung được chia theo quy mô, nên số khách chốt ảnh hưởng giá. Với tour ghép, cần xem phụ thu phòng đơn, trẻ em và những dịch vụ mua thêm. Hãy so cùng ngày đi, tiêu chuẩn phòng, phương tiện và phần bao gồm. Một đoàn ít người nhưng cần nhiều dịch vụ riêng thường có cấu trúc giá khác nhóm ghép cơ bản.</span>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất mức linh hoạt trước khi đặt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất mức linh hoạt trước khi đặt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người đại diện nên ghi những điểm bắt buộc, hoạt động có thể bỏ và khoảng tự do mong muốn. Hỏi cách xử lý nếu thời tiết làm thay đổi lịch, nếu một người vắng hoặc nếu đoàn muốn đổi giờ ăn. TodayTourist tư vấn hình thức theo số khách và mục tiêu, sau đó xác nhận phạm vi phục vụ để mọi thành viên hiểu chương trình đã chọn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người đại diện nên ghi những điểm bắt buộc, hoạt động có thể bỏ và khoảng tự do mong muốn. Hỏi cách xử lý nếu thời tiết làm thay đổi lịch, nếu một người vắng hoặc nếu đoàn muốn đổi giờ ăn. TodayTourist tư vấn hình thức theo số khách và mục tiêu, sau đó xác nhận phạm vi phục vụ để mọi thành viên hiểu chương trình đã chọn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bao nhiêu người mới được tổ chức riêng? Cần báo quy mô và nhu cầu để kiểm tra phương án, không áp một con số cho mọi gói."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bao nhiêu người mới được tổ chức riêng? Cần báo quy mô và nhu cầu để kiểm tra phương án, không áp một con số cho mọi gói.</span>"
     },
     {
       "type": "p",
-      "text": "Tour riêng có thể thêm Gala Dinner? Có thể xem xét nếu địa điểm, thời gian và ngân sách được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour riêng có thể thêm Gala Dinner? Có thể xem xét nếu địa điểm, thời gian và ngân sách được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh",
-        "Tour Côn Đảo cho công ty, cơ quan và đoàn thể",
-        "Tour Côn Đảo cho gia đình có trẻ nhỏ và người lớn tuổi"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-cho-cong-ty-co-quan-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo cho công ty, cơ quan và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-cho-gia-dinh-co-tre-nho-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo cho gia đình có trẻ nhỏ và người lớn tuổi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
