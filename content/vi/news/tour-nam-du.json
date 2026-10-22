@@ -3,21 +3,21 @@
   "title": "Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn",
   "category": "Tour Nam Du – Hòn Sơn – Tư vấn đoàn",
   "image": "nam-du-tour-nam-du.jpg",
-  "summary": "Tour Nam Du. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Tour Nam Du phù hợp để cân nhắc khi đoàn muốn kết hợp nghỉ trên đảo với tham quan biển.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Nam Du phù hợp để cân nhắc khi đoàn muốn kết hợp nghỉ trên đảo với tham quan biển. Trước khi chọn chương trình, hãy xem thời gian di chuyển, phương tiện trên đảo và phần trải nghiệm thực sự nằm trong giá."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Nam Du phù hợp để cân nhắc khi đoàn muốn kết hợp nghỉ trên đảo với tham quan biển. Trước khi chọn chương trình, hãy xem thời gian di chuyển, phương tiện trên đảo và phần trải nghiệm thực sự nằm trong giá.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn mục tiêu chính của chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn mục tiêu chính của chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn tắm biển và nghỉ ngơi nên giữ nhịp nhẹ, có thời gian nhận phòng, ăn uống và sinh hoạt chung. Nhóm thích khám phá có thể đề xuất tham quan thêm đảo nhỏ. Không cần chọn chương trình nhiều điểm nhất; hãy chọn hoạt động mọi người thực sự muốn tham gia."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn tắm biển và nghỉ ngơi nên giữ nhịp nhẹ, có thời gian nhận phòng, ăn uống và sinh hoạt chung. Nhóm thích khám phá có thể đề xuất tham quan thêm đảo nhỏ. Không cần chọn chương trình nhiều điểm nhất; hãy chọn hoạt động mọi người thực sự muốn tham gia.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đọc riêng từng chặng vận chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc riêng từng chặng vận chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe từ Đồng Nai hoặc TP.HCM, tàu cao tốc và tàu tham quan là các phần khác nhau. Khách cần biết điểm bắt đầu dịch vụ, đêm nào ngủ xe, đêm nào ngủ phòng và cách di chuyển tại đảo. Một tour đón ở Rạch Giá không tương đương tour có xe từ doanh nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe từ Đồng Nai hoặc TP.HCM, tàu cao tốc và tàu tham quan là các phần khác nhau. Khách cần biết điểm bắt đầu dịch vụ, đêm nào ngủ xe, đêm nào ngủ phòng và cách di chuyển tại đảo. Một tour đón ở Rạch Giá không tương đương tour có xe từ doanh nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt tour theo lịch nghỉ của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt tour theo lịch nghỉ của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist có chương trình Nam Du 2 ngày 2 đêm để tham khảo. Đoàn nên gửi ngày đi, số người và yêu cầu phòng hoặc giao lưu để kiểm tra phương án. Khi lịch tàu hoặc điều kiện biển thay đổi, thứ tự và hoạt động có thể phải điều chỉnh theo chương trình được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist có chương trình Nam Du 2 ngày 2 đêm để tham khảo. Đoàn nên gửi ngày đi, số người và yêu cầu phòng hoặc giao lưu để kiểm tra phương án. Khi lịch tàu hoặc điều kiện biển thay đổi, thứ tự và hoạt động có thể phải điều chỉnh theo chương trình được thống nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tour Nam Du có phù hợp đoàn công ty không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tour Nam Du có phù hợp đoàn công ty không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể cân nhắc nếu phương tiện, phòng và hoạt động đáp ứng quy mô đoàn. Cần kiểm tra cách tổ chức trên đảo cùng lịch nghỉ của nhân viên trước khi chọn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cân nhắc nếu phương tiện, phòng và hoạt động đáp ứng quy mô đoàn. Cần kiểm tra cách tổ chức trên đảo cùng lịch nghỉ của nhân viên trước khi chọn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Hòn Sơn: chọn nghỉ biển, tham quan hay đi bộ khám phá",
-        "Nam Du hay Hòn Sơn: chọn đảo nào cho chuyến du lịch của đoàn",
-        "Giá tour Nam Du: so đủ xe, tàu, phòng và hoạt động biển"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hon-son/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Hòn Sơn: chọn nghỉ biển, tham quan hay đi bộ khám phá</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nam-du-hay-hon-son/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nam Du hay Hòn Sơn: chọn đảo nào cho chuyến du lịch của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Nam Du: so đủ xe, tàu, phòng và hoạt động biển</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
