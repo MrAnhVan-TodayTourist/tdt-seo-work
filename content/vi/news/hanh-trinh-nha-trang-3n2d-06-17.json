@@ -8,8 +8,8 @@
   "published_at": "2026-06-17",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng Chi Hội Cựu Chiến Binh Khu Phố 28 – Phường Long Bình – TP. Đồng Nai trong chuyến tham quan nghỉ dưỡng tại thành phố biển Nha Trang xinh đẹp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng Chi Hội Cựu Chiến Binh Khu Phố 28 – Phường Long Bình – TP. Đồng Nai trong chuyến tham quan nghỉ dưỡng tại thành phố biển Nha Trang xinh đẹp.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Hành trình không chỉ là dịp để nghỉ ngơi, thư giãn mà còn là cơ hội để các cô chú, anh chị em hội viên cùng nhau ôn lại những kỷ niệm đẹp, tăng thêm tình đoàn kết và lưu giữ nhiều khoảnh khắc đáng nhớ bên nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình không chỉ là dịp để nghỉ ngơi, thư giãn mà còn là cơ hội để các cô chú, anh chị em hội viên cùng nhau ôn lại những kỷ niệm đẹp, tăng thêm tình đoàn kết và lưu giữ nhiều khoảnh khắc đáng nhớ bên nhau.</span>"
     },
     {
       "type": "p",
-      "text": "Những điểm đến nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Những điểm đến nổi bật trong hành trình:</span>"
     },
     {
       "type": "html",
@@ -29,43 +29,47 @@
     },
     {
       "type": "p",
-      "text": "Tham quan điểm tâm linh nổi tiếng – Chùa Long Sơn"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan điểm tâm linh nổi tiếng – Chùa Long Sơn</span>"
     },
     {
       "type": "p",
-      "text": "Check in kiến trúc cổ kính tại Nhà Thờ Đá Nha Trang"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check in kiến trúc cổ kính tại Nhà Thờ Đá Nha Trang</span>"
     },
     {
       "type": "p",
-      "text": "Du ngoạn đảo, hòa mình cùng biển xanh – cát trắng – nắng vàng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Du ngoạn đảo, hòa mình cùng biển xanh – cát trắng – nắng vàng</span>"
     },
     {
       "type": "p",
-      "text": "Thư giãn, chăm sóc sức khỏe với trải nghiệm tắm bùn khoáng đặc trưng Nha Trang"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thư giãn, chăm sóc sức khỏe với trải nghiệm tắm bùn khoáng đặc trưng Nha Trang</span>"
     },
     {
       "type": "p",
-      "text": "Tham quan Vườn Nho Ninh Thuận, thưởng thức đặc sản địa phương"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Vườn Nho Ninh Thuận, thưởng thức đặc sản địa phương</span>"
     },
     {
       "type": "p",
-      "text": "Đêm Gala Dinner ấm cúng với nhiều tiếng cười, giao lưu và gắn kết tập thể"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đêm Gala Dinner ấm cúng với nhiều tiếng cười, giao lưu và gắn kết tập thể</span>"
     },
     {
       "type": "p",
-      "text": "Mỗi hành trình là một kỷ niệm đẹp, mỗi điểm đến là một trải nghiệm đáng nhớ. TODAYTOURIST rất vinh dự khi được đồng hành cùng Chi Hội Cựu Chiến Binh Khu Phố 28 trong chuyến đi đầy ý nghĩa này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi hành trình là một kỷ niệm đẹp, mỗi điểm đến là một trải nghiệm đáng nhớ. TODAYTOURIST rất vinh dự khi được đồng hành cùng Chi Hội Cựu Chiến Binh Khu Phố 28 trong chuyến đi đầy ý nghĩa này.</span>"
     },
     {
       "type": "p",
-      "text": "Xin kính chúc các cô chú, anh chị thật nhiều sức khỏe, niềm vui và luôn giữ mãi tinh thần lạc quan, đoàn kết. Hẹn gặp lại trong những hành trình tiếp theo cùng TODAYTOURIST!"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin kính chúc các cô chú, anh chị thật nhiều sức khỏe, niềm vui và luôn giữ mãi tinh thần lạc quan, đoàn kết. Hẹn gặp lại trong những hành trình tiếp theo cùng TODAYTOURIST!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-17."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-17.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-hanh-trinh-bien-xanh-nha-trang-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Nha Trang 3 Ngày 2 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-hanh-trinh-bien-xanh-nha-trang-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang 3 Ngày 2 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
