@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn – Phú Yên phù hợp với người muốn kết hợp cảnh biển, điểm văn hóa và trải nghiệm địa phương trong một chuyến đi. Tuy nhiên, hành trình tốt cần dành đủ thời gian cho những điều đoàn quan tâm, thay vì cố đi hết mọi địa danh trong vài ngày."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn – Phú Yên phù hợp với người muốn kết hợp cảnh biển, điểm văn hóa và trải nghiệm địa phương trong một chuyến đi. Tuy nhiên, hành trình tốt cần dành đủ thời gian cho những điều đoàn quan tâm, thay vì cố đi hết mọi địa danh trong vài ngày.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đi một nơi hay kết hợp hai nơi?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi một nơi hay kết hợp hai nơi?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn riêng Quy Nhơn nếu đoàn muốn dành nhiều thời gian cho Kỳ Co – Eo Gió, trải nghiệm đảo hoặc nghỉ dưỡng. Chọn riêng Phú Yên nếu ưu tiên cảnh quan ven biển, Tuy Hòa và các tuyến Gành Đá Đĩa hoặc Mũi Điện. Hành trình kết hợp thích hợp khi đoàn muốn khám phá cả hai vùng và chấp nhận thêm thời gian di chuyển. Đoàn công ty cần giữ một buổi cho hoạt động tập thể trước khi bổ sung điểm tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn riêng Quy Nhơn nếu đoàn muốn dành nhiều thời gian cho Kỳ Co – Eo Gió, trải nghiệm đảo hoặc nghỉ dưỡng. Chọn riêng Phú Yên nếu ưu tiên cảnh quan ven biển, Tuy Hòa và các tuyến Gành Đá Đĩa hoặc Mũi Điện. Hành trình kết hợp thích hợp khi đoàn muốn khám phá cả hai vùng và chấp nhận thêm thời gian di chuyển. Đoàn công ty cần giữ một buổi cho hoạt động tập thể trước khi bổ sung điểm tham quan.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Đọc lịch trình theo thời gian thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc lịch trình theo thời gian thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ba ngày tham quan không đồng nghĩa có ba ngày trọn vẹn tại điểm đến. Hãy kiểm tra giờ đón, giờ đến, số đêm tại khách sạn và giờ phải lên đường về. Tour có đêm đầu trên xe khác với tour bay vào buổi sáng. Nếu đoàn vừa kết thúc ca làm, nên có thời gian nghỉ sau khi đến nơi; không xếp ngay hoạt động thể lực hoặc hành trình biển liên tục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ba ngày tham quan không đồng nghĩa có ba ngày trọn vẹn tại điểm đến. Hãy kiểm tra giờ đón, giờ đến, số đêm tại khách sạn và giờ phải lên đường về. Tour có đêm đầu trên xe khác với tour bay vào buổi sáng. Nếu đoàn vừa kết thúc ca làm, nên có thời gian nghỉ sau khi đến nơi; không xếp ngay hoạt động thể lực hoặc hành trình biển liên tục.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn một trải nghiệm chính mỗi ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một trải nghiệm chính mỗi ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày biển đảo, một ngày khám phá Phú Yên và một khoảng thời gian nghỉ dưỡng là cách phân bổ có thể xem xét cho hành trình kết hợp. Các điểm cụ thể cần sắp xếp theo tuyến và điều kiện vận hành. Team Building, Gala Dinner hay hội nghị là phần chương trình có thời lượng riêng, không nên chỉ thêm vào cuối một ngày đã quá dày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày biển đảo, một ngày khám phá Phú Yên và một khoảng thời gian nghỉ dưỡng là cách phân bổ có thể xem xét cho hành trình kết hợp. Các điểm cụ thể cần sắp xếp theo tuyến và điều kiện vận hành. Team Building, Gala Dinner hay hội nghị là phần chương trình có thời lượng riêng, không nên chỉ thêm vào cuối một ngày đã quá dày.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh hai phương án cùng tiêu chuẩn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh hai phương án cùng tiêu chuẩn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đề nghị báo giá cùng số khách, ngày đi, loại xe, cơ cấu phòng và danh sách dịch vụ. Kiểm tra vé biển đảo, bữa ăn, đồ uống, chương trình đoàn và phương án thay đổi khi thời tiết không phù hợp. TodayTourist có thể tư vấn thiết kế đoàn riêng từ Biên Hòa, Đồng Nai hoặc TP.HCM theo nhu cầu; dịch vụ và lịch cụ thể được xác nhận khi báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đề nghị báo giá cùng số khách, ngày đi, loại xe, cơ cấu phòng và danh sách dịch vụ. Kiểm tra vé biển đảo, bữa ăn, đồ uống, chương trình đoàn và phương án thay đổi khi thời tiết không phù hợp. TodayTourist có thể tư vấn thiết kế đoàn riêng từ Biên Hòa, Đồng Nai hoặc TP.HCM theo nhu cầu; dịch vụ và lịch cụ thể được xác nhận khi báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi lần đầu có nên kết hợp cả hai nơi? Có thể, nếu quỹ thời gian đủ và đoàn muốn khám phá; người thích nghỉ dưỡng có thể chọn một nơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi lần đầu có nên kết hợp cả hai nơi? Có thể, nếu quỹ thời gian đủ và đoàn muốn khám phá; người thích nghỉ dưỡng có thể chọn một nơi.</span>"
     },
     {
       "type": "p",
-      "text": "Đoàn công ty cần gửi gì để được tư vấn? Gửi số khách, ngày nghỉ, điểm đón, ngân sách và hoạt động chính của chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công ty cần gửi gì để được tư vấn? Gửi số khách, ngày nghỉ, điểm đón, ngân sách và hoạt động chính của chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Quy Nhơn: đi riêng hay kết hợp Phú Yên?",
-        "Tour Phú Yên: chọn lịch trình riêng cho chuyến đi xứ Nẫu",
-        "Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-di-rieng-hay-ket-hop-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn: đi riêng hay kết hợp Phú Yên?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-yen-chon-lich-trinh-rieng-cho-chuyen-di-xu-nau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Yên: chọn lịch trình riêng cho chuyến đi xứ Nẫu</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-quy-nhon-phu-yen-tinh-ngan-sach-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
