@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Chùa Vĩnh Tràng có thể là điểm văn hóa trong tuyến Mỹ Tho hoặc điểm chiêm bái của hành trình Miền Tây. Hai mục đích này cần thời lượng khác nhau. Khi thiết kế tour, hãy nói rõ nhóm muốn tham quan kiến trúc, tìm hiểu văn hóa hay dành thời gian hành hương để bố trí lịch phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chùa Vĩnh Tràng có thể là điểm văn hóa trong tuyến Mỹ Tho hoặc điểm chiêm bái của hành trình Miền Tây. Hai mục đích này cần thời lượng khác nhau. Khi thiết kế tour, hãy nói rõ nhóm muốn tham quan kiến trúc, tìm hiểu văn hóa hay dành thời gian hành hương để bố trí lịch phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Giữ thời gian riêng cho phần tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ thời gian riêng cho phần tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu buổi sáng đi thuyền, có thể cân nhắc chùa trong một khung khác phù hợp đường xe và giờ phục vụ. Không nên ghé quá vội chỉ để đánh dấu thêm điểm. Với đoàn học sinh, chuẩn bị nội dung ngắn về không gian và cách ứng xử, tránh biến toàn bộ chuyến thăm thành hoạt động chụp ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu buổi sáng đi thuyền, có thể cân nhắc chùa trong một khung khác phù hợp đường xe và giờ phục vụ. Không nên ghé quá vội chỉ để đánh dấu thêm điểm. Với đoàn học sinh, chuẩn bị nội dung ngắn về không gian và cách ứng xử, tránh biến toàn bộ chuyến thăm thành hoạt động chụp ảnh.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị trang phục và cách đi của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị trang phục và cách đi của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ưu tiên trang phục lịch sự, giữ trật tự và tuân theo hướng dẫn tại khu thờ tự. Việc quay chụp hoặc thắp hương cần theo quy định thực tế ở từng khu. Đoàn đông nên thống nhất điểm tập trung, thời gian tự do và người liên hệ để có thể tham quan nhẹ nhàng mà không ảnh hưởng khách khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ưu tiên trang phục lịch sự, giữ trật tự và tuân theo hướng dẫn tại khu thờ tự. Việc quay chụp hoặc thắp hương cần theo quy định thực tế ở từng khu. Đoàn đông nên thống nhất điểm tập trung, thời gian tự do và người liên hệ để có thể tham quan nhẹ nhàng mà không ảnh hưởng khách khác.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết hợp tuyến theo nhu cầu thật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp tuyến theo nhu cầu thật</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm thích sông nước có thể tham khảo tour Cồn Phụng–Bến Tre có điểm Vĩnh Tràng. Nhóm muốn nhiều điểm chiêm bái có thể xem tuyến 10 cảnh chùa rồi điều chỉnh theo thời gian. Bữa ăn chay hay mặn cần báo trước; không mặc định tour đi chùa luôn có cùng thực đơn hoặc đầy đủ nghi lễ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm thích sông nước có thể tham khảo tour Cồn Phụng–Bến Tre có điểm Vĩnh Tràng. Nhóm muốn nhiều điểm chiêm bái có thể xem tuyến 10 cảnh chùa rồi điều chỉnh theo thời gian. Bữa ăn chay hay mặn cần báo trước; không mặc định tour đi chùa luôn có cùng thực đơn hoặc đầy đủ nghi lễ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Chỉ muốn viếng chùa, không đi thuyền, có được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chỉ muốn viếng chùa, không đi thuyền, có được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị chương trình đoàn riêng tập trung các điểm chiêm bái. Tuyến và giá cần thiết kế lại, không dùng nguyên dịch vụ của tour miệt vườn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị chương trình đoàn riêng tập trung các điểm chiêm bái. Tuyến và giá cần thiết kế lại, không dùng nguyên dịch vụ của tour miệt vườn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc chùa Vĩnh Tràng? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc chùa Vĩnh Tràng? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-10-canh-chua-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour 10 cảnh chùa Miền Tây: chọn tuyến và thời gian chiêm bái</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-10-canh-chua-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour 10 cảnh chùa Miền Tây: chọn tuyến và thời gian chiêm bái</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-10-canh-chua-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour 10 cảnh chùa Miền Tây 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-10-canh-chua-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour 10 cảnh chùa Miền Tây 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
