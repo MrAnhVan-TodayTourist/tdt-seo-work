@@ -8,97 +8,100 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Câu hỏi Côn Đảo mùa nào đẹp cần được trả lời theo mục đích chuyến đi. Người chủ yếu viếng và tham quan di tích có nhu cầu khác người muốn đi hòn hoặc tắm biển. Thông tin mùa giúp định hướng, nhưng quyết định ngày cụ thể vẫn cần kiểm tra dự báo, vận chuyển và điều kiện phục vụ gần chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Câu hỏi Côn Đảo mùa nào đẹp cần được trả lời theo mục đích chuyến đi. Người chủ yếu viếng và tham quan di tích có nhu cầu khác người muốn đi hòn hoặc tắm biển. Thông tin mùa giúp định hướng, nhưng quyết định ngày cụ thể vẫn cần kiểm tra dự báo, vận chuyển và điều kiện phục vụ gần chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn thời gian theo trải nghiệm ưu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thời gian theo trải nghiệm ưu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu phần biển và sinh thái là trọng tâm, cần chú ý điều kiện phục vụ hoạt động đó. Nếu đi về nguồn hoặc viếng, vẫn phải xem vận chuyển và thời tiết cho các chặng ngoài trời. Không có tháng nào bảo đảm mọi ngày biển êm, không mưa hoặc mọi tuyến đều chạy. Đoàn nên có danh sách trải nghiệm bắt buộc và những phần có thể thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu phần biển và sinh thái là trọng tâm, cần chú ý điều kiện phục vụ hoạt động đó. Nếu đi về nguồn hoặc viếng, vẫn phải xem vận chuyển và thời tiết cho các chặng ngoài trời. Không có tháng nào bảo đảm mọi ngày biển êm, không mưa hoặc mọi tuyến đều chạy. Đoàn nên có danh sách trải nghiệm bắt buộc và những phần có thể thay đổi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218517404-0.jpg",
-      "alt": "Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218517404-0.jpg\" alt=\"Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Xem lịch tàu hoặc bay cùng với dự báo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem lịch tàu hoặc bay cùng với dự báo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch vận chuyển theo ngày phải được kiểm tra trước khi đặt dịch vụ nối tiếp và xác nhận lại gần ngày đi. Không dùng một nhận xét mùa trên mạng để cam kết chuyến tàu không ảnh hưởng. Người đại diện cần biết kênh nhận cập nhật, thời điểm tập trung và đầu mối xử lý. Nếu đoàn có ngày phải về làm việc, trao đổi rõ giới hạn đó khi chọn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch vận chuyển theo ngày phải được kiểm tra trước khi đặt dịch vụ nối tiếp và xác nhận lại gần ngày đi. Không dùng một nhận xét mùa trên mạng để cam kết chuyến tàu không ảnh hưởng. Người đại diện cần biết kênh nhận cập nhật, thời điểm tập trung và đầu mối xử lý. Nếu đoàn có ngày phải về làm việc, trao đổi rõ giới hạn đó khi chọn phương án.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị lịch thay thế có giá trị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị lịch thay thế có giá trị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi không phù hợp đi hòn hoặc hoạt động biển, có thể xem các điểm trên đảo chính và thời gian nghỉ nếu điều kiện cho phép. Phương án thay thế phải được trao đổi trước về nội dung và chi phí, không tự coi mọi dịch vụ có cùng giá. Đoàn công ty có thể giữ hoạt động giao lưu trong không gian phù hợp thay cho phần ngoài trời đã kiểm tra."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi không phù hợp đi hòn hoặc hoạt động biển, có thể xem các điểm trên đảo chính và thời gian nghỉ nếu điều kiện cho phép. Phương án thay thế phải được trao đổi trước về nội dung và chi phí, không tự coi mọi dịch vụ có cùng giá. Đoàn công ty có thể giữ hoạt động giao lưu trong không gian phù hợp thay cho phần ngoài trời đã kiểm tra.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt điều kiện phát sinh trong xác nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt điều kiện phát sinh trong xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu vận chuyển thay đổi, có thể ảnh hưởng phòng, ăn, xe và lịch công việc. Cần làm rõ cách quyết định, ai thông báo và dịch vụ nào xử lý theo điều kiện nhà cung cấp. TodayTourist tư vấn ngày và nhịp chương trình theo nhu cầu, nhưng không hứa một thời điểm tránh mọi rủi ro thời tiết; lựa chọn cần dựa trên lịch và thông tin cập nhật thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu vận chuyển thay đổi, có thể ảnh hưởng phòng, ăn, xe và lịch công việc. Cần làm rõ cách quyết định, ai thông báo và dịch vụ nào xử lý theo điều kiện nhà cung cấp. TodayTourist tư vấn ngày và nhịp chương trình theo nhu cầu, nhưng không hứa một thời điểm tránh mọi rủi ro thời tiết; lựa chọn cần dựa trên lịch và thông tin cập nhật thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có tháng nào chắc chắn không bị hủy tàu? Không thể bảo đảm; cần kiểm tra theo ngày và hãng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có tháng nào chắc chắn không bị hủy tàu? Không thể bảo đảm; cần kiểm tra theo ngày và hãng.</span>"
     },
     {
       "type": "p",
-      "text": "Chỉ đi lễ có cần quan tâm thời tiết? Có, vì vẫn có chặng ra đảo và di chuyển ngoài trời."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ đi lễ có cần quan tâm thời tiết? Có, vì vẫn có chặng ra đảo và di chuyển ngoài trời.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Côn Đảo bằng máy bay hay tàu cao tốc?",
-        "Hòn Bảy Cạnh, Hòn Cau và lặn ngắm san hô: khi nào thêm vào tour?",
-        "Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-hay-tau-cao-toc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo bằng máy bay hay tàu cao tốc?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hon-bay-canh-hon-cau-va-lan-ngam-san-ho-khi-nao-them-vao-tour/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hòn Bảy Cạnh, Hòn Cau và lặn ngắm san hô: khi nào thêm vào tour?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-con-dao-can-hoi-gi-ve-ve-dat-coc-doi-ngay-va-huy-chuyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
