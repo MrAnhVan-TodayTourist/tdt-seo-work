@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Làng du lịch Mỹ Khánh có các nhóm dịch vụ tham quan, vui chơi, ăn uống và sự kiện. Khi chọn điểm cho tour Cần Thơ, cần xem gói nào phù hợp đoàn. Vé vào cổng, dịch vụ trải nghiệm và chương trình Team Building riêng có thể khác nhau; nên kiểm tra trước để tránh thiếu ngân sách tại điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Làng du lịch Mỹ Khánh có các nhóm dịch vụ tham quan, vui chơi, ăn uống và sự kiện. Khi chọn điểm cho tour Cần Thơ, cần xem gói nào phù hợp đoàn. Vé vào cổng, dịch vụ trải nghiệm và chương trình Team Building riêng có thể khác nhau; nên kiểm tra trước để tránh thiếu ngân sách tại điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo mục đích tham quan hoặc tổ chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo mục đích tham quan hoặc tổ chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gia đình có thể chọn phần vui chơi phù hợp tuổi trẻ; công ty cần hỏi khu hoạt động và bữa ăn đoàn. Trường học cần hoạt động có nội dung cùng thời lượng quản lý nhóm. Danh sách dịch vụ công bố là cơ sở tìm hiểu, còn hoạt động phục vụ ngày đi cần được xác nhận cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gia đình có thể chọn phần vui chơi phù hợp tuổi trẻ; công ty cần hỏi khu hoạt động và bữa ăn đoàn. Trường học cần hoạt động có nội dung cùng thời lượng quản lý nhóm. Danh sách dịch vụ công bố là cơ sở tìm hiểu, còn hoạt động phục vụ ngày đi cần được xác nhận cụ thể.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Làm rõ phần nào nằm trong gói"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ phần nào nằm trong gói</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi vé, trò chơi, bữa ăn, nhân sự, đạo cụ và khu sử dụng riêng nếu có. Nếu cần lưu trú, kiểm tra loại phòng và số lượng phù hợp, không coi dịch vụ nghỉ dưỡng và vé ngày là cùng một gói. Đoàn muốn MC hoặc sân khấu nên có báo giá tổ chức riêng, tránh chỉ đặt vé rồi mới tìm thiết bị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi vé, trò chơi, bữa ăn, nhân sự, đạo cụ và khu sử dụng riêng nếu có. Nếu cần lưu trú, kiểm tra loại phòng và số lượng phù hợp, không coi dịch vụ nghỉ dưỡng và vé ngày là cùng một gói. Đoàn muốn MC hoặc sân khấu nên có báo giá tổ chức riêng, tránh chỉ đặt vé rồi mới tìm thiết bị.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp lịch với chợ nổi và thời gian về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp lịch với chợ nổi và thời gian về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn Mỹ Khánh sau buổi chợ nổi, nhưng cần dự trù ăn sáng, trả phòng và chặng xe. Nếu tổ chức Team Building, dành khung chơi đủ dài và giảm điểm khác. TodayTourist sẽ trao đổi nhu cầu để kiểm tra gói phù hợp; không mặc định mọi chương trình Cần Thơ đều có cùng dịch vụ tại Mỹ Khánh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn Mỹ Khánh sau buổi chợ nổi, nhưng cần dự trù ăn sáng, trả phòng và chặng xe. Nếu tổ chức Team Building, dành khung chơi đủ dài và giảm điểm khác. TodayTourist sẽ trao đổi nhu cầu để kiểm tra gói phù hợp; không mặc định mọi chương trình Cần Thơ đều có cùng dịch vụ tại Mỹ Khánh.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Vé Mỹ Khánh đã gồm Team Building cho công ty chưa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Vé Mỹ Khánh đã gồm Team Building cho công ty chưa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chỉ được hiểu là đã gồm khi báo giá ghi rõ chương trình, khu, thiết bị và nhân sự. Vé tham quan hoặc trò chơi thông thường không thay cho gói tổ chức riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ được hiểu là đã gồm khi báo giá ghi rõ chương trình, khu, thiết bị và nhân sự. Vé tham quan hoặc trò chơi thông thường không thay cho gói tổ chức riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Mỹ Khánh? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Mỹ Khánh? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
