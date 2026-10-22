@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Lễ kỷ niệm thành lập công ty cần thể hiện hành trình của doanh nghiệp và tạo cơ hội gặp gỡ những người đã đồng hành. Chương trình có thể kết hợp nghi thức, tri ân và dùng tiệc, nhưng nên có một mạch nội dung rõ thay vì ghép nhiều hoạt động rời rạc."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Lễ kỷ niệm thành lập công ty cần thể hiện hành trình của doanh nghiệp và tạo cơ hội gặp gỡ những người đã đồng hành. Chương trình có thể kết hợp nghi thức, tri ân và dùng tiệc, nhưng nên có một mạch nội dung rõ thay vì ghép nhiều hoạt động rời rạc.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định khách mời và thông điệp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định khách mời và thông điệp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Buổi kỷ niệm dành cho nhân viên sẽ khác chương trình có đối tác, khách hàng hoặc gia đình tham dự. Doanh nghiệp cần xác định nhóm khách chính để chọn cách dẫn, nội dung phát biểu và mức độ trang trọng. Số năm hoạt động, tên người sáng lập, các dấu mốc và thành tích phải dựa trên thông tin được công ty cung cấp, kiểm tra và duyệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Buổi kỷ niệm dành cho nhân viên sẽ khác chương trình có đối tác, khách hàng hoặc gia đình tham dự. Doanh nghiệp cần xác định nhóm khách chính để chọn cách dẫn, nội dung phát biểu và mức độ trang trọng. Số năm hoạt động, tên người sáng lập, các dấu mốc và thành tích phải dựa trên thông tin được công ty cung cấp, kiểm tra và duyệt.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213122765-0.jpg",
-      "alt": "Kỷ niệm thành lập công ty: xây dựng chương trình phù hợp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213122765-0.jpg\" alt=\"Kỷ niệm thành lập công ty: xây dựng chương trình phù hợp\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chia chương trình thành những phần dễ theo dõi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia chương trình thành những phần dễ theo dõi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể bố trí đón khách, giới thiệu hành trình, phát biểu, tri ân rồi chuyển sang tiệc và giao lưu. Mỗi phần cần ghi người phụ trách, tài liệu hoặc đạo cụ cần dùng và cách chuyển tiếp. Nếu có video lịch sử công ty, nên kiểm tra tệp và thiết bị phát trước. Phần trao quà nên có danh sách, thứ tự lên sân khấu và phương án khi khách được mời chưa có mặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể bố trí đón khách, giới thiệu hành trình, phát biểu, tri ân rồi chuyển sang tiệc và giao lưu. Mỗi phần cần ghi người phụ trách, tài liệu hoặc đạo cụ cần dùng và cách chuyển tiếp. Nếu có video lịch sử công ty, nên kiểm tra tệp và thiết bị phát trước. Phần trao quà nên có danh sách, thứ tự lên sân khấu và phương án khi khách được mời chưa có mặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Hai phần giúp buổi lễ có dấu ấn riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hai phần giúp buổi lễ có dấu ấn riêng</span></strong>"
     },
     {
       "type": "list",
@@ -45,35 +44,35 @@
     },
     {
       "type": "h2",
-      "text": "Chốt phạm vi thiết kế và vận hành"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phạm vi thiết kế và vận hành</span></strong>"
     },
     {
       "type": "p",
-      "text": "Backdrop, bài dẫn, video, quà tặng và chụp ảnh là các đầu việc khác nhau; cần xác nhận phần nào có trong gói. Số khách, sơ đồ bàn và không gian sân khấu ảnh hưởng trực tiếp đến cách tổ chức. Với doanh nghiệp ở Đồng Nai hoặc TP.HCM, hãy gửi địa điểm dự kiến và lịch mong muốn để TodayTourist trao đổi phương án. Nếu có tour kết hợp, phần vận chuyển và lưu trú cần được báo riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Backdrop, bài dẫn, video, quà tặng và chụp ảnh là các đầu việc khác nhau; cần xác nhận phần nào có trong gói. Số khách, sơ đồ bàn và không gian sân khấu ảnh hưởng trực tiếp đến cách tổ chức. Với doanh nghiệp ở Đồng Nai hoặc TP.HCM, hãy gửi địa điểm dự kiến và lịch mong muốn để TodayTourist trao đổi phương án. Nếu có tour kết hợp, phần vận chuyển và lưu trú cần được báo riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Kỷ niệm thành lập nên tổ chức trong ngày hay kết hợp đi tour?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Kỷ niệm thành lập nên tổ chức trong ngày hay kết hợp đi tour?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tùy mục tiêu và ngân sách. Tổ chức trong ngày gọn hơn; kết hợp tour giúp có thêm thời gian giao lưu nhưng cần tính xe, lưu trú và lịch nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy mục tiêu và ngân sách. Tổ chức trong ngày gọn hơn; kết hợp tour giúp có thêm thời gian giao lưu nhưng cần tính xe, lưu trú và lịch nghỉ.</span>"
     },
     {
       "type": "h3",
-      "text": "Cần chuẩn bị gì trước khi gửi yêu cầu?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Cần chuẩn bị gì trước khi gửi yêu cầu?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày dự kiến, số khách, địa điểm mong muốn, nhóm khách chính và các dấu mốc muốn nhắc trong chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày dự kiến, số khách, địa điểm mong muốn, nhóm khách chính và các dấu mốc muốn nhắc trong chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -85,23 +84,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
