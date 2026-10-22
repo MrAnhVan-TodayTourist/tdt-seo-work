@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Phan Thiết – Mũi Né có nhiều món địa phương để khám phá. Với khách đoàn, vấn đề là vừa muốn thử món ngon vừa cần nhà hàng phục vụ đủ số người và đúng giờ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Phan Thiết – Mũi Né có nhiều món địa phương để khám phá. Với khách đoàn, vấn đề là vừa muốn thử món ngon vừa cần nhà hàng phục vụ đủ số người và đúng giờ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Món địa phương nên tìm hiểu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Món địa phương nên tìm hiểu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi đến khu vực này, du khách thường nhắc đến các món như lẩu thả, bánh căn, bánh xèo, bánh canh chả cá và các sản phẩm từ biển. Đoàn có thể chọn một hai bữa mang đặc trưng địa phương, kết hợp bữa quen thuộc cho người khó ăn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi đến khu vực này, du khách thường nhắc đến các món như lẩu thả, bánh căn, bánh xèo, bánh canh chả cá và các sản phẩm từ biển. Đoàn có thể chọn một hai bữa mang đặc trưng địa phương, kết hợp bữa quen thuộc cho người khó ăn.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222496865-0.jpg",
-      "alt": "Aerial view of a serene beach and turquoise ocean in Phan Thiết, Vietn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222496865-0.jpg\" alt=\"Aerial view of a serene beach and turquoise ocean in Phan Thiết, Vietn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Nhà hàng đáp ứng số khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhà hàng đáp ứng số khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi sức chứa, số bàn, thời gian phục vụ và cách bố trí món theo đợt. Đoàn đông nên đặt trước và báo giờ đến để nhà hàng chuẩn bị. Quán nổi tiếng chưa chắc phục vụ tốt đoàn lớn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi sức chứa, số bàn, thời gian phục vụ và cách bố trí món theo đợt. Đoàn đông nên đặt trước và báo giờ đến để nhà hàng chuẩn bị. Quán nổi tiếng chưa chắc phục vụ tốt đoàn lớn.</span>"
     },
     {
       "type": "h2",
-      "text": "Thực đơn và dị ứng thực phẩm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thực đơn và dị ứng thực phẩm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi danh sách khách ăn chay, dị ứng hải sản hoặc cần món riêng. Thực đơn nên ghi món, định lượng và đồ uống kèm. Trẻ em và người lớn tuổi nên có món phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi danh sách khách ăn chay, dị ứng hải sản hoặc cần món riêng. Thực đơn nên ghi món, định lượng và đồ uống kèm. Trẻ em và người lớn tuổi nên có món phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Giá và điều kiện đặt đoàn cần xác nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giá và điều kiện đặt đoàn cần xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giá món có thể thay đổi theo mùa, theo cân hoặc theo set. Hãy xác nhận cách tính, phí phát sinh khi gọi thêm và thời điểm chốt số lượng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá món có thể thay đổi theo mùa, theo cân hoặc theo set. Hãy xác nhận cách tính, phí phát sinh khi gọi thêm và thời điểm chốt số lượng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn ăn hải sản có nên gọi theo cân không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn ăn hải sản có nên gọi theo cân không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể, nhưng cần thống nhất giá, trọng lượng tính tiền và phí chế biến để tránh phát sinh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể, nhưng cần thống nhất giá, trọng lượng tính tiền và phí chế biến để tránh phát sinh.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình",
-        "Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?",
-        "Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phan-thiet-mui-ne-co-gi-choi-goi-y-diem-tham-quan-theo-lich-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-phan-thiet-mui-ne-cho-doan-cong-ty-nhu-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-di-phan-thiet-2-ngay-1-dem-gom-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
