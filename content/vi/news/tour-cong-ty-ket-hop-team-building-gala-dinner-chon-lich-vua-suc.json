@@ -8,25 +8,24 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour công ty kết hợp Team Building và Gala Dinner cần có thời gian dành cho tham quan, nghỉ ngơi và hoạt động chung. Một lịch nhiều điểm chưa chắc tạo trải nghiệm tốt nếu nhân viên luôn phải di chuyển. Nên chốt mục tiêu chính rồi chọn tuyến và thời lượng phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour công ty kết hợp Team Building và Gala Dinner cần có thời gian dành cho tham quan, nghỉ ngơi và hoạt động chung. Một lịch nhiều điểm chưa chắc tạo trải nghiệm tốt nếu nhân viên luôn phải di chuyển. Nên chốt mục tiêu chính rồi chọn tuyến và thời lượng phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm đến theo phần hoạt động cần tổ chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm đến theo phần hoạt động cần tổ chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn Team Building cần khu vực phù hợp quy mô và kịch bản; muốn Gala Dinner cần nơi dùng tiệc và bố trí chương trình. Không phải mọi khách sạn gần biển đều có sân hoặc khu tiệc theo yêu cầu. Với Phan Thiết, Vũng Tàu, Đà Lạt và các tuyến đã có, doanh nghiệp nên đối chiếu điều kiện tổ chức cùng phần lưu trú. Nên chọn một điểm làm trung tâm thay vì ghép nhiều nơi khiến thời gian chung bị thu hẹp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn Team Building cần khu vực phù hợp quy mô và kịch bản; muốn Gala Dinner cần nơi dùng tiệc và bố trí chương trình. Không phải mọi khách sạn gần biển đều có sân hoặc khu tiệc theo yêu cầu. Với Phan Thiết, Vũng Tàu, Đà Lạt và các tuyến đã có, doanh nghiệp nên đối chiếu điều kiện tổ chức cùng phần lưu trú. Nên chọn một điểm làm trung tâm thay vì ghép nhiều nơi khiến thời gian chung bị thu hẹp.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213107115-0.jpg",
-      "alt": "Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213107115-0.jpg\" alt=\"Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Khung lịch tham khảo cho tour 2 ngày 1 đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khung lịch tham khảo cho tour 2 ngày 1 đêm</span></strong>"
     },
     {
       "type": "list",
@@ -39,47 +38,47 @@
     },
     {
       "type": "p",
-      "text": "Thứ tự và giờ giấc phải điều chỉnh theo tuyến, giờ tiếp nhận phòng và điều kiện địa điểm. Không áp nguyên lịch của nhóm nhỏ cho đoàn nhiều xe hoặc nhiều điểm đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thứ tự và giờ giấc phải điều chỉnh theo tuyến, giờ tiếp nhận phòng và điều kiện địa điểm. Không áp nguyên lịch của nhóm nhỏ cho đoàn nhiều xe hoặc nhiều điểm đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt thời gian nghỉ giữa các phần"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt thời gian nghỉ giữa các phần</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sau hoạt động ngoài trời, cần khoảng thời gian thay đồ và nghỉ trước Gala. Nếu đi trong ngày, tiệc tối đồng nghĩa giờ về muộn hơn; phải hỏi đoàn có chấp nhận không."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sau hoạt động ngoài trời, cần khoảng thời gian thay đồ và nghỉ trước Gala. Nếu đi trong ngày, tiệc tối đồng nghĩa giờ về muộn hơn; phải hỏi đoàn có chấp nhận không.</span>"
     },
     {
       "type": "h2",
-      "text": "Gộp báo giá nhưng vẫn rõ hạng mục"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gộp báo giá nhưng vẫn rõ hạng mục</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một báo giá tour nên giúp đối chiếu xe, ăn, lưu trú, vé và phần tổ chức Team Building, Gala. Kịch bản, nhân sự, thiết bị và quà nếu có cần được mô tả riêng. Doanh nghiệp gửi số người, ngày đi, điểm đón và mục tiêu để TodayTourist đề xuất phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một báo giá tour nên giúp đối chiếu xe, ăn, lưu trú, vé và phần tổ chức Team Building, Gala. Kịch bản, nhân sự, thiết bị và quà nếu có cần được mô tả riêng. Doanh nghiệp gửi số người, ngày đi, điểm đón và mục tiêu để TodayTourist đề xuất phương án phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đi 2 ngày 1 đêm có đủ cả Team Building và Gala không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi 2 ngày 1 đêm có đủ cả Team Building và Gala không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể, nếu chọn một điểm làm trung tâm và giữ lịch gọn. Cần xác nhận địa điểm có khu vực hoạt động và khu tiệc phù hợp số người."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể, nếu chọn một điểm làm trung tâm và giữ lịch gọn. Cần xác nhận địa điểm có khu vực hoạt động và khu tiệc phù hợp số người.</span>"
     },
     {
       "type": "h3",
-      "text": "Nên đi bằng xe nào cho đoàn đông?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nên đi bằng xe nào cho đoàn đông?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với đoàn đông, TodayTourist ưu tiên tư vấn xe 45 chỗ; số xe cần tính đủ ghế cho toàn bộ người đi cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với đoàn đông, TodayTourist ưu tiên tư vấn xe 45 chỗ; số xe cần tính đủ ghế cho toàn bộ người đi cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -92,23 +91,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
