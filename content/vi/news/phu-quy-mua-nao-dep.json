@@ -3,21 +3,21 @@
   "title": "Phú Quý mùa nào đẹp: chọn ngày đi và phương án khi tàu đổi lịch",
   "category": "Tour Phú Quý – Tư vấn đoàn",
   "image": "phu-quy-phu-quy-mua-nao-dep.jpg",
-  "summary": "Phú Quý mùa nào đẹp. Tư vấn tour cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Muốn đi Phú Quý, khách thường hỏi tháng nào biển đẹp và dễ bố trí trải nghiệm.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Muốn đi Phú Quý, khách thường hỏi tháng nào biển đẹp và dễ bố trí trải nghiệm. Thông tin theo mùa chỉ giúp chọn khoảng thời gian tham khảo. Quyết định khởi hành vẫn phải dựa vào cập nhật thời tiết và vận hành tàu của ngày cụ thể."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Muốn đi Phú Quý, khách thường hỏi tháng nào biển đẹp và dễ bố trí trải nghiệm. Thông tin theo mùa chỉ giúp chọn khoảng thời gian tham khảo. Quyết định khởi hành vẫn phải dựa vào cập nhật thời tiết và vận hành tàu của ngày cụ thể.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đặt lịch có khoảng linh hoạt nếu có thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt lịch có khoảng linh hoạt nếu có thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công ty nên đưa một ngày ưu tiên và phương án dự phòng trước khi đặt dịch vụ. Nếu chỉ được nghỉ một khoảng cố định, cần cân nhắc khả năng đổi điểm đến hoặc giảm hoạt động biển. Không có tháng nào bảo đảm mọi chuyến tàu chạy và mọi hoạt động đều thực hiện được."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công ty nên đưa một ngày ưu tiên và phương án dự phòng trước khi đặt dịch vụ. Nếu chỉ được nghỉ một khoảng cố định, cần cân nhắc khả năng đổi điểm đến hoặc giảm hoạt động biển. Không có tháng nào bảo đảm mọi chuyến tàu chạy và mọi hoạt động đều thực hiện được.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Tách lịch tàu với điều kiện trải nghiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách lịch tàu với điều kiện trải nghiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tàu ra đảo hoạt động không có nghĩa ca nô, san hô hoặc một khu vực biển đều phù hợp cùng lúc. Người điều hành phải kiểm tra từng hoạt động và cập nhật cho khách. Kịch bản ngày tham quan nên có lựa chọn trên đảo chính, để không phụ thuộc hoàn toàn vào một chuyến đi đảo nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tàu ra đảo hoạt động không có nghĩa ca nô, san hô hoặc một khu vực biển đều phù hợp cùng lúc. Người điều hành phải kiểm tra từng hoạt động và cập nhật cho khách. Kịch bản ngày tham quan nên có lựa chọn trên đảo chính, để không phụ thuộc hoàn toàn vào một chuyến đi đảo nhỏ.</span>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất cách xử lý trước khi đặt cọc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất cách xử lý trước khi đặt cọc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi ai thông báo thay đổi, quyết định lúc nào và từng khoản xe, phòng, vé sẽ xử lý ra sao. Nếu cần ở lại thêm, đoàn cũng phải biết cách liên hệ và dự trù phát sinh. Điều kiện này cần được xác nhận bằng chương trình hoặc thỏa thuận, không suy ra từ một lời quảng bá chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi ai thông báo thay đổi, quyết định lúc nào và từng khoản xe, phòng, vé sẽ xử lý ra sao. Nếu cần ở lại thêm, đoàn cũng phải biết cách liên hệ và dự trù phát sinh. Điều kiện này cần được xác nhận bằng chương trình hoặc thỏa thuận, không suy ra từ một lời quảng bá chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Biển nhìn đẹp trên video có nghĩa ngày mình đi cũng thuận lợi?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Biển nhìn đẹp trên video có nghĩa ngày mình đi cũng thuận lợi?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Hình ảnh có thể được quay ở thời điểm khác. Hãy xem dự báo và thông tin vận hành gần ngày khởi hành, đồng thời giữ phương án thay đổi cho đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Hình ảnh có thể được quay ở thời điểm khác. Hãy xem dự báo và thông tin vận hành gần ngày khởi hành, đồng thời giữ phương án thay đổi cho đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn tour Phú Quý cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn tour Phú Quý cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phú Quý cho gia đình và người lớn tuổi: chọn nhịp tour nhẹ",
-        "Hòn Tranh Phú Quý: hỏi rõ ca nô và trải nghiệm san hô",
-        "Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy-gia-dinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phú Quý cho gia đình và người lớn tuổi: chọn nhịp tour nhẹ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hon-tranh-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hòn Tranh Phú Quý: hỏi rõ ca nô và trải nghiệm san hô</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
