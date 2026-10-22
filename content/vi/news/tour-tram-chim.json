@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tràm Chim phù hợp người yêu thiên nhiên và muốn tìm hiểu hệ sinh thái đất ngập nước. Hoạt động tham quan phụ thuộc mùa, tuyến mở và điều kiện thực tế. Khi đặt chuyến đi, hãy xác định bạn muốn khám phá cảnh quan hay quan sát chim, tránh coi ảnh một thời điểm là cam kết cho cả năm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tràm Chim phù hợp người yêu thiên nhiên và muốn tìm hiểu hệ sinh thái đất ngập nước. Hoạt động tham quan phụ thuộc mùa, tuyến mở và điều kiện thực tế. Khi đặt chuyến đi, hãy xác định bạn muốn khám phá cảnh quan hay quan sát chim, tránh coi ảnh một thời điểm là cam kết cho cả năm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận tuyến và dịch vụ đang phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận tuyến và dịch vụ đang phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần hỏi điểm xuất phát, phương tiện, thời lượng và khu được tham quan ngày đi. Không mặc định mọi tuyến xuồng hoặc trải nghiệm mùa nước nổi đều hoạt động liên tục. Đoàn nên chọn một chương trình cụ thể rồi tính xe và bữa ăn theo chương trình đó, thay vì đặt xe trước rồi mới tìm hoạt động tại điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần hỏi điểm xuất phát, phương tiện, thời lượng và khu được tham quan ngày đi. Không mặc định mọi tuyến xuồng hoặc trải nghiệm mùa nước nổi đều hoạt động liên tục. Đoàn nên chọn một chương trình cụ thể rồi tính xe và bữa ăn theo chương trình đó, thay vì đặt xe trước rồi mới tìm hoạt động tại điểm.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Quan sát thiên nhiên với kỳ vọng phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quan sát thiên nhiên với kỳ vọng phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chim hoang dã không xuất hiện theo lịch biểu diễn; không thể bảo đảm gặp một loài cụ thể trong mỗi chuyến. Giữ khoảng cách, tiếng nói vừa phải và theo hướng dẫn nơi quản lý. Nếu quan tâm chụp ảnh thiên nhiên, cần hỏi thời điểm phù hợp và điều kiện khu vực trước khi quyết định lịch đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chim hoang dã không xuất hiện theo lịch biểu diễn; không thể bảo đảm gặp một loài cụ thể trong mỗi chuyến. Giữ khoảng cách, tiếng nói vừa phải và theo hướng dẫn nơi quản lý. Nếu quan tâm chụp ảnh thiên nhiên, cần hỏi thời điểm phù hợp và điều kiện khu vực trước khi quyết định lịch đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Cân nhắc tuyến một ngày và đoàn đông"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cân nhắc tuyến một ngày và đoàn đông</span></strong>"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa hoặc TP.HCM, chuyến một ngày cần tính cả thời gian đường và thời lượng sinh thái. Có thể đề nghị thêm đêm nghỉ nếu muốn nhịp thư thả. TodayTourist tiếp nhận yêu cầu tuyến Tràm Chim để kiểm tra riêng; tour Đồng Tháp trên website là tham khảo và không mặc định đã gồm điểm này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Từ Biên Hòa hoặc TP.HCM, chuyến một ngày cần tính cả thời gian đường và thời lượng sinh thái. Có thể đề nghị thêm đêm nghỉ nếu muốn nhịp thư thả. TodayTourist tiếp nhận yêu cầu tuyến Tràm Chim để kiểm tra riêng; tour Đồng Tháp trên website là tham khảo và không mặc định đã gồm điểm này.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đi Tràm Chim có chắc thấy sếu đầu đỏ không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi Tràm Chim có chắc thấy sếu đầu đỏ không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Việc quan sát phụ thuộc tình trạng sinh thái, mùa và khu được tiếp cận. Không nên đặt tour dựa trên lời hứa chắc chắn thấy sếu trong một ngày cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Việc quan sát phụ thuộc tình trạng sinh thái, mùa và khu được tiếp cận. Không nên đặt tour dựa trên lời hứa chắc chắn thấy sếu trong một ngày cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Tràm Chim? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Tràm Chim? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-dong-thap/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-dong-thap/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dong-thap-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đồng Tháp – Xẻo Quýt 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dong-thap-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đồng Tháp – Xẻo Quýt 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Làng hoa Sa Đéc 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Làng hoa Sa Đéc 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
