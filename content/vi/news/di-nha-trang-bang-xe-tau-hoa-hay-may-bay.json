@@ -2,7 +2,7 @@
   "slug": "di-nha-trang-bang-xe-tau-hoa-hay-may-bay",
   "title": "Đi Nha Trang bằng xe, tàu hỏa hay máy bay?",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "di-nha-trang-bang-xe-tau-hoa-hay-may-bay.jpg",
+  "image": "di-nha-trang-bang-xe-tau-hoa-hay-may-bay-v2.jpg",
   "summary": "Phương tiện phù hợp phụ thuộc điểm xuất phát, số người, lịch nghỉ và cách đoàn muốn di chuyển. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Xe giúp tổ chức điểm đón và hoạt động chung thuận tiện hơn với nhiều đoàn tại Đồng Nai, TP.HCM. Xe ghế ngồi phù hợp phương án đi ban ngày; giường nằm có thể được cân nhắc khi di chuyển đêm. TodayTourist ưu tiên thế mạnh xe 45 chỗ và xe giường nằm; đoàn nhỏ hơn có thể hỏi phương án 16 hoặc 29 chỗ. Loại xe và bố trí thực tế cần được xác nhận."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216067611-0.jpg",
-      "alt": "Đi Nha Trang bằng xe, tàu hỏa hay máy bay?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216067611-0.jpg\" alt=\"Đi Nha Trang bằng xe, tàu hỏa hay máy bay?\"></figure>"
     },
     {
       "type": "h2",
