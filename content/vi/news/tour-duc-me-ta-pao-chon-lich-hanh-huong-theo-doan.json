@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn đi Tà Pao nên xác định thời gian muốn dành cho cầu nguyện, dự lễ hoặc tham quan trước khi chọn một ngày hay lịch có nghỉ đêm. Với khách từ Đồng Nai và TP.HCM, điểm đón và lịch hoạt động được xác nhận sẽ quyết định cách bố trí chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn đi Tà Pao nên xác định thời gian muốn dành cho cầu nguyện, dự lễ hoặc tham quan trước khi chọn một ngày hay lịch có nghỉ đêm. Với khách từ Đồng Nai và TP.HCM, điểm đón và lịch hoạt động được xác nhận sẽ quyết định cách bố trí chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt hoạt động chính tại Tà Pao"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt hoạt động chính tại Tà Pao</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy phân biệt việc viếng, tham quan với mong muốn dự một hoạt động tôn giáo cụ thể. Giờ lễ và chương trình đặc biệt cần kiểm tra từ nguồn của nơi đến theo ngày dự kiến. Lịch hành hương đã công bố cho năm trước không thể dùng để bảo đảm hoạt động của chuyến mới. Nếu có đầu mối giáo xứ, nên phối hợp nội dung từ giai đoạn nhận phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy phân biệt việc viếng, tham quan với mong muốn dự một hoạt động tôn giáo cụ thể. Giờ lễ và chương trình đặc biệt cần kiểm tra từ nguồn của nơi đến theo ngày dự kiến. Lịch hành hương đã công bố cho năm trước không thể dùng để bảo đảm hoạt động của chuyến mới. Nếu có đầu mối giáo xứ, nên phối hợp nội dung từ giai đoạn nhận phương án.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214182286-0.jpg",
-      "alt": "Tour Đức Mẹ Tà Pao: chọn lịch hành hương theo đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214182286-0.jpg\" alt=\"Tour Đức Mẹ Tà Pao: chọn lịch hành hương theo đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn thời lượng theo cả hành trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thời lượng theo cả hành trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi trong ngày có thể phù hợp một số đoàn, nhưng cần tính đầy đủ di chuyển, đoạn đi bộ, nghỉ và dùng bữa. Nếu đoàn muốn có thêm thời gian hoặc kết hợp Núi Cúi, nên yêu cầu lịch cụ thể để so sánh. Không nên thêm nhiều nơi rồi giảm thời gian ở Tà Pao, khi đó là mục đích chính. Các yêu cầu về nhịp tham gia cần thông báo trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi trong ngày có thể phù hợp một số đoàn, nhưng cần tính đầy đủ di chuyển, đoạn đi bộ, nghỉ và dùng bữa. Nếu đoàn muốn có thêm thời gian hoặc kết hợp Núi Cúi, nên yêu cầu lịch cụ thể để so sánh. Không nên thêm nhiều nơi rồi giảm thời gian ở Tà Pao, khi đó là mục đích chính. Các yêu cầu về nhịp tham gia cần thông báo trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Đọc rõ phần được phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc rõ phần được phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá cần có loại xe, số bữa và phòng nghỉ nếu chương trình có lưu trú. Các phần sinh hoạt riêng phải được nơi đến xác nhận; công ty du lịch không tự hứa có lễ riêng hoặc khu vực riêng. TodayTourist trao đổi phương án xe 45 chỗ cho đoàn đông và 16, 29 chỗ theo quy mô. Hãy gửi ngày đi, số người, điểm đón cùng nội dung ưu tiên để chọn chương trình phù hợp điều kiện thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá cần có loại xe, số bữa và phòng nghỉ nếu chương trình có lưu trú. Các phần sinh hoạt riêng phải được nơi đến xác nhận; công ty du lịch không tự hứa có lễ riêng hoặc khu vực riêng. TodayTourist trao đổi phương án xe 45 chỗ cho đoàn đông và 16, 29 chỗ theo quy mô. Hãy gửi ngày đi, số người, điểm đón cùng nội dung ưu tiên để chọn chương trình phù hợp điều kiện thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể kết hợp Tà Pao với Núi Cúi không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể kết hợp Tà Pao với Núi Cúi không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi tuyến kết hợp, nhưng cần lập lại lịch theo thứ tự đi, giờ hoạt động và thời gian nghỉ. Không mặc định cùng trong một ngày sẽ phù hợp với mọi đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi tuyến kết hợp, nhưng cần lập lại lịch theo thứ tự đi, giờ hoạt động và thời gian nghỉ. Không mặc định cùng trong một ngày sẽ phù hợp với mọi đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Đức Mẹ Núi Cúi Đồng Nai: chuẩn bị chuyến đi cho đoàn",
-        "Tà Pao – Núi Cúi: chọn tuyến hành hương kết hợp",
-        "Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ",
-        "Thuê xe đi Đức Mẹ Tà Pao"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-duc-me-nui-cui-dong-nai-chuan-bi-chuyen-di-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đức Mẹ Núi Cúi Đồng Nai: chuẩn bị chuyến đi cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ta-pao-nui-cui-chon-tuyen-hanh-huong-ket-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tà Pao – Núi Cúi: chọn tuyến hành hương kết hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-cong-giao-sap-lich-theo-nhu-cau-giao-xu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi Đức Mẹ Tà Pao</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
