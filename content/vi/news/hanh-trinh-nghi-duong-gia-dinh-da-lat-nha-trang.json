@@ -8,8 +8,8 @@
   "published_at": "2026-09-21",
   "content": [
     {
-      "type": "p",
-      "text": "Khép lại chuyến đi đầy kỷ niệm của gia đình 4 thành viên trong hành trình khám phá Đà Lạt và Nha Trang – nơi thiên nhiên thơ mộng hòa quyện cùng biển xanh nắng vàng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khép lại chuyến đi đầy kỷ niệm của gia đình 4 thành viên trong hành trình khám phá Đà Lạt và Nha Trang – nơi thiên nhiên thơ mộng hòa quyện cùng biển xanh nắng vàng.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Không chỉ là chuyến du lịch nghỉ dưỡng, đây còn là khoảng thời gian quý giá để các thành viên gắn kết, cùng nhau tận hưởng những khoảnh khắc bình yên và trọn vẹn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không chỉ là chuyến du lịch nghỉ dưỡng, đây còn là khoảng thời gian quý giá để các thành viên gắn kết, cùng nhau tận hưởng những khoảnh khắc bình yên và trọn vẹn.</span>"
     },
     {
       "type": "p",
-      "text": "Hành trình đưa gia đình đến với nhiều điểm tham quan nổi bật:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình đưa gia đình đến với nhiều điểm tham quan nổi bật:</span>"
     },
     {
       "type": "html",
@@ -29,59 +29,63 @@
     },
     {
       "type": "p",
-      "text": "• Thiền Trang Trúc Lâm Đông Tuệ – không gian thanh tịnh, an yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Thiền Trang Trúc Lâm Đông Tuệ – không gian thanh tịnh, an yên</span>"
     },
     {
       "type": "p",
-      "text": "• Quảng trường Lâm Viên – biểu tượng đặc trưng của thành phố"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Quảng trường Lâm Viên – biểu tượng đặc trưng của thành phố</span>"
     },
     {
       "type": "p",
-      "text": "• Thiền viện Trúc Lâm – nơi tìm về sự bình yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Thiền viện Trúc Lâm – nơi tìm về sự bình yên</span>"
     },
     {
       "type": "p",
-      "text": "• LangBiang Land – trải nghiệm vui chơi, khám phá"
+      "text": "<span style=\"font-size:16px;color:#374151\">• LangBiang Land – trải nghiệm vui chơi, khám phá</span>"
     },
     {
       "type": "p",
-      "text": "• Fresh Garden – rực rỡ sắc hoa và check-in ấn tượng"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Fresh Garden – rực rỡ sắc hoa và check-in ấn tượng</span>"
     },
     {
       "type": "p",
-      "text": "• Nhà hát Đó – không gian nghệ thuật độc đáo"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Nhà hát Đó – không gian nghệ thuật độc đáo</span>"
     },
     {
       "type": "p",
-      "text": "• Tháp Bà Ponagar – dấu ấn văn hóa Chăm Pa cổ kính"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Tháp Bà Ponagar – dấu ấn văn hóa Chăm Pa cổ kính</span>"
     },
     {
       "type": "p",
-      "text": "• Hòn Sỏi Beach – biển xanh, cát trắng, nắng vàng"
+      "text": "<span style=\"font-size:16px;color:#374151\">• Hòn Sỏi Beach – biển xanh, cát trắng, nắng vàng</span>"
     },
     {
       "type": "p",
-      "text": "Chuyến đi khép lại bằng những nụ cười, những bức hình đẹp và hơn hết là những ký ức đáng nhớ của cả gia đình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến đi khép lại bằng những nụ cười, những bức hình đẹp và hơn hết là những ký ức đáng nhớ của cả gia đình.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST tự hào khi được đồng hành, mang đến hành trình nhẹ nhàng – trọn vẹn – giàu cảm xúc."
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST tự hào khi được đồng hành, mang đến hành trình nhẹ nhàng – trọn vẹn – giàu cảm xúc.</span>"
     },
     {
       "type": "p",
-      "text": "Đặc biệt: Tour thiết kế riêng – khởi hành chỉ từ 4 khách, linh hoạt lịch trình, tối ưu chi phí nhưng vẫn đảm bảo trải nghiệm chất lượng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặc biệt: Tour thiết kế riêng – khởi hành chỉ từ 4 khách, linh hoạt lịch trình, tối ưu chi phí nhưng vẫn đảm bảo trải nghiệm chất lượng.</span>"
     },
     {
       "type": "p",
-      "text": "Kính chúc gia đình luôn mạnh khỏe, hạnh phúc và sẽ tiếp tục cùng nhau viết thêm nhiều hành trình đáng nhớ phía trước!"
+      "text": "<span style=\"font-size:16px;color:#374151\">Kính chúc gia đình luôn mạnh khỏe, hạnh phúc và sẽ tiếp tục cùng nhau viết thêm nhiều hành trình đáng nhớ phía trước!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist”.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-binh-ba-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Ba</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-binh-ba-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Ba</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
