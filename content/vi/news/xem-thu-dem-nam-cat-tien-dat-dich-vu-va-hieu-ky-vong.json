@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Xem thú đêm tại Nam Cát Tiên là trải nghiệm quan sát thiên nhiên bằng dịch vụ của Vườn, khác với đi tham quan sở thú. Khách nên đăng ký trước và hiểu rằng việc gặp loài nào phụ thuộc điều kiện tự nhiên."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Xem thú đêm tại Nam Cát Tiên là trải nghiệm quan sát thiên nhiên bằng dịch vụ của Vườn, khác với đi tham quan sở thú. Khách nên đăng ký trước và hiểu rằng việc gặp loài nào phụ thuộc điều kiện tự nhiên.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đây là chuyến quan sát, không phải cam kết gặp thú"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đây là chuyến quan sát, không phải cam kết gặp thú</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trang thông tin của Vườn giới thiệu chuyến tham quan buổi tối bằng xe mui trần chuyên dụng. Động vật xuất hiện tùy mùa, thời tiết và tình huống tại thời điểm đi, nên không thể bảo đảm đoàn sẽ thấy một loài cụ thể. Nội dung tour không nên dùng ảnh động vật minh họa để tạo lời hứa chắc chắn. Khi tư vấn cho gia đình hoặc học sinh, hãy giải thích đây là cơ hội quan sát sinh cảnh và tìm hiểu hoạt động về đêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trang thông tin của Vườn giới thiệu chuyến tham quan buổi tối bằng xe mui trần chuyên dụng. Động vật xuất hiện tùy mùa, thời tiết và tình huống tại thời điểm đi, nên không thể bảo đảm đoàn sẽ thấy một loài cụ thể. Nội dung tour không nên dùng ảnh động vật minh họa để tạo lời hứa chắc chắn. Khi tư vấn cho gia đình hoặc học sinh, hãy giải thích đây là cơ hội quan sát sinh cảnh và tìm hiểu hoạt động về đêm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214837201-0.jpg",
-      "alt": "Xem thú đêm Nam Cát Tiên: đặt dịch vụ và hiểu kỳ vọng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214837201-0.jpg\" alt=\"Xem thú đêm Nam Cát Tiên: đặt dịch vụ và hiểu kỳ vọng\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Giờ tập trung và xe cần được xác nhận theo ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giờ tập trung và xe cần được xác nhận theo ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trưởng đoàn cần gửi số người, ngày đi và nơi lưu trú để kiểm tra chuyến còn nhận khách, phương tiện và giờ tập trung. Lịch đã đăng trên website có thể cần xác nhận lại trước khi đặt. Nếu đoàn ở ngoài Vườn, phải tính thời gian tiếp cận điểm lên xe và quay về nơi ở. Phí tour đường dài không tự động bao gồm dịch vụ này; báo giá nên ghi rõ số người tham gia và điều kiện thay đổi khi thời tiết không phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trưởng đoàn cần gửi số người, ngày đi và nơi lưu trú để kiểm tra chuyến còn nhận khách, phương tiện và giờ tập trung. Lịch đã đăng trên website có thể cần xác nhận lại trước khi đặt. Nếu đoàn ở ngoài Vườn, phải tính thời gian tiếp cận điểm lên xe và quay về nơi ở. Phí tour đường dài không tự động bao gồm dịch vụ này; báo giá nên ghi rõ số người tham gia và điều kiện thay đổi khi thời tiết không phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp bữa tối và giao lưu theo lịch tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp bữa tối và giao lưu theo lịch tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể dùng bữa sớm hoặc bố trí ăn sau trải nghiệm, tùy lịch vận hành đã chốt. Gala Dinner kéo dài, lửa trại và xem thú đêm không nên cùng được hứa trọn vẹn trong một buổi tối mà chưa tính giờ. Khách cần tuân theo hướng dẫn về giữ yên lặng, ánh sáng và vị trí ngồi. TodayTourist có thể hỗ trợ sắp chương trình phù hợp, nhưng không quảng cáo đây là dịch vụ chắc chắn diễn ra trong mọi tour Nam Cát Tiên."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể dùng bữa sớm hoặc bố trí ăn sau trải nghiệm, tùy lịch vận hành đã chốt. Gala Dinner kéo dài, lửa trại và xem thú đêm không nên cùng được hứa trọn vẹn trong một buổi tối mà chưa tính giờ. Khách cần tuân theo hướng dẫn về giữ yên lặng, ánh sáng và vị trí ngồi. TodayTourist có thể hỗ trợ sắp chương trình phù hợp, nhưng không quảng cáo đây là dịch vụ chắc chắn diễn ra trong mọi tour Nam Cát Tiên.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour có bồi hoàn nếu không gặp loài khách mong muốn không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour có bồi hoàn nếu không gặp loài khách mong muốn không?</span>"
     },
     {
       "type": "p",
-      "text": "Quan sát động vật tự nhiên không bảo đảm gặp từng loài. Điều kiện dịch vụ và xử lý thay đổi cần đọc trong xác nhận đặt chỗ, không tự suy ra từ ảnh quảng cáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quan sát động vật tự nhiên không bảo đảm gặp từng loài. Điều kiện dịch vụ và xử lý thay đổi cần đọc trong xác nhận đặt chỗ, không tự suy ra từ ảnh quảng cáo.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Nam Cát Tiên có gì chơi: cây cổ thụ, đi bộ và đạp xe",
-        "Tour Nam Cát Tiên 1 ngày: chọn tuyến rừng vừa thời gian",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nam-cat-tien-co-gi-choi-cay-co-thu-di-bo-va-dap-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nam Cát Tiên có gì chơi: cây cổ thụ, đi bộ và đạp xe</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-cat-tien-1-ngay-chon-tuyen-rung-vua-thoi-gian/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Cát Tiên 1 ngày: chọn tuyến rừng vừa thời gian</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nam-cat-tien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
