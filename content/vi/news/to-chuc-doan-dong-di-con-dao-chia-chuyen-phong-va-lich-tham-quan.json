@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn đông đi Côn Đảo cần kiểm tra năng lực phục vụ từng chặng trước khi chốt chương trình. Khác với chuyến chỉ di chuyển bằng xe đường bộ, hành trình ra đảo còn phụ thuộc số chỗ tàu hoặc máy bay. Tổ chức tốt bắt đầu từ danh sách, nhóm phụ trách và cách bàn giao khách giữa các dịch vụ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn đông đi Côn Đảo cần kiểm tra năng lực phục vụ từng chặng trước khi chốt chương trình. Khác với chuyến chỉ di chuyển bằng xe đường bộ, hành trình ra đảo còn phụ thuộc số chỗ tàu hoặc máy bay. Tổ chức tốt bắt đầu từ danh sách, nhóm phụ trách và cách bàn giao khách giữa các dịch vụ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt một danh sách và phân nhóm rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt một danh sách và phân nhóm rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi khách cần có thông tin phục vụ đặt vé, nhóm di chuyển và yêu cầu phòng. Người đại diện nên quản lý một bản danh sách chính; thay đổi phải cập nhật tới các bộ phận liên quan. Chia nhóm theo chuyến và người phụ trách, không chỉ theo phòng. Nếu thành viên có nhu cầu riêng, ghi tại đúng nhóm để hướng dẫn viên nhận đủ thông tin trước khi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi khách cần có thông tin phục vụ đặt vé, nhóm di chuyển và yêu cầu phòng. Người đại diện nên quản lý một bản danh sách chính; thay đổi phải cập nhật tới các bộ phận liên quan. Chia nhóm theo chuyến và người phụ trách, không chỉ theo phòng. Nếu thành viên có nhu cầu riêng, ghi tại đúng nhóm để hướng dẫn viên nhận đủ thông tin trước khi đón.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Kiểm tra số chỗ trước khi công bố lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra số chỗ trước khi công bố lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể không đủ chỗ cho toàn đoàn trên một chuyến phù hợp. Nếu chia chuyến, cần biết giờ từng nhóm tới đảo, người tiếp nhận, bữa ăn và thời gian nhận phòng. Không yêu cầu nhóm đến sớm chờ nhiều giờ chỉ để tham quan cùng nhóm sau. Ở chiều về, làm kế hoạch tương tự cho trả phòng, hành lý và xe đưa tới cảng hoặc sân bay."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể không đủ chỗ cho toàn đoàn trên một chuyến phù hợp. Nếu chia chuyến, cần biết giờ từng nhóm tới đảo, người tiếp nhận, bữa ăn và thời gian nhận phòng. Không yêu cầu nhóm đến sớm chờ nhiều giờ chỉ để tham quan cùng nhóm sau. Ở chiều về, làm kế hoạch tương tự cho trả phòng, hành lý và xe đưa tới cảng hoặc sân bay.</span>"
     },
     {
       "type": "h2",
-      "text": "Bố trí ăn và tham quan theo sức chứa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bố trí ăn và tham quan theo sức chứa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà hàng, xe tại đảo và điểm tập trung cần đáp ứng nhóm thực tế. Có thể chia lượt hoặc tuyến tham quan khi phù hợp thay vì đưa toàn đoàn tới một nơi cùng lúc. Giữ thời gian chuyển giữa ăn, lên xe và tham quan; đoàn đông thường cần nhiều thời gian tập trung hơn nhóm nhỏ. Người phụ trách nên có quy ước kiểm đếm và nơi hẹn rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà hàng, xe tại đảo và điểm tập trung cần đáp ứng nhóm thực tế. Có thể chia lượt hoặc tuyến tham quan khi phù hợp thay vì đưa toàn đoàn tới một nơi cùng lúc. Giữ thời gian chuyển giữa ăn, lên xe và tham quan; đoàn đông thường cần nhiều thời gian tập trung hơn nhóm nhỏ. Người phụ trách nên có quy ước kiểm đếm và nơi hẹn rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị thay đổi và thông tin nhất quán"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị thay đổi và thông tin nhất quán</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất ai được quyền quyết định khi vận chuyển hoặc dịch vụ thay đổi. Thông báo cho khách bằng một kênh chung và nội dung ngắn gồm giờ, địa điểm, nhóm và người liên hệ. TodayTourist tư vấn quy mô theo khả năng xác nhận vé, phòng, xe và ăn uống; số người lớn không tự bảo đảm giá thấp hoặc mọi dịch vụ đều phục vụ cùng lúc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất ai được quyền quyết định khi vận chuyển hoặc dịch vụ thay đổi. Thông báo cho khách bằng một kênh chung và nội dung ngắn gồm giờ, địa điểm, nhóm và người liên hệ. TodayTourist tư vấn quy mô theo khả năng xác nhận vé, phòng, xe và ăn uống; số người lớn không tự bảo đảm giá thấp hoặc mọi dịch vụ đều phục vụ cùng lúc.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có thể chia nhiều chuyến mà vẫn đi chung tour? Có thể xem xét nếu kế hoạch đón và tham quan từng nhóm rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có thể chia nhiều chuyến mà vẫn đi chung tour? Có thể xem xét nếu kế hoạch đón và tham quan từng nhóm rõ.</span>"
     },
     {
       "type": "p",
-      "text": "Cần chốt số người sớm không? Nên có số dự kiến và mốc danh sách cuối để kiểm tra chỗ, phòng và điều kiện thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần chốt số người sớm không? Nên có số dự kiến và mốc danh sách cuối để kiểm tra chỗ, phòng và điều kiện thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Côn Đảo cho công ty, cơ quan và đoàn thể",
-        "Hành trình về nguồn Côn Đảo cho cơ quan, trường học và đoàn thể",
-        "Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-cho-cong-ty-co-quan-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo cho công ty, cơ quan và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-ve-nguon-con-dao-cho-co-quan-truong-hoc-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hành trình về nguồn Côn Đảo cho cơ quan, trường học và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-con-dao-can-hoi-gi-ve-ve-dat-coc-doi-ngay-va-huy-chuyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
