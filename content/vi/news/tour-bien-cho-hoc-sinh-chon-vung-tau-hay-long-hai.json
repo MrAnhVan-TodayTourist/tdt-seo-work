@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour học sinh cần phục vụ mục tiêu của nhà trường và khả năng quản lý theo độ tuổi. Chọn điểm đến chỉ là bước đầu; lịch, điểm danh và hoạt động phải được thiết kế riêng cho đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour học sinh cần phục vụ mục tiêu của nhà trường và khả năng quản lý theo độ tuổi. Chọn điểm đến chỉ là bước đầu; lịch, điểm danh và hoạt động phải được thiết kế riêng cho đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định mục tiêu và độ tuổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định mục tiêu và độ tuổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến tham quan văn hóa cần lựa chọn điểm có nội dung thuyết minh phù hợp. Chuyến sinh hoạt tập thể cần khu vực kiểm soát được và trò chơi vừa sức. Khi trao đổi, gửi số học sinh, số giáo viên, độ tuổi, điểm đón và thời gian phải về trường. Không nên dùng nguyên lịch của khách người lớn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến tham quan văn hóa cần lựa chọn điểm có nội dung thuyết minh phù hợp. Chuyến sinh hoạt tập thể cần khu vực kiểm soát được và trò chơi vừa sức. Khi trao đổi, gửi số học sinh, số giáo viên, độ tuổi, điểm đón và thời gian phải về trường. Không nên dùng nguyên lịch của khách người lớn.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Quản lý theo nhóm và theo xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quản lý theo nhóm và theo xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lập danh sách, người phụ trách và các mốc điểm danh khi lên xe, xuống xe, trước bữa ăn và trước khi về. Tách khu sinh hoạt với khu biển nếu điều kiện quản lý không đáp ứng. Tắm biển không phải nội dung bắt buộc; hoạt động trên bờ có thể là lựa chọn phù hợp hơn theo quyết định nhà trường."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lập danh sách, người phụ trách và các mốc điểm danh khi lên xe, xuống xe, trước bữa ăn và trước khi về. Tách khu sinh hoạt với khu biển nếu điều kiện quản lý không đáp ứng. Tắm biển không phải nội dung bắt buộc; hoạt động trên bờ có thể là lựa chọn phù hợp hơn theo quyết định nhà trường.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt dịch vụ phục vụ học sinh"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt dịch vụ phục vụ học sinh</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi thực đơn, nước uống, khu vệ sinh, chỗ nghỉ có bóng mát và phương án trời mưa. Nếu có Minh Đạm hoặc điểm có bậc thang, đánh giá khả năng đi bộ của nhóm. Chốt cách xử lý học sinh không tham gia hoạt động, yêu cầu thông tin sức khỏe và đầu mối liên hệ. Mọi nội dung cuối cùng cần được nhà trường duyệt trước chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi thực đơn, nước uống, khu vệ sinh, chỗ nghỉ có bóng mát và phương án trời mưa. Nếu có Minh Đạm hoặc điểm có bậc thang, đánh giá khả năng đi bộ của nhóm. Chốt cách xử lý học sinh không tham gia hoạt động, yêu cầu thông tin sức khỏe và đầu mối liên hệ. Mọi nội dung cuối cùng cần được nhà trường duyệt trước chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour học sinh có nhất thiết phải tắm biển không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour học sinh có nhất thiết phải tắm biển không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Có thể chọn tham quan, trò chơi trên bờ và sinh hoạt theo nhóm tùy mục tiêu, độ tuổi và điều kiện quản lý của trường."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Có thể chọn tham quan, trò chơi trên bờ và sinh hoạt theo nhóm tùy mục tiêu, độ tuổi và điều kiện quản lý của trường.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô",
-        "Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải",
-        "Hồ Mây Vũng Tàu: khi nào nên đưa vào lịch tour?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-1-ngay-lich-nghi-bien-va-vieng-dinh-co/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dinh-co-va-minh-dam-ket-hop-tham-quan-trong-tour-long-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-may-vung-tau-khi-nao-nen-dua-vao-lich-tour/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Mây Vũng Tàu: khi nào nên đưa vào lịch tour?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 1 ngày",
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
