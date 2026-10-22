@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Trước khi đặt tour Ninh Chữ, Vĩnh Hy hoặc Bình Hưng, hãy thống nhất chương trình và báo giá đủ rõ. Với khách đoàn, nên có một đầu mối tổng hợp yêu cầu và xác nhận thay đổi. Dịch vụ ngày đi, phần tự túc cùng điều kiện xử lý khi biển ảnh hưởng cần được biết trước khi cọc."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trước khi đặt tour Ninh Chữ, Vĩnh Hy hoặc Bình Hưng, hãy thống nhất chương trình và báo giá đủ rõ. Với khách đoàn, nên có một đầu mối tổng hợp yêu cầu và xác nhận thay đổi. Dịch vụ ngày đi, phần tự túc cùng điều kiện xử lý khi biển ảnh hưởng cần được biết trước khi cọc.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đọc đúng tuyến và nơi nghỉ từng đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc đúng tuyến và nơi nghỉ từng đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra giờ đón, đêm xe, đêm phòng, chặng đảo cùng những lựa chọn phải chốt. Hỏi loại xe, tàu, cơ sở ở, bữa ăn và vé. Chương trình mẫu không thay cho xác nhận còn dịch vụ; đặc biệt khi thêm Gala, Team Building hoặc đổi đêm đảo sang đất liền."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra giờ đón, đêm xe, đêm phòng, chặng đảo cùng những lựa chọn phải chốt. Hỏi loại xe, tàu, cơ sở ở, bữa ăn và vé. Chương trình mẫu không thay cho xác nhận còn dịch vụ; đặc biệt khi thêm Gala, Team Building hoặc đổi đêm đảo sang đất liền.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chốt người, giấy tờ và điều kiện thanh toán"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt người, giấy tờ và điều kiện thanh toán</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, tuổi trẻ em và thành phần đoàn để kiểm tra điều kiện tiếp nhận, dịch vụ cùng giấy tờ cần thiết. Khoản cọc, thời hạn danh sách và đổi hủy phải theo thỏa thuận cụ thể. Nếu cần hóa đơn hoặc hồ sơ nội bộ, gửi yêu cầu trước khi thanh toán để được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, tuổi trẻ em và thành phần đoàn để kiểm tra điều kiện tiếp nhận, dịch vụ cùng giấy tờ cần thiết. Khoản cọc, thời hạn danh sách và đổi hủy phải theo thỏa thuận cụ thể. Nếu cần hóa đơn hoặc hồ sơ nội bộ, gửi yêu cầu trước khi thanh toán để được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Hỏi phương án khi không thực hiện chặng biển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi phương án khi không thực hiện chặng biển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần biết cách thông báo, điểm thay thế và điều kiện xử lý từng dịch vụ. Không coi mọi thay đổi đều hoàn hoặc không hoàn cùng một mức. Lưu chương trình cuối, đầu mối liên hệ và yêu cầu riêng để cả đoàn chuẩn bị thống nhất, tránh mỗi người hiểu một lịch khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần biết cách thông báo, điểm thay thế và điều kiện xử lý từng dịch vụ. Không coi mọi thay đổi đều hoàn hoặc không hoàn cùng một mức. Lưu chương trình cuối, đầu mối liên hệ và yêu cầu riêng để cả đoàn chuẩn bị thống nhất, tránh mỗi người hiểu một lịch khác nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có phải thấy tour trên website là chuyển cọc ngay được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có phải thấy tour trên website là chuyển cọc ngay được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên liên hệ xác nhận ngày đi, số khách, dịch vụ và điều kiện thanh toán trước. Website là cơ sở tham khảo; cần thông tin chốt cho chính chuyến của nhóm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên liên hệ xác nhận ngày đi, số khách, dịch vụ và điều kiện thanh toán trước. Website là cơ sở tham khảo; cần thông tin chốt cho chính chuyến của nhóm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Giá tour Ninh Chữ–Vĩnh Hy–Bình Hưng: so đúng phần dịch vụ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Ninh Chữ–Vĩnh Hy–Bình Hưng: so đúng phần dịch vụ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy 3 ngày 2 đêm: chọn lịch nghỉ và tham quan</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy 3 ngày 2 đêm: chọn lịch nghỉ và tham quan</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
