@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khi chuyến Côn Đảo có cả viếng, tham quan lịch sử, nghỉ dưỡng và hoạt động đoàn, thêm thời gian có thể giúp lịch dễ chịu hơn. Nhưng 3N3Đ và 4N3Đ không thể so chỉ bằng số đêm. Cần kiểm tra đêm di chuyển, đêm lưu trú và số ngày thực tế còn lại cho những trải nghiệm đoàn muốn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi chuyến Côn Đảo có cả viếng, tham quan lịch sử, nghỉ dưỡng và hoạt động đoàn, thêm thời gian có thể giúp lịch dễ chịu hơn. Nhưng 3N3Đ và 4N3Đ không thể so chỉ bằng số đêm. Cần kiểm tra đêm di chuyển, đêm lưu trú và số ngày thực tế còn lại cho những trải nghiệm đoàn muốn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắt đầu từ số đêm lưu trú cần thiết"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắt đầu từ số đêm lưu trú cần thiết</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người muốn nghỉ dưỡng thường quan tâm số đêm được sử dụng phòng hơn tổng số đêm trong tên tour. Với chương trình có xe đêm, một đêm có thể dành cho đường bộ. Hãy yêu cầu lịch ghi rõ từng đêm và thời gian nhận trả phòng. Nếu quỹ nghỉ phép chỉ có ba ngày, cần xem giờ về có phù hợp công việc hôm sau hay không."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người muốn nghỉ dưỡng thường quan tâm số đêm được sử dụng phòng hơn tổng số đêm trong tên tour. Với chương trình có xe đêm, một đêm có thể dành cho đường bộ. Hãy yêu cầu lịch ghi rõ từng đêm và thời gian nhận trả phòng. Nếu quỹ nghỉ phép chỉ có ba ngày, cần xem giờ về có phù hợp công việc hôm sau hay không.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Thêm thời gian cho nhu cầu cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thêm thời gian cho nhu cầu cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày thêm nên dành cho nghỉ, tham quan sâu hơn hoặc một trải nghiệm đã chọn, không chỉ thêm nhiều điểm. Đoàn về nguồn có thể cần thời lượng cho thuyết minh và sinh hoạt tập thể. Gia đình có thể muốn giảm tốc độ di chuyển. Đoàn công ty cần giao lưu nên giữ khoảng chuẩn bị và nghỉ trước buổi tối, thay vì tổ chức ngay sau một ngày di chuyển dài."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày thêm nên dành cho nghỉ, tham quan sâu hơn hoặc một trải nghiệm đã chọn, không chỉ thêm nhiều điểm. Đoàn về nguồn có thể cần thời lượng cho thuyết minh và sinh hoạt tập thể. Gia đình có thể muốn giảm tốc độ di chuyển. Đoàn công ty cần giao lưu nên giữ khoảng chuẩn bị và nghỉ trước buổi tối, thay vì tổ chức ngay sau một ngày di chuyển dài.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ dự phòng nhưng không hứa tránh mọi gián đoạn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ dự phòng nhưng không hứa tránh mọi gián đoạn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thời gian rộng hơn tạo khả năng đổi thứ tự tham quan khi điều kiện phù hợp. Tuy nhiên, thêm một ngày không bảo đảm tàu hay chuyến bay không bị ảnh hưởng. Trước khi đặt, cần thống nhất cách xử lý dịch vụ phát sinh, lịch trở về và người liên hệ của đoàn. Vé vận chuyển, phòng và chương trình phải được kiểm tra đồng thời."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thời gian rộng hơn tạo khả năng đổi thứ tự tham quan khi điều kiện phù hợp. Tuy nhiên, thêm một ngày không bảo đảm tàu hay chuyến bay không bị ảnh hưởng. Trước khi đặt, cần thống nhất cách xử lý dịch vụ phát sinh, lịch trở về và người liên hệ của đoàn. Vé vận chuyển, phòng và chương trình phải được kiểm tra đồng thời.</span>"
     },
     {
       "type": "h2",
-      "text": "So mức tăng chi phí với giá trị nhận được"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So mức tăng chi phí với giá trị nhận được</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chi phí có thể tăng vì thêm phòng, ăn, xe và hướng dẫn viên. Người đại diện nên yêu cầu nêu rõ phần tăng và những trải nghiệm được bổ sung. TodayTourist có thể tư vấn lịch dài hơn theo yêu cầu; đây là phương án thiết kế cần xác nhận dịch vụ, không phải mặc định một tour ghép đang khởi hành theo mọi ngày khách chọn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chi phí có thể tăng vì thêm phòng, ăn, xe và hướng dẫn viên. Người đại diện nên yêu cầu nêu rõ phần tăng và những trải nghiệm được bổ sung. TodayTourist có thể tư vấn lịch dài hơn theo yêu cầu; đây là phương án thiết kế cần xác nhận dịch vụ, không phải mặc định một tour ghép đang khởi hành theo mọi ngày khách chọn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên chọn nhiều ngày chỉ để đi thêm điểm? Nên thêm khi đoàn thật sự cần nghỉ hoặc có trải nghiệm trọng tâm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên chọn nhiều ngày chỉ để đi thêm điểm? Nên thêm khi đoàn thật sự cần nghỉ hoặc có trải nghiệm trọng tâm.</span>"
     },
     {
       "type": "p",
-      "text": "3N3Đ và 4N3Đ có cùng số đêm khách sạn? Không thể kết luận từ tên; phải xem từng đêm trong lịch."
+      "text": "<span style=\"font-size:16px;color:#374151\">3N3Đ và 4N3Đ có cùng số đêm khách sạn? Không thể kết luận từ tên; phải xem từng đêm trong lịch.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Côn Đảo 3 ngày 2 đêm: kết hợp viếng, tham quan và nghỉ dưỡng",
-        "Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan",
-        "Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/con-dao-3-ngay-2-dem-ket-hop-vieng-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Côn Đảo 3 ngày 2 đêm: kết hợp viếng, tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-mua-nao-chon-ngay-va-chuan-bi-phuong-an-thoi-tiet/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
