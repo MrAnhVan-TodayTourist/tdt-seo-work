@@ -8,37 +8,36 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Thuê nguyên xe giường nằm là đặt xe cho lịch riêng của đoàn, khác với mua từng vé trên tuyến xe khách cố định.</strong> Đoàn tự quyết định giờ đi, điểm đón và các lượt phục vụ theo chương trình."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Thuê nguyên xe giường nằm là đặt xe cho lịch riêng của đoàn, khác với mua từng vé trên tuyến xe khách cố định.</strong> Đoàn tự quyết định giờ đi, điểm đón và các lượt phục vụ theo chương trình.</span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê nguyên xe giường nằm?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê nguyên xe giường nằm?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt cấu hình giường thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt cấu hình giường thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi số giường sử dụng, cách bố trí và khoang hành lý. Đoàn nên gửi số người, vali và yêu cầu riêng để kiểm tra phù hợp; không gọi mọi xe giường nằm là cùng một cấu hình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi số giường sử dụng, cách bố trí và khoang hành lý. Đoàn nên gửi số người, vali và yêu cầu riêng để kiểm tra phù hợp; không gọi mọi xe giường nằm là cùng một cấu hình.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203371868-0.jpg",
-      "alt": "Thuê nguyên xe giường nằm cho khách đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203371868-0.jpg\" alt=\"Thuê nguyên xe giường nằm cho khách đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tách giờ chạy và giờ nghỉ tại nơi đến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách giờ chạy và giờ nghỉ tại nơi đến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với chuyến đi đêm, cần thống nhất giờ tập trung, điểm nghỉ và việc đoàn sử dụng dịch vụ sau khi đến. Đêm trên xe không thay thế một đêm khách sạn nếu chương trình có yêu cầu lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với chuyến đi đêm, cần thống nhất giờ tập trung, điểm nghỉ và việc đoàn sử dụng dịch vụ sau khi đến. Đêm trên xe không thay thế một đêm khách sạn nếu chương trình có yêu cầu lưu trú.</span>"
     },
     {
       "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những yếu tố làm thay đổi giá thuê xe</span></strong>"
     },
     {
       "type": "list",
@@ -54,11 +53,11 @@
     },
     {
       "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận báo giá nhanh chỉ với 3 thông tin</span></strong>"
     },
     {
       "type": "list",
@@ -70,19 +69,19 @@
     },
     {
       "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Xe giường nằm phù hợp với những hành trình nào"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe giường nằm phù hợp với những hành trình nào</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe giường nằm hợp với các chặng dài chạy đêm như Biên Hòa đi miền Trung, miền Bắc hoặc các tuyến hành hương xa. Đoàn nghỉ ngay trên xe, sáng đến nơi có thể bắt đầu tham quan, tiết kiệm một đêm khách sạn. Với chặng dưới 6–7 giờ, xe ghế ngồi 29 hoặc 45 chỗ thường gọn và dễ điều phối hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe giường nằm hợp với các chặng dài chạy đêm như Biên Hòa đi miền Trung, miền Bắc hoặc các tuyến hành hương xa. Đoàn nghỉ ngay trên xe, sáng đến nơi có thể bắt đầu tham quan, tiết kiệm một đêm khách sạn. Với chặng dưới 6–7 giờ, xe ghế ngồi 29 hoặc 45 chỗ thường gọn và dễ điều phối hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Kinh nghiệm cho đoàn đi xe giường nằm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kinh nghiệm cho đoàn đi xe giường nằm</span></strong>"
     },
     {
       "type": "list",
@@ -95,47 +94,47 @@
     },
     {
       "type": "p",
-      "text": "Số giường, kiểu xe có thể khác nhau giữa các nhà xe. Hãy hỏi rõ cấu hình thực tế khi đặt để biết xe chở được bao nhiêu khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Số giường, kiểu xe có thể khác nhau giữa các nhà xe. Hãy hỏi rõ cấu hình thực tế khi đặt để biết xe chở được bao nhiêu khách.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Thuê nguyên xe giường nằm khác mua vé xe khách thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Thuê nguyên xe giường nằm khác mua vé xe khách thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thuê nguyên xe là đặt riêng một xe theo lịch của đoàn; vé xe khách là mua chỗ trên chuyến cố định. Với thuê nguyên xe, đoàn chủ động giờ giấc và điểm đón trả đã thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê nguyên xe là đặt riêng một xe theo lịch của đoàn; vé xe khách là mua chỗ trên chuyến cố định. Với thuê nguyên xe, đoàn chủ động giờ giấc và điểm đón trả đã thống nhất.</span>"
     },
     {
       "type": "h3",
-      "text": "Chỉ gửi tên tuyến có nhận được giá cuối cùng không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chỉ gửi tên tuyến có nhận được giá cuối cùng không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận.</span>"
     },
     {
       "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển.</span>"
     },
     {
       "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Báo giá và đặt xe thực hiện thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Xem thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem thêm</span></strong>"
     },
     {
       "type": "list",
@@ -148,27 +147,27 @@
     },
     {
       "type": "h2",
-      "text": "Liên hệ tư vấn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Liên hệ tư vấn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê nguyên xe giường nằm theo nhu cầu của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê nguyên xe giường nằm theo nhu cầu của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nhắn Zalo</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com</span>"
     },
     {
       "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -177,6 +176,10 @@
         "Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức",
         "Tổ chức Team Building cho doanh nghiệp tại Đồng Nai và TP.HCM"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
