@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chuyến đi có trẻ nhỏ và người lớn tuổi cần nhịp chậm hơn chuyến của nhóm bạn trẻ. Chìa khóa là chọn ít điểm, nghỉ nhiều và báo trước các nhu cầu riêng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chuyến đi có trẻ nhỏ và người lớn tuổi cần nhịp chậm hơn chuyến của nhóm bạn trẻ. Chìa khóa là chọn ít điểm, nghỉ nhiều và báo trước các nhu cầu riêng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình vừa sức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình vừa sức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chỉ nên chọn một điểm chính mỗi buổi, tránh đi liên tục dưới nắng. Giữ giờ ngủ trưa cho trẻ nhỏ và giờ nghỉ cho người lớn tuổi. Di chuyển xa nên có điểm dừng nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ nên chọn một điểm chính mỗi buổi, tránh đi liên tục dưới nắng. Giữ giờ ngủ trưa cho trẻ nhỏ và giờ nghỉ cho người lớn tuổi. Di chuyển xa nên có điểm dừng nghỉ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222466593-0.jpg",
-      "alt": "Vibrant fishing boats in Phan Thiet harbor, capturing Vietnamese coast"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222466593-0.jpg\" alt=\"Vibrant fishing boats in Phan Thiet harbor, capturing Vietnamese coast\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Phòng và bữa ăn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phòng và bữa ăn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn phòng gia đình hoặc phòng liền kề, gần thang máy nếu có. Bữa ăn nên có món mềm, ít cay, phù hợp trẻ nhỏ và người lớn tuổi. Hỏi trước chính sách dành cho trẻ em và giường phụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn phòng gia đình hoặc phòng liền kề, gần thang máy nếu có. Bữa ăn nên có món mềm, ít cay, phù hợp trẻ nhỏ và người lớn tuổi. Hỏi trước chính sách dành cho trẻ em và giường phụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Điểm tham quan phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm tham quan phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ưu tiên điểm ít bậc, dễ đi, có bóng mát hoặc chỗ ngồi. Trải nghiệm trên cát, jeep hay chạy xe địa hình cần cân nhắc sức khỏe từng người; không nên bắt buộc cả nhà cùng tham gia."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ưu tiên điểm ít bậc, dễ đi, có bóng mát hoặc chỗ ngồi. Trải nghiệm trên cát, jeep hay chạy xe địa hình cần cân nhắc sức khỏe từng người; không nên bắt buộc cả nhà cùng tham gia.</span>"
     },
     {
       "type": "h2",
-      "text": "Các nhu cầu riêng cần báo trước"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Các nhu cầu riêng cần báo trước</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo trước người đi lại khó khăn, trẻ cần xe đẩy, chế độ ăn đặc biệt và thuốc men cá nhân. Càng rõ nhu cầu, lịch trình càng dễ điều chỉnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo trước người đi lại khó khăn, trẻ cần xe đẩy, chế độ ăn đặc biệt và thuốc men cá nhân. Càng rõ nhu cầu, lịch trình càng dễ điều chỉnh.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trẻ nhỏ đi Phan Thiết có cần chuẩn bị gì đặc biệt?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Trẻ nhỏ đi Phan Thiết có cần chuẩn bị gì đặc biệt?</span>"
     },
     {
       "type": "p",
-      "text": "Mũ, kem chống nắng, nước uống và đồ ăn nhẹ là cơ bản. Hãy hỏi chính sách trẻ em của từng dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mũ, kem chống nắng, nước uống và đồ ăn nhẹ là cơ bản. Hãy hỏi chính sách trẻ em của từng dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình",
-        "Ăn gì ở Phan Thiết – Mũi Né? Cách chọn thực đơn cho khách đoàn",
-        "Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phan-thiet-mui-ne-co-gi-choi-goi-y-diem-tham-quan-theo-lich-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/an-gi-o-phan-thiet-mui-ne-cach-chon-thuc-don-cho-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ăn gì ở Phan Thiết – Mũi Né? Cách chọn thực đơn cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phan-thiet-1-ngay-2-ngay-1-dem-hay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
