@@ -8,37 +8,36 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Hợp đồng xe đưa đón học sinh hằng ngày khác với thuê xe ngoại khóa một chuyến. Tuyến và cách quản lý cần được thống nhất cho lịch học thực tế.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Hợp đồng xe đưa đón học sinh hằng ngày khác với thuê xe ngoại khóa một chuyến. Tuyến và cách quản lý cần được thống nhất cho lịch học thực tế.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đưa đón học sinh hằng ngày?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đưa đón học sinh hằng ngày?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Khảo sát tuyến đón trả"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khảo sát tuyến đón trả</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi điểm đón, số học sinh từng điểm, giờ vào học và tan học. Cần người phụ trách việc tiếp nhận, bàn giao và cập nhật danh sách. Khả năng phục vụ thường xuyên của tuyến cần được xác nhận trước khi trường thông báo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi điểm đón, số học sinh từng điểm, giờ vào học và tan học. Cần người phụ trách việc tiếp nhận, bàn giao và cập nhật danh sách. Khả năng phục vụ thường xuyên của tuyến cần được xác nhận trước khi trường thông báo.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213062894-0.jpg",
-      "alt": "Hợp đồng xe đưa đón học sinh hằng ngày"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213062894-0.jpg\" alt=\"Hợp đồng xe đưa đón học sinh hằng ngày\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chốt thay đổi trong năm học"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt thay đổi trong năm học</span></strong>"
     },
     {
       "type": "p",
-      "text": "Làm rõ ngày nghỉ, lịch học bù, đổi điểm đón, thời hạn hợp đồng và cách trao đổi phát sinh. Xe và người phụ trách theo phương án cụ thể; bài tư vấn này không thay hợp đồng hoặc xác nhận tuyến đã vận hành."
+      "text": "<span style=\"font-size:16px;color:#374151\">Làm rõ ngày nghỉ, lịch học bù, đổi điểm đón, thời hạn hợp đồng và cách trao đổi phát sinh. Xe và người phụ trách theo phương án cụ thể; bài tư vấn này không thay hợp đồng hoặc xác nhận tuyến đã vận hành.</span>"
     },
     {
       "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những yếu tố làm thay đổi giá thuê xe</span></strong>"
     },
     {
       "type": "list",
@@ -53,11 +52,11 @@
     },
     {
       "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận báo giá nhanh chỉ với 3 thông tin</span></strong>"
     },
     {
       "type": "list",
@@ -69,39 +68,39 @@
     },
     {
       "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Chỉ gửi tên tuyến có nhận được giá cuối cùng không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chỉ gửi tên tuyến có nhận được giá cuối cùng không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận.</span>"
     },
     {
       "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển.</span>"
     },
     {
       "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Báo giá và đặt xe thực hiện thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Xem thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem thêm</span></strong>"
     },
     {
       "type": "list",
@@ -114,23 +113,27 @@
     },
     {
       "type": "h2",
-      "text": "Liên hệ tư vấn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Liên hệ tư vấn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đưa đón học sinh hằng ngày theo nhu cầu của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đưa đón học sinh hằng ngày theo nhu cầu của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nhắn Zalo</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com</span>"
     },
     {
       "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
