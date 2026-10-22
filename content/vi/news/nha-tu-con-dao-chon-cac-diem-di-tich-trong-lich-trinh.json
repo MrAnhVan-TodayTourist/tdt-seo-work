@@ -8,12 +8,12 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tham quan hệ thống nhà tù Côn Đảo là phần quan trọng của chuyến tìm hiểu lịch sử. Để người đi hiểu được bối cảnh và giá trị của di tích, cần có thời gian nghe, quan sát và đặt câu hỏi. Chương trình nên chọn các điểm trọng tâm theo đối tượng, thay vì nối nhiều điểm trong một buổi quá gấp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tham quan hệ thống nhà tù Côn Đảo là phần quan trọng của chuyến tìm hiểu lịch sử. Để người đi hiểu được bối cảnh và giá trị của di tích, cần có thời gian nghe, quan sát và đặt câu hỏi. Chương trình nên chọn các điểm trọng tâm theo đối tượng, thay vì nối nhiều điểm trong một buổi quá gấp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn phạm vi trước khi chốt thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phạm vi trước khi chốt thời gian</span></strong>"
     },
     {
       "type": "html",
@@ -21,83 +21,87 @@
     },
     {
       "type": "p",
-      "text": "Trại Phú Hải, Chuồng Cọp Pháp và Chuồng Cọp Mỹ là những tên thường xuất hiện trong nhu cầu tham quan. Đoàn cần làm rõ điểm nào nằm trong lịch và điểm nào chỉ được giới thiệu. Không gọi toàn bộ hệ thống là một điểm có thể xem hết rất nhanh. Nên kiểm tra tình trạng phục vụ từng nơi để dự kiến thời lượng và tuyến di chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trại Phú Hải, Chuồng Cọp Pháp và Chuồng Cọp Mỹ là những tên thường xuất hiện trong nhu cầu tham quan. Đoàn cần làm rõ điểm nào nằm trong lịch và điểm nào chỉ được giới thiệu. Không gọi toàn bộ hệ thống là một điểm có thể xem hết rất nhanh. Nên kiểm tra tình trạng phục vụ từng nơi để dự kiến thời lượng và tuyến di chuyển.</span>"
     },
     {
       "type": "h2",
-      "text": "Dùng thuyết minh để nối các điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dùng thuyết minh để nối các điểm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một phần giới thiệu bối cảnh trước khi đi giúp khách hiểu vì sao từng nơi có ý nghĩa. Hướng dẫn viên nên phân biệt tên di tích, chức năng và giai đoạn được trình bày từ nguồn đáng tin cậy. Không cần dùng nhiều chi tiết gây sốc để thu hút chú ý. Với người muốn tìm hiểu sâu, dành khoảng hỏi đáp hiệu quả hơn việc thêm một điểm nhưng không có thời gian giải thích."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một phần giới thiệu bối cảnh trước khi đi giúp khách hiểu vì sao từng nơi có ý nghĩa. Hướng dẫn viên nên phân biệt tên di tích, chức năng và giai đoạn được trình bày từ nguồn đáng tin cậy. Không cần dùng nhiều chi tiết gây sốc để thu hút chú ý. Với người muốn tìm hiểu sâu, dành khoảng hỏi đáp hiệu quả hơn việc thêm một điểm nhưng không có thời gian giải thích.</span>"
     },
     {
       "type": "h2",
-      "text": "Điều chỉnh theo độ tuổi và sức đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điều chỉnh theo độ tuổi và sức đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Học sinh cần cách kể phù hợp lứa tuổi; người lớn tuổi cần nhịp đi và chỗ nghỉ hợp lý. Đoàn trường học nên có người phụ trách nhóm và quy ước tập trung trước khi chuyển điểm. Không tự xem hành trình lịch sử là hoạt động nhẹ cho mọi người. Quãng đường, thời tiết và thời gian đứng nghe đều cần được tính trong lịch chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Học sinh cần cách kể phù hợp lứa tuổi; người lớn tuổi cần nhịp đi và chỗ nghỉ hợp lý. Đoàn trường học nên có người phụ trách nhóm và quy ước tập trung trước khi chuyển điểm. Không tự xem hành trình lịch sử là hoạt động nhẹ cho mọi người. Quãng đường, thời tiết và thời gian đứng nghe đều cần được tính trong lịch chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ trật tự và kiểm tra dịch vụ theo ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ trật tự và kiểm tra dịch vụ theo ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tham quan di tích cần tuân thủ khu vực được phép và chỉ dẫn tại điểm. Vé, giờ mở cửa, thuyết minh và điểm tạm ngưng nếu có phải được kiểm tra gần ngày đi. TodayTourist tư vấn phần tham quan trong hành trình về nguồn hoặc kết hợp nghỉ dưỡng; danh sách cụ thể và dịch vụ bao gồm được ghi trong chương trình xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan di tích cần tuân thủ khu vực được phép và chỉ dẫn tại điểm. Vé, giờ mở cửa, thuyết minh và điểm tạm ngưng nếu có phải được kiểm tra gần ngày đi. TodayTourist tư vấn phần tham quan trong hành trình về nguồn hoặc kết hợp nghỉ dưỡng; danh sách cụ thể và dịch vụ bao gồm được ghi trong chương trình xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một buổi có thể xem hết mọi di tích không? Không nên mặc định; cần chọn phạm vi phù hợp và giữ thời gian nghe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một buổi có thể xem hết mọi di tích không? Không nên mặc định; cần chọn phạm vi phù hợp và giữ thời gian nghe.</span>"
     },
     {
       "type": "p",
-      "text": "Vé tham quan có nằm trong tour? Kiểm tra danh sách điểm và phần bao gồm của chương trình cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Vé tham quan có nằm trong tour? Kiểm tra danh sách điểm và phần bao gồm của chương trình cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hành trình về nguồn Côn Đảo cho cơ quan, trường học và đoàn thể",
-        "Bảo tàng, Dinh Chúa Đảo và Cầu tàu 914: hành trình tìm hiểu lịch sử",
-        "Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-ve-nguon-con-dao-cho-co-quan-truong-hoc-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hành trình về nguồn Côn Đảo cho cơ quan, trường học và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bao-tang-dinh-chua-dao-va-cau-tau-914-hanh-trinh-tim-hieu-lich-su/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bảo tàng, Dinh Chúa Đảo và Cầu tàu 914: hành trình tìm hiểu lịch sử</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/con-dao-di-dau-chon-diem-theo-thoi-gian-va-doi-tuong-khach/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
