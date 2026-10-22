@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Resort phù hợp đoàn cần đáp ứng các dịch vụ cùng lúc: phòng, bữa ăn, di chuyển nội khu và hoạt động chung. Hạng sao hoặc ảnh đẹp không đủ để kết luận khả năng phục vụ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Resort phù hợp đoàn cần đáp ứng các dịch vụ cùng lúc: phòng, bữa ăn, di chuyển nội khu và hoạt động chung. Hạng sao hoặc ảnh đẹp không đủ để kết luận khả năng phục vụ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đặt đúng loại phòng và khu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt đúng loại phòng và khu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi loại giường, số người, phòng đơn, khách thêm và vị trí khu ở. Nếu phòng rải xa nhau, tính thời gian tập trung và hỗ trợ nội khu. Hỏi khoảng cách đến biển và quyền sử dụng hồ bơi; không mặc định tên 'beach resort' đảm bảo mọi phòng có tầm nhìn biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi loại giường, số người, phòng đơn, khách thêm và vị trí khu ở. Nếu phòng rải xa nhau, tính thời gian tập trung và hỗ trợ nội khu. Hỏi khoảng cách đến biển và quyền sử dụng hồ bơi; không mặc định tên 'beach resort' đảm bảo mọi phòng có tầm nhìn biển.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Kiểm tra hoạt động đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra hoạt động đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Team Building cần mặt bằng và thời gian; gala cần khu tiệc; hội nghị cần phòng họp và thiết bị. Các địa điểm này có thể phải đặt riêng ngay cả khi còn phòng ngủ. Kiểm tra khu dùng chung hay riêng, giới hạn âm thanh, giờ setup và phương án mưa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Team Building cần mặt bằng và thời gian; gala cần khu tiệc; hội nghị cần phòng họp và thiết bị. Các địa điểm này có thể phải đặt riêng ngay cả khi còn phòng ngủ. Kiểm tra khu dùng chung hay riêng, giới hạn âm thanh, giờ setup và phương án mưa.</span>"
     },
     {
       "type": "h2",
-      "text": "So gói trên cùng quyền lợi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So gói trên cùng quyền lợi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đối chiếu bữa sáng, bữa khác, tiện ích, xe đưa đón và dịch vụ trẻ em. Spa, hoạt động có hướng dẫn hoặc vé vui chơi không tự động thuộc giá phòng. Khi cơ sở chưa được giữ, ghi là dự kiến. TodayTourist tư vấn lựa chọn theo ngày đi và quy mô, rồi xác nhận tên cơ sở trong báo giá cuối cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đối chiếu bữa sáng, bữa khác, tiện ích, xe đưa đón và dịch vụ trẻ em. Spa, hoạt động có hướng dẫn hoặc vé vui chơi không tự động thuộc giá phòng. Khi cơ sở chưa được giữ, ghi là dự kiến. TodayTourist tư vấn lựa chọn theo ngày đi và quy mô, rồi xác nhận tên cơ sở trong báo giá cuối cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Resort có phòng trống là có thể tổ chức gala không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Resort có phòng trống là có thể tổ chức gala không?</span>"
     },
     {
       "type": "p",
-      "text": "Chưa đủ. Khu tiệc, thiết bị và khung giờ có thể đã được đặt hoặc có điều kiện riêng; cần kiểm tra đồng thời."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chưa đủ. Khu tiệc, thiết bị và khung giờ có thể đã được đặt hoặc có điều kiện riêng; cần kiểm tra đồng thời.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty",
-        "Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc",
-        "Gala Dinner Phú Quốc: chốt khu tiệc, thiết bị và kịch bản"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mice-phu-quoc-ket-hop-hoi-nghi-nghi-duong-va-su-kien-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/o-duong-dong-bac-dao-hay-nam-dao-chon-khu-luu-tru-phu-quoc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-phu-quoc-chot-khu-tiec-thiet-bi-va-kich-ban/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Phú Quốc: chốt khu tiệc, thiết bị và kịch bản</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
