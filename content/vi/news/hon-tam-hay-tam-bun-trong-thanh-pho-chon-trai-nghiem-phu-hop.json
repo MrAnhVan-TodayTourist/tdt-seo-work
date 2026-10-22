@@ -2,7 +2,7 @@
   "slug": "hon-tam-hay-tam-bun-trong-thanh-pho-chon-trai-nghiem-phu-hop",
   "title": "Hòn Tằm hay tắm bùn trong thành phố: chọn trải nghiệm phù hợp",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "hon-tam-hay-tam-bun-trong-thanh-pho-chon-trai-nghiem-phu-hop.jpg",
+  "image": "hon-tam-hay-tam-bun-trong-thanh-pho-chon-trai-nghiem-phu-hop-v2.jpg",
   "summary": "Khách muốn tắm bùn ở Nha Trang có thể cân nhắc trải nghiệm trên Hòn Tằm hoặc tại khu dịch vụ trên đất liền như I-Resort. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Hòn Tằm có dịch vụ tắm bùn và không gian nghỉ dưỡng trên đảo. Khi so gói, cần xem phần vận chuyển, khu sử dụng, bữa ăn và thời gian trải nghiệm. Đoàn phải tính tập kết tại bến và điều kiện di chuyển, không chỉ thời gian ngâm bùn. Gói tham quan trong ngày khác với lưu trú tại resort."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216121323-0.jpg",
-      "alt": "Hòn Tằm hay tắm bùn trong thành phố: chọn trải nghiệm phù hợp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216121323-0.jpg\" alt=\"Hòn Tằm hay tắm bùn trong thành phố: chọn trải nghiệm phù hợp\"></figure>"
     },
     {
       "type": "h2",
