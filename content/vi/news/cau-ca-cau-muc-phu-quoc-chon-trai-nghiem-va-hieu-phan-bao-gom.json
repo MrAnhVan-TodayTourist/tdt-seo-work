@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Câu cá và câu mực là các lựa chọn trải nghiệm biển khác nhau về thời điểm và cách tổ chức. Trước khi thêm vào tour, khách cần biết phương tiện, lịch và bữa ăn cụ thể."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Câu cá và câu mực là các lựa chọn trải nghiệm biển khác nhau về thời điểm và cách tổ chức. Trước khi thêm vào tour, khách cần biết phương tiện, lịch và bữa ăn cụ thể.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn đúng hoạt động mong muốn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn đúng hoạt động mong muốn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Câu cá ban ngày có thể kết hợp phần nghỉ hoặc tham quan trên biển; câu mực thường được tìm như hoạt động buổi tối. Hỏi nơi đón, thời gian, quy mô, dụng cụ và người hướng dẫn. Không mặc định một chương trình có tên câu cá sẽ bao gồm canô nhiều đảo hoặc lặn bằng thiết bị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Câu cá ban ngày có thể kết hợp phần nghỉ hoặc tham quan trên biển; câu mực thường được tìm như hoạt động buổi tối. Hỏi nơi đón, thời gian, quy mô, dụng cụ và người hướng dẫn. Không mặc định một chương trình có tên câu cá sẽ bao gồm canô nhiều đảo hoặc lặn bằng thiết bị.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Không cam kết sản lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không cam kết sản lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khả năng câu được phụ thuộc điều kiện thực tế. Nếu gói có bữa ăn, cần thực đơn đã đặt, không chỉ lời hứa ăn những gì tự câu được. Người không tham gia cần biết có thể nghỉ trên phương tiện hay lựa chọn trên bờ. Kiểm tra điều kiện phù hợp cho trẻ nhỏ và khách ngại đi biển trước khi đăng ký."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khả năng câu được phụ thuộc điều kiện thực tế. Nếu gói có bữa ăn, cần thực đơn đã đặt, không chỉ lời hứa ăn những gì tự câu được. Người không tham gia cần biết có thể nghỉ trên phương tiện hay lựa chọn trên bờ. Kiểm tra điều kiện phù hợp cho trẻ nhỏ và khách ngại đi biển trước khi đăng ký.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính thời tiết và chặng quay về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính thời tiết và chặng quay về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hoạt động biển cần được nhà vận hành xác nhận và có hướng dẫn tại chỗ. Hỏi cách xử lý khi thay đổi lịch hoặc không tổ chức được. Buổi tối cần chốt xe, điểm hẹn và giờ về nơi nghỉ. Báo giá ghi rõ phần đã gồm, tự chọn và dịch vụ phát sinh; không đưa mọi trải nghiệm biển vào gói cơ bản khi chưa đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hoạt động biển cần được nhà vận hành xác nhận và có hướng dẫn tại chỗ. Hỏi cách xử lý khi thay đổi lịch hoặc không tổ chức được. Buổi tối cần chốt xe, điểm hẹn và giờ về nơi nghỉ. Báo giá ghi rõ phần đã gồm, tự chọn và dịch vụ phát sinh; không đưa mọi trải nghiệm biển vào gói cơ bản khi chưa đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi câu mực có chắc mang về nhiều mực không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi câu mực có chắc mang về nhiều mực không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Nên chọn vì trải nghiệm, đồng thời kiểm tra bữa ăn và quyền lợi đã đặt thay vì kỳ vọng sản lượng được bảo đảm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Nên chọn vì trải nghiệm, đồng thời kiểm tra bữa ăn và quyền lợi đã đặt thay vì kỳ vọng sản lượng được bảo đảm.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phú Quốc ăn gì: chọn đặc sản và thực đơn hải sản cho đoàn",
-        "Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế",
-        "Đi Phú Quốc mùa nào: chọn ngày và phương án khi thời tiết thay đổi"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phu-quoc-an-gi-chon-dac-san-va-thuc-don-hai-san-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phú Quốc ăn gì: chọn đặc sản và thực đơn hải sản cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cano-3-dao-4-dao-phu-quoc-so-bang-dich-vu-thuc-te/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phu-quoc-mua-nao-chon-ngay-va-phuong-an-khi-thoi-tiet-thay-doi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phú Quốc mùa nào: chọn ngày và phương án khi thời tiết thay đổi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
