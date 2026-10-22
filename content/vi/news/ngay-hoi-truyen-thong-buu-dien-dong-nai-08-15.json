@@ -8,32 +8,37 @@
   "published_at": "2026-08-15",
   "content": [
     {
-      "type": "p",
-      "text": "15/08/2026"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">15/08/2026</span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "Một ngày hội – một màu áo – một tinh thần VIETNAM POST!"
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày hội – một màu áo – một tinh thần VIETNAM POST!</span>"
     },
     {
       "type": "p",
-      "text": "Cán bộ, nhân viên Bưu điện Đồng Nai đến từ nhiều khu vực trên địa bàn đã cùng hội tụ, hòa mình vào chương trình Team Building sôi động, cùng chơi hết mình, cười hết sức và gắn kết hơn bao giờ hết."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cán bộ, nhân viên Bưu điện Đồng Nai đến từ nhiều khu vực trên địa bàn đã cùng hội tụ, hòa mình vào chương trình Team Building sôi động, cùng chơi hết mình, cười hết sức và gắn kết hơn bao giờ hết.</span>"
     },
     {
       "type": "p",
-      "text": "Dẫn dắt chương trình: MC Hải Đăng – kết nối năng lượng, khuấy động không khí và tạo nên những khoảnh khắc bùng nổ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dẫn dắt chương trình: MC Hải Đăng – kết nối năng lượng, khuấy động không khí và tạo nên những khoảnh khắc bùng nổ.</span>"
     },
     {
       "type": "p",
-      "text": "Một ngày hội khép lại, nhưng tinh thần ĐOÀN KẾT – BỨT PHÁ – ĐỒNG HÀNH vẫn còn nguyên!"
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày hội khép lại, nhưng tinh thần ĐOÀN KẾT – BỨT PHÁ – ĐỒNG HÀNH vẫn còn nguyên!</span>"
     },
     {
       "type": "p",
-      "text": "TodayTourist vinh dự được đồng hành cùng Bưu điện Đồng Nai trong ngày hội ý nghĩa này."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist vinh dự được đồng hành cùng Bưu điện Đồng Nai trong ngày hội ý nghĩa này.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-15."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-15.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
-  ]
+  ],
+  "hidden": false
 }
