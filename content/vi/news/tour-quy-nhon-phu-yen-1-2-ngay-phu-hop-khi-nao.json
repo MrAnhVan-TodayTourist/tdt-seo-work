@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn hoặc Phú Yên một ngày thường phù hợp với khách đã có mặt tại điểm đến. Nếu xuất phát từ Biên Hòa, Đồng Nai hay TP.HCM, cần cộng cả thời gian đi và về trước khi chọn một chuyến chỉ kéo dài một hoặc hai ngày."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn hoặc Phú Yên một ngày thường phù hợp với khách đã có mặt tại điểm đến. Nếu xuất phát từ Biên Hòa, Đồng Nai hay TP.HCM, cần cộng cả thời gian đi và về trước khi chọn một chuyến chỉ kéo dài một hoặc hai ngày.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đã đến nơi: chọn một tuyến cho một ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đã đến nơi: chọn một tuyến cho một ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ở Quy Nhơn có thể chọn Kỳ Co – Eo Gió, tuyến Tây Sơn hoặc tham quan văn hóa gần khu lưu trú. Ở Phú Yên có thể chọn hướng Bắc hoặc hướng Nam. Hỏi rõ điểm đón, giờ kết thúc, bữa ăn và vé đã bao gồm. Một tour trong ngày nên giữ khoảng nghỉ và tính cả thời gian tập trung khách, không chỉ thời gian ngồi xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ở Quy Nhơn có thể chọn Kỳ Co – Eo Gió, tuyến Tây Sơn hoặc tham quan văn hóa gần khu lưu trú. Ở Phú Yên có thể chọn hướng Bắc hoặc hướng Nam. Hỏi rõ điểm đón, giờ kết thúc, bữa ăn và vé đã bao gồm. Một tour trong ngày nên giữ khoảng nghỉ và tính cả thời gian tập trung khách, không chỉ thời gian ngồi xe.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Đi hai ngày: ưu tiên một vùng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi hai ngày: ưu tiên một vùng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với hai ngày tại điểm đến, chọn một trải nghiệm chính mỗi ngày và lưu trú thuận tuyến thường dễ tận hưởng hơn cố khám phá cả Quy Nhơn lẫn Phú Yên. Công ty muốn Team Building nên giảm điểm tham quan và chọn địa điểm phù hợp hoạt động. Gia đình có trẻ nhỏ có thể giữ một buổi tự do thay cho việc chuyển tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với hai ngày tại điểm đến, chọn một trải nghiệm chính mỗi ngày và lưu trú thuận tuyến thường dễ tận hưởng hơn cố khám phá cả Quy Nhơn lẫn Phú Yên. Công ty muốn Team Building nên giảm điểm tham quan và chọn địa điểm phù hợp hoạt động. Gia đình có trẻ nhỏ có thể giữ một buổi tự do thay cho việc chuyển tuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Từ Đồng Nai hoặc TP.HCM: tính đủ thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Từ Đồng Nai hoặc TP.HCM: tính đủ thời gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến ngắn bằng máy bay còn phụ thuộc giờ bay và chặng đưa đón sân bay. Đi bằng xe đường dài cần cân nhắc nhịp nghỉ của cả đoàn; không nên đọc tên 2N1Đ rồi nghĩ đã có hai ngày trọn tại biển. Nếu phần di chuyển chiếm quá nhiều thời gian, hãy xem xét tăng thời lượng hoặc chọn điểm gần hơn cho lần nghỉ ngắn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến ngắn bằng máy bay còn phụ thuộc giờ bay và chặng đưa đón sân bay. Đi bằng xe đường dài cần cân nhắc nhịp nghỉ của cả đoàn; không nên đọc tên 2N1Đ rồi nghĩ đã có hai ngày trọn tại biển. Nếu phần di chuyển chiếm quá nhiều thời gian, hãy xem xét tăng thời lượng hoặc chọn điểm gần hơn cho lần nghỉ ngắn.</span>"
     },
     {
       "type": "h2",
-      "text": "Những điều cần chốt khi đặt tour tại chỗ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những điều cần chốt khi đặt tour tại chỗ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cung cấp tên khách sạn, số khách, ngày đi và điểm mong muốn. Xác nhận đoàn ghép hay riêng, nơi trả khách và điều kiện thay đổi hoạt động biển. Nếu cần nối với chuyến bay hoặc tàu, báo giờ phải có mặt tại điểm tiếp theo và dành khoảng đệm phù hợp; không đặt giờ kết thúc tour sát giờ khởi hành phương tiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cung cấp tên khách sạn, số khách, ngày đi và điểm mong muốn. Xác nhận đoàn ghép hay riêng, nơi trả khách và điều kiện thay đổi hoạt động biển. Nếu cần nối với chuyến bay hoặc tàu, báo giờ phải có mặt tại điểm tiếp theo và dành khoảng đệm phù hợp; không đặt giờ kết thúc tour sát giờ khởi hành phương tiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đặt tour ngày mà tự mua vé máy bay không? Có thể tư vấn dịch vụ tại điểm đến, cần xác nhận điểm đón và phạm vi phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đặt tour ngày mà tự mua vé máy bay không? Có thể tư vấn dịch vụ tại điểm đến, cần xác nhận điểm đón và phạm vi phục vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Tour một ngày có luôn bao gồm mọi điểm nổi tiếng không? Không; danh sách điểm tùy tuyến và thời gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour một ngày có luôn bao gồm mọi điểm nổi tiếng không? Không; danh sách điểm tùy tuyến và thời gian.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn",
-        "Gành Đá Đĩa – Mằng Lăng – Đầm Ô Loan: tuyến Bắc Phú Yên",
-        "Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ky-co-eo-gio-chon-phuong-an-di-trong-tour-quy-nhon/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ganh-da-dia-mang-lang-dam-o-loan-tuyen-bac-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gành Đá Đĩa – Mằng Lăng – Đầm Ô Loan: tuyến Bắc Phú Yên</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mui-dien-vung-ro-hon-nua-chon-tuyen-nam-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
