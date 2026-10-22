@@ -3,21 +3,21 @@
   "title": "Tour Măng Đen: chọn nghỉ mát hay ghé tham quan trong ngày",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tour-mang-den-v2.jpg",
-  "summary": "Tour Măng Đen. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Một tour có tên Măng Đen có thể chỉ ghé tham quan rồi về Kon Tum, hoặc lưu trú ngay tại Măng Đen.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Một tour có tên Măng Đen có thể chỉ ghé tham quan rồi về Kon Tum, hoặc lưu trú ngay tại Măng Đen. Nếu mục đích là nghỉ mát và có buổi tối thư thả, bạn cần kiểm tra nơi ngủ trước khi đặt, không chỉ nhìn ảnh rừng thông trong tiêu đề."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một tour có tên Măng Đen có thể chỉ ghé tham quan rồi về Kon Tum, hoặc lưu trú ngay tại Măng Đen. Nếu mục đích là nghỉ mát và có buổi tối thư thả, bạn cần kiểm tra nơi ngủ trước khi đặt, không chỉ nhìn ảnh rừng thông trong tiêu đề.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Hỏi rõ ghé hay ở lại"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi rõ ghé hay ở lại</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch mẫu TodayTourist hiện giới thiệu chặng tham quan Măng Đen trong hành trình liên tuyến. Người muốn một đêm tại đây cần yêu cầu riêng để xem phòng và cách điều chỉnh đường đi. Không coi tên điểm có trong tour là bằng chứng khách được ngủ tại điểm đó."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch mẫu TodayTourist hiện giới thiệu chặng tham quan Măng Đen trong hành trình liên tuyến. Người muốn một đêm tại đây cần yêu cầu riêng để xem phòng và cách điều chỉnh đường đi. Không coi tên điểm có trong tour là bằng chứng khách được ngủ tại điểm đó.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chọn phần tham quan theo nhịp nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phần tham quan theo nhịp nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể ưu tiên cảnh quan, một điểm hồ hoặc thác theo điều kiện thực tế. Nếu nhóm cần nghỉ nhiều, không nhất thiết đi hết danh sách ảnh trên mạng. Đặt giờ ăn, về phòng và khoảng tự do rõ để phần nghỉ mát không bị biến thành chạy liên tục giữa các điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể ưu tiên cảnh quan, một điểm hồ hoặc thác theo điều kiện thực tế. Nếu nhóm cần nghỉ nhiều, không nhất thiết đi hết danh sách ảnh trên mạng. Đặt giờ ăn, về phòng và khoảng tự do rõ để phần nghỉ mát không bị biến thành chạy liên tục giữa các điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra dịch vụ buổi tối cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra dịch vụ buổi tối cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách sạn, nhà hàng và khu tổ chức Gala phải được xác nhận theo số khách. Nếu thêm BBQ hoặc giao lưu văn hóa, hỏi chỗ ngồi, thiết bị và giờ sử dụng. Đoàn đông không nên chọn một nơi chỉ vì ảnh đẹp mà chưa kiểm tra đủ phòng và đường xe vào."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách sạn, nhà hàng và khu tổ chức Gala phải được xác nhận theo số khách. Nếu thêm BBQ hoặc giao lưu văn hóa, hỏi chỗ ngồi, thiết bị và giờ sử dụng. Đoàn đông không nên chọn một nơi chỉ vì ảnh đẹp mà chưa kiểm tra đủ phòng và đường xe vào.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể thiết kế riêng tour chỉ đi Măng Đen không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi nhu cầu. Lịch, phương tiện, nơi nghỉ và giá cần được kiểm tra trước khi xác nhận, khác chương trình liên tuyến tham khảo.</span>"
     },
     {
       "type": "h2",
-      "text": "Có thể thiết kế riêng tour chỉ đi Măng Đen không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi nhu cầu. Lịch, phương tiện, nơi nghỉ và giá cần được kiểm tra trước khi xác nhận, khác chương trình liên tuyến tham khảo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thac-pa-sy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thác Pa Sỹ và hồ Đăk Ke Măng Đen: chọn nhịp tham quan</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ta-dung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tà Đùng: chọn ngắm hồ, đi thuyền và tuyến kết hợp Ban Mê</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Thác Pa Sỹ và hồ Đăk Ke Măng Đen: chọn nhịp tham quan",
-        "Tour Tà Đùng: chọn ngắm hồ, đi thuyền và tuyến kết hợp Ban Mê",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
