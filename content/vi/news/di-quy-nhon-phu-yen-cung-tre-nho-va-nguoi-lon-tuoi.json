@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chuyến Quy Nhơn – Phú Yên cùng gia đình cần phù hợp với người có nhịp đi chậm nhất trong nhóm. Trẻ nhỏ và người lớn tuổi có thể tận hưởng biển, ẩm thực và cảnh quan nếu lịch trình có đủ khoảng nghỉ và lựa chọn linh hoạt."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chuyến Quy Nhơn – Phú Yên cùng gia đình cần phù hợp với người có nhịp đi chậm nhất trong nhóm. Trẻ nhỏ và người lớn tuổi có thể tận hưởng biển, ẩm thực và cảnh quan nếu lịch trình có đủ khoảng nghỉ và lựa chọn linh hoạt.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn phương tiện theo khả năng nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phương tiện theo khả năng nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người khó ngủ trên xe có thể cân nhắc phương án bay hoặc tăng thời gian nghỉ sau khi đến. Chuyến bay vẫn cần tính chặng xe đưa đón và thời gian chờ. Nếu đi xe, trao đổi nhu cầu chỗ ngồi hoặc giường, hành lý và điểm dừng. Không nên chọn chỉ theo thời lượng quảng cáo mà bỏ qua sự thoải mái của từng thành viên."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người khó ngủ trên xe có thể cân nhắc phương án bay hoặc tăng thời gian nghỉ sau khi đến. Chuyến bay vẫn cần tính chặng xe đưa đón và thời gian chờ. Nếu đi xe, trao đổi nhu cầu chỗ ngồi hoặc giường, hành lý và điểm dừng. Không nên chọn chỉ theo thời lượng quảng cáo mà bỏ qua sự thoải mái của từng thành viên.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Ưu tiên phòng và bữa ăn thuận tiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ưu tiên phòng và bữa ăn thuận tiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi rõ số người, tuổi trẻ em, cơ cấu giường và nhu cầu phòng gần nhau. Kiểm tra thang máy, đường đi đến nhà hàng và vị trí bữa sáng. Thực đơn nên có món dễ dùng, đồng thời nêu trước nhu cầu ăn chay hoặc không dùng hải sản. Chính sách trẻ em cần xác nhận theo dịch vụ cụ thể, không lấy một tỷ lệ áp dụng cho mọi tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi rõ số người, tuổi trẻ em, cơ cấu giường và nhu cầu phòng gần nhau. Kiểm tra thang máy, đường đi đến nhà hàng và vị trí bữa sáng. Thực đơn nên có món dễ dùng, đồng thời nêu trước nhu cầu ăn chay hoặc không dùng hải sản. Chính sách trẻ em cần xác nhận theo dịch vụ cụ thể, không lấy một tỷ lệ áp dụng cho mọi tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Có lựa chọn nhẹ hơn trong mỗi ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Có lựa chọn nhẹ hơn trong mỗi ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kỳ Co, Cù Lao Xanh hoặc Hòn Nưa cần xét việc lên xuống phương tiện và điều kiện biển. Mũi Điện, Eo Gió hoặc các khu có bậc thang cần xem khả năng đi bộ. Thành viên không tham gia có thể nghỉ tại nơi lưu trú hoặc chọn trải nghiệm nhẹ đã bố trí, có đầu mối hỗ trợ; không nên tách người khỏi nhóm mà chưa có kế hoạch."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kỳ Co, Cù Lao Xanh hoặc Hòn Nưa cần xét việc lên xuống phương tiện và điều kiện biển. Mũi Điện, Eo Gió hoặc các khu có bậc thang cần xem khả năng đi bộ. Thành viên không tham gia có thể nghỉ tại nơi lưu trú hoặc chọn trải nghiệm nhẹ đã bố trí, có đầu mối hỗ trợ; không nên tách người khỏi nhóm mà chưa có kế hoạch.</span>"
     },
     {
       "type": "h2",
-      "text": "Đi ít điểm nhưng đủ thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi ít điểm nhưng đủ thời gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn riêng Quy Nhơn hoặc Phú Yên để giảm chuyển tuyến. Lịch mỗi ngày nên có một hoạt động chính, bữa ăn đúng nhịp và khoảng tự do. Gia đình gửi số khách, độ tuổi và những điều không phù hợp ngay từ đầu để TodayTourist tư vấn phương án sát thực tế, thay vì sửa nhiều lần sau khi đặt dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn riêng Quy Nhơn hoặc Phú Yên để giảm chuyển tuyến. Lịch mỗi ngày nên có một hoạt động chính, bữa ăn đúng nhịp và khoảng tự do. Gia đình gửi số khách, độ tuổi và những điều không phù hợp ngay từ đầu để TodayTourist tư vấn phương án sát thực tế, thay vì sửa nhiều lần sau khi đặt dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có bắt buộc đi canô không? Không; có thể hỏi phương án không ra đảo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có bắt buộc đi canô không? Không; có thể hỏi phương án không ra đảo.</span>"
     },
     {
       "type": "p",
-      "text": "Gia đình ít người nên đi ghép hay riêng? So lịch ghép cụ thể với mức linh hoạt và chi phí của chương trình riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gia đình ít người nên đi ghép hay riêng? So lịch ghép cụ thể với mức linh hoạt và chi phí của chương trình riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?",
-        "Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn",
-        "Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-hay-doan-rieng-quy-nhon-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép hay đoàn riêng Quy Nhơn – Phú Yên?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-khach-san-resort-quy-nhon-phu-yen-cho-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn khách sạn, resort Quy Nhơn – Phú Yên cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ky-co-eo-gio-chon-phuong-an-di-trong-tour-quy-nhon/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kỳ Co – Eo Gió: chọn phương án đi trong tour Quy Nhơn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
