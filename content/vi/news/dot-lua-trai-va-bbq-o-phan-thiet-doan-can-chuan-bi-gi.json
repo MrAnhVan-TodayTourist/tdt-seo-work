@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Buổi tối ở biển là lúc đoàn dễ gắn kết nhất, nhưng BBQ và lửa trại có điều kiện tổ chức riêng. Xác nhận trước giúp chương trình đẹp mà vẫn an toàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Buổi tối ở biển là lúc đoàn dễ gắn kết nhất, nhưng BBQ và lửa trại có điều kiện tổ chức riêng. Xác nhận trước giúp chương trình đẹp mà vẫn an toàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "BBQ, lửa trại hay kết hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">BBQ, lửa trại hay kết hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "BBQ phù hợp bữa tối ngoài trời, lửa trại phù hợp phần giao lưu và hoạt náo. Có thể làm một trong hai, hoặc ăn trước rồi chuyển sang lửa trại. Nên chọn theo số người, thời tiết và thời gian còn lại của buổi tối."
+      "text": "<span style=\"font-size:16px;color:#374151\">BBQ phù hợp bữa tối ngoài trời, lửa trại phù hợp phần giao lưu và hoạt náo. Có thể làm một trong hai, hoặc ăn trước rồi chuyển sang lửa trại. Nên chọn theo số người, thời tiết và thời gian còn lại của buổi tối.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222412438-0.jpg",
-      "alt": "Scenic view of Ke Ga Cape lighthouse and boats in Bình Thuận, Vietnam "
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222412438-0.jpg\" alt=\"Scenic view of Ke Ga Cape lighthouse and boats in Bình Thuận, Vietnam \"></figure>"
     },
     {
       "type": "h2",
-      "text": "Mặt bằng và quyền tổ chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mặt bằng và quyền tổ chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra khu vực có cho phép nhóm đốt lửa hay nướng không, có khu riêng cho đoàn, chỗ ngồi, điện và nước. Không tự ý tổ chức ở nơi chưa được phép. Với resort, hãy hỏi quy định của khu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra khu vực có cho phép nhóm đốt lửa hay nướng không, có khu riêng cho đoàn, chỗ ngồi, điện và nước. Không tự ý tổ chức ở nơi chưa được phép. Với resort, hãy hỏi quy định của khu.</span>"
     },
     {
       "type": "h2",
-      "text": "Thực đơn và đối tượng tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thực đơn và đối tượng tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất món nướng, món ăn kèm, đồ uống và phần cho khách ăn chay hoặc dị ứng. Đoàn có trẻ em hoặc người lớn tuổi nên có món nhẹ và khu ngồi xa khói."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất món nướng, món ăn kèm, đồ uống và phần cho khách ăn chay hoặc dị ứng. Đoàn có trẻ em hoặc người lớn tuổi nên có món nhẹ và khu ngồi xa khói.</span>"
     },
     {
       "type": "h2",
-      "text": "Quy định lửa, giờ hoạt động và phương án dự phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quy định lửa, giờ hoạt động và phương án dự phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lửa cần có người giám sát, khoảng cách an toàn và phương án dập. Giờ hoạt động nên theo quy định nơi tổ chức. Nếu mưa hoặc gió lớn, chuẩn bị chuyển sang không gian trong nhà hoặc đổi chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lửa cần có người giám sát, khoảng cách an toàn và phương án dập. Giờ hoạt động nên theo quy định nơi tổ chức. Nếu mưa hoặc gió lớn, chuẩn bị chuyển sang không gian trong nhà hoặc đổi chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lửa trại có luôn được phép ở bãi biển không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Lửa trại có luôn được phép ở bãi biển không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Mỗi địa điểm có quy định riêng, cần xác nhận trước khi đưa vào chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Mỗi địa điểm có quy định riêng, cần xác nhận trước khi đưa vào chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp",
-        "Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp",
-        "Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phan-thiet-mui-ne-chon-bai-bien-va-tro-choi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-phan-thiet-lua-chon-khong-gian-va-kich-ban-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-phan-thiet-mui-ne-cho-doan-cong-ty-nhu-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
