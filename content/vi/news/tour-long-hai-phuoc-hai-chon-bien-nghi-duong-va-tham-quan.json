@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Long Hải và Phước Hải thường được cân nhắc cho chuyến nghỉ biển ngắn ngày. Hai tên gọi không nên bị dùng thay thế cho nhau trong báo giá: nơi lưu trú, bãi biển và điểm tham quan của đoàn cần được nêu rõ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Long Hải và Phước Hải thường được cân nhắc cho chuyến nghỉ biển ngắn ngày. Hai tên gọi không nên bị dùng thay thế cho nhau trong báo giá: nơi lưu trú, bãi biển và điểm tham quan của đoàn cần được nêu rõ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn khu vực nghỉ trước khi chọn điểm ghé"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn khu vực nghỉ trước khi chọn điểm ghé</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi khách sạn hoặc resort nằm ở đâu, cách bãi biển bao xa và đoàn có sử dụng hồ bơi hay không. Với nhóm muốn trải nghiệm làng chài và ăn hải sản, có thể đề nghị phần chương trình tại Phước Hải. Với nhóm muốn viếng Dinh Cô, cần bố trí giờ ghé Long Hải phù hợp. Không nên suy ra tên tour đồng nghĩa nghỉ ngay sát biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi khách sạn hoặc resort nằm ở đâu, cách bãi biển bao xa và đoàn có sử dụng hồ bơi hay không. Với nhóm muốn trải nghiệm làng chài và ăn hải sản, có thể đề nghị phần chương trình tại Phước Hải. Với nhóm muốn viếng Dinh Cô, cần bố trí giờ ghé Long Hải phù hợp. Không nên suy ra tên tour đồng nghĩa nghỉ ngay sát biển.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Kết hợp tham quan đúng sức của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp tham quan đúng sức của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Dinh Cô và khu di tích Minh Đạm có thể tạo phần tham quan bổ trợ cho chuyến biển. Đoàn cần lịch nhẹ nên hỏi mức đi bộ và bậc thang trước khi chốt. Dành lựa chọn nghỉ cho người không tham gia. Điểm tôn giáo cần trang phục và cách sinh hoạt phù hợp; âm thanh và trò chơi tập thể nên bố trí tại khu đã được phép."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dinh Cô và khu di tích Minh Đạm có thể tạo phần tham quan bổ trợ cho chuyến biển. Đoàn cần lịch nhẹ nên hỏi mức đi bộ và bậc thang trước khi chốt. Dành lựa chọn nghỉ cho người không tham gia. Điểm tôn giáo cần trang phục và cách sinh hoạt phù hợp; âm thanh và trò chơi tập thể nên bố trí tại khu đã được phép.</span>"
     },
     {
       "type": "h2",
-      "text": "Xây tour từ quy mô khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xây tour từ quy mô khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm nhỏ nên chọn xe và số phòng vừa đủ; đoàn đông cần kiểm tra nhà hàng phục vụ cùng giờ và nơi xe đỗ. Nếu có hoạt động biển, hãy xác nhận diện tích, quyền sử dụng và phương án mưa. TodayTourist có chương trình tham khảo một ngày và hai ngày; đoàn riêng có thể trao đổi để điều chỉnh theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm nhỏ nên chọn xe và số phòng vừa đủ; đoàn đông cần kiểm tra nhà hàng phục vụ cùng giờ và nơi xe đỗ. Nếu có hoạt động biển, hãy xác nhận diện tích, quyền sử dụng và phương án mưa. TodayTourist có chương trình tham khảo một ngày và hai ngày; đoàn riêng có thể trao đổi để điều chỉnh theo nhu cầu.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Long Hải và Phước Hải có nên viết thành hai tour hoàn toàn riêng?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Long Hải và Phước Hải có nên viết thành hai tour hoàn toàn riêng?</span>"
     },
     {
       "type": "p",
-      "text": "Khi chương trình thực tế kết hợp cả hai, có thể dùng chung trang tour. Cẩm nang riêng chỉ cần khi giải đáp một nhu cầu khác như trải nghiệm làng chài."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi chương trình thực tế kết hợp cả hai, có thể dùng chung trang tour. Cẩm nang riêng chỉ cần khi giải đáp một nhu cầu khác như trải nghiệm làng chài.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô",
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Phước Hải ăn gì, chơi gì: kết hợp làng chài trong chuyến nghỉ biển"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-1-ngay-lich-nghi-bien-va-vieng-dinh-co/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 1 ngày: lịch nghỉ biển và viếng Dinh Cô</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phuoc-hai-an-gi-choi-gi-ket-hop-lang-chai-trong-chuyen-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phước Hải ăn gì, chơi gì: kết hợp làng chài trong chuyến nghỉ biển</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm",
         "Tour Long Hải – Phước Hải 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
