@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Một danh sách điểm check-in dài chưa chắc tạo nên lịch tour tốt. Với Vũng Tàu, hãy chọn điểm theo thời gian, sức khỏe và mục tiêu của đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một danh sách điểm check-in dài chưa chắc tạo nên lịch tour tốt. Với Vũng Tàu, hãy chọn điểm theo thời gian, sức khỏe và mục tiêu của đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chia điểm thành nhóm dễ lựa chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia điểm thành nhóm dễ lựa chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bãi Sau và khu Tam Thắng có thể dành cho phần dạo biển, chụp ảnh. Các điểm như Thích Ca Phật Đài hoặc Tượng Chúa Kitô thuộc phần tham quan có yêu cầu di chuyển và ứng xử riêng. Không coi mọi địa điểm là điểm dừng nhanh; đoàn đông cần thêm thời gian xuống xe và tập trung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bãi Sau và khu Tam Thắng có thể dành cho phần dạo biển, chụp ảnh. Các điểm như Thích Ca Phật Đài hoặc Tượng Chúa Kitô thuộc phần tham quan có yêu cầu di chuyển và ứng xử riêng. Không coi mọi địa điểm là điểm dừng nhanh; đoàn đông cần thêm thời gian xuống xe và tập trung.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn theo thể lực và thời lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo thể lực và thời lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch một ngày nên chọn một điểm tham quan chính kết hợp nghỉ biển. Lịch hai ngày có thể phân bổ thêm một buổi tham quan. Điểm có bậc thang cần thông báo trước và có lựa chọn nghỉ. Không ép người lớn tuổi hoặc người không thích leo lên điểm cao chỉ để cả đoàn có cùng ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch một ngày nên chọn một điểm tham quan chính kết hợp nghỉ biển. Lịch hai ngày có thể phân bổ thêm một buổi tham quan. Điểm có bậc thang cần thông báo trước và có lựa chọn nghỉ. Không ép người lớn tuổi hoặc người không thích leo lên điểm cao chỉ để cả đoàn có cùng ảnh.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra thông tin trước ngày đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra thông tin trước ngày đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giờ mở cửa, khu vực được tham quan, tình trạng sửa chữa và nơi đỗ xe có thể thay đổi. Chụp ảnh tuân thủ hướng dẫn tại điểm; không đứng ở vị trí nguy hiểm hoặc cản trở người khác. Với điểm tôn giáo, chuẩn bị trang phục phù hợp. Lịch cuối cùng nên ghi điểm đã xác nhận, phần tự chọn và khoảng nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giờ mở cửa, khu vực được tham quan, tình trạng sửa chữa và nơi đỗ xe có thể thay đổi. Chụp ảnh tuân thủ hướng dẫn tại điểm; không đứng ở vị trí nguy hiểm hoặc cản trở người khác. Với điểm tôn giáo, chuẩn bị trang phục phù hợp. Lịch cuối cùng nên ghi điểm đã xác nhận, phần tự chọn và khoảng nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày có đi được hết các điểm nổi tiếng không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày có đi được hết các điểm nổi tiếng không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên lấy số điểm làm mục tiêu. Chọn các điểm phù hợp sẽ giúp đoàn có đủ thời gian nghỉ và trải nghiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên lấy số điểm làm mục tiêu. Chọn các điểm phù hợp sẽ giúp đoàn có đủ thời gian nghỉ và trải nghiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển",
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Hồ Mây Vũng Tàu: khi nào nên đưa vào lịch tour?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-1-ngay-lich-gon-de-vua-tham-quan-vua-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-may-vung-tau-khi-nao-nen-dua-vao-lich-tour/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Mây Vũng Tàu: khi nào nên đưa vào lịch tour?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
