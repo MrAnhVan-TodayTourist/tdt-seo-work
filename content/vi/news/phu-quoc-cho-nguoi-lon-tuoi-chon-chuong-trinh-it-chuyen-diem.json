@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn có người lớn tuổi thường cần giảm thời gian chờ và chuyển phương tiện. Một chương trình nhẹ nên làm rõ mức đi bộ, nơi nghỉ và lựa chọn không tham gia hoạt động vận động."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn có người lớn tuổi thường cần giảm thời gian chờ và chuyển phương tiện. Một chương trình nhẹ nên làm rõ mức đi bộ, nơi nghỉ và lựa chọn không tham gia hoạt động vận động.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "So phương tiện theo sức khỏe và thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So phương tiện theo sức khỏe và thời gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Máy bay và xe–tàu đều có các chặng chờ, lên xuống và di chuyển. Cần trao đổi khả năng đi đêm, đi biển và nhu cầu hỗ trợ, rồi chọn lịch phù hợp. Không dùng lời hứa 'không mệt' hoặc 'không say' để thay cho việc đánh giá nhu cầu thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Máy bay và xe–tàu đều có các chặng chờ, lên xuống và di chuyển. Cần trao đổi khả năng đi đêm, đi biển và nhu cầu hỗ trợ, rồi chọn lịch phù hợp. Không dùng lời hứa 'không mệt' hoặc 'không say' để thay cho việc đánh giá nhu cầu thực tế.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Chọn phòng và lịch thuận tiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phòng và lịch thuận tiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi thang máy, bậc thang, khoảng cách từ phòng tới nhà hàng và chỗ xe đón. Giữ thời gian nghỉ sau khi đến đảo. Điểm tham quan nên có lựa chọn ngắn, không bắt buộc đi toàn bộ khu rộng. Đoàn có nhu cầu ăn riêng nên đặt trước và kiểm tra khả năng phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi thang máy, bậc thang, khoảng cách từ phòng tới nhà hàng và chỗ xe đón. Giữ thời gian nghỉ sau khi đến đảo. Điểm tham quan nên có lựa chọn ngắn, không bắt buộc đi toàn bộ khu rộng. Đoàn có nhu cầu ăn riêng nên đặt trước và kiểm tra khả năng phục vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Có phương án cho hoạt động tự chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Có phương án cho hoạt động tự chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách không đi canô, cáp treo hoặc trò chơi cần nơi nghỉ phù hợp và đầu mối liên hệ. Đoàn riêng có thể giảm điểm để tăng thời gian tại resort. Nếu có nhu cầu hỗ trợ y tế hoặc sức khỏe cụ thể, trao đổi với chuyên môn và nhà vận chuyển trước; nội dung tour không thay cho hướng dẫn cá nhân."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách không đi canô, cáp treo hoặc trò chơi cần nơi nghỉ phù hợp và đầu mối liên hệ. Đoàn riêng có thể giảm điểm để tăng thời gian tại resort. Nếu có nhu cầu hỗ trợ y tế hoặc sức khỏe cụ thể, trao đổi với chuyên môn và nhà vận chuyển trước; nội dung tour không thay cho hướng dẫn cá nhân.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn tour không đi canô không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn tour không đi canô không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị chương trình chủ yếu trên đảo. Với tour ghép cần thống nhất trước lịch chung, phương án thay thế và nơi chờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị chương trình chủ yếu trên đảo. Với tour ghép cần thống nhất trước lịch chung, phương án thay thế và nơi chờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Phú Quốc bằng máy bay hay xe và tàu: so theo thời gian, ngân sách",
-        "Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích",
-        "Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phu-quoc-bang-may-bay-hay-xe-va-tau-so-theo-thoi-gian-ngan-sach/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phú Quốc bằng máy bay hay xe và tàu: so theo thời gian, ngân sách</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-cho-gia-dinh-co-tre-nho-chon-lich-va-tien-ich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/resort-phu-quoc-cho-doan-kiem-tra-phong-bien-va-khu-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
