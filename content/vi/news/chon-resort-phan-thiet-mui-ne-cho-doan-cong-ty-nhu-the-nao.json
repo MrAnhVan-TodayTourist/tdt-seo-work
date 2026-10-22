@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn resort cho đoàn không giống chọn phòng cho gia đình. Điều cần xem là khả năng phục vụ cả đoàn cùng lúc: phòng, bữa ăn, không gian sinh hoạt và quy định về hoạt động."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn resort cho đoàn không giống chọn phòng cho gia đình. Điều cần xem là khả năng phục vụ cả đoàn cùng lúc: phòng, bữa ăn, không gian sinh hoạt và quy định về hoạt động.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Quỹ phòng và bố trí lưu trú"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quỹ phòng và bố trí lưu trú</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi số phòng còn trong ngày đi, loại giường, khả năng xếp gần nhau và phụ thu cho người thêm. Đoàn lớn nên giữ phòng sớm; nếu ở nhiều khu, hãy hỏi khoảng cách giữa các khu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi số phòng còn trong ngày đi, loại giường, khả năng xếp gần nhau và phụ thu cho người thêm. Đoàn lớn nên giữ phòng sớm; nếu ở nhiều khu, hãy hỏi khoảng cách giữa các khu.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222450136-0.jpg",
-      "alt": "A tranquil village by the sea with fishing boats and sandy shores unde"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222450136-0.jpg\" alt=\"A tranquil village by the sea with fishing boats and sandy shores unde\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Nhà hàng và không gian Gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhà hàng và không gian Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra sức chứa nhà hàng, giờ phục vụ và có khu tiệc riêng hay không. Nếu tổ chức Gala, hỏi về sân khấu, âm thanh và quy định giờ kết thúc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra sức chứa nhà hàng, giờ phục vụ và có khu tiệc riêng hay không. Nếu tổ chức Gala, hỏi về sân khấu, âm thanh và quy định giờ kết thúc.</span>"
     },
     {
       "type": "h2",
-      "text": "Bãi biển và khả năng Team Building"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bãi biển và khả năng Team Building</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bãi riêng của resort có thể thuận tiện, nhưng cần xác nhận cho nhóm tổ chức trò chơi, thiết bị và khung giờ. Hỏi cả khu phụ trợ như phòng thay đồ và nơi che nắng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bãi riêng của resort có thể thuận tiện, nhưng cần xác nhận cho nhóm tổ chức trò chơi, thiết bị và khung giờ. Hỏi cả khu phụ trợ như phòng thay đồ và nơi che nắng.</span>"
     },
     {
       "type": "h2",
-      "text": "Di chuyển, tiện nghi và điều kiện đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Di chuyển, tiện nghi và điều kiện đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lối vào cho xe lớn, bãi đỗ, thời gian nhận phòng, ăn sáng và giữ hành lý. Hạng sao hay ảnh đẹp chỉ là một phần; điều kiện thực tế cho đoàn mới quyết định trải nghiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lối vào cho xe lớn, bãi đỗ, thời gian nhận phòng, ăn sáng và giữ hành lý. Hạng sao hay ảnh đẹp chỉ là một phần; điều kiện thực tế cho đoàn mới quyết định trải nghiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên chọn resort gần trung tâm hay xa hơn?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên chọn resort gần trung tâm hay xa hơn?</span>"
     },
     {
       "type": "p",
-      "text": "Tùy mục tiêu. Gần trung tâm tiện đi lại; xa hơn thường yên tĩnh. Cần xem lịch trình để cân đối."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy mục tiêu. Gần trung tâm tiện đi lại; xa hơn thường yên tĩnh. Cần xem lịch trình để cân đối.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp",
-        "Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp",
-        "Lịch trình Phan Thiết 3 ngày 2 đêm cho đoàn công ty"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-phan-thiet-lua-chon-khong-gian-va-kich-ban-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phan-thiet-mui-ne-chon-bai-bien-va-tro-choi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-3-ngay-2-dem-cho-doan-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 3 ngày 2 đêm cho đoàn công ty</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
