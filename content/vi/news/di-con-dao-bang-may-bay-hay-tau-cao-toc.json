@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Máy bay và tàu cao tốc phục vụ những cách đi Côn Đảo khác nhau. Lựa chọn phù hợp phụ thuộc nơi khách xuất phát, ngân sách, thời gian nghỉ và mức thoải mái mong muốn. Khi so, cần tính toàn bộ từ điểm đón tới nơi lưu trú, không chỉ thời gian ngồi trên máy bay hoặc trên tàu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Máy bay và tàu cao tốc phục vụ những cách đi Côn Đảo khác nhau. Lựa chọn phù hợp phụ thuộc nơi khách xuất phát, ngân sách, thời gian nghỉ và mức thoải mái mong muốn. Khi so, cần tính toàn bộ từ điểm đón tới nơi lưu trú, không chỉ thời gian ngồi trên máy bay hoặc trên tàu.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "So tổng thời gian từ nhà tới đảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So tổng thời gian từ nhà tới đảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phương án bay gồm chặng tới sân bay, thời gian làm thủ tục, chuyến bay và xe tới khách sạn. Phương án tàu gồm đường bộ ra cảng, thời gian tập trung, hành trình biển và xe tại đảo. Nên đặt hai phương án lên cùng một lịch ngày để thấy phần thời gian có thể tham quan. Một chặng chính ngắn hơn vẫn có thể đi kèm nhiều thời gian chờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phương án bay gồm chặng tới sân bay, thời gian làm thủ tục, chuyến bay và xe tới khách sạn. Phương án tàu gồm đường bộ ra cảng, thời gian tập trung, hành trình biển và xe tại đảo. Nên đặt hai phương án lên cùng một lịch ngày để thấy phần thời gian có thể tham quan. Một chặng chính ngắn hơn vẫn có thể đi kèm nhiều thời gian chờ.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "So chi phí bằng các khoản tương đương"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So chi phí bằng các khoản tương đương</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra giá khứ hồi, hành lý, hạng ghế và đưa đón. Khi đi đoàn, cần xem số chỗ có thể xác nhận cùng chuyến, không chỉ giá thấp nhất hiển thị cho một khách. Nếu phải tách chuyến hoặc ở thêm đêm, tính các khoản bổ sung vào tổng ngân sách. Phương án phù hợp là phương án đáp ứng cả mức chi và mục tiêu chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra giá khứ hồi, hành lý, hạng ghế và đưa đón. Khi đi đoàn, cần xem số chỗ có thể xác nhận cùng chuyến, không chỉ giá thấp nhất hiển thị cho một khách. Nếu phải tách chuyến hoặc ở thêm đêm, tính các khoản bổ sung vào tổng ngân sách. Phương án phù hợp là phương án đáp ứng cả mức chi và mục tiêu chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Xem mức thoải mái và sức của thành viên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem mức thoải mái và sức của thành viên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người dễ say sóng, trẻ nhỏ hoặc người cần hỗ trợ di chuyển nên trao đổi nhu cầu trước khi chọn. Không có loại tàu nào bảo đảm mọi người không say. Với xe đêm nối tàu, cần tính khả năng nghỉ trên đường và thời gian hồi sức khi tới đảo. Các vấn đề sức khỏe cụ thể nên được khách trao đổi với người có chuyên môn khi cần."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người dễ say sóng, trẻ nhỏ hoặc người cần hỗ trợ di chuyển nên trao đổi nhu cầu trước khi chọn. Không có loại tàu nào bảo đảm mọi người không say. Với xe đêm nối tàu, cần tính khả năng nghỉ trên đường và thời gian hồi sức khi tới đảo. Các vấn đề sức khỏe cụ thể nên được khách trao đổi với người có chuyên môn khi cần.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra lịch cả hai chiều trước khi đặt phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra lịch cả hai chiều trước khi đặt phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến đi cần khớp ngày tới và ngày về với phòng, xe và tham quan. Lịch vận chuyển có thể điều chỉnh; không nên dùng một ảnh lịch cũ làm căn cứ chốt mọi dịch vụ. TodayTourist tư vấn phương tiện theo số khách, ngày và điểm đón; khi lựa chọn đã rõ, báo giá cần ghi tuyến, dịch vụ bao gồm và cách xử lý thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến đi cần khớp ngày tới và ngày về với phòng, xe và tham quan. Lịch vận chuyển có thể điều chỉnh; không nên dùng một ảnh lịch cũ làm căn cứ chốt mọi dịch vụ. TodayTourist tư vấn phương tiện theo số khách, ngày và điểm đón; khi lựa chọn đã rõ, báo giá cần ghi tuyến, dịch vụ bao gồm và cách xử lý thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Máy bay luôn rẻ hoặc nhanh hơn tàu không? Cần so cả chặng nối, thời gian chờ và dịch vụ kèm theo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Máy bay luôn rẻ hoặc nhanh hơn tàu không? Cần so cả chặng nối, thời gian chờ và dịch vụ kèm theo.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đi một chiều tàu, một chiều bay? Có thể đề nghị kiểm tra, nhưng chỉ chốt khi lịch và vé hai chiều phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đi một chiều tàu, một chiều bay? Có thể đề nghị kiểm tra, nhưng chỉ chốt khi lịch và vé hai chiều phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Côn Đảo qua Trần Đề: xe nối tuyến, tàu và thời gian nghỉ",
-        "Đi Côn Đảo từ Vũng Tàu hoặc TP.HCM bằng tàu: kiểm tra gì trước khi đặt?",
-        "Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-qua-tran-de-xe-noi-tuyen-tau-va-thoi-gian-nghi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo qua Trần Đề: xe nối tuyến, tàu và thời gian nghỉ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-tu-vung-tau-hoac-tp-hcm-bang-tau-kiem-tra-gi-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo từ Vũng Tàu hoặc TP.HCM bằng tàu: kiểm tra gì trước khi đặt?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
