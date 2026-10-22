@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Kết hợp Đà Lạt với Nha Trang, Bảo Lộc hoặc Tà Đùng giúp chuyến đi có thêm trải nghiệm, nhưng ba hướng nối tuyến không giống nhau. Nên chọn theo thời gian, điểm khởi hành và sở thích của đoàn. Thêm một điểm đến đồng nghĩa cần tính lại hành trình, không chỉ thêm tên vào chương trình cũ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Kết hợp Đà Lạt với Nha Trang, Bảo Lộc hoặc Tà Đùng giúp chuyến đi có thêm trải nghiệm, nhưng ba hướng nối tuyến không giống nhau. Nên chọn theo thời gian, điểm khởi hành và sở thích của đoàn. Thêm một điểm đến đồng nghĩa cần tính lại hành trình, không chỉ thêm tên vào chương trình cũ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đà Lạt – Nha Trang: kết hợp núi và biển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đà Lạt – Nha Trang: kết hợp núi và biển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phù hợp nhóm muốn thay đổi không gian nghỉ dưỡng và có đủ ngày cho chặng nối tuyến. Cần xác định nơi đón, nơi trả, thứ tự các điểm và thời gian lưu trú tại mỗi nơi. Nếu công ty có Team Building và Gala, chọn hoạt động ở điểm phù hợp thay vì làm chương trình đầy đủ tại cả hai nơi. Ngày di chuyển giữa hai điểm cần được tính riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phù hợp nhóm muốn thay đổi không gian nghỉ dưỡng và có đủ ngày cho chặng nối tuyến. Cần xác định nơi đón, nơi trả, thứ tự các điểm và thời gian lưu trú tại mỗi nơi. Nếu công ty có Team Building và Gala, chọn hoạt động ở điểm phù hợp thay vì làm chương trình đầy đủ tại cả hai nơi. Ngày di chuyển giữa hai điểm cần được tính riêng.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Bảo Lộc – Đà Lạt: chọn dừng chân có mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bảo Lộc – Đà Lạt: chọn dừng chân có mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bảo Lộc có thể là phần trải nghiệm riêng hoặc một điểm dừng trên hành trình, tùy lịch. Hai cách này không tương đương: dừng dùng bữa không phải là tham quan Bảo Lộc đầy đủ. Nếu muốn trải nghiệm cảnh quan hoặc điểm văn hóa, phải dành thời gian và kiểm tra điều kiện tiếp cận, rồi điều chỉnh giờ đến Đà Lạt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bảo Lộc có thể là phần trải nghiệm riêng hoặc một điểm dừng trên hành trình, tùy lịch. Hai cách này không tương đương: dừng dùng bữa không phải là tham quan Bảo Lộc đầy đủ. Nếu muốn trải nghiệm cảnh quan hoặc điểm văn hóa, phải dành thời gian và kiểm tra điều kiện tiếp cận, rồi điều chỉnh giờ đến Đà Lạt.</span>"
     },
     {
       "type": "h2",
-      "text": "Đà Lạt – Tà Đùng: cần quỹ thời gian khác"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đà Lạt – Tà Đùng: cần quỹ thời gian khác</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tuyến có Tà Đùng nên được xem như một hành trình riêng, cần bố trí chặng xe, điểm nghỉ và nơi lưu trú theo chương trình cụ thể. Không nên chen thêm vào lịch Đà Lạt ngắn đã kín. Khách cần hỏi mỗi ngày chủ yếu tham quan hay di chuyển, và điểm nào thực sự được trải nghiệm thay vì chỉ dừng chụp ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tuyến có Tà Đùng nên được xem như một hành trình riêng, cần bố trí chặng xe, điểm nghỉ và nơi lưu trú theo chương trình cụ thể. Không nên chen thêm vào lịch Đà Lạt ngắn đã kín. Khách cần hỏi mỗi ngày chủ yếu tham quan hay di chuyển, và điểm nào thực sự được trải nghiệm thay vì chỉ dừng chụp ảnh.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh bằng lịch từng ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh bằng lịch từng ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Yêu cầu chương trình ghi điểm ngủ, bữa ăn, thời gian dành cho hoạt động chính và phương án xe. Gia đình muốn nghỉ dưỡng có thể chọn ít điểm hơn; công ty muốn gắn kết cần giữ khoảng cho sinh hoạt đoàn. TodayTourist tư vấn tour nối tuyến theo mục tiêu và ngân sách, giúp khách chọn một phương án khả thi thay vì gộp tất cả lựa chọn vào cùng chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Yêu cầu chương trình ghi điểm ngủ, bữa ăn, thời gian dành cho hoạt động chính và phương án xe. Gia đình muốn nghỉ dưỡng có thể chọn ít điểm hơn; công ty muốn gắn kết cần giữ khoảng cho sinh hoạt đoàn. TodayTourist tư vấn tour nối tuyến theo mục tiêu và ngân sách, giúp khách chọn một phương án khả thi thay vì gộp tất cả lựa chọn vào cùng chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên đi cả Nha Trang, Bảo Lộc và Tà Đùng trong một lịch ngắn không? Không nên mặc định; cần đủ thời gian và hành trình phù hợp. Giá có tính như tour Đà Lạt đơn tuyến không? Phải báo theo chương trình riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên đi cả Nha Trang, Bảo Lộc và Tà Đùng trong một lịch ngắn không? Không nên mặc định; cần đủ thời gian và hành trình phù hợp. Giá có tính như tour Đà Lạt đơn tuyến không? Phải báo theo chương trình riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Chọn tour Đà Lạt phù hợp với đoàn của bạn",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-da-lat-phu-hop-voi-doan-cua-ban/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Đà Lạt phù hợp với đoàn của bạn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
