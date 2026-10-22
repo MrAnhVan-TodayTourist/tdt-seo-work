@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Gala Dinner Nha Trang có thể là bữa tối gắn kết, đêm vinh danh hoặc chương trình tổng kết công ty. Để báo giá đúng, cần mô tả cả phần tiệc lẫn phần sân khấu. Cùng số khách nhưng yêu cầu màn hình, biểu diễn và nhận diện khác nhau sẽ tạo mức chi khác nhau."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gala Dinner Nha Trang có thể là bữa tối gắn kết, đêm vinh danh hoặc chương trình tổng kết công ty. Để báo giá đúng, cần mô tả cả phần tiệc lẫn phần sân khấu. Cùng số khách nhưng yêu cầu màn hình, biểu diễn và nhận diện khác nhau sẽ tạo mức chi khác nhau.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn không gian theo cách ngồi và nội dung"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn không gian theo cách ngồi và nội dung</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi sức chứa theo bàn tiệc, vị trí sân khấu, tầm nhìn, lối di chuyển và khu chuẩn bị. Phòng đủ số ghế chưa chắc phù hợp khi thêm màn hình, bàn kỹ thuật hoặc khu trao thưởng. Tiệc ngoài trời cần phương án mưa, gió và điều kiện âm thanh; tiệc trong nhà cần kiểm tra việc dùng riêng hay chung không gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi sức chứa theo bàn tiệc, vị trí sân khấu, tầm nhìn, lối di chuyển và khu chuẩn bị. Phòng đủ số ghế chưa chắc phù hợp khi thêm màn hình, bàn kỹ thuật hoặc khu trao thưởng. Tiệc ngoài trời cần phương án mưa, gió và điều kiện âm thanh; tiệc trong nhà cần kiểm tra việc dùng riêng hay chung không gian.</span>"
     },
     {
       "type": "html",
@@ -25,88 +25,95 @@
     },
     {
       "type": "h2",
-      "text": "Xây kịch bản từ phần quan trọng nhất"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xây kịch bản từ phần quan trọng nhất</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một khung có thể gồm đón khách, khai mạc, phát biểu, vinh danh, dùng tiệc và giao lưu. Không nên kéo dài phát biểu trước bữa ăn hoặc chèn trò chơi liên tục trong lúc khách đang ăn. Nếu có nhiều người nhận thưởng, cần chia nhóm và chuẩn bị thứ tự lên sân khấu để chương trình không bị chờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một khung có thể gồm đón khách, khai mạc, phát biểu, vinh danh, dùng tiệc và giao lưu. Không nên kéo dài phát biểu trước bữa ăn hoặc chèn trò chơi liên tục trong lúc khách đang ăn. Nếu có nhiều người nhận thưởng, cần chia nhóm và chuẩn bị thứ tự lên sân khấu để chương trình không bị chờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Những chi phí cần tách rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những chi phí cần tách rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bên cạnh thực đơn, kiểm tra đồ uống, phòng tiệc, MC, âm thanh, ánh sáng, sân khấu, màn hình và backdrop. Hỏi nhân sự kỹ thuật, thời gian sử dụng, phần dựng tháo và thiết bị dự phòng. Quay phim, chụp ảnh, tiết mục biểu diễn hoặc quà tặng cần ghi riêng nếu được yêu cầu, không suy từ ảnh mẫu rằng đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bên cạnh thực đơn, kiểm tra đồ uống, phòng tiệc, MC, âm thanh, ánh sáng, sân khấu, màn hình và backdrop. Hỏi nhân sự kỹ thuật, thời gian sử dụng, phần dựng tháo và thiết bị dự phòng. Quay phim, chụp ảnh, tiết mục biểu diễn hoặc quà tặng cần ghi riêng nếu được yêu cầu, không suy từ ảnh mẫu rằng đã bao gồm.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị nội dung công ty trước chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị nội dung công ty trước chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi logo đúng chất lượng, chủ đề, tên người phát biểu, danh sách vinh danh, video và phần văn nghệ. Thống nhất đầu mối duyệt tên, chức danh và nội dung trình chiếu. Với chương trình nhiều ngôn ngữ, cần yêu cầu người dẫn phù hợp từ đầu, không thêm vào sát giờ mà chưa xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi logo đúng chất lượng, chủ đề, tên người phát biểu, danh sách vinh danh, video và phần văn nghệ. Thống nhất đầu mối duyệt tên, chức danh và nội dung trình chiếu. Với chương trình nhiều ngôn ngữ, cần yêu cầu người dẫn phù hợp từ đầu, không thêm vào sát giờ mà chưa xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp lịch để khách và ekip có thời gian chuẩn bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp lịch để khách và ekip có thời gian chuẩn bị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đi đảo hoặc VinWonders cần trở về đủ sớm để nghỉ và thay trang phục. Ekip cần kiểm tra file trình chiếu, micro, nhạc và vị trí trao thưởng. TodayTourist tư vấn Gala Dinner Nha Trang gắn với lịch tour và mục tiêu doanh nghiệp; kịch bản, thiết bị và chi phí được chốt theo yêu cầu cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đi đảo hoặc VinWonders cần trở về đủ sớm để nghỉ và thay trang phục. Ekip cần kiểm tra file trình chiếu, micro, nhạc và vị trí trao thưởng. TodayTourist tư vấn Gala Dinner Nha Trang gắn với lịch tour và mục tiêu doanh nghiệp; kịch bản, thiết bị và chi phí được chốt theo yêu cầu cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giá tiệc có luôn gồm MC và sân khấu không? Không nên mặc định. Có thể tổ chức Gala tại resort đang lưu trú không? Cần kiểm tra không gian, lịch trống và điều kiện sử dụng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá tiệc có luôn gồm MC và sân khấu không? Không nên mặc định. Có thể tổ chức Gala tại resort đang lưu trú không? Cần kiểm tra không gian, lịch trống và điều kiện sử dụng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "BBQ, tiệc biển và lửa trại: chọn hoạt động nào cho đoàn Nha Trang?",
-        "Tour Nha Trang kết hợp hội nghị và tri ân khách hàng",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bbq-tiec-bien-va-lua-trai-chon-hoat-dong-nao-cho-doan-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">BBQ, tiệc biển và lửa trại: chọn hoạt động nào cho đoàn Nha Trang?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-ket-hop-hoi-nghi-va-tri-an-khach-hang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang kết hợp hội nghị và tri ân khách hàng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
