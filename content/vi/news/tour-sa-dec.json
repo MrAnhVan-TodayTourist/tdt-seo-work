@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Sa Đéc phù hợp nhóm thích hoa, ảnh và tìm hiểu văn hóa địa phương. Khi ghép với vườn Lai Vung, cần chọn đúng mùa và cơ sở đang phục vụ. Một tour có tên vườn trái cây không có nghĩa lúc nào cũng có trái chín hoặc được tự hái; nên xác nhận hoạt động trước khi chốt chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Sa Đéc phù hợp nhóm thích hoa, ảnh và tìm hiểu văn hóa địa phương. Khi ghép với vườn Lai Vung, cần chọn đúng mùa và cơ sở đang phục vụ. Một tour có tên vườn trái cây không có nghĩa lúc nào cũng có trái chín hoặc được tự hái; nên xác nhận hoạt động trước khi chốt chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dành thời gian cho khu hoa thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dành thời gian cho khu hoa thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Làng hoa có nhiều nhà vườn và điểm chụp khác nhau, không phải một khu duy nhất dùng chung mọi vé. Hỏi khu nào đang có hoa, lối đi, thời gian tham quan và khoản vé nếu có. Nhóm muốn ảnh nên ưu tiên một vài điểm đủ thời lượng, thay vì di chuyển liên tục để tăng tên vườn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Làng hoa có nhiều nhà vườn và điểm chụp khác nhau, không phải một khu duy nhất dùng chung mọi vé. Hỏi khu nào đang có hoa, lối đi, thời gian tham quan và khoản vé nếu có. Nhóm muốn ảnh nên ưu tiên một vài điểm đủ thời lượng, thay vì di chuyển liên tục để tăng tên vườn.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chọn văn hóa hoặc vườn theo mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn văn hóa hoặc vườn theo mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi phần nhà cổ, chùa hoặc tìm hiểu đời sống địa phương tùy lịch. Nếu mục tiêu chính là quýt hồng Lai Vung, hỏi mùa, tình trạng trái và điều kiện tham quan từng vườn. Khi trái không phù hợp, nên thống nhất điểm thay thế trước, tránh quảng bá trải nghiệm không có vào ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi phần nhà cổ, chùa hoặc tìm hiểu đời sống địa phương tùy lịch. Nếu mục tiêu chính là quýt hồng Lai Vung, hỏi mùa, tình trạng trái và điều kiện tham quan từng vườn. Khi trái không phù hợp, nên thống nhất điểm thay thế trước, tránh quảng bá trải nghiệm không có vào ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính thời gian đi từ Biên Hòa và TP.HCM"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính thời gian đi từ Biên Hòa và TP.HCM</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến một ngày cần điểm đón gọn, bữa ăn đúng khung và thời gian về rõ. Đoàn công ty có thể thêm giao lưu nhẹ nếu khu cho phép, nhưng không nên ghép nhiều hoạt động làm lịch bị kéo dài. TodayTourist có tour Sa Đéc để tham khảo; dịch vụ theo mùa vẫn cần xác nhận lại khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến một ngày cần điểm đón gọn, bữa ăn đúng khung và thời gian về rõ. Đoàn công ty có thể thêm giao lưu nhẹ nếu khu cho phép, nhưng không nên ghép nhiều hoạt động làm lịch bị kéo dài. TodayTourist có tour Sa Đéc để tham khảo; dịch vụ theo mùa vẫn cần xác nhận lại khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có phải Sa Đéc chỉ đi được dịp Tết?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có phải Sa Đéc chỉ đi được dịp Tết?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Có thể tham quan những phần phù hợp thời điểm khác, nhưng hoa và cách bố trí vườn thay đổi. Cần hỏi tình trạng khu ngày đi thay vì dùng ảnh cận Tết để kỳ vọng quanh năm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Có thể tham quan những phần phù hợp thời điểm khác, nhưng hoa và cách bố trí vườn thay đổi. Cần hỏi tình trạng khu ngày đi thay vì dùng ảnh cận Tết để kỳ vọng quanh năm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Sa Đéc? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Sa Đéc? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-dong-thap/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-dong-thap/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đồng Tháp về nguồn: chọn Xẻo Quýt và di tích Nguyễn Sinh Sắc</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Làng hoa Sa Đéc 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Làng hoa Sa Đéc 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dong-thap-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đồng Tháp – Xẻo Quýt 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dong-thap-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đồng Tháp – Xẻo Quýt 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
