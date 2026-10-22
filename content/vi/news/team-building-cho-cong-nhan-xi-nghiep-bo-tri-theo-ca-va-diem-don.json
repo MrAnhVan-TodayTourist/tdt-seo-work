@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn công nhân, xí nghiệp cần phương án tổ chức gắn với lịch làm ca, điểm đón và giờ quay về. Chương trình nên tạo hoạt động chung cho đội ngũ mà vẫn phù hợp cách đăng ký và thời gian của doanh nghiệp, thay vì áp nguyên lịch văn phòng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn công nhân, xí nghiệp cần phương án tổ chức gắn với lịch làm ca, điểm đón và giờ quay về. Chương trình nên tạo hoạt động chung cho đội ngũ mà vẫn phù hợp cách đăng ký và thời gian của doanh nghiệp, thay vì áp nguyên lịch văn phòng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt nhóm tham gia và khung giờ khả dụng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt nhóm tham gia và khung giờ khả dụng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp nên cho biết đoàn đi chung hay chia đợt, các bộ phận và ca tham gia. Cần thống nhất giờ tập trung sau ca, giờ cần về và thời gian nghỉ trong kế hoạch. Nếu một số nhân viên chỉ tham gia được phần hoạt động hoặc phần tiệc, phải ghi rõ để tính dịch vụ. Không mặc định tất cả thành viên cùng xuất phát từ nhà máy hoặc đều có cùng thời gian rảnh trong ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp nên cho biết đoàn đi chung hay chia đợt, các bộ phận và ca tham gia. Cần thống nhất giờ tập trung sau ca, giờ cần về và thời gian nghỉ trong kế hoạch. Nếu một số nhân viên chỉ tham gia được phần hoạt động hoặc phần tiệc, phải ghi rõ để tính dịch vụ. Không mặc định tất cả thành viên cùng xuất phát từ nhà máy hoặc đều có cùng thời gian rảnh trong ngày.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213114040-0.jpg",
-      "alt": "Team Building cho công nhân, xí nghiệp: bố trí theo ca và điểm đón"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213114040-0.jpg\" alt=\"Team Building cho công nhân, xí nghiệp: bố trí theo ca và điểm đón\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tính điểm đón, số xe và danh sách theo nhóm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính điểm đón, số xe và danh sách theo nhóm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với đoàn đông, TodayTourist ưu tiên tư vấn xe 45 chỗ; số xe cần tính đủ ghế cho toàn bộ người đi cùng. Các điểm đón tại công ty hoặc khu vực khác phải được kiểm tra khả năng tiếp cận. Danh sách nên theo từng xe hoặc bộ phận với người phối hợp rõ ràng. Nếu chia nhiều đợt, cần giữ phạm vi trải nghiệm đã thống nhất, nhưng lịch cụ thể có thể thay theo điều kiện từng ngày và số người."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với đoàn đông, TodayTourist ưu tiên tư vấn xe 45 chỗ; số xe cần tính đủ ghế cho toàn bộ người đi cùng. Các điểm đón tại công ty hoặc khu vực khác phải được kiểm tra khả năng tiếp cận. Danh sách nên theo từng xe hoặc bộ phận với người phối hợp rõ ràng. Nếu chia nhiều đợt, cần giữ phạm vi trải nghiệm đã thống nhất, nhưng lịch cụ thể có thể thay theo điều kiện từng ngày và số người.</span>"
     },
     {
       "type": "h2",
-      "text": "Ba trò chơi dễ tham gia cho đoàn đông"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ba trò chơi dễ tham gia cho đoàn đông</span></strong>"
     },
     {
       "type": "list",
@@ -46,35 +45,35 @@
     },
     {
       "type": "h2",
-      "text": "Chọn kịch bản dễ tham gia và báo giá rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn kịch bản dễ tham gia và báo giá rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hoạt động có thể hướng tới giao lưu giữa bộ phận, chia vai và nhiệm vụ đồng đội. Cần trao đổi mức vận động, ngôn ngữ dẫn và thời lượng theo đặc điểm đoàn. Nếu có Gala hoặc trao thưởng, doanh nghiệp gửi danh sách và nội dung từ sớm. Báo giá cần phân biệt xe, ăn, vé, chương trình và các phần riêng; số đăng ký cuối cùng nên được chốt trước ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hoạt động có thể hướng tới giao lưu giữa bộ phận, chia vai và nhiệm vụ đồng đội. Cần trao đổi mức vận động, ngôn ngữ dẫn và thời lượng theo đặc điểm đoàn. Nếu có Gala hoặc trao thưởng, doanh nghiệp gửi danh sách và nội dung từ sớm. Báo giá cần phân biệt xe, ăn, vé, chương trình và các phần riêng; số đăng ký cuối cùng nên được chốt trước ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Công nhân làm ca có tham gia chung một ngày được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Công nhân làm ca có tham gia chung một ngày được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Được nếu doanh nghiệp chia đợt hoặc bố trí giờ tập trung sau ca. Cần chốt sớm danh sách từng đợt để xếp xe và hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Được nếu doanh nghiệp chia đợt hoặc bố trí giờ tập trung sau ca. Cần chốt sớm danh sách từng đợt để xếp xe và hoạt động.</span>"
     },
     {
       "type": "h3",
-      "text": "Có nên đưa đón từ nhà máy không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên đưa đón từ nhà máy không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu điều kiện điểm đón cho phép thì thuận tiện cho đoàn đông. Hãy kiểm tra đường vào, bãi đỗ và giờ xe ra vào cổng trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu điều kiện điểm đón cho phép thì thuận tiện cho đoàn đông. Hãy kiểm tra đường vào, bãi đỗ và giờ xe ra vào cổng trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -87,23 +86,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
