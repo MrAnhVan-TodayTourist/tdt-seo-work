@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Thời điểm đi Ninh Chữ–Vĩnh Hy–Bình Hưng cần phù hợp mục tiêu nghỉ biển, đi tàu và tham quan đất liền. Một gợi ý mùa không bảo đảm biển luôn êm hoặc vườn luôn có trái. Khi chọn ngày cho đoàn, nên kiểm tra dịch vụ cùng cập nhật thời tiết gần chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Thời điểm đi Ninh Chữ–Vĩnh Hy–Bình Hưng cần phù hợp mục tiêu nghỉ biển, đi tàu và tham quan đất liền. Một gợi ý mùa không bảo đảm biển luôn êm hoặc vườn luôn có trái. Khi chọn ngày cho đoàn, nên kiểm tra dịch vụ cùng cập nhật thời tiết gần chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn hoạt động chính trước khi chốt ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn hoạt động chính trước khi chốt ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu chuyến tàu hoặc ra đảo là lý do chính, hỏi điều kiện vận hành và cách thông báo thay đổi. Người muốn văn hóa, làng nghề và nghỉ tại đất liền có thể linh hoạt hơn. Không dùng một hình biển đẹp để cam kết mọi thời điểm đều có màu nước và sóng giống nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu chuyến tàu hoặc ra đảo là lý do chính, hỏi điều kiện vận hành và cách thông báo thay đổi. Người muốn văn hóa, làng nghề và nghỉ tại đất liền có thể linh hoạt hơn. Không dùng một hình biển đẹp để cam kết mọi thời điểm đều có màu nước và sóng giống nhau.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Lễ Tết cần kiểm tra dịch vụ thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lễ Tết cần kiểm tra dịch vụ thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày cao điểm có thể ảnh hưởng phòng, xe, bữa ăn và giờ tàu. Hỏi mức giá đúng ngày, hạn giữ dịch vụ và điều kiện đổi. Không quảng bá còn chỗ chỉ từ lịch mẫu trên website; đoàn cần xác nhận phòng và phương tiện trước khi thu đăng ký hoặc chuyển cọc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày cao điểm có thể ảnh hưởng phòng, xe, bữa ăn và giờ tàu. Hỏi mức giá đúng ngày, hạn giữ dịch vụ và điều kiện đổi. Không quảng bá còn chỗ chỉ từ lịch mẫu trên website; đoàn cần xác nhận phòng và phương tiện trước khi thu đăng ký hoặc chuyển cọc.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ phương án thay thế trong chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ phương án thay thế trong chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gió, mưa hoặc điều kiện biển có thể làm lịch khác dự kiến. Hỏi điểm đất liền thay thế, phần dịch vụ được xử lý và người liên hệ. Với Team Building hay Gala ngoài trời, khu dự phòng cần được xác nhận; không đợi đến điểm mới quyết định phương án chung cho cả đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gió, mưa hoặc điều kiện biển có thể làm lịch khác dự kiến. Hỏi điểm đất liền thay thế, phần dịch vụ được xử lý và người liên hệ. Với Team Building hay Gala ngoài trời, khu dự phòng cần được xác nhận; không đợi đến điểm mới quyết định phương án chung cho cả đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có tháng nào chắc chắn không phải đổi chuyến tàu không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có tháng nào chắc chắn không phải đổi chuyến tàu không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không thể bảo đảm như vậy. Gợi ý mùa chỉ giúp lập kế hoạch; việc tàu hoạt động và trải nghiệm biển phải theo điều kiện thực tế vào ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không thể bảo đảm như vậy. Gợi ý mùa chỉ giúp lập kế hoạch; việc tàu hoạt động và trải nghiệm biển phải theo điều kiện thực tế vào ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Xe đi Ninh Chữ–Bình Hưng: chọn 45 chỗ, giường nằm, 29 và 16 chỗ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe đi Ninh Chữ–Bình Hưng: chọn 45 chỗ, giường nằm, 29 và 16 chỗ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Đặt tour Ninh Chữ–Vĩnh Hy–Bình Hưng: kiểm tra trước khi cọc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Ninh Chữ–Vĩnh Hy–Bình Hưng: kiểm tra trước khi cọc</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
