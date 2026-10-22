@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Resort phù hợp là nơi đoàn sử dụng được những tiện ích mình cần. Một danh sách dài tiện ích không có nhiều ý nghĩa nếu gói đặt phòng không bao gồm hoặc thời gian tour không đủ để trải nghiệm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Resort phù hợp là nơi đoàn sử dụng được những tiện ích mình cần. Một danh sách dài tiện ích không có nhiều ý nghĩa nếu gói đặt phòng không bao gồm hoặc thời gian tour không đủ để trải nghiệm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra quyền sử dụng của đúng gói"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra quyền sử dụng của đúng gói</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi hồ bơi, khu trẻ em, bãi hoạt động, nhà hàng và dịch vụ tự chọn. Ảnh trên website có thể thuộc nhiều khu hoặc nhiều loại phòng. Yêu cầu tên loại phòng, vị trí và cơ cấu giường. Với đoàn gia đình, hỏi điều kiện khách thêm và trẻ em trước khi chia ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi hồ bơi, khu trẻ em, bãi hoạt động, nhà hàng và dịch vụ tự chọn. Ảnh trên website có thể thuộc nhiều khu hoặc nhiều loại phòng. Yêu cầu tên loại phòng, vị trí và cơ cấu giường. Với đoàn gia đình, hỏi điều kiện khách thêm và trẻ em trước khi chia ngân sách.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn theo hoạt động chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo hoạt động chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nghỉ dưỡng ưu tiên không gian nghỉ và bữa ăn. Đoàn Team Building cần mặt bằng và chỗ thay đồ. Đoàn hội nghị cần phòng họp, thiết bị và nhân sự kỹ thuật. Nếu tổ chức gala, kiểm tra khu tiệc và giới hạn âm thanh. Một resort có đủ phòng vẫn có thể không còn khu sự kiện vào ngày cần đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nghỉ dưỡng ưu tiên không gian nghỉ và bữa ăn. Đoàn Team Building cần mặt bằng và chỗ thay đồ. Đoàn hội nghị cần phòng họp, thiết bị và nhân sự kỹ thuật. Nếu tổ chức gala, kiểm tra khu tiệc và giới hạn âm thanh. Một resort có đủ phòng vẫn có thể không còn khu sự kiện vào ngày cần đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Đánh giá việc di chuyển trong khu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đánh giá việc di chuyển trong khu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Resort rộng có thể khiến người lớn tuổi di chuyển nhiều; hỏi lối đi hoặc hỗ trợ nội khu thực tế. Phòng rải nhiều khu ảnh hưởng thời gian tập trung đoàn. So báo giá trên cùng phòng, bữa ăn và quyền sử dụng. Đừng chọn chỉ bằng giá một đêm rồi bổ sung hàng loạt phí sau khi cọc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Resort rộng có thể khiến người lớn tuổi di chuyển nhiều; hỏi lối đi hoặc hỗ trợ nội khu thực tế. Phòng rải nhiều khu ảnh hưởng thời gian tập trung đoàn. So báo giá trên cùng phòng, bữa ăn và quyền sử dụng. Đừng chọn chỉ bằng giá một đêm rồi bổ sung hàng loạt phí sau khi cọc.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần nêu tên resort ngay trong bài bán tour không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần nêu tên resort ngay trong bài bán tour không?</span>"
     },
     {
       "type": "p",
-      "text": "Nếu đã xác nhận dịch vụ, nên nêu rõ. Nếu còn lựa chọn theo ngày và ngân sách, phải ghi là phương án dự kiến cần kiểm tra."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu đã xác nhận dịch vụ, nên nêu rõ. Nếu còn lựa chọn theo ngày và ngân sách, phải ghi là phương án dự kiến cần kiểm tra.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-doanh-nghiep-ho-tram-chon-resort-dap-ung-ca-nghi-va-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
