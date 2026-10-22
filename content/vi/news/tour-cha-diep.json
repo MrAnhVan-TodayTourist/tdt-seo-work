@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Cha Diệp–Tắc Sậy cần ưu tiên thời gian hành hương và nhịp nghỉ của đoàn. Người chỉ muốn đến nhà thờ có nhu cầu khác chương trình ghép Mẹ Nam Hải và các điểm văn hóa. Trước khi đặt, hãy nói rõ mục đích, có đi đêm được không và có cần tham dự sinh hoạt tôn giáo cụ thể hay không."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Cha Diệp–Tắc Sậy cần ưu tiên thời gian hành hương và nhịp nghỉ của đoàn. Người chỉ muốn đến nhà thờ có nhu cầu khác chương trình ghép Mẹ Nam Hải và các điểm văn hóa. Trước khi đặt, hãy nói rõ mục đích, có đi đêm được không và có cần tham dự sinh hoạt tôn giáo cụ thể hay không.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dành thời gian đúng cho điểm chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dành thời gian đúng cho điểm chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu nhóm muốn cầu nguyện hoặc tham dự Thánh lễ, phải xác nhận lịch thực tế với nơi tiếp nhận trước khi xây chương trình. Không mặc định mọi tour đến đúng giờ lễ hoặc có phần nghi thức riêng. Đoàn có thời gian tự do nên thống nhất giờ gặp và người liên hệ để không vội ở cuối chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu nhóm muốn cầu nguyện hoặc tham dự Thánh lễ, phải xác nhận lịch thực tế với nơi tiếp nhận trước khi xây chương trình. Không mặc định mọi tour đến đúng giờ lễ hoặc có phần nghi thức riêng. Đoàn có thời gian tự do nên thống nhất giờ gặp và người liên hệ để không vội ở cuối chuyến.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đọc rõ một ngày một đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc rõ một ngày một đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chương trình có thể đi đêm, tham quan rồi về vào ngày kế tiếp mà không ngủ khách sạn. Hãy hỏi loại xe, chỗ nghỉ, số bữa và giờ về dự kiến. Nhóm có người lớn tuổi hoặc vừa tan ca cần cân nhắc lịch này; có thể đề nghị thêm đêm phòng nếu phù hợp thời gian và ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chương trình có thể đi đêm, tham quan rồi về vào ngày kế tiếp mà không ngủ khách sạn. Hãy hỏi loại xe, chỗ nghỉ, số bữa và giờ về dự kiến. Nhóm có người lớn tuổi hoặc vừa tan ca cần cân nhắc lịch này; có thể đề nghị thêm đêm phòng nếu phù hợp thời gian và ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm kết hợp theo tín ngưỡng và mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm kết hợp theo tín ngưỡng và mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist có tuyến Cha Diệp–Mẹ Nam Hải để tham khảo, nhưng đoàn có thể trao đổi chỉ tập trung Tắc Sậy. Bữa ăn chay hoặc mặn, nhu cầu phòng và điểm đón phải báo trước. Dịch vụ tour tổ chức việc đi lại và chương trình, không cam kết kết quả tâm linh hay những lời hứa cầu nguyện."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist có tuyến Cha Diệp–Mẹ Nam Hải để tham khảo, nhưng đoàn có thể trao đổi chỉ tập trung Tắc Sậy. Bữa ăn chay hoặc mặn, nhu cầu phòng và điểm đón phải báo trước. Dịch vụ tour tổ chức việc đi lại và chương trình, không cam kết kết quả tâm linh hay những lời hứa cầu nguyện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có bắt buộc ghé Mẹ Nam Hải khi đi Cha Diệp không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có bắt buộc ghé Mẹ Nam Hải khi đi Cha Diệp không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Với đoàn riêng, có thể đề nghị điều chỉnh. Chương trình kết hợp sẵn chỉ là một lựa chọn; cần xác nhận lại thời gian, điểm và báo giá cho tuyến muốn đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Với đoàn riêng, có thể đề nghị điều chỉnh. Chương trình kết hợp sẵn chỉ là một lựa chọn; cần xác nhận lại thời gian, điểm và báo giá cho tuyến muốn đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Cha Diệp? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Cha Diệp? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-cha-diep-me-nam-hai-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cha Diệp – Mẹ Nam Hải 1 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-cha-diep-me-nam-hai-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cha Diệp – Mẹ Nam Hải 1 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
