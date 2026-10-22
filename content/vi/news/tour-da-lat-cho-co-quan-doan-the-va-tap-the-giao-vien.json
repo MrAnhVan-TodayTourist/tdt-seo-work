@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Đà Lạt cho cơ quan, đoàn thể hoặc tập thể giáo viên thường cần cân bằng nghỉ dưỡng, giao lưu và lịch chung của đơn vị. Người tham gia có thể khác độ tuổi và sở thích, nên chương trình nên dễ theo, có thời gian tự do và một đầu mối điều phối thống nhất."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Đà Lạt cho cơ quan, đoàn thể hoặc tập thể giáo viên thường cần cân bằng nghỉ dưỡng, giao lưu và lịch chung của đơn vị. Người tham gia có thể khác độ tuổi và sở thích, nên chương trình nên dễ theo, có thời gian tự do và một đầu mối điều phối thống nhất.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất mục tiêu và lịch nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất mục tiêu và lịch nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trưởng đoàn cần xác định chuyến đi là nghỉ dưỡng, giao lưu, tri ân hay tham quan kết hợp sinh hoạt tập thể. Ghi rõ ngày có thể khởi hành và ngày phải trở lại làm việc. Nếu thành viên có gia đình đi cùng, cần tính riêng cơ cấu phòng, bữa ăn và quyền tham gia hoạt động để báo giá không thiếu người."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trưởng đoàn cần xác định chuyến đi là nghỉ dưỡng, giao lưu, tri ân hay tham quan kết hợp sinh hoạt tập thể. Ghi rõ ngày có thể khởi hành và ngày phải trở lại làm việc. Nếu thành viên có gia đình đi cùng, cần tính riêng cơ cấu phòng, bữa ăn và quyền tham gia hoạt động để báo giá không thiếu người.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215478752-0.jpg",
-      "alt": "Tour Đà Lạt cho cơ quan, đoàn thể và tập thể giáo viên"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215478752-0.jpg\" alt=\"Tour Đà Lạt cho cơ quan, đoàn thể và tập thể giáo viên\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm đến và nhịp di chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm đến và nhịp di chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một đoàn đa độ tuổi không nhất thiết phù hợp lịch săn mây hoặc đi bộ nhiều. Có thể chọn điểm cảnh quan, giao lưu văn hóa và dạo phố, dành khoảng nghỉ giữa các buổi. Khi đoàn có sở thích khác nhau, nên bố trí một số khoảng tự do có giờ tập trung rõ thay vì tách nhóm liên tục ở nhiều địa điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một đoàn đa độ tuổi không nhất thiết phù hợp lịch săn mây hoặc đi bộ nhiều. Có thể chọn điểm cảnh quan, giao lưu văn hóa và dạo phố, dành khoảng nghỉ giữa các buổi. Khi đoàn có sở thích khác nhau, nên bố trí một số khoảng tự do có giờ tập trung rõ thay vì tách nhóm liên tục ở nhiều địa điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tổ chức giao lưu vừa đủ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tổ chức giao lưu vừa đủ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một tối Gala hoặc giao lưu văn nghệ có thể giúp các thành viên kết nối. Nên chọn nội dung phù hợp tập thể: giới thiệu nhóm, lời tri ân, trò chơi nhẹ hoặc chia sẻ kỷ niệm. Nếu có vinh danh, chuẩn bị tên và thứ tự trước. BBQ hoặc cồng chiêng có thể là lựa chọn khác, tùy địa điểm và ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một tối Gala hoặc giao lưu văn nghệ có thể giúp các thành viên kết nối. Nên chọn nội dung phù hợp tập thể: giới thiệu nhóm, lời tri ân, trò chơi nhẹ hoặc chia sẻ kỷ niệm. Nếu có vinh danh, chuẩn bị tên và thứ tự trước. BBQ hoặc cồng chiêng có thể là lựa chọn khác, tùy địa điểm và ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Thông tin và hồ sơ cần chốt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông tin và hồ sơ cần chốt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số người, danh sách nhu cầu phòng, ngày đi, điểm đón, ngân sách và yêu cầu chứng từ của đơn vị. Điều kiện đặt cọc, thay đổi thành viên và dịch vụ được ghi trong báo giá hoặc hợp đồng của chuyến. TodayTourist tư vấn tour Đà Lạt cho cơ quan, đoàn thể và giáo viên tại Đồng Nai, TP.HCM theo lịch riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số người, danh sách nhu cầu phòng, ngày đi, điểm đón, ngân sách và yêu cầu chứng từ của đơn vị. Điều kiện đặt cọc, thay đổi thành viên và dịch vụ được ghi trong báo giá hoặc hợp đồng của chuyến. TodayTourist tư vấn tour Đà Lạt cho cơ quan, đoàn thể và giáo viên tại Đồng Nai, TP.HCM theo lịch riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có nhiều người lớn tuổi nên đi đêm không? Nên cân nhắc thói quen nghỉ và cách bố trí nhận phòng. Có bắt buộc tổ chức Team Building không? Không; có thể chọn giao lưu nhẹ hoặc nghỉ dưỡng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có nhiều người lớn tuổi nên đi đêm không? Nên cân nhắc thói quen nghỉ và cách bố trí nhận phòng. Có bắt buộc tổ chức Team Building không? Không; có thể chọn giao lưu nhẹ hoặc nghỉ dưỡng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Đà Lạt cho gia đình có trẻ nhỏ hoặc người lớn tuổi",
-        "Tour ghép Đà Lạt hay đoàn riêng: chọn hình thức nào?",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-cho-gia-dinh-co-tre-nho-hoac-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt cho gia đình có trẻ nhỏ hoặc người lớn tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-da-lat-hay-doan-rieng-chon-hinh-thuc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép Đà Lạt hay đoàn riêng: chọn hình thức nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
