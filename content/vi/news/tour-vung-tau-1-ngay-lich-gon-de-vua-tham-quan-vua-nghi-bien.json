@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Vũng Tàu 1 ngày phù hợp với đoàn có quỹ thời gian ngắn. Muốn chuyến đi dễ chịu, hãy chọn một hoạt động chính và một điểm tham quan bổ trợ, thay vì biến cả ngày thành chuỗi lên xuống xe."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Vũng Tàu 1 ngày phù hợp với đoàn có quỹ thời gian ngắn. Muốn chuyến đi dễ chịu, hãy chọn một hoạt động chính và một điểm tham quan bổ trợ, thay vì biến cả ngày thành chuỗi lên xuống xe.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Buổi sáng: dành chỗ cho di chuyển và bữa ăn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Buổi sáng: dành chỗ cho di chuyển và bữa ăn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch tham khảo có thể bắt đầu bằng đón đoàn, ăn sáng và ghé một điểm phù hợp trên tuyến. Cần tính cả thời gian tập trung khách, điểm dừng vệ sinh và giao thông. Với đoàn xuất phát từ nhiều nơi, thống nhất điểm tập kết trước; giờ đón cụ thể được chốt theo địa chỉ thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch tham khảo có thể bắt đầu bằng đón đoàn, ăn sáng và ghé một điểm phù hợp trên tuyến. Cần tính cả thời gian tập trung khách, điểm dừng vệ sinh và giao thông. Với đoàn xuất phát từ nhiều nơi, thống nhất điểm tập kết trước; giờ đón cụ thể được chốt theo địa chỉ thực tế.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Buổi trưa và chiều: chọn biển hoặc hoạt động tập thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Buổi trưa và chiều: chọn biển hoặc hoạt động tập thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sau bữa trưa, dành thời gian nghỉ trước khi tắm biển hoặc tham gia trò chơi. Đoàn cần Team Building nên đặt riêng khu hoạt động, nơi thay đồ, nước uống và phương án mưa. Nếu đã dành thời gian cho trò chơi, nên giảm điểm tham quan. Không tổ chức hoạt động vận động ngay sau bữa ăn hoặc ép mọi thành viên xuống biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sau bữa trưa, dành thời gian nghỉ trước khi tắm biển hoặc tham gia trò chơi. Đoàn cần Team Building nên đặt riêng khu hoạt động, nơi thay đồ, nước uống và phương án mưa. Nếu đã dành thời gian cho trò chơi, nên giảm điểm tham quan. Không tổ chức hoạt động vận động ngay sau bữa ăn hoặc ép mọi thành viên xuống biển.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt giờ về từ nhu cầu của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt giờ về từ nhu cầu của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công nhân cần tính giờ tập trung và lịch làm việc hôm sau. Đoàn học sinh cần khoảng dự phòng để điểm danh và bàn giao. Trước khi đặt, hỏi bữa sáng, bữa trưa, vé và dịch vụ tắm tráng có nằm trong giá hay không. Một lịch gọn, có khoảng nghỉ thường thực tế hơn lời hứa đi hết các điểm trong ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công nhân cần tính giờ tập trung và lịch làm việc hôm sau. Đoàn học sinh cần khoảng dự phòng để điểm danh và bàn giao. Trước khi đặt, hỏi bữa sáng, bữa trưa, vé và dịch vụ tắm tráng có nằm trong giá hay không. Một lịch gọn, có khoảng nghỉ thường thực tế hơn lời hứa đi hết các điểm trong ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour một ngày có tổ chức Gala Dinner được không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour một ngày có tổ chức Gala Dinner được không?</span>"
     },
     {
       "type": "p",
-      "text": "Nếu cần về sớm, có thể cân nhắc giao lưu trong bữa trưa. Tiệc tối kéo dài thường phù hợp hơn với chương trình có lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu cần về sớm, có thể cân nhắc giao lưu trong bữa trưa. Tiệc tối kéo dài thường phù hợp hơn với chương trình có lưu trú.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Team Building Vũng Tàu: chọn bãi và kịch bản cho đoàn công ty",
-        "Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-vung-tau-chon-bai-va-kich-ban-cho-doan-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Vũng Tàu: chọn bãi và kịch bản cho đoàn công ty</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-bien-tu-bien-hoa-dong-nai-va-tp-hcm-bo-tri-diem-don-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 1 ngày",
         "Tour Vũng Tàu 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
