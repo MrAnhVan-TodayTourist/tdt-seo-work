@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Ba ngày hai đêm không nhất thiết phải có nhiều điểm tham quan hơn. Đối với đoàn cần nghỉ dưỡng, hội nghị hoặc tổ chức sự kiện, ngày tăng thêm có giá trị khi giúp lịch thoáng và mọi người ít vội."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ba ngày hai đêm không nhất thiết phải có nhiều điểm tham quan hơn. Đối với đoàn cần nghỉ dưỡng, hội nghị hoặc tổ chức sự kiện, ngày tăng thêm có giá trị khi giúp lịch thoáng và mọi người ít vội.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phù hợp với đoàn có thêm mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phù hợp với đoàn có thêm mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể cân nhắc ba ngày nếu đoàn muốn một buổi họp, một buổi Team Building và một buổi tối giao lưu. Gia đình có trẻ nhỏ hoặc đoàn nhiều người lớn tuổi cũng có thể sử dụng thời gian thêm để nghỉ. Nếu chỉ cần tắm biển và một bữa tiệc, hãy so lại phương án hai ngày để tránh chi phí không cần thiết."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cân nhắc ba ngày nếu đoàn muốn một buổi họp, một buổi Team Building và một buổi tối giao lưu. Gia đình có trẻ nhỏ hoặc đoàn nhiều người lớn tuổi cũng có thể sử dụng thời gian thêm để nghỉ. Nếu chỉ cần tắm biển và một bữa tiệc, hãy so lại phương án hai ngày để tránh chi phí không cần thiết.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Gợi ý chia lịch theo ba phần"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý chia lịch theo ba phần</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày đầu dành cho di chuyển, ổn định phòng và làm quen. Ngày thứ hai là ngày chính cho hoạt động tập thể hoặc tham quan tự chọn; buổi tối có thể tổ chức Gala Dinner nếu đã đặt địa điểm. Ngày cuối ưu tiên nghỉ, trả phòng và về. Đây là phương án thiết kế, không phải thông báo lịch ghép đang mở bán."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày đầu dành cho di chuyển, ổn định phòng và làm quen. Ngày thứ hai là ngày chính cho hoạt động tập thể hoặc tham quan tự chọn; buổi tối có thể tổ chức Gala Dinner nếu đã đặt địa điểm. Ngày cuối ưu tiên nghỉ, trả phòng và về. Đây là phương án thiết kế, không phải thông báo lịch ghép đang mở bán.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính giá trị của đêm lưu trú thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính giá trị của đêm lưu trú thêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "So sánh tiền phòng, bữa ăn, xe và nhân sự tăng thêm với thời gian nghỉ nhận được. Nếu muốn kết hợp khu biển khác, kiểm tra chặng di chuyển mới trước khi thêm vào lịch. Cần hỏi điều kiện giữ phòng cả hai đêm, thay đổi số khách và thời hạn xác nhận chương trình; không mặc định giá hai ngày nhân theo tỷ lệ sẽ ra giá ba ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">So sánh tiền phòng, bữa ăn, xe và nhân sự tăng thêm với thời gian nghỉ nhận được. Nếu muốn kết hợp khu biển khác, kiểm tra chặng di chuyển mới trước khi thêm vào lịch. Cần hỏi điều kiện giữ phòng cả hai đêm, thay đổi số khách và thời hạn xác nhận chương trình; không mặc định giá hai ngày nhân theo tỷ lệ sẽ ra giá ba ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đi ba ngày nhưng chỉ nghỉ một đêm khách sạn không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đi ba ngày nhưng chỉ nghỉ một đêm khách sạn không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể có cách tổ chức khác, nhưng phải mô tả rõ thời gian trên xe và nơi nghỉ. Không nên gọi hai chương trình khác cấu trúc là tương đương."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể có cách tổ chức khác, nhưng phải mô tả rõ thời gian trên xe và nơi nghỉ. Không nên gọi hai chương trình khác cấu trúc là tương đương.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Hội nghị kết hợp nghỉ biển: lập chương trình MICE Vũng Tàu – Hồ Tràm",
-        "Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hoi-nghi-ket-hop-nghi-bien-lap-chuong-trinh-mice-vung-tau-ho-tram/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hội nghị kết hợp nghỉ biển: lập chương trình MICE Vũng Tàu – Hồ Tràm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
