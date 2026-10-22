@@ -8,8 +8,8 @@
   "published_at": "2026-02-04",
   "content": [
     {
-      "type": "p",
-      "text": "Với mục tiêu gắn kết các Leader – Quản lý – Giám sát, chương trình không chỉ là một chuyến nghỉ dưỡng, mà còn là không gian để các đội ngũ Quản lý, Marketing, Nhân sự và vận hành cùng nhau chia sẻ, thấu hiểu và xây dựng tinh thần đồng đội vững chắc giữa nhịp sống biển Phan Thiết"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Với mục tiêu gắn kết các Leader – Quản lý – Giám sát, chương trình không chỉ là một chuyến nghỉ dưỡng, mà còn là không gian để các đội ngũ Quản lý, Marketing, Nhân sự và vận hành cùng nhau chia sẻ, thấu hiểu và xây dựng tinh thần đồng đội vững chắc giữa nhịp sống biển Phan Thiết</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Từ những hoạt động Teambuilding bãi biển sôi động, đến đêm Gala Dinner kết hợp Year End Party ấm cúng, mỗi khoảnh khắc đều trở thành chất keo gắn kết, tiếp thêm năng lượng, niềm tin và động lực để Chốn Bình Yên Coffee tiếp tục lan tỏa giá trị “bình yên” tại các điểm đến: Đà Lạt – Nha Trang – Biên Hòa – Sài Gòn"
+      "text": "<span style=\"font-size:16px;color:#374151\">Từ những hoạt động Teambuilding bãi biển sôi động, đến đêm Gala Dinner kết hợp Year End Party ấm cúng, mỗi khoảnh khắc đều trở thành chất keo gắn kết, tiếp thêm năng lượng, niềm tin và động lực để Chốn Bình Yên Coffee tiếp tục lan tỏa giá trị “bình yên” tại các điểm đến: Đà Lạt – Nha Trang – Biên Hòa – Sài Gòn</span>"
     },
     {
       "type": "p",
-      "text": "Chuyến đi khép lại, nhưng tinh thần đồng hành, sẻ chia và quyết tâm phát triển bền vững vẫn còn vang vọng, trở thành hành trang quý giá cho chặng đường phía trước của đại gia đình Chốn Bình Yên Coffee."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến đi khép lại, nhưng tinh thần đồng hành, sẻ chia và quyết tâm phát triển bền vững vẫn còn vang vọng, trở thành hành trang quý giá cho chặng đường phía trước của đại gia đình Chốn Bình Yên Coffee.</span>"
     },
     {
       "type": "html",
@@ -29,15 +29,19 @@
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin trân trọng cảm ơn Chốn Bình Yên Coffee đã tin tưởng lựa chọn và đồng hành cùng chúng tôi trong hành trình đặc biệt này. Kính chúc Quý chuỗi ngày càng phát triển mạnh mẽ, đội ngũ luôn đoàn kết và gặt hái nhiều thành công."
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin trân trọng cảm ơn Chốn Bình Yên Coffee đã tin tưởng lựa chọn và đồng hành cùng chúng tôi trong hành trình đặc biệt này. Kính chúc Quý chuỗi ngày càng phát triển mạnh mẽ, đội ngũ luôn đoàn kết và gặt hái nhiều thành công.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-02-04."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-02-04.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-phan-thiet-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phan Thiết 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-phan-thiet-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phan Thiết 2 Ngày 1 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
