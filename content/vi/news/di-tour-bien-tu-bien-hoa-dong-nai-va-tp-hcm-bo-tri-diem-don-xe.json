@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Điểm đón hợp lý giúp đoàn tiết kiệm thời gian ngay từ đầu chuyến đi. Với tour biển từ Biên Hòa, Đồng Nai hoặc TP.HCM, cần xác nhận địa chỉ, chỗ xe dừng và số khách tại từng điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Điểm đón hợp lý giúp đoàn tiết kiệm thời gian ngay từ đầu chuyến đi. Với tour biển từ Biên Hòa, Đồng Nai hoặc TP.HCM, cần xác nhận địa chỉ, chỗ xe dừng và số khách tại từng điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đoàn riêng: chọn điểm tập trung thuận tiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng: chọn điểm tập trung thuận tiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị đón tại công ty, trường hoặc vị trí tập trung phù hợp. Với khu công nghiệp như Amata và Biên Hòa 2, cần xác nhận cổng nào, giờ tập trung và người liên hệ. Không mặc định xe lớn vào được mọi đường hoặc mọi khuôn viên. Nhiều điểm đón có thể làm chặng xuất phát dài hơn dự kiến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị đón tại công ty, trường hoặc vị trí tập trung phù hợp. Với khu công nghiệp như Amata và Biên Hòa 2, cần xác nhận cổng nào, giờ tập trung và người liên hệ. Không mặc định xe lớn vào được mọi đường hoặc mọi khuôn viên. Nhiều điểm đón có thể làm chặng xuất phát dài hơn dự kiến.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn xe theo người đi và nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe theo người đi và nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông thường cân nhắc xe 45 chỗ; nhóm ít người có thể xem 16 hoặc 29 chỗ. Nếu đề nghị xe giường nằm, phải kiểm tra loại xe, bố trí chỗ và sự phù hợp với chặng ngắn. Tính cả trẻ em, hướng dẫn viên, nhân sự phục vụ và hành lý; không suy số xe chỉ từ số nhân viên công ty."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông thường cân nhắc xe 45 chỗ; nhóm ít người có thể xem 16 hoặc 29 chỗ. Nếu đề nghị xe giường nằm, phải kiểm tra loại xe, bố trí chỗ và sự phù hợp với chặng ngắn. Tính cả trẻ em, hướng dẫn viên, nhân sự phục vụ và hành lý; không suy số xe chỉ từ số nhân viên công ty.</span>"
     },
     {
       "type": "h2",
-      "text": "Khách ghép: xác nhận tuyến đón của chuyến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khách ghép: xác nhận tuyến đón của chuyến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch ghép có điểm tập trung và điều kiện đón riêng. Hãy gửi vị trí để được kiểm tra thay vì dựa vào câu 'đón tận nơi'. Đoàn riêng và khách ghép có thể có cách tổ chức khác nhau. Trước ngày đi, thống nhất giờ, biển số hoặc thông tin xe, người phụ trách và cách liên hệ khi đến muộn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch ghép có điểm tập trung và điều kiện đón riêng. Hãy gửi vị trí để được kiểm tra thay vì dựa vào câu 'đón tận nơi'. Đoàn riêng và khách ghép có thể có cách tổ chức khác nhau. Trước ngày đi, thống nhất giờ, biển số hoặc thông tin xe, người phụ trách và cách liên hệ khi đến muộn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đón cả Đồng Nai và TP.HCM trong một chuyến không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đón cả Đồng Nai và TP.HCM trong một chuyến không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần kiểm tra tuyến đường, số khách và thời gian thêm. Có thể đề nghị điểm tập kết hoặc phương án xe phù hợp thay vì đi vòng nhiều nơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần kiểm tra tuyến đường, số khách và thời gian thêm. Có thể đề nghị điểm tập kết hoặc phương án xe phù hợp thay vì đi vòng nhiều nơi.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển",
-        "Tour nghỉ biển cho công nhân: tổ chức đoàn từ các khu công nghiệp",
-        "Tour ghép hay đoàn riêng đi Vũng Tàu – Hồ Tràm?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-1-ngay-lich-gon-de-vua-tham-quan-vua-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nghi-bien-cho-cong-nhan-to-chuc-doan-tu-cac-khu-cong-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour nghỉ biển cho công nhân: tổ chức đoàn từ các khu công nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-hay-doan-rieng-di-vung-tau-ho-tram/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép hay đoàn riêng đi Vũng Tàu – Hồ Tràm?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
