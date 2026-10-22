@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Đà Lạt từ Biên Hòa, Đồng Nai thuận tiện hơn khi phương án đón khách được chốt ngay từ đầu. Đoàn công ty thường muốn tập trung tại nơi làm việc, còn gia đình có thể cần điểm đón khác. Điều quan trọng là chọn điểm xe tiếp cận được, hạn chế vòng đón và bảo đảm mọi thành viên biết giờ có mặt."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Đà Lạt từ Biên Hòa, Đồng Nai thuận tiện hơn khi phương án đón khách được chốt ngay từ đầu. Đoàn công ty thường muốn tập trung tại nơi làm việc, còn gia đình có thể cần điểm đón khác. Điều quan trọng là chọn điểm xe tiếp cận được, hạn chế vòng đón và bảo đảm mọi thành viên biết giờ có mặt.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn nơi tập kết phù hợp đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn nơi tập kết phù hợp đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với doanh nghiệp hoặc trường học, có thể đề nghị đón tại trụ sở nếu điều kiện xe ra vào phù hợp. Trưởng đoàn nên kiểm tra chỗ dừng, lối quay đầu, thời điểm mở cổng và nơi chờ có mái che. Với khách ở nhiều khu vực, nên dùng một điểm tập kết thuận tiện hoặc một số điểm nằm trên hành trình đã được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với doanh nghiệp hoặc trường học, có thể đề nghị đón tại trụ sở nếu điều kiện xe ra vào phù hợp. Trưởng đoàn nên kiểm tra chỗ dừng, lối quay đầu, thời điểm mở cổng và nơi chờ có mái che. Với khách ở nhiều khu vực, nên dùng một điểm tập kết thuận tiện hoặc một số điểm nằm trên hành trình đã được thống nhất.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215184025-0.jpg",
-      "alt": "Đi tour Đà Lạt từ Biên Hòa, Đồng Nai: phương án đón đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215184025-0.jpg\" alt=\"Đi tour Đà Lạt từ Biên Hòa, Đồng Nai: phương án đón đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Không gom quá nhiều điểm đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không gom quá nhiều điểm đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi điểm dừng thêm đều ảnh hưởng giờ khởi hành và thời gian đến Đà Lạt. Nếu đoàn có nhiều xe, có thể chia danh sách theo từng điểm thay vì để một xe đi vòng đón tất cả. Khách ở khu công nghiệp hoặc khu dân cư cần nhận rõ tên điểm, vị trí hẹn và đầu mối liên lạc. Không nên hiểu đón tận nơi là xe lớn vào được mọi đường nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi điểm dừng thêm đều ảnh hưởng giờ khởi hành và thời gian đến Đà Lạt. Nếu đoàn có nhiều xe, có thể chia danh sách theo từng điểm thay vì để một xe đi vòng đón tất cả. Khách ở khu công nghiệp hoặc khu dân cư cần nhận rõ tên điểm, vị trí hẹn và đầu mối liên lạc. Không nên hiểu đón tận nơi là xe lớn vào được mọi đường nhỏ.</span>"
     },
     {
       "type": "h2",
-      "text": "Đoàn riêng và tour ghép có cách đón khác nhau"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng và tour ghép có cách đón khác nhau</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn riêng có thể đề xuất thời gian và nơi tập trung theo nhu cầu. Tour ghép phải theo phương án của chuyến được xác nhận. Khi hỏi tour Đà Lạt Đồng Nai, hãy gửi vị trí đón cụ thể và số người tại mỗi nơi; đơn vị tổ chức mới có căn cứ tính điều xe, sắp giờ và thông báo chi phí nếu có."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn riêng có thể đề xuất thời gian và nơi tập trung theo nhu cầu. Tour ghép phải theo phương án của chuyến được xác nhận. Khi hỏi tour Đà Lạt Đồng Nai, hãy gửi vị trí đón cụ thể và số người tại mỗi nơi; đơn vị tổ chức mới có căn cứ tính điều xe, sắp giờ và thông báo chi phí nếu có.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt danh sách trước giờ khởi hành"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt danh sách trước giờ khởi hành</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trưởng đoàn nên lập danh sách khách theo xe, số điện thoại liên hệ và hành lý cần mang. Thông báo giờ tập trung sớm hơn giờ xe chạy để có thời gian điểm danh. TodayTourist tư vấn tour Đà Lạt cho khách tại Biên Hòa và các khu vực Đồng Nai; điểm đón cuối cùng được thống nhất trong chương trình của từng đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trưởng đoàn nên lập danh sách khách theo xe, số điện thoại liên hệ và hành lý cần mang. Thông báo giờ tập trung sớm hơn giờ xe chạy để có thời gian điểm danh. TodayTourist tư vấn tour Đà Lạt cho khách tại Biên Hòa và các khu vực Đồng Nai; điểm đón cuối cùng được thống nhất trong chương trình của từng đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đón tại công ty ở Amata hoặc Biên Hòa 2 không? Có thể gửi yêu cầu kèm vị trí và quy mô đoàn để kiểm tra phương án. Đón nhiều nơi có miễn phí không? Cần xác nhận trong báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đón tại công ty ở Amata hoặc Biên Hòa 2 không? Có thể gửi yêu cầu kèm vị trí và quy mô đoàn để kiểm tra phương án. Đón nhiều nơi có miễn phí không? Cần xác nhận trong báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi tour Đà Lạt từ TP.HCM: chọn giờ khởi hành và điểm đón",
-        "Tổ chức tour Đà Lạt cho công ty: bắt đầu từ đâu?",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-da-lat-tu-tp-hcm-chon-gio-khoi-hanh-va-diem-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour Đà Lạt từ TP.HCM: chọn giờ khởi hành và điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-da-lat-cho-cong-ty-bat-dau-tu-dau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức tour Đà Lạt cho công ty: bắt đầu từ đâu?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
