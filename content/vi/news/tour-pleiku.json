@@ -3,21 +3,21 @@
   "title": "Tour Pleiku–Gia Lai: chọn Biển Hồ, phố núi và điểm văn hóa",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tour-pleiku-v2.jpg",
-  "summary": "Tour Pleiku–Gia Lai. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Tour Pleiku có thể là chuyến tập trung phố núi hoặc một chặng trong hành trình Tây Nguyên.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Pleiku có thể là chuyến tập trung phố núi hoặc một chặng trong hành trình Tây Nguyên. Bạn nên hỏi đoàn có nghỉ tại Pleiku hay chỉ tham quan rồi đi tiếp. Sự khác biệt này quyết định thời gian ngắm cảnh, uống cà phê và tham gia các hoạt động buổi tối."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Pleiku có thể là chuyến tập trung phố núi hoặc một chặng trong hành trình Tây Nguyên. Bạn nên hỏi đoàn có nghỉ tại Pleiku hay chỉ tham quan rồi đi tiếp. Sự khác biệt này quyết định thời gian ngắm cảnh, uống cà phê và tham gia các hoạt động buổi tối.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn nhóm điểm chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn nhóm điểm chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách có thể ưu tiên Biển Hồ, một điểm văn hóa hoặc nhịp dạo phố tùy mục tiêu. Không cần đưa mọi điểm trong danh sách tìm kiếm vào cùng một ngày. Với đoàn mới đến sau chặng dài, chọn phần tham quan nhẹ trước và giữ giờ nghỉ để khách không xuống sức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách có thể ưu tiên Biển Hồ, một điểm văn hóa hoặc nhịp dạo phố tùy mục tiêu. Không cần đưa mọi điểm trong danh sách tìm kiếm vào cùng một ngày. Với đoàn mới đến sau chặng dài, chọn phần tham quan nhẹ trước và giữ giờ nghỉ để khách không xuống sức.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Xem có kết nối Kon Tum–Măng Đen không"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem có kết nối Kon Tum–Măng Đen không</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chương trình nối tuyến cần ghi rõ chặng đi tiếp và nơi ngủ. Nếu chỉ ghé Pleiku, phần buổi tối tại phố núi sẽ không tương đương tour ở lại. Khách muốn một đêm Pleiku nên nêu từ khi xin lịch, để tránh hiểu nhầm dựa vào tên điểm trong tiêu đề."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chương trình nối tuyến cần ghi rõ chặng đi tiếp và nơi ngủ. Nếu chỉ ghé Pleiku, phần buổi tối tại phố núi sẽ không tương đương tour ở lại. Khách muốn một đêm Pleiku nên nêu từ khi xin lịch, để tránh hiểu nhầm dựa vào tên điểm trong tiêu đề.</span>"
     },
     {
       "type": "h2",
-      "text": "So tour theo trải nghiệm có thật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So tour theo trải nghiệm có thật</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi vé, bữa ăn, điểm dừng, khu được tham quan và phần phát sinh. Chụp ảnh, chiêm bái và đi bộ có yêu cầu khác nhau. Các tour mẫu TodayTourist là cơ sở so tuyến; chương trình riêng tập trung Gia Lai cần kiểm tra và xác nhận dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi vé, bữa ăn, điểm dừng, khu được tham quan và phần phát sinh. Chụp ảnh, chiêm bái và đi bộ có yêu cầu khác nhau. Các tour mẫu TodayTourist là cơ sở so tuyến; chương trình riêng tập trung Gia Lai cần kiểm tra và xác nhận dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên đặt tour chỉ vì thấy nhiều tên điểm nổi tiếng?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên xem thời gian tại mỗi điểm và lịch chuyển vùng. Một chương trình ít điểm nhưng đủ thời gian có thể hợp mục tiêu nghỉ dưỡng hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Có nên đặt tour chỉ vì thấy nhiều tên điểm nổi tiếng?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên xem thời gian tại mỗi điểm và lịch chuyển vùng. Một chương trình ít điểm nhưng đủ thời gian có thể hợp mục tiêu nghỉ dưỡng hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bien-ho-pleiku/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Biển Hồ và Biển Hồ Chè Pleiku: chọn hai trải nghiệm khác nhau</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chua-minh-thanh-pleiku/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chùa Minh Thành Pleiku: chọn phần tham quan và chiêm bái trong tour</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Biển Hồ và Biển Hồ Chè Pleiku: chọn hai trải nghiệm khác nhau",
-        "Chùa Minh Thành Pleiku: chọn phần tham quan và chiêm bái trong tour",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
