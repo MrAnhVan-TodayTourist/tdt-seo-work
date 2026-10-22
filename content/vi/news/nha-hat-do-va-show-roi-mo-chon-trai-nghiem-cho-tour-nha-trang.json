@@ -8,98 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Nhà hát Đó có thể là lựa chọn cho đoàn muốn thêm trải nghiệm nghệ thuật trong chuyến Nha Trang. Tuy nhiên, ghé chụp ảnh bên ngoài và xem show Rối Mơ là hai nội dung khác nhau; chương trình cần ghi rõ đoàn đăng ký trải nghiệm nào."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Nhà hát Đó có thể là lựa chọn cho đoàn muốn thêm trải nghiệm nghệ thuật trong chuyến Nha Trang. Tuy nhiên, ghé chụp ảnh bên ngoài và xem show Rối Mơ là hai nội dung khác nhau; chương trình cần ghi rõ đoàn đăng ký trải nghiệm nào.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt tham quan kiến trúc và vé biểu diễn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt tham quan kiến trúc và vé biểu diễn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một điểm dừng check-in không mặc nhiên có vé vào khán phòng. Nếu muốn xem Rối Mơ, hỏi suất diễn, hạng vé, sơ đồ chỗ và điều kiện đặt cho đoàn. Những hình ảnh biểu diễn trong bài giới thiệu chỉ minh họa trải nghiệm, không phải xác nhận show đã nằm trong giá tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một điểm dừng check-in không mặc nhiên có vé vào khán phòng. Nếu muốn xem Rối Mơ, hỏi suất diễn, hạng vé, sơ đồ chỗ và điều kiện đặt cho đoàn. Những hình ảnh biểu diễn trong bài giới thiệu chỉ minh họa trải nghiệm, không phải xác nhận show đã nằm trong giá tour.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216292031-0.jpg",
-      "alt": "Nhà hát Đó và show Rối Mơ: chọn trải nghiệm cho tour Nha Trang"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216292031-0.jpg\" alt=\"Nhà hát Đó và show Rối Mơ: chọn trải nghiệm cho tour Nha Trang\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Rối Mơ là trải nghiệm nghệ thuật riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Rối Mơ là trải nghiệm nghệ thuật riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Life Puppets – Rối Mơ kết hợp nghệ thuật rối với âm nhạc và cách trình diễn đương đại tại Nhà hát Đó. Đoàn có thể cân nhắc như một hoạt động văn hóa, thay cho việc thêm nhiều điểm check-in. Người phụ trách nên xem giới thiệu của đơn vị biểu diễn để chọn theo thành phần và sở thích khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Life Puppets – Rối Mơ kết hợp nghệ thuật rối với âm nhạc và cách trình diễn đương đại tại Nhà hát Đó. Đoàn có thể cân nhắc như một hoạt động văn hóa, thay cho việc thêm nhiều điểm check-in. Người phụ trách nên xem giới thiệu của đơn vị biểu diễn để chọn theo thành phần và sở thích khách.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp lịch theo suất được xác nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp lịch theo suất được xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch biểu diễn có thể thay đổi; không dùng lịch cũ để hứa một tối cố định cho mọi chuyến. Cần tính chặng đến nhà hát, thời gian tập kết và bữa ăn trước hoặc sau show. Nếu đoàn có Gala, nên bố trí tối khác hoặc điều chỉnh nội dung để khách không phải chạy giữa hai chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch biểu diễn có thể thay đổi; không dùng lịch cũ để hứa một tối cố định cho mọi chuyến. Cần tính chặng đến nhà hát, thời gian tập kết và bữa ăn trước hoặc sau show. Nếu đoàn có Gala, nên bố trí tối khác hoặc điều chỉnh nội dung để khách không phải chạy giữa hai chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Đoàn đông cần kiểm tra vị trí ngồi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn đông cần kiểm tra vị trí ngồi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách và yêu cầu ngồi cùng nhóm, sau đó nhận xác nhận theo tình trạng vé. Không mặc định còn đủ chỗ liên tiếp cho cả đoàn. TodayTourist tư vấn cách ghép trải nghiệm nghệ thuật vào tour Nha Trang; vé, lịch và vận chuyển phải được xác nhận trước khi chốt chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách và yêu cầu ngồi cùng nhóm, sau đó nhận xác nhận theo tình trạng vé. Không mặc định còn đủ chỗ liên tiếp cho cả đoàn. TodayTourist tư vấn cách ghép trải nghiệm nghệ thuật vào tour Nha Trang; vé, lịch và vận chuyển phải được xác nhận trước khi chốt chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chụp ảnh Nhà hát Đó có nghĩa đã xem Rối Mơ không? Không. Có thể thêm show vào tour công ty? Có thể yêu cầu kiểm tra lịch và chi phí theo ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chụp ảnh Nhà hát Đó có nghĩa đã xem Rối Mơ không? Không. Có thể thêm show vào tour công ty? Có thể yêu cầu kiểm tra lịch và chi phí theo ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nha Trang một ngày: chọn dịch vụ khi đã đến điểm du lịch",
-        "Đặt tour Nha Trang cho đoàn: đặt cọc, chốt khách và thay đổi dịch vụ",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-mot-ngay-chon-dich-vu-khi-da-den-diem-du-lich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang một ngày: chọn dịch vụ khi đã đến điểm du lịch</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-nha-trang-cho-doan-dat-coc-chot-khach-va-thay-doi-dich-vu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Nha Trang cho đoàn: đặt cọc, chốt khách và thay đổi dịch vụ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
