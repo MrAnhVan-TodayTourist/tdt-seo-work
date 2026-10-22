@@ -8,8 +8,8 @@
   "published_at": "2026-05-27",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng Hội Cựu Giáo Chức phường Tân Triều, Trị An và xã Tân An trong chuyến tham quan – nghỉ dưỡng đầy ý nghĩa với chủ đề “KẾT NỐI YÊU THƯƠNG” tại vùng đất biển Quy Nhơn – Phú Yên xinh đẹp"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng Hội Cựu Giáo Chức phường Tân Triều, Trị An và xã Tân An trong chuyến tham quan – nghỉ dưỡng đầy ý nghĩa với chủ đề “KẾT NỐI YÊU THƯƠNG” tại vùng đất biển Quy Nhơn – Phú Yên xinh đẹp</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá Kỳ Co – Eo Gió với vẻ đẹp hoang sơ và thơ mộng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá Kỳ Co – Eo Gió với vẻ đẹp hoang sơ và thơ mộng</span>"
     },
     {
       "type": "html",
@@ -29,39 +29,43 @@
     },
     {
       "type": "p",
-      "text": "Tham quan Nhà thờ Mằng Lăng – một trong những nhà thờ cổ nhất Việt Nam"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Nhà thờ Mằng Lăng – một trong những nhà thờ cổ nhất Việt Nam</span>"
     },
     {
       "type": "p",
-      "text": "Chiêm ngưỡng vẻ đẹp độc đáo của Gành Đá Đĩa – thắng cảnh thiên nhiên nổi tiếng Phú Yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">Chiêm ngưỡng vẻ đẹp độc đáo của Gành Đá Đĩa – thắng cảnh thiên nhiên nổi tiếng Phú Yên</span>"
     },
     {
       "type": "p",
-      "text": "Tham quan Ghềnh Ráng Tiên Sa, tìm hiểu cuộc đời thi sĩ Hàn Mặc Tử"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Ghềnh Ráng Tiên Sa, tìm hiểu cuộc đời thi sĩ Hàn Mặc Tử</span>"
     },
     {
       "type": "p",
-      "text": "Check-in những cung đường biển tuyệt đẹp của miền Trung"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in những cung đường biển tuyệt đẹp của miền Trung</span>"
     },
     {
       "type": "p",
-      "text": "Thưởng thức các món đặc sản địa phương hấp dẫn của Quy Nhơn – Phú Yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thưởng thức các món đặc sản địa phương hấp dẫn của Quy Nhơn – Phú Yên</span>"
     },
     {
       "type": "p",
-      "text": "Tham gia đêm Gala Dinner chủ đề “KẾT NỐI YÊU THƯƠNG” với nhiều tiết mục giao lưu, sẻ chia và những khoảnh khắc đáng nhớ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham gia đêm Gala Dinner chủ đề “KẾT NỐI YÊU THƯƠNG” với nhiều tiết mục giao lưu, sẻ chia và những khoảnh khắc đáng nhớ</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin kính chúc quý thầy cô luôn dồi dào sức khỏe, hạnh phúc và có thêm thật nhiều kỷ niệm đẹp sau hành trình ý nghĩa lần này!"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc quý thầy cô luôn dồi dào sức khỏe, hạnh phúc và có thêm thật nhiều kỷ niệm đẹp sau hành trình ý nghĩa lần này!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-27."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-27.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Quy Nhơn 3 Ngày 3 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn 3 Ngày 3 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
