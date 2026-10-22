@@ -3,21 +3,21 @@
   "title": "Tây Nguyên mùa nào đẹp: chọn theo thời tiết và trải nghiệm muốn có",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tay-nguyen-mua-nao-dep-v2.jpg",
-  "summary": "Tây Nguyên mùa nào đẹp. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Không có một thời điểm đảm bảo mọi nơi ở Tây Nguyên đều có thời tiết và cảnh đẹp giống nhau.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Không có một thời điểm đảm bảo mọi nơi ở Tây Nguyên đều có thời tiết và cảnh đẹp giống nhau. Khi chọn ngày đi, hãy xác định đoàn muốn hoạt động ngoài trời, nghỉ mát, ngắm hoa hay tìm hiểu văn hóa. Mục tiêu đó giúp chọn tuyến và phương án dự phòng sát nhu cầu hơn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Không có một thời điểm đảm bảo mọi nơi ở Tây Nguyên đều có thời tiết và cảnh đẹp giống nhau. Khi chọn ngày đi, hãy xác định đoàn muốn hoạt động ngoài trời, nghỉ mát, ngắm hoa hay tìm hiểu văn hóa. Mục tiêu đó giúp chọn tuyến và phương án dự phòng sát nhu cầu hơn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo hoạt động ưu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo hoạt động ưu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn Team Building hoặc đi thác cần quan tâm điều kiện mặt bằng và lối đi; nhóm cà phê, bảo tàng có thể linh hoạt hơn với mưa. Trước chuyến đi, kiểm tra dự báo tại từng nơi trong lịch thay vì chỉ xem thời tiết của điểm xuất phát."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn Team Building hoặc đi thác cần quan tâm điều kiện mặt bằng và lối đi; nhóm cà phê, bảo tàng có thể linh hoạt hơn với mưa. Trước chuyến đi, kiểm tra dự báo tại từng nơi trong lịch thay vì chỉ xem thời tiết của điểm xuất phát.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Không chốt cảnh theo ảnh một mùa khác"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không chốt cảnh theo ảnh một mùa khác</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ảnh hoa, mây hoặc mặt hồ trên mạng có thể chụp ở thời điểm khác. Nếu cảnh theo mùa là mục tiêu chính, hỏi tình trạng thực tế gần ngày đi. Không cam kết chắc chắn thấy hoa nở hay săn được mây; nên có một trải nghiệm thay thế vẫn phù hợp cả nhóm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ảnh hoa, mây hoặc mặt hồ trên mạng có thể chụp ở thời điểm khác. Nếu cảnh theo mùa là mục tiêu chính, hỏi tình trạng thực tế gần ngày đi. Không cam kết chắc chắn thấy hoa nở hay săn được mây; nên có một trải nghiệm thay thế vẫn phù hợp cả nhóm.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ khoảng linh hoạt trong chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ khoảng linh hoạt trong chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xếp các phần ngoài trời cùng phương án điều chỉnh được thống nhất. Đoàn cần áo khoác hoặc đồ đi mưa theo thông tin cụ thể của chuyến đi. Nếu một điểm phải thay đổi, hỏi ảnh hưởng đến dịch vụ và chi phí, không tự hiểu sẽ thay bằng một phần tương đương trong mọi trường hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xếp các phần ngoài trời cùng phương án điều chỉnh được thống nhất. Đoàn cần áo khoác hoặc đồ đi mưa theo thông tin cụ thể của chuyến đi. Nếu một điểm phải thay đổi, hỏi ảnh hưởng đến dịch vụ và chi phí, không tự hiểu sẽ thay bằng một phần tương đương trong mọi trường hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có cần bỏ toàn bộ lịch nếu có dự báo mưa không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem mức độ và thông tin thực tế của từng chặng. Đơn vị tổ chức sẽ kiểm tra khả năng hoạt động và trao đổi phương án phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Có cần bỏ toàn bộ lịch nếu có dự báo mưa không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần xem mức độ và thông tin thực tế của từng chặng. Đơn vị tổ chức sẽ kiểm tra khả năng hoạt động và trao đổi phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/khach-san-tay-nguyen-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Khách sạn Tây Nguyên cho đoàn: chọn phòng, bãi xe và khu sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tay-nguyen-an-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tây Nguyên ăn gì: chọn đặc sản và thực đơn phù hợp khách đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Khách sạn Tây Nguyên cho đoàn: chọn phòng, bãi xe và khu sự kiện",
-        "Tây Nguyên ăn gì: chọn đặc sản và thực đơn phù hợp khách đoàn",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
