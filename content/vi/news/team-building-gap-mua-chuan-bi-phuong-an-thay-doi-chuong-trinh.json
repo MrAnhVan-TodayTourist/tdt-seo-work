@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Với chương trình ngoài trời, phương án dự phòng cần được bàn từ lúc chọn địa điểm. Chỉ ghi chuyển vào hội trường là chưa đủ: doanh nghiệp phải biết khu vực thay thế có đáp ứng số người, hoạt động và lịch phục vụ hay không."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Với chương trình ngoài trời, phương án dự phòng cần được bàn từ lúc chọn địa điểm. Chỉ ghi chuyển vào hội trường là chưa đủ: doanh nghiệp phải biết khu vực thay thế có đáp ứng số người, hoạt động và lịch phục vụ hay không.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn phương án có thể thực hiện được"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phương án có thể thực hiện được</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không gian trong nhà cần được xác nhận về thời gian sử dụng, sức chứa và cách bố trí. Chương trình ít vận động có thể thay thế một phần hoạt động ngoài trời nếu phù hợp với đoàn. Tuy nhiên, không phải thử thách nào cũng chuyển nguyên vào phòng được. Cần chuẩn bị nội dung thay thế cụ thể, đạo cụ cần dùng và cách thông báo cho người tham dự."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không gian trong nhà cần được xác nhận về thời gian sử dụng, sức chứa và cách bố trí. Chương trình ít vận động có thể thay thế một phần hoạt động ngoài trời nếu phù hợp với đoàn. Tuy nhiên, không phải thử thách nào cũng chuyển nguyên vào phòng được. Cần chuẩn bị nội dung thay thế cụ thể, đạo cụ cần dùng và cách thông báo cho người tham dự.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213415017-0.jpg",
-      "alt": "Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213415017-0.jpg\" alt=\"Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất người quyết định và cách phối hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất người quyết định và cách phối hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đầu mối doanh nghiệp, người điều phối chương trình và đại diện địa điểm nên biết ai quyết định thay đổi. Lịch cần có khoảng linh hoạt nếu phải điều chỉnh thời gian. Khi điều kiện thực tế không phù hợp, nên dừng hoặc chuyển hoạt động theo đánh giá và hướng dẫn của bên phụ trách tại chỗ. Không nên duy trì chương trình chỉ để hoàn thành đủ danh sách tiết mục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đầu mối doanh nghiệp, người điều phối chương trình và đại diện địa điểm nên biết ai quyết định thay đổi. Lịch cần có khoảng linh hoạt nếu phải điều chỉnh thời gian. Khi điều kiện thực tế không phù hợp, nên dừng hoặc chuyển hoạt động theo đánh giá và hướng dẫn của bên phụ trách tại chỗ. Không nên duy trì chương trình chỉ để hoàn thành đủ danh sách tiết mục.</span>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ ảnh hưởng đến phạm vi và chi phí"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ ảnh hưởng đến phạm vi và chi phí</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phương án thay thế có thể làm đổi khu vực, thiết bị, giờ phục vụ hoặc nội dung đã đặt. Những thay đổi dự kiến cần được trao đổi trong báo giá và thỏa thuận, bao gồm cách xử lý khoản phát sinh. Việc có phòng trong nhà không có nghĩa toàn bộ hành trình được miễn ảnh hưởng bởi thời tiết. Nếu kết hợp tour và Gala, hãy kiểm tra cả lịch di chuyển, đón khách và phục vụ tiệc để các bên có cùng phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phương án thay thế có thể làm đổi khu vực, thiết bị, giờ phục vụ hoặc nội dung đã đặt. Những thay đổi dự kiến cần được trao đổi trong báo giá và thỏa thuận, bao gồm cách xử lý khoản phát sinh. Việc có phòng trong nhà không có nghĩa toàn bộ hành trình được miễn ảnh hưởng bởi thời tiết. Nếu kết hợp tour và Gala, hãy kiểm tra cả lịch di chuyển, đón khách và phục vụ tiệc để các bên có cùng phương án.</span>"
     },
     {
       "type": "h2",
-      "text": "Phương án khi gặp mưa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phương án khi gặp mưa</span></strong>"
     },
     {
       "type": "list",
@@ -54,59 +53,63 @@
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu mưa thì mặc định được hoàn tiền hay đổi toàn bộ chương trình không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu mưa thì mặc định được hoàn tiền hay đổi toàn bộ chương trình không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cách thay đổi, khoản phí và trách nhiệm phối hợp cần dựa trên thỏa thuận cụ thể giữa các bên. Hãy hỏi và ghi rõ phương án trước khi xác nhận dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cách thay đổi, khoản phí và trách nhiệm phối hợp cần dựa trên thỏa thuận cụ thể giữa các bên. Hãy hỏi và ghi rõ phương án trước khi xác nhận dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building ngoài trời: chọn sân và kịch bản theo đoàn",
-        "Team Building trong nhà: chọn hoạt động phù hợp hội trường",
-        "Team Building bãi biển: chọn không gian và lịch cho doanh nghiệp"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-ngoai-troi-chon-san-va-kich-ban-theo-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building ngoài trời: chọn sân và kịch bản theo đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-trong-nha-chon-hoat-dong-phu-hop-hoi-truong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building trong nhà: chọn hoạt động phù hợp hội trường</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-bai-bien-chon-khong-gian-va-lich-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building bãi biển: chọn không gian và lịch cho doanh nghiệp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
