@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Nhiều đoàn nhìn thấy giá tour và nghĩ rằng đã gồm Team Building, Gala. Thực tế, các hoạt động này thường có cấu trúc chi phí riêng, nên cần tách ra để so sánh cho đúng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Nhiều đoàn nhìn thấy giá tour và nghĩ rằng đã gồm Team Building, Gala. Thực tế, các hoạt động này thường có cấu trúc chi phí riêng, nên cần tách ra để so sánh cho đúng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chi phí nhân sự và đạo cụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chi phí nhân sự và đạo cụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gồm MC, người điều phối, trọng tài và hỗ trợ tại hiện trường, cùng đạo cụ, quà và vật liệu. Số người tham gia, độ phức tạp trò chơi và thời lượng đều ảnh hưởng đến khoản này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gồm MC, người điều phối, trọng tài và hỗ trợ tại hiện trường, cùng đạo cụ, quà và vật liệu. Số người tham gia, độ phức tạp trò chơi và thời lượng đều ảnh hưởng đến khoản này.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222352443-0.jpg",
-      "alt": "Towering lighthouse stands against a vibrant blue sky, surrounded by n"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222352443-0.jpg\" alt=\"Towering lighthouse stands against a vibrant blue sky, surrounded by n\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Sân khấu, màn hình, âm thanh"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sân khấu, màn hình, âm thanh</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gala cần âm thanh, ánh sáng, màn hình, backdrop hoặc sân khấu. Một số nơi có sẵn thiết bị, nơi khác phải thuê ngoài. Hãy hỏi rõ phần nào đã có, phần nào tính thêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gala cần âm thanh, ánh sáng, màn hình, backdrop hoặc sân khấu. Một số nơi có sẵn thiết bị, nơi khác phải thuê ngoài. Hãy hỏi rõ phần nào đã có, phần nào tính thêm.</span>"
     },
     {
       "type": "h2",
-      "text": "Mặt bằng và nhà hàng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mặt bằng và nhà hàng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phí mặt bằng, bàn ghế, trang trí và suất ăn là các khoản cần làm rõ. Với tiệc, kiểm tra thực đơn, đồ uống và phụ phí nếu kéo dài giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phí mặt bằng, bàn ghế, trang trí và suất ăn là các khoản cần làm rõ. Với tiệc, kiểm tra thực đơn, đồ uống và phụ phí nếu kéo dài giờ.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh báo giá theo cùng quy mô"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh báo giá theo cùng quy mô</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi so giá giữa các đơn vị, hãy dùng cùng số khách, thời lượng, hạng mục và địa điểm. Một báo giá thấp có thể thiếu một nhóm chi phí; một báo giá cao có thể gồm nhiều dịch vụ hơn. Yêu cầu bảng hạng mục thay vì chỉ một con số tổng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi so giá giữa các đơn vị, hãy dùng cùng số khách, thời lượng, hạng mục và địa điểm. Một báo giá thấp có thể thiếu một nhóm chi phí; một báo giá cao có thể gồm nhiều dịch vụ hơn. Yêu cầu bảng hạng mục thay vì chỉ một con số tổng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giá tour trọn gói có gồm Team Building và Gala không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá tour trọn gói có gồm Team Building và Gala không?</span>"
     },
     {
       "type": "p",
-      "text": "Chỉ khi báo giá ghi rõ. Nếu không, hãy hỏi bằng văn bản để biết chi phí cuối cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ khi báo giá ghi rõ. Nếu không, hãy hỏi bằng văn bản để biết chi phí cuối cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp",
-        "Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp",
-        "Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-phan-thiet-lua-chon-khong-gian-va-kich-ban-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Phan Thiết: lựa chọn không gian và kịch bản cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phan-thiet-mui-ne-chon-bai-bien-va-tro-choi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-di-phan-thiet-2-ngay-1-dem-gom-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
