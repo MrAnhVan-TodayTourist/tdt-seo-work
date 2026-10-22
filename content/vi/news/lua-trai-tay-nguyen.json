@@ -3,21 +3,21 @@
   "title": "Lửa trại và BBQ Tây Nguyên: chọn địa điểm và nội dung giao lưu",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "lua-trai-tay-nguyen-v2.jpg",
-  "summary": "Lửa trại và BBQ Tây Nguyên. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "BBQ và lửa trại có thể cùng nằm trong một buổi tối, nhưng là hai phần khác nhau.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "BBQ và lửa trại có thể cùng nằm trong một buổi tối, nhưng là hai phần khác nhau. BBQ tập trung vào bữa ăn; lửa trại là hoạt động giao lưu cần địa điểm cho phép. Khi đặt tour Tây Nguyên, bạn nên xác định phần nào là mục tiêu chính của đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">BBQ và lửa trại có thể cùng nằm trong một buổi tối, nhưng là hai phần khác nhau. BBQ tập trung vào bữa ăn; lửa trại là hoạt động giao lưu cần địa điểm cho phép. Khi đặt tour Tây Nguyên, bạn nên xác định phần nào là mục tiêu chính của đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Hỏi rõ bữa BBQ phục vụ thế nào"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi rõ bữa BBQ phục vụ thế nào</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chốt thực đơn, định lượng, món ăn kèm và cách chia bàn. Nếu khách tự nướng, cần thiết bị và người hỗ trợ; nếu nhà hàng nướng sẵn, hỏi cách giữ đồ nóng. Chuẩn bị món dễ ăn và phần riêng cho người ăn chay, trẻ em hoặc khách có kiêng kỵ đã thông báo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chốt thực đơn, định lượng, món ăn kèm và cách chia bàn. Nếu khách tự nướng, cần thiết bị và người hỗ trợ; nếu nhà hàng nướng sẵn, hỏi cách giữ đồ nóng. Chuẩn bị món dễ ăn và phần riêng cho người ăn chay, trẻ em hoặc khách có kiêng kỵ đã thông báo.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chỉ chốt lửa trại sau khi địa điểm đồng ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chỉ chốt lửa trại sau khi địa điểm đồng ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không phải sân hay khu rừng nào cũng được đốt lửa. Hỏi khu vực được dùng, người phụ trách, thời gian và phương án nếu không thể tổ chức. Chương trình không lửa vẫn có thể giao lưu bằng trò chơi, văn nghệ hoặc hoạt động nhóm phù hợp không gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không phải sân hay khu rừng nào cũng được đốt lửa. Hỏi khu vực được dùng, người phụ trách, thời gian và phương án nếu không thể tổ chức. Chương trình không lửa vẫn có thể giao lưu bằng trò chơi, văn nghệ hoặc hoạt động nhóm phù hợp không gian.</span>"
     },
     {
       "type": "h2",
-      "text": "Tách bữa ăn khỏi chương trình MC"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách bữa ăn khỏi chương trình MC</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác nhận âm thanh, người dẫn, trò chơi và phần văn nghệ cùng thời lượng. Nếu có nghệ nhân, ghi thêm nội dung và người thực hiện. Không coi một bữa BBQ có loa nhạc là đã tương đương chương trình lửa trại hoặc giao lưu văn hóa được tổ chức đầy đủ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác nhận âm thanh, người dẫn, trò chơi và phần văn nghệ cùng thời lượng. Nếu có nghệ nhân, ghi thêm nội dung và người thực hiện. Không coi một bữa BBQ có loa nhạc là đã tương đương chương trình lửa trại hoặc giao lưu văn hóa được tổ chức đầy đủ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nếu mưa thì buổi tối sẽ xử lý thế nào?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần ghi phương án chuyển bữa ăn và nội dung giao lưu trước khi đặt. Có thể dùng khu có mái hoặc đổi hoạt động theo điều kiện nơi nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nếu mưa thì buổi tối sẽ xử lý thế nào?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần ghi phương án chuyển bữa ăn và nội dung giao lưu trước khi đặt. Có thể dùng khu có mái hoặc đổi hoạt động theo điều kiện nơi nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/giao-luu-cong-chieng-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giao lưu cồng chiêng Tây Nguyên: chọn trải nghiệm văn hóa cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Tây Nguyên: thiết kế trải nghiệm cà phê và văn hóa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Giao lưu cồng chiêng Tây Nguyên: chọn trải nghiệm văn hóa cho đoàn",
-        "Tour học sinh Tây Nguyên: thiết kế trải nghiệm cà phê và văn hóa",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
