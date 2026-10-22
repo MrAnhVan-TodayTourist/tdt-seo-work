@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour ghép và tour đoàn riêng khác nhau ở mức chủ động, cấu trúc dịch vụ và cách tính giá. Chọn đúng hình thức giúp khách tránh yêu cầu một chuyến ghép phải phục vụ như tour riêng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour ghép và tour đoàn riêng khác nhau ở mức chủ động, cấu trúc dịch vụ và cách tính giá. Chọn đúng hình thức giúp khách tránh yêu cầu một chuyến ghép phải phục vụ như tour riêng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tour ghép: kiểm tra chuyến thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tour ghép: kiểm tra chuyến thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách lẻ nên hỏi ngày khởi hành, điểm đón, tình trạng nhận khách và điều kiện thực hiện chuyến. Lịch tham khảo trên website không chứng minh mọi ngày đều có xe chạy. Cần biết dịch vụ chung, thời gian tự do và quy định khi không tham gia một điểm trong chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách lẻ nên hỏi ngày khởi hành, điểm đón, tình trạng nhận khách và điều kiện thực hiện chuyến. Lịch tham khảo trên website không chứng minh mọi ngày đều có xe chạy. Cần biết dịch vụ chung, thời gian tự do và quy định khi không tham gia một điểm trong chương trình.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Đoàn riêng: xây theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng: xây theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công ty hoặc nhóm gia đình có thể đề nghị ngày đi, xe, điểm đón, loại phòng và hoạt động. Mức giá phụ thuộc số khách và dịch vụ được chọn. Nhóm ít người cần so chi phí riêng với sự tiện lợi nhận được; không lấy giá đoàn đông làm chuẩn cho mọi quy mô."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công ty hoặc nhóm gia đình có thể đề nghị ngày đi, xe, điểm đón, loại phòng và hoạt động. Mức giá phụ thuộc số khách và dịch vụ được chọn. Nhóm ít người cần so chi phí riêng với sự tiện lợi nhận được; không lấy giá đoàn đông làm chuẩn cho mọi quy mô.</span>"
     },
     {
       "type": "h2",
-      "text": "So hai phương án trên cùng mong muốn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So hai phương án trên cùng mong muốn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu cần Gala Dinner riêng, họp hoặc lịch theo ca, đoàn riêng thường thuận tiện để thiết kế. Nếu chỉ muốn chuyến nghỉ ngắn và chấp nhận lịch chung, có thể xem ghép khi có chuyến phù hợp. Cả hai hình thức đều cần xác nhận bữa ăn, phòng, vé, chi phí trẻ em và điều kiện đổi hủy."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu cần Gala Dinner riêng, họp hoặc lịch theo ca, đoàn riêng thường thuận tiện để thiết kế. Nếu chỉ muốn chuyến nghỉ ngắn và chấp nhận lịch chung, có thể xem ghép khi có chuyến phù hợp. Cả hai hình thức đều cần xác nhận bữa ăn, phòng, vé, chi phí trẻ em và điều kiện đổi hủy.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm vài người có đặt tour riêng được không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm vài người có đặt tour riêng được không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị tư vấn theo quy mô; cần so ngân sách với phương án ghép thực tế nếu có, rồi mới chọn hình thức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị tư vấn theo quy mô; cần so ngân sách với phương án ghép thực tế nếu có, rồi mới chọn hình thức.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt",
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn",
-        "Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-tron-goi-chon-lich-trinh-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-bien-tu-bien-hoa-dong-nai-va-tp-hcm-bo-tri-diem-don-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
