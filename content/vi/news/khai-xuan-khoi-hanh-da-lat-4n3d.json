@@ -8,8 +8,8 @@
   "published_at": "2026-09-21",
   "content": [
     {
-      "type": "p",
-      "text": "Du lịch Today Tourist rộn ràng mở màn năm mới 2026 bằng hành trình Đà Lạt 4 ngày 3 đêm – khám phá thành phố mộng mơ, nơi sương giăng lối nhỏ, thông reo trong gió và cảm xúc chạm rất khẽ vào lòng người"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Du lịch Today Tourist rộn ràng mở màn năm mới 2026 bằng hành trình Đà Lạt 4 ngày 3 đêm – khám phá thành phố mộng mơ, nơi sương giăng lối nhỏ, thông reo trong gió và cảm xúc chạm rất khẽ vào lòng người</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Xin gửi lời cảm ơn chân thành đến 8 gia đình đã tin tưởng, đồng hành cùng Today Tourist trong ngày đầu tiên khám phá vùng đất cao nguyên đầy nắng gió, yên bình và ấm áp nghĩa tình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin gửi lời cảm ơn chân thành đến 8 gia đình đã tin tưởng, đồng hành cùng Today Tourist trong ngày đầu tiên khám phá vùng đất cao nguyên đầy nắng gió, yên bình và ấm áp nghĩa tình.</span>"
     },
     {
       "type": "p",
-      "text": "Hành trình vẫn đang tiếp diễn…"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình vẫn đang tiếp diễn…</span>"
     },
     {
       "type": "html",
@@ -29,51 +29,55 @@
     },
     {
       "type": "p",
-      "text": "02 – 03 – 04/01 còn rất nhiều trải nghiệm, rất nhiều khoảnh khắc đẹp đang chờ phía trước"
+      "text": "<span style=\"font-size:16px;color:#374151\">02 – 03 – 04/01 còn rất nhiều trải nghiệm, rất nhiều khoảnh khắc đẹp đang chờ phía trước</span>"
     },
     {
       "type": "p",
-      "text": "Bước sang năm mới 2026, Du lịch Today Tourist trân trọng cảm ơn Quý khách hàng đã luôn yêu thương, tin tưởng và ủng hộ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bước sang năm mới 2026, Du lịch Today Tourist trân trọng cảm ơn Quý khách hàng đã luôn yêu thương, tin tưởng và ủng hộ.</span>"
     },
     {
       "type": "p",
-      "text": "Kính chúc Quý khách an khang thịnh vượng – sức khỏe dồi dào – mọi điều như ý, và tiếp tục đồng hành cùng chúng tôi trên những chuyến đi sắp tới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kính chúc Quý khách an khang thịnh vượng – sức khỏe dồi dào – mọi điều như ý, và tiếp tục đồng hành cùng chúng tôi trên những chuyến đi sắp tới.</span>"
     },
     {
       "type": "p",
-      "text": "Bên cạnh các tour tổ chức riêng cho công ty, xí nghiệp, trường học, đoàn thể…, trong năm 2026, Today Tourist sẽ đẩy mạnh các chương trình tour trong nước & quốc tế theo hình thức “tour ghép đoàn” – linh hoạt, tiện lợi, chi phí hợp lý để Quý khách dễ dàng:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Bên cạnh các tour tổ chức riêng cho công ty, xí nghiệp, trường học, đoàn thể…, trong năm 2026, Today Tourist sẽ đẩy mạnh các chương trình tour trong nước & quốc tế theo hình thức “tour ghép đoàn” – linh hoạt, tiện lợi, chi phí hợp lý để Quý khách dễ dàng:</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá nhiều điểm đến"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá nhiều điểm đến</span>"
     },
     {
       "type": "p",
-      "text": "Trải nghiệm nhiều cung đường"
+      "text": "<span style=\"font-size:16px;color:#374151\">Trải nghiệm nhiều cung đường</span>"
     },
     {
       "type": "p",
-      "text": "Gặp gỡ thêm nhiều người bạn đồng hành"
+      "text": "<span style=\"font-size:16px;color:#374151\">Gặp gỡ thêm nhiều người bạn đồng hành</span>"
     },
     {
       "type": "p",
-      "text": "Đặc biệt phục vụ khu vực Biên Hòa – Đồng Nai và các vùng lân cận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặc biệt phục vụ khu vực Biên Hòa – Đồng Nai và các vùng lân cận.</span>"
     },
     {
       "type": "p",
-      "text": "Rất mong tiếp tục nhận được sự tin tưởng và ủng hộ của Quý khách hàng, để Today Tourist hoàn thành sứ mệnh"
+      "text": "<span style=\"font-size:16px;color:#374151\">Rất mong tiếp tục nhận được sự tin tưởng và ủng hộ của Quý khách hàng, để Today Tourist hoàn thành sứ mệnh</span>"
     },
     {
       "type": "p",
-      "text": "“Đồng hành mọi hành trình – Trao trọn niềm tin”"
+      "text": "<span style=\"font-size:16px;color:#374151\">“Đồng hành mọi hành trình – Trao trọn niềm tin”</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist”.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
