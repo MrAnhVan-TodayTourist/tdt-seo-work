@@ -8,29 +8,28 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Doanh nghiệp cần xe ổn định, đúng giờ, có hóa đơn. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Doanh nghiệp cần xe ổn định, đúng giờ, có hóa đơn. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe hợp đồng doanh nghiệp: đưa đón theo ca và thuê dài hạn?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe hợp đồng doanh nghiệp: đưa đón theo ca và thuê dài hạn?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Hợp đồng thuê xe doanh nghiệp: những điều khoản nên thống nhất"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hợp đồng thuê xe doanh nghiệp: những điều khoản nên thống nhất</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp tại Biên Hòa, Đồng Nai và TP.HCM thuê xe định kỳ (đưa đón nhân viên, đi công tác, du lịch công ty) thường cần một hợp đồng rõ ràng. Nên thống nhất: lộ trình, số km/số giờ, loại xe, thời gian đón – trả, phương thức thanh toán, trách nhiệm khi phát sinh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp tại Biên Hòa, Đồng Nai và TP.HCM thuê xe định kỳ (đưa đón nhân viên, đi công tác, du lịch công ty) thường cần một hợp đồng rõ ràng. Nên thống nhất: lộ trình, số km/số giờ, loại xe, thời gian đón – trả, phương thức thanh toán, trách nhiệm khi phát sinh.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213055799-0.jpg",
-      "alt": "Thuê xe hợp đồng doanh nghiệp: đưa đón theo ca và thuê dài hạn tại Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213055799-0.jpg\" alt=\"Thuê xe hợp đồng doanh nghiệp: đưa đón theo ca và thuê dài hạn tại Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Các nội dung cần có"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Các nội dung cần có</span></strong>"
     },
     {
       "type": "list",
@@ -45,23 +44,23 @@
     },
     {
       "type": "h2",
-      "text": "Quy trình làm việc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quy trình làm việc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi yêu cầu (số người, lịch trình) – nhận báo giá – chốt xe – ký hợp đồng – xác nhận lại trước ngày đi – nghiệm thu và thanh toán."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi yêu cầu (số người, lịch trình) – nhận báo giá – chốt xe – ký hợp đồng – xác nhận lại trước ngày đi – nghiệm thu và thanh toán.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với hợp đồng dài hạn nên có biên bản bàn giao và đầu mối liên hệ 24/7."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với hợp đồng dài hạn nên có biên bản bàn giao và đầu mối liên hệ 24/7.</span>"
     },
     {
       "type": "h2",
-      "text": "Ví dụ các hình thức thuê xe hợp đồng cho doanh nghiệp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ví dụ các hình thức thuê xe hợp đồng cho doanh nghiệp</span></strong>"
     },
     {
       "type": "list",
@@ -73,75 +72,75 @@
     },
     {
       "type": "h2",
-      "text": "Cách so sánh báo giá hợp đồng dài hạn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cách so sánh báo giá hợp đồng dài hạn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi so sánh, hãy đặt các báo giá cạnh nhau theo cùng tiêu chí: loại xe, đời xe, số chuyến mỗi ngày, số km, giờ chờ, nhiên liệu, phí cầu đường, bảo hiểm, xe thay thế khi hỏng. Hợp đồng dài hạn nên có điều khoản rõ ràng về điều chỉnh giá khi nhiên liệu biến động và phương án xe dự phòng để không gián đoạn hoạt động của doanh nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi so sánh, hãy đặt các báo giá cạnh nhau theo cùng tiêu chí: loại xe, đời xe, số chuyến mỗi ngày, số km, giờ chờ, nhiên liệu, phí cầu đường, bảo hiểm, xe thay thế khi hỏng. Hợp đồng dài hạn nên có điều khoản rõ ràng về điều chỉnh giá khi nhiên liệu biến động và phương án xe dự phòng để không gián đoạn hoạt động của doanh nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý để hợp đồng thuê xe vận hành trơn tru"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý để hợp đồng thuê xe vận hành trơn tru</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cử một đầu mối phụ trách làm việc với nhà xe, báo trước thay đổi số người và giờ chạy. Họp rà soát định kỳ hằng tháng để điều chỉnh tuyến, giờ đón và phản hồi chất lượng. Lưu hồ sơ xe, giấy tờ tài xế và biên bản bàn giao để thuận tiện khi cần đối chiếu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cử một đầu mối phụ trách làm việc với nhà xe, báo trước thay đổi số người và giờ chạy. Họp rà soát định kỳ hằng tháng để điều chỉnh tuyến, giờ đón và phản hồi chất lượng. Lưu hồ sơ xe, giấy tờ tài xế và biên bản bàn giao để thuận tiện khi cần đối chiếu.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Cần chuẩn bị gì để ký hợp đồng?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Cần chuẩn bị gì để ký hợp đồng?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thông tin pháp nhân và lịch trình dự kiến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thông tin pháp nhân và lịch trình dự kiến.</span>"
     },
     {
       "type": "h3",
-      "text": "Có xuất hóa đơn không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có xuất hóa đơn không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thống nhất ngay từ đầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thống nhất ngay từ đầu.</span>"
     },
     {
       "type": "h3",
-      "text": "Hủy chuyến xử lý thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Hủy chuyến xử lý thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Theo điều khoản hủy trong hợp đồng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Theo điều khoản hủy trong hợp đồng.</span>"
     },
     {
       "type": "h3",
-      "text": "Có thuê dài hạn được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thuê dài hạn được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có, cần ghi rõ thời hạn và đơn giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có, cần ghi rõ thời hạn và đơn giá.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist hỗ trợ gì?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist hỗ trợ gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tư vấn xe và hợp đồng cho doanh nghiệp tại Biên Hòa, Đồng Nai, TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tư vấn xe và hợp đồng cho doanh nghiệp tại Biên Hòa, Đồng Nai, TP.HCM.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-cho-cong-ty-di-du-lich/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho công ty đi du lịch</a> · <a href=\"/vi/tin-tuc/thue-xe-cho-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho Team Building và Gala Dinner</a> · <a href=\"/vi/tin-tuc/thue-xe-cho-hoc-sinh-di-tham-quan-ngoai-khoa/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe cho học sinh đi tham quan, ngoại khóa</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-cho-cong-ty-di-du-lich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe cho công ty đi du lịch</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-cho-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe cho Team Building và Gala Dinner</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-cho-hoc-sinh-di-tham-quan-ngoai-khoa/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe cho học sinh đi tham quan, ngoại khóa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -150,6 +149,10 @@
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận",
         "Tổ chức Team Building cho doanh nghiệp tại Đồng Nai và TP.HCM"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
