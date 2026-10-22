@@ -3,21 +3,21 @@
   "title": "Tour Buôn Đôn: chọn tham quan, văn hóa và trải nghiệm thân thiện với voi",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tay-nguyen-tour-buon-don.jpg",
-  "summary": "Tour Buôn Đôn. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Buôn Đôn thường được khách tìm bằng tên Bản Đôn khi muốn khám phá văn hóa và trải nghiệm gắn với voi.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Buôn Đôn thường được khách tìm bằng tên Bản Đôn khi muốn khám phá văn hóa và trải nghiệm gắn với voi. Bạn cần hỏi chính xác khu tham quan và hoạt động được cung cấp. Một tên điểm trong lịch chưa đồng nghĩa có mọi trải nghiệm xuất hiện trong ảnh quảng bá."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Buôn Đôn thường được khách tìm bằng tên Bản Đôn khi muốn khám phá văn hóa và trải nghiệm gắn với voi. Bạn cần hỏi chính xác khu tham quan và hoạt động được cung cấp. Một tên điểm trong lịch chưa đồng nghĩa có mọi trải nghiệm xuất hiện trong ảnh quảng bá.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận điểm tham quan cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận điểm tham quan cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi tên khu, lối vào, phần đi bộ và các điểm được hướng dẫn giới thiệu. Cầu, nhà cổ hay một hoạt động trên sông có thể thuộc những hạng mục khác nhau. Đoàn đông cần biết nơi tập trung, bữa ăn và cách chia nhóm trước khi đến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi tên khu, lối vào, phần đi bộ và các điểm được hướng dẫn giới thiệu. Cầu, nhà cổ hay một hoạt động trên sông có thể thuộc những hạng mục khác nhau. Đoàn đông cần biết nơi tập trung, bữa ăn và cách chia nhóm trước khi đến.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Hỏi rõ mô hình trải nghiệm với voi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi rõ mô hình trải nghiệm với voi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ưu tiên tìm hiểu và quan sát theo hướng dẫn của nơi tổ chức. Không cam kết khách chắc chắn được chạm, cho ăn hoặc tắm cho voi nếu chưa xác nhận điều kiện thực tế. Hình ảnh voi không thay cho mô tả dịch vụ, và khách không nên tự tiếp cận ngoài khu được hướng dẫn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ưu tiên tìm hiểu và quan sát theo hướng dẫn của nơi tổ chức. Không cam kết khách chắc chắn được chạm, cho ăn hoặc tắm cho voi nếu chưa xác nhận điều kiện thực tế. Hình ảnh voi không thay cho mô tả dịch vụ, và khách không nên tự tiếp cận ngoài khu được hướng dẫn.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt hoạt động riêng theo khả năng phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt hoạt động riêng theo khả năng phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn thêm giao lưu văn hóa hoặc trải nghiệm thuyền, cần ghi rõ phần đặt trước, thời lượng và điều kiện hoạt động. Những thành viên không tham gia phải có nơi chờ phù hợp. Giữ đủ giờ trở lại khách sạn hoặc đi tiếp để đoàn không phải rút ngắn bữa ăn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn thêm giao lưu văn hóa hoặc trải nghiệm thuyền, cần ghi rõ phần đặt trước, thời lượng và điều kiện hoạt động. Những thành viên không tham gia phải có nơi chờ phù hợp. Giữ đủ giờ trở lại khách sạn hoặc đi tiếp để đoàn không phải rút ngắn bữa ăn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Buôn Đôn và Bản Đôn có cần hai bài tour khác nhau không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không cần tách chỉ vì cách gọi. Nội dung nên giúp khách kiểm tra đúng điểm và dịch vụ trong chương trình đã chọn.</span>"
     },
     {
       "type": "h2",
-      "text": "Buôn Đôn và Bản Đôn có cần hai bài tour khác nhau không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không cần tách chỉ vì cách gọi. Nội dung nên giúp khách kiểm tra đúng điểm và dịch vụ trong chương trình đã chọn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ho-lak/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hồ Lắk–buôn Jun: chọn cảnh hồ và trải nghiệm cộng đồng</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-thac-dray-nur/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thác Dray Nur–Dray Sap: chọn chặng tham quan phù hợp trong tour</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tour hồ Lắk–buôn Jun: chọn cảnh hồ và trải nghiệm cộng đồng",
-        "Thác Dray Nur–Dray Sap: chọn chặng tham quan phù hợp trong tour",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
