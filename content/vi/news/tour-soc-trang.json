@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Sóc Trăng là hướng để tìm hiểu văn hóa Khmer và có thể ghép trong tuyến Cần Thơ–Bạc Liêu–Cà Mau. Khi chọn tour, nên quyết định một đến hai ngôi chùa hoặc trải nghiệm chính. Các điểm có kiến trúc khác nhau cần thời gian tìm hiểu, không chỉ là những chỗ chụp ảnh thay thế cho nhau."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Sóc Trăng là hướng để tìm hiểu văn hóa Khmer và có thể ghép trong tuyến Cần Thơ–Bạc Liêu–Cà Mau. Khi chọn tour, nên quyết định một đến hai ngôi chùa hoặc trải nghiệm chính. Các điểm có kiến trúc khác nhau cần thời gian tìm hiểu, không chỉ là những chỗ chụp ảnh thay thế cho nhau.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn ngôi chùa theo nội dung muốn tìm hiểu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ngôi chùa theo nội dung muốn tìm hiểu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Som Rong, Chén Kiểu và Kh’leang có thể được cân nhắc theo tuyến và chương trình. Hãy hỏi điểm nào thực sự có trong lịch, thời lượng và nội dung giới thiệu. Không nên ghép tất cả chỉ vì cùng ở khu vực Sóc Trăng; đi ít điểm với phần tìm hiểu rõ sẽ dễ theo hơn một lịch dừng vội."
+      "text": "<span style=\"font-size:16px;color:#374151\">Som Rong, Chén Kiểu và Kh’leang có thể được cân nhắc theo tuyến và chương trình. Hãy hỏi điểm nào thực sự có trong lịch, thời lượng và nội dung giới thiệu. Không nên ghép tất cả chỉ vì cùng ở khu vực Sóc Trăng; đi ít điểm với phần tìm hiểu rõ sẽ dễ theo hơn một lịch dừng vội.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Giữ cách tham quan phù hợp không gian tôn giáo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ cách tham quan phù hợp không gian tôn giáo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuẩn bị trang phục lịch sự và theo hướng dẫn quay chụp tại từng khu. Nếu đang có nghi lễ, đoàn cần giữ trật tự và điều chỉnh phần tham quan. Các lễ hội văn hóa chỉ được đưa vào chương trình khi xác nhận đúng ngày và điều kiện phục vụ; không mặc định có quanh năm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuẩn bị trang phục lịch sự và theo hướng dẫn quay chụp tại từng khu. Nếu đang có nghi lễ, đoàn cần giữ trật tự và điều chỉnh phần tham quan. Các lễ hội văn hóa chỉ được đưa vào chương trình khi xác nhận đúng ngày và điều kiện phục vụ; không mặc định có quanh năm.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép vào tuyến dài hay thiết kế chuyến riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép vào tuyến dài hay thiết kế chuyến riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tuyến Lục tỉnh Miền Tây có thể là cơ sở tham khảo, còn chuyến chỉ tập trung Sóc Trăng cần báo giá riêng. Với học sinh, nên thêm nội dung văn hóa vừa tuổi; với nhóm hành hương, dành thời gian chiêm bái. Địa danh Sóc Trăng được dùng theo cách gọi tuyến quen thuộc, các địa chỉ dịch vụ cần xác nhận hiện hành."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tuyến Lục tỉnh Miền Tây có thể là cơ sở tham khảo, còn chuyến chỉ tập trung Sóc Trăng cần báo giá riêng. Với học sinh, nên thêm nội dung văn hóa vừa tuổi; với nhóm hành hương, dành thời gian chiêm bái. Địa danh Sóc Trăng được dùng theo cách gọi tuyến quen thuộc, các địa chỉ dịch vụ cần xác nhận hiện hành.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Tour đi Sóc Trăng có bắt buộc ghé Bạc Liêu không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tour đi Sóc Trăng có bắt buộc ghé Bạc Liêu không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Hai nơi có thể kết hợp khi phù hợp lịch. Nếu chỉ muốn tìm hiểu Sóc Trăng, có thể đề nghị tuyến riêng và chọn số ngày theo điểm đón cùng nhịp đi của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Hai nơi có thể kết hợp khi phù hợp lịch. Nếu chỉ muốn tìm hiểu Sóc Trăng, có thể đề nghị tuyến riêng và chọn số ngày theo điểm đón cùng nhịp đi của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Sóc Trăng? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Sóc Trăng? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-cha-diep-me-nam-hai-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cha Diệp – Mẹ Nam Hải 1 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-cha-diep-me-nam-hai-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cha Diệp – Mẹ Nam Hải 1 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
