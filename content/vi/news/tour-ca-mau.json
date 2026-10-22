@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Đất Mũi là mục tiêu được nhiều người chọn khi đi Cà Mau. Nhưng đến khu trung tâm Cà Mau chưa phải đã đến Đất Mũi; chuyến đi còn có chặng tiếp theo. Khi xem tour, cần đọc lịch đường, phương tiện và đêm nghỉ để biết đoàn có đủ thời gian tham quan cảnh quan cực Nam hay chỉ dừng rất ngắn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đất Mũi là mục tiêu được nhiều người chọn khi đi Cà Mau. Nhưng đến khu trung tâm Cà Mau chưa phải đã đến Đất Mũi; chuyến đi còn có chặng tiếp theo. Khi xem tour, cần đọc lịch đường, phương tiện và đêm nghỉ để biết đoàn có đủ thời gian tham quan cảnh quan cực Nam hay chỉ dừng rất ngắn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tách thời gian đi Cà Mau và đến Đất Mũi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách thời gian đi Cà Mau và đến Đất Mũi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chương trình phải ghi rõ điểm nghỉ, chặng tiếp cận và phương tiện thực tế. Không mặc định mọi tour dùng ca nô hoặc xe giống nhau; cần xác nhận dịch vụ đã chọn. Nếu đi đêm, nên có khoảng vệ sinh, ăn sáng và nghỉ trước phần tham quan, tránh nối các chặng liên tục làm cả đoàn mệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chương trình phải ghi rõ điểm nghỉ, chặng tiếp cận và phương tiện thực tế. Không mặc định mọi tour dùng ca nô hoặc xe giống nhau; cần xác nhận dịch vụ đã chọn. Nếu đi đêm, nên có khoảng vệ sinh, ăn sáng và nghỉ trước phần tham quan, tránh nối các chặng liên tục làm cả đoàn mệt.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chọn điểm biểu tượng và trải nghiệm sinh thái"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm biểu tượng và trải nghiệm sinh thái</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể cân nhắc khu biểu tượng con tàu, cột cờ và cảnh quan rừng ngập mặn theo phần phục vụ. Trải nghiệm cộng đồng hoặc dịch vụ đường thủy cần được liệt kê riêng. Không nên tăng nhiều điểm xa trong một buổi; khách cần thời gian tìm hiểu, chụp ảnh và nghỉ tại chính Đất Mũi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cân nhắc khu biểu tượng con tàu, cột cờ và cảnh quan rừng ngập mặn theo phần phục vụ. Trải nghiệm cộng đồng hoặc dịch vụ đường thủy cần được liệt kê riêng. Không nên tăng nhiều điểm xa trong một buổi; khách cần thời gian tìm hiểu, chụp ảnh và nghỉ tại chính Đất Mũi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nối Bạc Liêu–Sóc Trăng–Cần Thơ vừa sức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nối Bạc Liêu–Sóc Trăng–Cần Thơ vừa sức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tuyến nhiều vùng phù hợp khi đủ số ngày và đêm nghỉ. Nếu muốn ít ngồi xe hơn, có thể bớt điểm hoặc tăng ngày, không giữ nguyên một lịch quá dày. TodayTourist có tour Lục tỉnh tham khảo; phương tiện, phòng, dịch vụ và giá được chốt lại theo ngày đi cùng số khách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tuyến nhiều vùng phù hợp khi đủ số ngày và đêm nghỉ. Nếu muốn ít ngồi xe hơn, có thể bớt điểm hoặc tăng ngày, không giữ nguyên một lịch quá dày. TodayTourist có tour Lục tỉnh tham khảo; phương tiện, phòng, dịch vụ và giá được chốt lại theo ngày đi cùng số khách của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Tour Đất Mũi một ngày có khởi hành từ Biên Hòa được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tour Đất Mũi một ngày có khởi hành từ Biên Hòa được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần làm rõ một ngày tham quan hay toàn bộ thời gian hành trình. Từ Biên Hòa, chặng đường dài; không nên nhầm chương trình một ngày xuất phát tại Cà Mau với chuyến đi về từ Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần làm rõ một ngày tham quan hay toàn bộ thời gian hành trình. Từ Biên Hòa, chặng đường dài; không nên nhầm chương trình một ngày xuất phát tại Cà Mau với chuyến đi về từ Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Cà Mau? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Cà Mau? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 3 ngày: phân biệt 3N2Đ và 3N3Đ trước khi đặt</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 3 ngày: phân biệt 3N2Đ và 3N3Đ trước khi đặt</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-4-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 4–6 ngày: chọn một trục tuyến thay vì chạy nhiều điểm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-4-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 4–6 ngày: chọn một trục tuyến thay vì chạy nhiều điểm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-lieu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bạc Liêu: chọn văn hóa, Mẹ Nam Hải và tuyến kết hợp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
