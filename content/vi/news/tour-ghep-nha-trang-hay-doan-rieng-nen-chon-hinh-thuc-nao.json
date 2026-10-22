@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour ghép và đoàn riêng giải quyết hai nhu cầu khác nhau. Tour ghép thuận tiện khi ít người muốn theo chương trình chung; đoàn riêng phù hợp nhóm cần chủ động lịch, điểm đón và hoạt động. Không có một hình thức luôn rẻ hơn cho mọi quy mô."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour ghép và đoàn riêng giải quyết hai nhu cầu khác nhau. Tour ghép thuận tiện khi ít người muốn theo chương trình chung; đoàn riêng phù hợp nhóm cần chủ động lịch, điểm đón và hoạt động. Không có một hình thức luôn rẻ hơn cho mọi quy mô.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tour ghép cần rõ lịch và điều kiện xác nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tour ghép cần rõ lịch và điều kiện xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi ngày khởi hành, điểm đón, loại xe, lưu trú và chương trình áp dụng cho đợt đó. Khi thấy lịch giới thiệu trên website, vẫn cần xác nhận chỗ và khả năng khởi hành trước khi đặt. Quy định đổi lịch, hủy hoặc thay người phải được cung cấp theo dịch vụ thực tế, không suy từ chính sách một tour khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi ngày khởi hành, điểm đón, loại xe, lưu trú và chương trình áp dụng cho đợt đó. Khi thấy lịch giới thiệu trên website, vẫn cần xác nhận chỗ và khả năng khởi hành trước khi đặt. Quy định đổi lịch, hủy hoặc thay người phải được cung cấp theo dịch vụ thực tế, không suy từ chính sách một tour khác.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đoàn riêng được thiết kế theo yêu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng được thiết kế theo yêu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể lựa chọn thời lượng, nơi đón, mức lưu trú, thực đơn và Team Building hoặc Gala. Tuy nhiên, yêu cầu linh hoạt vẫn phải phù hợp khả năng phục vụ, thời gian di chuyển và dịch vụ còn trống. Với nhóm ít người, chi phí xe và nhân sự chia bình quân có thể cao hơn tour ghép."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể lựa chọn thời lượng, nơi đón, mức lưu trú, thực đơn và Team Building hoặc Gala. Tuy nhiên, yêu cầu linh hoạt vẫn phải phù hợp khả năng phục vụ, thời gian di chuyển và dịch vụ còn trống. Với nhóm ít người, chi phí xe và nhân sự chia bình quân có thể cao hơn tour ghép.</span>"
     },
     {
       "type": "h2",
-      "text": "So tổng dịch vụ thay vì chỉ so giá đầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So tổng dịch vụ thay vì chỉ so giá đầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour ghép có thể giới hạn quyền đổi lịch trình hoặc điểm tham quan. Đoàn riêng cần tính cả những phần được chọn thêm. Khi so, dùng cùng số đêm phòng, bữa ăn, vé và phương tiện; tránh so một tour có nhiều khoản tự túc với chương trình riêng đã gồm hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour ghép có thể giới hạn quyền đổi lịch trình hoặc điểm tham quan. Đoàn riêng cần tính cả những phần được chọn thêm. Khi so, dùng cùng số đêm phòng, bữa ăn, vé và phương tiện; tránh so một tour có nhiều khoản tự túc với chương trình riêng đã gồm hoạt động.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn bằng mục tiêu của nhóm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn bằng mục tiêu của nhóm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty cần giao lưu nội bộ thường nên hỏi phương án riêng; gia đình ít người có thể cân nhắc cả hai. TodayTourist tiếp nhận nhu cầu tour ghép và thiết kế đoàn riêng; lịch, dịch vụ và điều kiện cụ thể được xác nhận khi tư vấn. Không cần quyết định hình thức trước khi mô tả mục tiêu chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty cần giao lưu nội bộ thường nên hỏi phương án riêng; gia đình ít người có thể cân nhắc cả hai. TodayTourist tiếp nhận nhu cầu tour ghép và thiết kế đoàn riêng; lịch, dịch vụ và điều kiện cụ thể được xác nhận khi tư vấn. Không cần quyết định hình thức trước khi mô tả mục tiêu chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn riêng có số khách tối thiểu cố định không? Cần hỏi phương án và giá theo quy mô. Tour ghép có thể thêm Gala riêng cho nhóm không? Phải kiểm tra khả năng bố trí và chi phí, không mặc định thực hiện được."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn riêng có số khách tối thiểu cố định không? Cần hỏi phương án và giá theo quy mô. Tour ghép có thể thêm Gala riêng cho nhóm không? Phải kiểm tra khả năng bố trí và chi phí, không mặc định thực hiện được.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Nha Trang bằng xe, tàu hỏa hay máy bay?",
-        "Chọn khách sạn, resort Nha Trang cho khách đoàn",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-nha-trang-bang-xe-tau-hoa-hay-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Nha Trang bằng xe, tàu hỏa hay máy bay?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-khach-san-resort-nha-trang-cho-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn khách sạn, resort Nha Trang cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
