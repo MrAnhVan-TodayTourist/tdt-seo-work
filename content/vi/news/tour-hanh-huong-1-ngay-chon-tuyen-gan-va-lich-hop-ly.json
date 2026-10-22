@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour hành hương trong ngày phù hợp khi đoàn muốn giữ lịch gọn và không nghỉ qua đêm. Từ Biên Hòa, Đồng Nai hoặc TP.HCM, nên chọn tuyến theo điểm đón và thời gian hoạt động chính, thay vì cố đưa càng nhiều nơi vào một ngày càng tốt."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour hành hương trong ngày phù hợp khi đoàn muốn giữ lịch gọn và không nghỉ qua đêm. Từ Biên Hòa, Đồng Nai hoặc TP.HCM, nên chọn tuyến theo điểm đón và thời gian hoạt động chính, thay vì cố đưa càng nhiều nơi vào một ngày càng tốt.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một mục tiêu chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một mục tiêu chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi chuyến Núi Cúi, hướng Núi Bà Đen hoặc tuyến viếng chùa trên trục gần Đồng Nai và Vũng Tàu. Tà Pao cần xem thêm điểm xuất phát và lịch đoàn. Mỗi phương án có quãng di chuyển và điều kiện khác nhau. Hãy chốt nơi ưu tiên cùng khoảng thời gian cần ở đó, rồi mới xét các điểm kết hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi chuyến Núi Cúi, hướng Núi Bà Đen hoặc tuyến viếng chùa trên trục gần Đồng Nai và Vũng Tàu. Tà Pao cần xem thêm điểm xuất phát và lịch đoàn. Mỗi phương án có quãng di chuyển và điều kiện khác nhau. Hãy chốt nơi ưu tiên cùng khoảng thời gian cần ở đó, rồi mới xét các điểm kết hợp.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214153010-0.jpg",
-      "alt": "Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214153010-0.jpg\" alt=\"Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Dự kiến đủ thời gian ngoài tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dự kiến đủ thời gian ngoài tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày còn có tập trung, kiểm đếm, bữa ăn, dừng nghỉ và di chuyển giữa các điểm. Với đoàn nhiều xe, việc gom người sau mỗi chặng cũng cần tính vào lịch. Nếu muốn dự lễ hoặc tham gia hoạt động vào một giờ cụ thể, cần xác nhận trước rồi xếp lịch theo đó. Giờ về nên ghi dự kiến và có khoảng linh hoạt, tránh cam kết cứng bất kể giao thông hay thời tiết."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày còn có tập trung, kiểm đếm, bữa ăn, dừng nghỉ và di chuyển giữa các điểm. Với đoàn nhiều xe, việc gom người sau mỗi chặng cũng cần tính vào lịch. Nếu muốn dự lễ hoặc tham gia hoạt động vào một giờ cụ thể, cần xác nhận trước rồi xếp lịch theo đó. Giờ về nên ghi dự kiến và có khoảng linh hoạt, tránh cam kết cứng bất kể giao thông hay thời tiết.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt bữa ăn và phạm vi phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt bữa ăn và phạm vi phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy kiểm tra gói có bữa sáng, trưa hoặc tối nào, vé hay dịch vụ nào đã gồm. Suất chay và nhu cầu riêng cần báo trước. Chương trình đi trong ngày không mặc định có phòng nghỉ hoặc chỗ sinh hoạt riêng. TodayTourist có thể trao đổi phương án xe 45 chỗ cho đoàn đông và xe 16, 29 chỗ theo nhóm. Lịch cuối cùng chỉ chốt sau khi điều kiện và dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy kiểm tra gói có bữa sáng, trưa hoặc tối nào, vé hay dịch vụ nào đã gồm. Suất chay và nhu cầu riêng cần báo trước. Chương trình đi trong ngày không mặc định có phòng nghỉ hoặc chỗ sinh hoạt riêng. TodayTourist có thể trao đổi phương án xe 45 chỗ cho đoàn đông và xe 16, 29 chỗ theo nhóm. Lịch cuối cùng chỉ chốt sau khi điều kiện và dịch vụ được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đi 10 cảnh chùa trong một ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đi 10 cảnh chùa trong một ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần xem danh sách điểm, khoảng cách và thời gian đoàn muốn ở mỗi nơi. Nếu chọn tour tên 10 cảnh chùa, phải chốt đúng danh sách; nếu giảm điểm nên sửa tên và lịch tương ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem danh sách điểm, khoảng cách và thời gian đoàn muốn ở mỗi nơi. Nếu chọn tour tên 10 cảnh chùa, phải chốt đúng danh sách; nếu giảm điểm nên sửa tên và lịch tương ứng.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón",
-        "Tour hành hương 1 ngày 1 đêm: hiểu đúng đêm di chuyển",
-        "Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai",
-        "Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-tu-bien-hoa-dong-nai-va-tp-hcm-chot-diem-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-1-dem-hieu-dung-dem-di-chuyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày 1 đêm: hiểu đúng đêm di chuyển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vieng-chua-huong-quoc-lo-51-chon-lich-gan-dong-nai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
