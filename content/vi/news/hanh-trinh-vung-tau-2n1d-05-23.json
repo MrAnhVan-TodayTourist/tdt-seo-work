@@ -8,8 +8,8 @@
   "published_at": "2026-05-23",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể lớp 25VA – Trường THPT Chuyên Lương Thế Vinh (TP. Đồng Nai) trong chuyến tham quan – vui chơi – gắn kết đầy ý nghĩa tại thành phố biển Vũng Tàu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng tập thể lớp 25VA – Trường THPT Chuyên Lương Thế Vinh (TP. Đồng Nai) trong chuyến tham quan – vui chơi – gắn kết đầy ý nghĩa tại thành phố biển Vũng Tàu.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Hành trình không chỉ mang đến những phút giây thư giãn sau thời gian học tập mà còn là dịp để cả tập thể cùng nhau lưu giữ thanh xuân, sẻ chia tiếng cười và tạo nên những kỷ niệm thật đáng nhớ bên bạn bè, thầy cô."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình không chỉ mang đến những phút giây thư giãn sau thời gian học tập mà còn là dịp để cả tập thể cùng nhau lưu giữ thanh xuân, sẻ chia tiếng cười và tạo nên những kỷ niệm thật đáng nhớ bên bạn bè, thầy cô.</span>"
     },
     {
       "type": "p",
-      "text": "Những điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Những điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "html",
@@ -29,47 +29,51 @@
     },
     {
       "type": "p",
-      "text": "Tham quan Giáo xứ Song Vĩnh với kiến trúc nổi bật và không gian yên bình"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Giáo xứ Song Vĩnh với kiến trúc nổi bật và không gian yên bình</span>"
     },
     {
       "type": "p",
-      "text": "Check in Tháp Tam Thắng – tọa độ sống ảo mới tại thành phố biển Vũng Tàu"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check in Tháp Tam Thắng – tọa độ sống ảo mới tại thành phố biển Vũng Tàu</span>"
     },
     {
       "type": "p",
-      "text": "Tham quan Bảo tàng Bà Rịa – Vũng Tàu, tìm hiểu thêm về văn hóa và lịch sử địa phương"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Bảo tàng Bà Rịa – Vũng Tàu, tìm hiểu thêm về văn hóa và lịch sử địa phương</span>"
     },
     {
       "type": "p",
-      "text": "Nghỉ dưỡng tại villa riêng tư với hồ bơi, sân chơi và không gian sinh hoạt thoải mái cho tập thể"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nghỉ dưỡng tại villa riêng tư với hồ bơi, sân chơi và không gian sinh hoạt thoải mái cho tập thể</span>"
     },
     {
       "type": "p",
-      "text": "Tham gia chương trình Team Building sôi động, tăng thêm tinh thần đoàn kết và gắn kết tập thể"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham gia chương trình Team Building sôi động, tăng thêm tinh thần đoàn kết và gắn kết tập thể</span>"
     },
     {
       "type": "p",
-      "text": "Tiệc tối ấm cúng tại villa với những khoảnh khắc vui vẻ, ăn uống và sinh hoạt cùng nhau"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tiệc tối ấm cúng tại villa với những khoảnh khắc vui vẻ, ăn uống và sinh hoạt cùng nhau</span>"
     },
     {
       "type": "p",
-      "text": "Tận hưởng không khí biển Vũng Tàu và lưu lại thật nhiều khoảnh khắc thanh xuân đáng nhớ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tận hưởng không khí biển Vũng Tàu và lưu lại thật nhiều khoảnh khắc thanh xuân đáng nhớ</span>"
     },
     {
       "type": "p",
-      "text": "Mỗi chuyến đi là một hành trình của cảm xúc và tuổi trẻ. TODAYTOURIST rất vui khi được đồng hành cùng tập thể lớp 25VA trong chuyến đi đầy năng lượng và tiếng cười này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi chuyến đi là một hành trình của cảm xúc và tuổi trẻ. TODAYTOURIST rất vui khi được đồng hành cùng tập thể lớp 25VA trong chuyến đi đầy năng lượng và tiếng cười này.</span>"
     },
     {
       "type": "p",
-      "text": "Kính chúc tập thể lớp luôn học tập tốt, đoàn kết và giữ mãi những kỷ niệm đẹp của tuổi học trò. Hẹn gặp lại trong những hành trình tiếp theo cùng TODAYTOURIST!"
+      "text": "<span style=\"font-size:16px;color:#374151\">Kính chúc tập thể lớp luôn học tập tốt, đoàn kết và giữ mãi những kỷ niệm đẹp của tuổi học trò. Hẹn gặp lại trong những hành trình tiếp theo cùng TODAYTOURIST!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-23."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-23.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Vũng Tàu 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 Ngày 1 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
