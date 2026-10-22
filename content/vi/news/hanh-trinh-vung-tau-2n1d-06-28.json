@@ -8,8 +8,8 @@
   "published_at": "2026-06-28",
   "content": [
     {
-      "type": "p",
-      "text": "TodayTourist hân hạnh đồng hành cùng Công ty TNHH Tomoe Vietnam – Chi nhánh Miền Nam trong chuyến nghỉ dưỡng 2 ngày 1 đêm tại thành phố biển Vũng Tàu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist hân hạnh đồng hành cùng Công ty TNHH Tomoe Vietnam – Chi nhánh Miền Nam trong chuyến nghỉ dưỡng 2 ngày 1 đêm tại thành phố biển Vũng Tàu.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Hành trình là dịp để toàn thể cán bộ, nhân viên cùng nhau thư giãn, tận hưởng những phút giây vui vẻ sau những ngày làm việc hăng say. Đoàn đã có những trải nghiệm đáng nhớ khi vui chơi tại Sun World Vũng Tàu, thưởng thức những bữa ăn ngon, cùng nhau giao lưu trong đêm Gala Dinner ấm cúng và đầy tiếng cười, góp phần gắn kết tinh thần tập thể và tạo nên nhiều kỷ niệm đẹp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình là dịp để toàn thể cán bộ, nhân viên cùng nhau thư giãn, tận hưởng những phút giây vui vẻ sau những ngày làm việc hăng say. Đoàn đã có những trải nghiệm đáng nhớ khi vui chơi tại Sun World Vũng Tàu, thưởng thức những bữa ăn ngon, cùng nhau giao lưu trong đêm Gala Dinner ấm cúng và đầy tiếng cười, góp phần gắn kết tinh thần tập thể và tạo nên nhiều kỷ niệm đẹp.</span>"
     },
     {
       "type": "p",
-      "text": "Xin chân thành cảm ơn Công ty TNHH Tomoe Vietnam – Chi nhánh Miền Nam đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn Công ty TNHH Tomoe Vietnam – Chi nhánh Miền Nam đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này.</span>"
     },
     {
       "type": "html",
@@ -29,15 +29,19 @@
     },
     {
       "type": "p",
-      "text": "Đặc biệt, xin gửi lời cảm ơn đến HDV Thành Trung đã luôn nhiệt tình, chu đáo và đồng hành cùng đoàn, mang đến một chương trình trọn vẹn, an toàn và nhiều niềm vui."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặc biệt, xin gửi lời cảm ơn đến HDV Thành Trung đã luôn nhiệt tình, chu đáo và đồng hành cùng đoàn, mang đến một chương trình trọn vẹn, an toàn và nhiều niềm vui.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-28."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-28.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Vũng Tàu 2 Ngày 1 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 Ngày 1 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
