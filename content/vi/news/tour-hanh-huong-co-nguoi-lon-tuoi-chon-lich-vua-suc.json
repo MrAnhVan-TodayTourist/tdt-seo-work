@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khi đoàn có người lớn tuổi, lịch trình nên được chọn theo nhu cầu tham gia thực tế của từng người. Tên tour ngắn hay có cáp treo chưa đủ để biết chuyến đi có phù hợp. Cần xem cả quãng xe, đoạn đi bộ, thời gian đứng chờ và khả năng nghỉ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi đoàn có người lớn tuổi, lịch trình nên được chọn theo nhu cầu tham gia thực tế của từng người. Tên tour ngắn hay có cáp treo chưa đủ để biết chuyến đi có phù hợp. Cần xem cả quãng xe, đoạn đi bộ, thời gian đứng chờ và khả năng nghỉ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Hỏi nhu cầu trước khi chọn tuyến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi nhu cầu trước khi chọn tuyến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đầu mối nên hỏi thành viên muốn đi những điểm nào, có thể tham gia mức đi bộ ra sao và cần khoảng nghỉ như thế nào. Những thông tin cần thiết nên trao đổi riêng, không công khai dữ liệu cá nhân trong nhóm. Không thể bảo đảm một tuyến phù hợp với mọi người chỉ vì người khác cùng tuổi đã đi được. Nếu có băn khoăn về sức khỏe, khách nên trao đổi với người chăm sóc hoặc chuyên môn phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đầu mối nên hỏi thành viên muốn đi những điểm nào, có thể tham gia mức đi bộ ra sao và cần khoảng nghỉ như thế nào. Những thông tin cần thiết nên trao đổi riêng, không công khai dữ liệu cá nhân trong nhóm. Không thể bảo đảm một tuyến phù hợp với mọi người chỉ vì người khác cùng tuổi đã đi được. Nếu có băn khoăn về sức khỏe, khách nên trao đổi với người chăm sóc hoặc chuyên môn phù hợp.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214143684-0.jpg",
-      "alt": "Tour hành hương có người lớn tuổi: chọn lịch vừa sức"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214143684-0.jpg\" alt=\"Tour hành hương có người lớn tuổi: chọn lịch vừa sức\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra hành trình từ xe đến điểm viếng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra hành trình từ xe đến điểm viếng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần hỏi vị trí xuống xe, đoạn đường vào, bậc thang và khu vực nghỉ thực tế. Có cáp treo không có nghĩa không còn đi bộ hoặc chờ. Đoàn có thể chọn ít điểm để dành thêm thời gian tại nơi chính. Nếu đi xa, hãy so sánh chuyến đi đêm với phương án có phòng nghỉ; giường nằm trên xe không thay thế hoàn toàn đêm lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần hỏi vị trí xuống xe, đoạn đường vào, bậc thang và khu vực nghỉ thực tế. Có cáp treo không có nghĩa không còn đi bộ hoặc chờ. Đoàn có thể chọn ít điểm để dành thêm thời gian tại nơi chính. Nếu đi xa, hãy so sánh chuyến đi đêm với phương án có phòng nghỉ; giường nằm trên xe không thay thế hoàn toàn đêm lưu trú.</span>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất phương án tham gia linh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất phương án tham gia linh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên có đầu mối gia đình, lịch tập trung rõ và cách liên hệ khi một người muốn nghỉ một phần chương trình. Khả năng bố trí khu nghỉ, người hỗ trợ hoặc dịch vụ riêng cần xác nhận trước, không mặc định gói tour có nhân sự chăm sóc cá nhân. TodayTourist tiếp nhận yêu cầu để trao đổi xe, lịch dừng và dịch vụ theo điều kiện thực tế. Hãy ưu tiên mô tả đúng nhu cầu thay vì yêu cầu một lời hứa an toàn tuyệt đối."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên có đầu mối gia đình, lịch tập trung rõ và cách liên hệ khi một người muốn nghỉ một phần chương trình. Khả năng bố trí khu nghỉ, người hỗ trợ hoặc dịch vụ riêng cần xác nhận trước, không mặc định gói tour có nhân sự chăm sóc cá nhân. TodayTourist tiếp nhận yêu cầu để trao đổi xe, lịch dừng và dịch vụ theo điều kiện thực tế. Hãy ưu tiên mô tả đúng nhu cầu thay vì yêu cầu một lời hứa an toàn tuyệt đối.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi tour một ngày có luôn nhẹ hơn tour hai ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi tour một ngày có luôn nhẹ hơn tour hai ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Một ngày có thể phải di chuyển liên tục, còn hai ngày có thể có thêm thời gian nghỉ. Cần so sánh lịch cụ thể, điểm đón và khả năng tham gia của người đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Một ngày có thể phải di chuyển liên tục, còn hai ngày có thể có thêm thời gian nghỉ. Cần so sánh lịch cụ thể, điểm đón và khả năng tham gia của người đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý",
-        "Tour hành hương 1 ngày 1 đêm: hiểu đúng đêm di chuyển",
-        "Tour hành hương nhiều ngày: chọn số đêm và tuyến kết hợp",
-        "Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-chon-tuyen-gan-va-lich-hop-ly/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-1-dem-hieu-dung-dem-di-chuyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày 1 đêm: hiểu đúng đêm di chuyển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-nhieu-ngay-chon-so-dem-va-tuyen-ket-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương nhiều ngày: chọn số đêm và tuyến kết hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
