@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Phan Thiết – Mũi Né có nhiều điểm để đi, nhưng thời gian của đoàn thì có hạn. Cách hợp lý là chọn vài điểm hợp sở thích và nằm gần nhau, thay vì cố đi hết."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Phan Thiết – Mũi Né có nhiều điểm để đi, nhưng thời gian của đoàn thì có hạn. Cách hợp lý là chọn vài điểm hợp sở thích và nằm gần nhau, thay vì cố đi hết.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Điểm biển, đồi cát và văn hóa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm biển, đồi cát và văn hóa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu vực này nổi tiếng với bãi biển, các đồi cát, Suối Tiên, làng chài và những công trình văn hóa như tháp Chăm. Mỗi nhóm điểm phục vụ một kiểu trải nghiệm: nghỉ biển, chụp ảnh, tìm hiểu địa phương."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu vực này nổi tiếng với bãi biển, các đồi cát, Suối Tiên, làng chài và những công trình văn hóa như tháp Chăm. Mỗi nhóm điểm phục vụ một kiểu trải nghiệm: nghỉ biển, chụp ảnh, tìm hiểu địa phương.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222475486-0.jpg",
-      "alt": "Stunning aerial view of the Mui Ne coastline in Bình Thuận, Vietnam sh"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222475486-0.jpg\" alt=\"Stunning aerial view of the Mui Ne coastline in Bình Thuận, Vietnam sh\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chia điểm theo khu vực"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia điểm theo khu vực</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm theo cung đường giúp tiết kiệm thời gian. Điểm nằm ở nhiều hướng khác nhau sẽ làm đoàn mất nhiều giờ trên xe. Hãy hỏi thời gian di chuyển giữa các điểm trước khi chốt lịch."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm theo cung đường giúp tiết kiệm thời gian. Điểm nằm ở nhiều hướng khác nhau sẽ làm đoàn mất nhiều giờ trên xe. Hãy hỏi thời gian di chuyển giữa các điểm trước khi chốt lịch.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý cho lịch trình ngắn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý cho lịch trình ngắn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với 2 ngày 1 đêm, thường nên chọn 2–3 điểm chính và dành phần còn lại cho nghỉ biển, ăn uống và hoạt động tập thể. Sáng sớm hoặc cuối chiều thường dễ chịu hơn buổi trưa nắng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với 2 ngày 1 đêm, thường nên chọn 2–3 điểm chính và dành phần còn lại cho nghỉ biển, ăn uống và hoạt động tập thể. Sáng sớm hoặc cuối chiều thường dễ chịu hơn buổi trưa nắng.</span>"
     },
     {
       "type": "h2",
-      "text": "Vé, giờ và điều kiện cần kiểm tra"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Vé, giờ và điều kiện cần kiểm tra</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giờ mở cửa, giá vé, điều kiện vào cửa và thời tiết có thể thay đổi. Hãy xác nhận trước ngày đi và ghi rõ trong chương trình điểm nào đã bao gồm vé, điểm nào khách tự chi trả."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giờ mở cửa, giá vé, điều kiện vào cửa và thời tiết có thể thay đổi. Hãy xác nhận trước ngày đi và ghi rõ trong chương trình điểm nào đã bao gồm vé, điểm nào khách tự chi trả.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày ở Mũi Né nên đi mấy điểm?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày ở Mũi Né nên đi mấy điểm?</span>"
     },
     {
       "type": "p",
-      "text": "Thông thường 2–3 điểm là hợp lý. Số điểm phụ thuộc thể lực, tuyến đường và các hoạt động còn lại trong ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thông thường 2–3 điểm là hợp lý. Số điểm phụ thuộc thể lực, tuyến đường và các hoạt động còn lại trong ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Bàu Trắng Mũi Né: trải nghiệm xe Jeep và những điều cần biết",
-        "Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?",
-        "Du lịch Phan Thiết cùng gia đình: lịch trình cho trẻ nhỏ và người lớn tuổi"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bau-trang-mui-ne-trai-nghiem-xe-jeep-va-nhung-dieu-can-biet/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bàu Trắng Mũi Né: trải nghiệm xe Jeep và những điều cần biết</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phan-thiet-1-ngay-2-ngay-1-dem-hay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/du-lich-phan-thiet-cung-gia-dinh-lich-trinh-cho-tre-nho-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Du lịch Phan Thiết cùng gia đình: lịch trình cho trẻ nhỏ và người lớn tuổi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
