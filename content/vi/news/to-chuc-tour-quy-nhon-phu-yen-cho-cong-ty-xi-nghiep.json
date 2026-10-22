@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn – Phú Yên cho công ty cần vừa tạo trải nghiệm cho nhân viên, vừa thuận tiện cho người phụ trách tổ chức. Bản chương trình nên thể hiện rõ mục tiêu, ngân sách, đầu mối phối hợp và cách xử lý các nhu cầu khác nhau trong đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn – Phú Yên cho công ty cần vừa tạo trải nghiệm cho nhân viên, vừa thuận tiện cho người phụ trách tổ chức. Bản chương trình nên thể hiện rõ mục tiêu, ngân sách, đầu mối phối hợp và cách xử lý các nhu cầu khác nhau trong đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt mục tiêu trước khi chọn điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt mục tiêu trước khi chọn điểm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nghỉ dưỡng, gắn kết, khen thưởng và hội nghị là các mục tiêu khác nhau. Nếu ưu tiên nghỉ dưỡng, đừng dành toàn bộ ngày cho di chuyển. Nếu ưu tiên gắn kết, giữ thời gian đủ cho Team Building và Gala. Có thể gửi một yêu cầu ngắn gồm số khách, ngày dự kiến, điểm đón, ngân sách và hoạt động quan trọng nhất để nhận phương án sát nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nghỉ dưỡng, gắn kết, khen thưởng và hội nghị là các mục tiêu khác nhau. Nếu ưu tiên nghỉ dưỡng, đừng dành toàn bộ ngày cho di chuyển. Nếu ưu tiên gắn kết, giữ thời gian đủ cho Team Building và Gala. Có thể gửi một yêu cầu ngắn gồm số khách, ngày dự kiến, điểm đón, ngân sách và hoạt động quan trọng nhất để nhận phương án sát nhu cầu.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,95 @@
     },
     {
       "type": "h2",
-      "text": "Tổ chức theo ca và nhóm nhân sự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tổ chức theo ca và nhóm nhân sự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn xí nghiệp có thể phải chia đợt để duy trì sản xuất. Mỗi đợt cần tiêu chuẩn dịch vụ rõ ràng và cách cập nhật số người. Danh sách nên phân theo điểm đón, xe, phòng và nhu cầu đặc biệt. Tránh gửi nhiều phiên bản danh sách khác nhau; chốt một đầu mối nhận thay đổi để nhà xe, lưu trú và nhà hàng dùng cùng thông tin."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn xí nghiệp có thể phải chia đợt để duy trì sản xuất. Mỗi đợt cần tiêu chuẩn dịch vụ rõ ràng và cách cập nhật số người. Danh sách nên phân theo điểm đón, xe, phòng và nhu cầu đặc biệt. Tránh gửi nhiều phiên bản danh sách khác nhau; chốt một đầu mối nhận thay đổi để nhà xe, lưu trú và nhà hàng dùng cùng thông tin.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ lịch trình khả thi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ lịch trình khả thi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày biển đảo dài không nên nối ngay với hoạt động thể lực hoặc tiệc tối gấp gáp. Đoàn đông còn cần thời gian lên xuống xe, nhận phòng, xếp bàn và tập trung. Hãy giữ khoảng nghỉ trước Gala và phương án cho thành viên không tham gia canô. Nếu có người lớn tuổi hoặc trẻ em đi cùng nhân viên, chương trình cần xét cả nhóm này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày biển đảo dài không nên nối ngay với hoạt động thể lực hoặc tiệc tối gấp gáp. Đoàn đông còn cần thời gian lên xuống xe, nhận phòng, xếp bàn và tập trung. Hãy giữ khoảng nghỉ trước Gala và phương án cho thành viên không tham gia canô. Nếu có người lớn tuổi hoặc trẻ em đi cùng nhân viên, chương trình cần xét cả nhóm này.</span>"
     },
     {
       "type": "h2",
-      "text": "Báo giá và trách nhiệm phối hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo giá và trách nhiệm phối hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Yêu cầu dự toán thể hiện xe, phòng, ăn, vé, nhân sự và chương trình sự kiện, cùng điều kiện tăng giảm khách. Người phụ trách công ty chốt nội dung nội bộ, danh sách, nhận diện và thứ tự phát biểu; đơn vị tổ chức phối hợp phần vận hành theo phạm vi đã thống nhất. TodayTourist tư vấn chương trình riêng cho doanh nghiệp tại Đồng Nai và TP.HCM theo mục tiêu thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Yêu cầu dự toán thể hiện xe, phòng, ăn, vé, nhân sự và chương trình sự kiện, cùng điều kiện tăng giảm khách. Người phụ trách công ty chốt nội dung nội bộ, danh sách, nhận diện và thứ tự phát biểu; đơn vị tổ chức phối hợp phần vận hành theo phạm vi đã thống nhất. TodayTourist tư vấn chương trình riêng cho doanh nghiệp tại Đồng Nai và TP.HCM theo mục tiêu thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Một hành trình đoàn đã được TodayTourist ghi nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Một hành trình đoàn đã được TodayTourist ghi nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Website TodayTourist đã giới thiệu chuyến Quy Nhơn – Phú Yên của Cơ Sở May Đồng Phục Hoa Hồng ngày 03–06/06/2026, với tham quan và Gala Dinner. Đây là một ví dụ để người phụ trách xem cách kết hợp trải nghiệm với giao lưu tập thể. Chương trình mới cần thiết kế theo số khách và mục tiêu riêng, không mặc định dùng nguyên lịch hoặc dịch vụ của đoàn trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Website TodayTourist đã giới thiệu chuyến Quy Nhơn – Phú Yên của Cơ Sở May Đồng Phục Hoa Hồng ngày 03–06/06/2026, với tham quan và Gala Dinner. Đây là một ví dụ để người phụ trách xem cách kết hợp trải nghiệm với giao lưu tập thể. Chương trình mới cần thiết kế theo số khách và mục tiêu riêng, không mặc định dùng nguyên lịch hoặc dịch vụ của đoàn trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty có thể tổ chức nhiều đợt cùng tiêu chuẩn không? Có thể đề nghị phương án, cần kiểm tra ngày và dịch vụ mỗi đợt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty có thể tổ chức nhiều đợt cùng tiêu chuẩn không? Có thể đề nghị phương án, cần kiểm tra ngày và dịch vụ mỗi đợt.</span>"
     },
     {
       "type": "p",
-      "text": "Có bắt buộc kết hợp cả Quy Nhơn và Phú Yên không? Không; có thể chọn một nơi để giữ thời gian cho hoạt động đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có bắt buộc kết hợp cả Quy Nhơn và Phú Yên không? Không; có thể chọn một nơi để giữ thời gian cho hoạt động đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn",
-        "Team Building Quy Nhơn – Phú Yên: chọn bãi và chương trình",
-        "Gala Dinner Quy Nhơn – Phú Yên: địa điểm, kịch bản và dự toán"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-quy-nhon-phu-yen-tinh-ngan-sach-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-quy-nhon-phu-yen-chon-bai-va-chuong-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Quy Nhơn – Phú Yên: chọn bãi và chương trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-quy-nhon-phu-yen-dia-diem-kich-ban-va-du-toan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Quy Nhơn – Phú Yên: địa điểm, kịch bản và dự toán</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06/\" target=\"_blank\" rel=\"noopener nofollow\">Xem hành trình đoàn Hoa Hồng do TodayTourist tổ chức</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-quy-nhon-phu-yen-4n3d-06-06/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem hành trình đoàn Hoa Hồng do TodayTourist tổ chức</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
