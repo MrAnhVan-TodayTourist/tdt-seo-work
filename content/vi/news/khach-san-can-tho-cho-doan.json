@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn lưu trú cho đoàn Miền Tây không chỉ là chọn số sao. Cần xem số phòng cùng loại, vị trí trên tuyến, bữa sáng và không gian sự kiện. Một khách sạn đẹp có thể không phù hợp đoàn đông nếu phòng bị chia xa hoặc không có khu tiệc đáp ứng chương trình của công ty."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn lưu trú cho đoàn Miền Tây không chỉ là chọn số sao. Cần xem số phòng cùng loại, vị trí trên tuyến, bữa sáng và không gian sự kiện. Một khách sạn đẹp có thể không phù hợp đoàn đông nếu phòng bị chia xa hoặc không có khu tiệc đáp ứng chương trình của công ty.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt cơ cấu phòng theo thành viên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt cơ cấu phòng theo thành viên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số người, nhóm gia đình, phòng đơn và các nhu cầu bố trí riêng. Hỏi loại giường, số người tiêu chuẩn và cách tính phụ thu nếu có. Đoàn đông nên có danh sách phòng sớm để kiểm tra khả năng đáp ứng; không mặc định mọi thành viên được cùng hạng phòng khi chưa được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số người, nhóm gia đình, phòng đơn và các nhu cầu bố trí riêng. Hỏi loại giường, số người tiêu chuẩn và cách tính phụ thu nếu có. Đoàn đông nên có danh sách phòng sớm để kiểm tra khả năng đáp ứng; không mặc định mọi thành viên được cùng hạng phòng khi chưa được xác nhận.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chọn vị trí theo lịch xe và thuyền"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn vị trí theo lịch xe và thuyền</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ở Cần Thơ, nơi lưu trú cần thuận tiện lịch chợ nổi hoặc khu ăn đã chọn, nhưng vẫn phải tính chặng xe từ phòng đến bến. Với tuyến Cà Mau hoặc Hà Tiên, tránh chọn phòng chỉ vì giá thấp rồi tăng nhiều đường di chuyển. Giờ nhận–trả và phần gửi hành lý cần rõ khi đoàn đến sớm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ở Cần Thơ, nơi lưu trú cần thuận tiện lịch chợ nổi hoặc khu ăn đã chọn, nhưng vẫn phải tính chặng xe từ phòng đến bến. Với tuyến Cà Mau hoặc Hà Tiên, tránh chọn phòng chỉ vì giá thấp rồi tăng nhiều đường di chuyển. Giờ nhận–trả và phần gửi hành lý cần rõ khi đoàn đến sớm.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận khu Gala, hội nghị và lửa trại riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận khu Gala, hội nghị và lửa trại riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi sức phục vụ, khu riêng, thiết bị, thời lượng và điều kiện sử dụng thực tế. Không mặc định có lửa trại hay sân chơi chỉ vì cơ sở gọi là resort. Với hội nghị kết hợp tour, cần thêm lịch thiết bị và khu làm việc; các hạng mục này phải ghi rõ trong báo giá dịch vụ đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi sức phục vụ, khu riêng, thiết bị, thời lượng và điều kiện sử dụng thực tế. Không mặc định có lửa trại hay sân chơi chỉ vì cơ sở gọi là resort. Với hội nghị kết hợp tour, cần thêm lịch thiết bị và khu làm việc; các hạng mục này phải ghi rõ trong báo giá dịch vụ đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Khách sạn có nhà hàng thì tổ chức Gala được luôn không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Khách sạn có nhà hàng thì tổ chức Gala được luôn không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chưa chắc. Cần kiểm tra khu riêng, sân khấu, âm thanh và lịch còn phục vụ. Một bữa ăn nhà hàng không tự động gồm dịch vụ sự kiện cho công ty."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chưa chắc. Cần kiểm tra khu riêng, sân khấu, âm thanh và lịch còn phục vụ. Một bữa ăn nhà hàng không tự động gồm dịch vụ sự kiện cho công ty.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc khách sạn Cần Thơ cho đoàn? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc khách sạn Cần Thơ cho đoàn? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
