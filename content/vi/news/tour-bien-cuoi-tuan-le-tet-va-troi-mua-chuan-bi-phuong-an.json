@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khi đi biển vào cuối tuần hoặc dịp lễ, cần tính tình trạng phòng, giao thông và dịch vụ tập thể. Khi thời tiết thay đổi, phương án trong nhà giúp đoàn chủ động hơn việc chờ đến nơi mới xử lý."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi đi biển vào cuối tuần hoặc dịp lễ, cần tính tình trạng phòng, giao thông và dịch vụ tập thể. Khi thời tiết thay đổi, phương án trong nhà giúp đoàn chủ động hơn việc chờ đến nơi mới xử lý.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn ngày từ tình trạng dịch vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ngày từ tình trạng dịch vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi số phòng, khu tiệc, xe và thời hạn giữ chỗ cùng lúc. Giá ngày thường, cuối tuần và dịp cao điểm có thể khác nhau. Nếu đoàn linh hoạt, so vài ngày trên cùng tiêu chuẩn. Không công bố 'còn phòng' hay 'giá lễ' khi chưa có xác nhận cho đúng ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi số phòng, khu tiệc, xe và thời hạn giữ chỗ cùng lúc. Giá ngày thường, cuối tuần và dịp cao điểm có thể khác nhau. Nếu đoàn linh hoạt, so vài ngày trên cùng tiêu chuẩn. Không công bố 'còn phòng' hay 'giá lễ' khi chưa có xác nhận cho đúng ngày.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Theo dõi dự báo gần ngày khởi hành"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Theo dõi dự báo gần ngày khởi hành</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không thể hứa ngày đi chắc chắn nắng đẹp. Cần kiểm tra thông tin thời tiết cập nhật và hướng dẫn tại điểm; điều kiện biển có thể thay đổi ngay trong ngày. Hoạt động ngoài trời nên có nội dung thay thế khả thi, nơi tổ chức và người quyết định chuyển phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không thể hứa ngày đi chắc chắn nắng đẹp. Cần kiểm tra thông tin thời tiết cập nhật và hướng dẫn tại điểm; điều kiện biển có thể thay đổi ngay trong ngày. Hoạt động ngoài trời nên có nội dung thay thế khả thi, nơi tổ chức và người quyết định chuyển phương án.</span>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất cách thay đổi chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất cách thay đổi chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mưa không đồng nghĩa mọi dịch vụ đều được hủy miễn phí. Hỏi cách xử lý bãi hoạt động, thiết bị, phòng và bữa ăn theo hợp đồng. Giữ khoảng dự phòng trong lịch và chuẩn bị đồ dùng phù hợp. Đoàn có gala hoặc hội nghị cần kiểm tra khu trong nhà trước khi đặt, tránh phương án thay thế chỉ tồn tại trên giấy."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mưa không đồng nghĩa mọi dịch vụ đều được hủy miễn phí. Hỏi cách xử lý bãi hoạt động, thiết bị, phòng và bữa ăn theo hợp đồng. Giữ khoảng dự phòng trong lịch và chuẩn bị đồ dùng phù hợp. Đoàn có gala hoặc hội nghị cần kiểm tra khu trong nhà trước khi đặt, tránh phương án thay thế chỉ tồn tại trên giấy.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trời mưa có được đổi tour sang ngày khác không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Trời mưa có được đổi tour sang ngày khác không?</span>"
     },
     {
       "type": "p",
-      "text": "Tùy điều kiện của từng dịch vụ và thỏa thuận đã xác nhận. Cần hỏi trước khi cọc, không mặc định được đổi miễn phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy điều kiện của từng dịch vụ và thỏa thuận đã xác nhận. Cần hỏi trước khi cọc, không mặc định được đổi miễn phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt",
-        "Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-ho-tram-ho-coc-kiem-tra-mat-bang-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
