@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khi so Long Hải với Hồ Tràm, khách nên cân nhắc tổng gói sử dụng thay vì chỉ giá phòng. Một nơi lưu trú có giá thấp nhưng phát sinh nhiều khoản có thể không phù hợp với đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi so Long Hải với Hồ Tràm, khách nên cân nhắc tổng gói sử dụng thay vì chỉ giá phòng. Một nơi lưu trú có giá thấp nhưng phát sinh nhiều khoản có thể không phù hợp với đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dự toán đủ sáu phần"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dự toán đủ sáu phần</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi riêng vận chuyển, lưu trú, bữa ăn, vé, hoạt động tập thể và dự phòng. Với resort, kiểm tra quyền dùng hồ bơi, bãi hoạt động, phòng thay đồ và khu tiệc. Với chuyến một ngày, gói dùng trong ngày cần được làm rõ. Phòng biển, phòng vườn hoặc phòng ở khu khác có thể có điều kiện sử dụng và mức giá khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi riêng vận chuyển, lưu trú, bữa ăn, vé, hoạt động tập thể và dự phòng. Với resort, kiểm tra quyền dùng hồ bơi, bãi hoạt động, phòng thay đồ và khu tiệc. Với chuyến một ngày, gói dùng trong ngày cần được làm rõ. Phòng biển, phòng vườn hoặc phòng ở khu khác có thể có điều kiện sử dụng và mức giá khác nhau.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Đề nghị hai phương án trên cùng ngày đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đề nghị hai phương án trên cùng ngày đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một phương án ưu tiên ngân sách, một phương án ưu tiên tiện ích giúp đoàn hiểu giá trị phần tăng thêm. Giữ cùng số khách và bữa ăn để so. Nếu đoàn cần gala, hỏi thêm phí khu tiệc, thiết bị, thời gian phục vụ và phương án mưa. Không mặc định giá phòng đã bao gồm dịch vụ sự kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một phương án ưu tiên ngân sách, một phương án ưu tiên tiện ích giúp đoàn hiểu giá trị phần tăng thêm. Giữ cùng số khách và bữa ăn để so. Nếu đoàn cần gala, hỏi thêm phí khu tiệc, thiết bị, thời gian phục vụ và phương án mưa. Không mặc định giá phòng đã bao gồm dịch vụ sự kiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt phần linh hoạt trước khi cọc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phần linh hoạt trước khi cọc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Số khách giảm có thể ảnh hưởng tiền xe và phòng đã giữ. Hỏi ngày chốt danh sách, điều kiện đổi tên và điều kiện hủy từng dịch vụ. Khoáng nóng Bình Châu nên ghi riêng nếu chỉ một phần đoàn tham gia. Khi ngân sách cố định, ưu tiên dịch vụ đoàn cần sử dụng thực sự rồi mới thêm các điểm chụp ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Số khách giảm có thể ảnh hưởng tiền xe và phòng đã giữ. Hỏi ngày chốt danh sách, điều kiện đổi tên và điều kiện hủy từng dịch vụ. Khoáng nóng Bình Châu nên ghi riêng nếu chỉ một phần đoàn tham gia. Khi ngân sách cố định, ưu tiên dịch vụ đoàn cần sử dụng thực sự rồi mới thêm các điểm chụp ảnh.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đặt tour Hồ Tràm mà không dùng resort cao cấp không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đặt tour Hồ Tràm mà không dùng resort cao cấp không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi tiêu chuẩn khác theo ngân sách; nơi lưu trú và dịch vụ thực tế cần được xác nhận trước khi báo giá cuối cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi tiêu chuẩn khác theo ngân sách; nơi lưu trú và dịch vụ thực tế cần được xác nhận trước khi báo giá cuối cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-long-hai-ho-tram-so-tien-ich-theo-muc-tieu-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
