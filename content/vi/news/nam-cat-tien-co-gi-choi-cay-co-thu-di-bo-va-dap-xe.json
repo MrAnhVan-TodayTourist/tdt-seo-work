@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Không chọn Bàu Sấu vẫn có thể xây chuyến trải nghiệm Nam Cát Tiên phù hợp. Người đặt tour nên bắt đầu từ tuyến cây cổ thụ, đường đi được phép và hình thức di chuyển, thay vì chọn tất cả điểm trên ảnh."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Không chọn Bàu Sấu vẫn có thể xây chuyến trải nghiệm Nam Cát Tiên phù hợp. Người đặt tour nên bắt đầu từ tuyến cây cổ thụ, đường đi được phép và hình thức di chuyển, thay vì chọn tất cả điểm trên ảnh.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Cây cổ thụ phù hợp cho quan sát và tìm hiểu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cây cổ thụ phù hợp cho quan sát và tìm hiểu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thay vì chạy qua nhiều cây để chụp ảnh, đoàn có thể dành thời gian quan sát thân, rễ và sự khác nhau giữa các loại cây trên tuyến được xác nhận. Các tên như cây Tung, Gõ Bác Đồng hoặc Đa Lộc Giao cần được đối chiếu với tuyến đang nhận khách trước khi đưa vào lịch. Không nên dùng tuổi cây hoặc giai thoại chưa kiểm chứng làm thông tin chắc chắn. Đoàn học sinh có thể ghép phần quan sát với câu hỏi về bảo vệ sinh cảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thay vì chạy qua nhiều cây để chụp ảnh, đoàn có thể dành thời gian quan sát thân, rễ và sự khác nhau giữa các loại cây trên tuyến được xác nhận. Các tên như cây Tung, Gõ Bác Đồng hoặc Đa Lộc Giao cần được đối chiếu với tuyến đang nhận khách trước khi đưa vào lịch. Không nên dùng tuổi cây hoặc giai thoại chưa kiểm chứng làm thông tin chắc chắn. Đoàn học sinh có thể ghép phần quan sát với câu hỏi về bảo vệ sinh cảnh.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214846022-0.jpg",
-      "alt": "Nam Cát Tiên có gì chơi: cây cổ thụ, đi bộ và đạp xe"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214846022-0.jpg\" alt=\"Nam Cát Tiên có gì chơi: cây cổ thụ, đi bộ và đạp xe\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đi bộ, xe nội khu và xe đạp là những lựa chọn khác nhau"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi bộ, xe nội khu và xe đạp là những lựa chọn khác nhau</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe nội khu có thể hỗ trợ một phần chặng, còn khách vẫn cần đi bộ ở các đoạn tham quan. Nếu chọn xe đạp, cần biết đường dự kiến, loại xe, thời gian sử dụng và khả năng đạp của từng người. Đoàn có khách không biết đạp cần phương án khác được đặt trước. Không nên ghi “đạp xe xuyên rừng” chung chung rồi để khách tự chọn đường; tuyến và phạm vi sử dụng phải được nơi vận hành xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe nội khu có thể hỗ trợ một phần chặng, còn khách vẫn cần đi bộ ở các đoạn tham quan. Nếu chọn xe đạp, cần biết đường dự kiến, loại xe, thời gian sử dụng và khả năng đạp của từng người. Đoàn có khách không biết đạp cần phương án khác được đặt trước. Không nên ghi “đạp xe xuyên rừng” chung chung rồi để khách tự chọn đường; tuyến và phạm vi sử dụng phải được nơi vận hành xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ nhịp tham quan phù hợp mục tiêu chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ nhịp tham quan phù hợp mục tiêu chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nghỉ dưỡng nên chọn tuyến vừa sức và để khoảng thời gian tự do tại nơi ở. Đoàn muốn học tập có thể tăng phần hướng dẫn, còn đoàn mê trekking có thể dành riêng một ngày cho hành trình sâu hơn. Giữ yên lặng, không lấy mẫu tự nhiên và mang rác ra đúng nơi giúp trải nghiệm không ảnh hưởng môi trường. TodayTourist tư vấn tuyến theo ngày đi và người tham gia, không mặc định một lịch phù hợp cho mọi nhóm khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nghỉ dưỡng nên chọn tuyến vừa sức và để khoảng thời gian tự do tại nơi ở. Đoàn muốn học tập có thể tăng phần hướng dẫn, còn đoàn mê trekking có thể dành riêng một ngày cho hành trình sâu hơn. Giữ yên lặng, không lấy mẫu tự nhiên và mang rác ra đúng nơi giúp trải nghiệm không ảnh hưởng môi trường. TodayTourist tư vấn tuyến theo ngày đi và người tham gia, không mặc định một lịch phù hợp cho mọi nhóm khách.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn cả xe nội khu và đi bộ không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn cả xe nội khu và đi bộ không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể khi dịch vụ và tuyến cho phép. Cần xác nhận điểm đón, đoạn đi bộ, số chỗ và chi phí trước khi đưa vào chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể khi dịch vụ và tuyến cho phép. Cần xác nhận điểm đón, đoạn đi bộ, số chỗ và chi phí trước khi đưa vào chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nam Cát Tiên 1 ngày: chọn tuyến rừng vừa thời gian",
-        "Tour Nam Cát Tiên 2 ngày 1 đêm: chọn nghỉ dưỡng hay trekking",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-cat-tien-1-ngay-chon-tuyen-rung-vua-thoi-gian/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Cát Tiên 1 ngày: chọn tuyến rừng vừa thời gian</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-cat-tien-2-ngay-1-dem-chon-nghi-duong-hay-trekking/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Cát Tiên 2 ngày 1 đêm: chọn nghỉ dưỡng hay trekking</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nam-cat-tien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
