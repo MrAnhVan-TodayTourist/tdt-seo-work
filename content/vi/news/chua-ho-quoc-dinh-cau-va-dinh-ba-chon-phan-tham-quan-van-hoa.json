@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Các điểm tín ngưỡng có thể tạo phần tham quan văn hóa cho chuyến Phú Quốc. Lịch nên tôn trọng sinh hoạt tại chỗ và nhu cầu của đoàn, không sử dụng lời hứa tâm linh để bán tour."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Các điểm tín ngưỡng có thể tạo phần tham quan văn hóa cho chuyến Phú Quốc. Lịch nên tôn trọng sinh hoạt tại chỗ và nhu cầu của đoàn, không sử dụng lời hứa tâm linh để bán tour.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm theo tuyến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm theo tuyến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách quan tâm chùa Hộ Quốc có thể đề nghị kiểm tra phần tuyến Nam đảo; Dinh Cậu và Dinh Bà cần được bố trí theo nơi ở và lịch thực tế. Không gộp mọi điểm vào một buổi mà bỏ qua chặng xe và mức đi bộ. Thông tin mở cửa, khu được tham quan và tình trạng tiếp đón cần kiểm tra trước ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách quan tâm chùa Hộ Quốc có thể đề nghị kiểm tra phần tuyến Nam đảo; Dinh Cậu và Dinh Bà cần được bố trí theo nơi ở và lịch thực tế. Không gộp mọi điểm vào một buổi mà bỏ qua chặng xe và mức đi bộ. Thông tin mở cửa, khu được tham quan và tình trạng tiếp đón cần kiểm tra trước ngày đi.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị ứng xử phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị ứng xử phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mặc trang phục lịch sự, giữ trật tự, theo hướng dẫn chụp ảnh và sử dụng lễ vật tại điểm. Không tổ chức trò chơi hoặc mở âm thanh trong không gian thờ tự. Đoàn đông nên có nơi tập trung tránh cản trở người khác. Việc viếng là lựa chọn cá nhân, không ép mọi thành viên tham gia nghi thức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mặc trang phục lịch sự, giữ trật tự, theo hướng dẫn chụp ảnh và sử dụng lễ vật tại điểm. Không tổ chức trò chơi hoặc mở âm thanh trong không gian thờ tự. Đoàn đông nên có nơi tập trung tránh cản trở người khác. Việc viếng là lựa chọn cá nhân, không ép mọi thành viên tham gia nghi thức.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ mức tham quan vừa sức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ mức tham quan vừa sức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi lối đi, bậc thang và phương án cho người không muốn đi toàn bộ. Đoàn về nguồn hoặc trường học nên có thuyết minh được kiểm chứng, phân biệt lịch sử với truyền thuyết. TodayTourist tiếp nhận yêu cầu để sắp phần tham quan phù hợp; điểm cụ thể chỉ được đưa vào chương trình sau khi kiểm tra điều kiện thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi lối đi, bậc thang và phương án cho người không muốn đi toàn bộ. Đoàn về nguồn hoặc trường học nên có thuyết minh được kiểm chứng, phân biệt lịch sử với truyền thuyết. TodayTourist tiếp nhận yêu cầu để sắp phần tham quan phù hợp; điểm cụ thể chỉ được đưa vào chương trình sau khi kiểm tra điều kiện thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể kết hợp tham quan tâm linh và nghỉ biển không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể kết hợp tham quan tâm linh và nghỉ biển không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể, khi tuyến và thời lượng phù hợp. Nên chọn một số điểm chính và giữ thời gian nghỉ, thay vì dồn nhiều nghi thức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể, khi tuyến và thời lượng phù hợp. Nên chọn một số điểm chính và giữ thời gian nghỉ, thay vì dồn nhiều nghi thức.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour học sinh và về nguồn Phú Quốc: xây nội dung theo độ tuổi",
-        "Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ",
-        "Nhà tù Phú Quốc: bố trí phần tham quan lịch sử trong tour"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-va-ve-nguon-phu-quoc-xay-noi-dung-theo-do-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh và về nguồn Phú Quốc: xây nội dung theo độ tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phu-quoc-di-dau-chia-bac-dao-nam-dao-va-thoi-gian-nghi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nha-tu-phu-quoc-bo-tri-phan-tham-quan-lich-su-trong-tour/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nhà tù Phú Quốc: bố trí phần tham quan lịch sử trong tour</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
