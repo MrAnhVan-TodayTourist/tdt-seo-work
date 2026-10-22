@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn đông cần quản lý cả chuỗi vận chuyển, lưu trú và sự kiện. Số lượng phòng hoặc ghế vận chuyển chỉ là một phần; điều quan trọng là các nhóm nối với nhau đúng kế hoạch."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn đông cần quản lý cả chuỗi vận chuyển, lưu trú và sự kiện. Số lượng phòng hoặc ghế vận chuyển chỉ là một phần; điều quan trọng là các nhóm nối với nhau đúng kế hoạch.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dùng một danh sách gốc có phiên bản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dùng một danh sách gốc có phiên bản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi khách cần thông tin đúng giấy tờ và nhóm vận chuyển. Tách danh sách phòng, bữa ăn và hoạt động từ dữ liệu thống nhất, có người duyệt sửa. Không công khai giấy tờ hoặc thông tin khách trong nội dung truyền thông. Chốt mốc thay đổi trước khi xuất vé và giữ dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi khách cần thông tin đúng giấy tờ và nhóm vận chuyển. Tách danh sách phòng, bữa ăn và hoạt động từ dữ liệu thống nhất, có người duyệt sửa. Không công khai giấy tờ hoặc thông tin khách trong nội dung truyền thông. Chốt mốc thay đổi trước khi xuất vé và giữ dịch vụ.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Phân công theo từng chặng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân công theo từng chặng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu nhiều chuyến bay hoặc tàu, mỗi nhóm cần người phụ trách và phương án đón. Xe trên đảo, chỗ gửi hành lý và phòng phải phù hợp giờ nhóm đến. Với đoàn đông dùng xe 45 chỗ, kiểm tra điểm dừng, bãi đỗ và thời gian lên xuống. Không tính lịch như đoàn nhỏ rồi nhân số lượng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu nhiều chuyến bay hoặc tàu, mỗi nhóm cần người phụ trách và phương án đón. Xe trên đảo, chỗ gửi hành lý và phòng phải phù hợp giờ nhóm đến. Với đoàn đông dùng xe 45 chỗ, kiểm tra điểm dừng, bãi đỗ và thời gian lên xuống. Không tính lịch như đoàn nhỏ rồi nhân số lượng.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra các khâu phục vụ cùng giờ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra các khâu phục vụ cùng giờ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà hàng cần số bàn và tốc độ phục vụ; gala cần sức chứa theo bố trí thật; Team Building cần nhân sự từng nhóm. Có mốc điểm danh và đầu mối xử lý phát sinh. Báo giá nên nêu các phần chia nhóm và chi phí tăng thêm do lệch chuyến, thay vì giấu chúng trong một mức giá chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà hàng cần số bàn và tốc độ phục vụ; gala cần sức chứa theo bố trí thật; Team Building cần nhân sự từng nhóm. Có mốc điểm danh và đầu mối xử lý phát sinh. Báo giá nên nêu các phần chia nhóm và chi phí tăng thêm do lệch chuyến, thay vì giấu chúng trong một mức giá chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nhất thiết cả đoàn phải bay cùng một chuyến không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nhất thiết cả đoàn phải bay cùng một chuyến không?</span>"
     },
     {
       "type": "p",
-      "text": "Không bắt buộc, nhưng nếu chia chuyến cần phương án xe, nhân sự, phòng và lịch cho từng nhóm được xác nhận trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không bắt buộc, nhưng nếu chia chuyến cần phương án xe, nhân sự, phòng và lịch cho từng nhóm được xác nhận trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Phú Quốc từ Biên Hòa, Đồng Nai và TP.HCM: làm rõ điểm đón",
-        "Tour Phú Quốc cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng",
-        "MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-tu-bien-hoa-dong-nai-va-tp-hcm-lam-ro-diem-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc từ Biên Hòa, Đồng Nai và TP.HCM: làm rõ điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-cho-cong-ty-chuan-bi-yeu-cau-de-nhan-bao-gia-dung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mice-phu-quoc-ket-hop-hoi-nghi-nghi-duong-va-su-kien-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
