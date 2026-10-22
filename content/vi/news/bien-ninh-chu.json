@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn bãi biển cho chuyến đi cần xem cả nơi nghỉ, đường đến và tiện ích, không chỉ màu nước trong ảnh. Ninh Chữ, Bình Tiên và các bãi quanh Bình Hưng có điều kiện khác nhau. Nhóm nên nói rõ muốn nghỉ dưỡng, chụp ảnh hay hoạt động biển để chọn điểm phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn bãi biển cho chuyến đi cần xem cả nơi nghỉ, đường đến và tiện ích, không chỉ màu nước trong ảnh. Ninh Chữ, Bình Tiên và các bãi quanh Bình Hưng có điều kiện khác nhau. Nhóm nên nói rõ muốn nghỉ dưỡng, chụp ảnh hay hoạt động biển để chọn điểm phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Nghỉ đất liền hay đi thêm chặng tàu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nghỉ đất liền hay đi thêm chặng tàu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ninh Chữ có thể được chọn làm điểm lưu trú đất liền trong chương trình. Bình Hưng thêm khâu bến tàu và chuyển hành lý. Muốn ghé Bình Tiên hoặc một bãi trên tuyến, cần kiểm tra dịch vụ, điểm xe tiếp cận và điều kiện hoạt động đúng ngày, không coi mọi nơi đều có tiện ích như resort."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ninh Chữ có thể được chọn làm điểm lưu trú đất liền trong chương trình. Bình Hưng thêm khâu bến tàu và chuyển hành lý. Muốn ghé Bình Tiên hoặc một bãi trên tuyến, cần kiểm tra dịch vụ, điểm xe tiếp cận và điều kiện hoạt động đúng ngày, không coi mọi nơi đều có tiện ích như resort.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Hỏi bãi thực tế được chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi bãi thực tế được chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tên bãi, dịch vụ tắm tráng, khu nghỉ và phần ăn cần rõ trong chương trình. Không mặc định mọi bãi quảng bá đều có trong tour hoặc luôn phục vụ tắm biển. Nếu đoàn có trẻ nhỏ hay người lớn tuổi, hỏi lối đi và điều kiện tham gia, dành thời gian nghỉ thay vì nối nhiều bãi liên tục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tên bãi, dịch vụ tắm tráng, khu nghỉ và phần ăn cần rõ trong chương trình. Không mặc định mọi bãi quảng bá đều có trong tour hoặc luôn phục vụ tắm biển. Nếu đoàn có trẻ nhỏ hay người lớn tuổi, hỏi lối đi và điều kiện tham gia, dành thời gian nghỉ thay vì nối nhiều bãi liên tục.</span>"
     },
     {
       "type": "h2",
-      "text": "Hoạt động biển theo điều kiện tại điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hoạt động biển theo điều kiện tại điểm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tắm, đi thuyền và thể thao biển cần theo hướng dẫn cùng tình trạng thực tế. Không thể cam kết biển luôn êm chỉ từ tháng dự kiến. Khi muốn Team Building, kiểm tra mặt bằng riêng và thời lượng; một bãi thích hợp nghỉ chưa chắc phù hợp tổ chức sự kiện đông người."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tắm, đi thuyền và thể thao biển cần theo hướng dẫn cùng tình trạng thực tế. Không thể cam kết biển luôn êm chỉ từ tháng dự kiến. Khi muốn Team Building, kiểm tra mặt bằng riêng và thời lượng; một bãi thích hợp nghỉ chưa chắc phù hợp tổ chức sự kiện đông người.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có cần đi nhiều bãi để tour đáng tiền không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có cần đi nhiều bãi để tour đáng tiền không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Một bãi có đủ thời gian và dịch vụ phù hợp có thể đáp ứng tốt hơn nhiều điểm dừng ngắn. Nên so chất lượng trải nghiệm với mục tiêu của nhóm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Một bãi có đủ thời gian và dịch vụ phù hợp có thể đáp ứng tốt hơn nhiều điểm dừng ngắn. Nên so chất lượng trải nghiệm với mục tiêu của nhóm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/vuon-nho-thai-an/\" target=\"_blank\" rel=\"noopener nofollow\">Vườn nho Thái An và Phan Rang: chọn trải nghiệm theo mùa</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vuon-nho-thai-an/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Vườn nho Thái An và Phan Rang: chọn trải nghiệm theo mùa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/trung-son-co-tu/\" target=\"_blank\" rel=\"noopener nofollow\">Trùng Sơn Cổ Tự trong tour Ninh Chữ: tham quan và chiêm bái</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/trung-son-co-tu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trùng Sơn Cổ Tự trong tour Ninh Chữ: tham quan và chiêm bái</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
