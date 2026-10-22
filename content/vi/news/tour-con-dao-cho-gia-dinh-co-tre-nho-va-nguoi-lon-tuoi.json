@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Gia đình nhiều thế hệ thường cần một lịch Côn Đảo linh hoạt về nghỉ, ăn và di chuyển. Người lớn muốn viếng hoặc tham quan lịch sử, trong khi trẻ nhỏ cần khoảng sinh hoạt quen thuộc. Chọn chương trình vừa sức bắt đầu từ nhu cầu từng thành viên, không phải từ số điểm có thể đi trong một ngày."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gia đình nhiều thế hệ thường cần một lịch Côn Đảo linh hoạt về nghỉ, ăn và di chuyển. Người lớn muốn viếng hoặc tham quan lịch sử, trong khi trẻ nhỏ cần khoảng sinh hoạt quen thuộc. Chọn chương trình vừa sức bắt đầu từ nhu cầu từng thành viên, không phải từ số điểm có thể đi trong một ngày.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn phương tiện theo khả năng của gia đình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phương tiện theo khả năng của gia đình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần xem cả chặng nối, thời gian chờ và mức thoải mái khi ngủ trên xe hoặc đi tàu. Nếu có người dễ say, cần cân nhắc phương án và trao đổi nhu cầu hỗ trợ trước khi đặt. Không mặc định trẻ nhỏ nào cũng miễn vé hoặc mọi người lớn tuổi đều phù hợp một hình thức vận chuyển. Các điều kiện vé và phục vụ phải được kiểm tra theo hãng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem cả chặng nối, thời gian chờ và mức thoải mái khi ngủ trên xe hoặc đi tàu. Nếu có người dễ say, cần cân nhắc phương án và trao đổi nhu cầu hỗ trợ trước khi đặt. Không mặc định trẻ nhỏ nào cũng miễn vé hoặc mọi người lớn tuổi đều phù hợp một hình thức vận chuyển. Các điều kiện vé và phục vụ phải được kiểm tra theo hãng.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Giữ bữa ăn và thời gian nghỉ ổn định"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ bữa ăn và thời gian nghỉ ổn định</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch nên có khoảng nghỉ sau khi tới đảo, tránh đi liên tục tới tận giờ viếng. Khi chọn điểm, giữ những trải nghiệm cả nhà quan tâm và cho phép một số người nghỉ nếu cần. Nhà hàng nên biết món ăn dễ dùng, nhu cầu ăn chay hoặc dị ứng do gia đình cung cấp. Người đi cần chuẩn bị đồ cá nhân thiết yếu phù hợp thói quen của mình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch nên có khoảng nghỉ sau khi tới đảo, tránh đi liên tục tới tận giờ viếng. Khi chọn điểm, giữ những trải nghiệm cả nhà quan tâm và cho phép một số người nghỉ nếu cần. Nhà hàng nên biết món ăn dễ dùng, nhu cầu ăn chay hoặc dị ứng do gia đình cung cấp. Người đi cần chuẩn bị đồ cá nhân thiết yếu phù hợp thói quen của mình.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn phòng theo cơ cấu người ở"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phòng theo cơ cấu người ở</span></strong>"
     },
     {
       "type": "p",
-      "text": "Làm rõ giường, số người tối đa, phòng liên thông nếu cần và điều kiện giường phụ. Gia đình có trẻ nhỏ nên hỏi quyền lợi suất ăn và giường ngủ riêng, không chỉ phần trăm giá tour. Người khó di chuyển cần trao đổi vị trí phòng, thang máy và quãng đường từ xe tới nơi lưu trú. Yêu cầu phòng chỉ được bảo đảm theo xác nhận cụ thể của cơ sở."
+      "text": "<span style=\"font-size:16px;color:#374151\">Làm rõ giường, số người tối đa, phòng liên thông nếu cần và điều kiện giường phụ. Gia đình có trẻ nhỏ nên hỏi quyền lợi suất ăn và giường ngủ riêng, không chỉ phần trăm giá tour. Người khó di chuyển cần trao đổi vị trí phòng, thang máy và quãng đường từ xe tới nơi lưu trú. Yêu cầu phòng chỉ được bảo đảm theo xác nhận cụ thể của cơ sở.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị giấy tờ và kế hoạch tham quan nhẹ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị giấy tờ và kế hoạch tham quan nhẹ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra giấy tờ cần dùng cho vé, lưu trú và đối tượng trẻ em theo nhà cung cấp. Hành lý cho chặng di chuyển nên tách khỏi đồ trong vali lớn. Với điểm có bậc hoặc đường đi dài, hỏi mức vận động trước khi đăng ký. TodayTourist tư vấn lịch theo độ tuổi, thời gian và ngân sách; các vấn đề sức khỏe riêng cần được gia đình chủ động trao đổi khi cần."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra giấy tờ cần dùng cho vé, lưu trú và đối tượng trẻ em theo nhà cung cấp. Hành lý cho chặng di chuyển nên tách khỏi đồ trong vali lớn. Với điểm có bậc hoặc đường đi dài, hỏi mức vận động trước khi đăng ký. TodayTourist tư vấn lịch theo độ tuổi, thời gian và ngân sách; các vấn đề sức khỏe riêng cần được gia đình chủ động trao đổi khi cần.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên viếng quá muộn khi đi cùng trẻ nhỏ? Nên chọn thời gian được phép và phù hợp nhịp sinh hoạt của gia đình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên viếng quá muộn khi đi cùng trẻ nhỏ? Nên chọn thời gian được phép và phù hợp nhịp sinh hoạt của gia đình.</span>"
     },
     {
       "type": "p",
-      "text": "Giá trẻ em gồm ghế và giường riêng không? Phải kiểm tra quyền lợi cụ thể trong báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá trẻ em gồm ghế và giường riêng không? Phải kiểm tra quyền lợi cụ thể trong báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Côn Đảo bằng máy bay hay tàu cao tốc?",
-        "Tour ghép hay đoàn riêng Côn Đảo: chọn theo số người và mục đích",
-        "Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-hay-tau-cao-toc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo bằng máy bay hay tàu cao tốc?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-hay-doan-rieng-con-dao-chon-theo-so-nguoi-va-muc-dich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép hay đoàn riêng Côn Đảo: chọn theo số người và mục đích</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/khach-san-resort-con-dao-chon-vi-tri-va-tieu-chuan-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
