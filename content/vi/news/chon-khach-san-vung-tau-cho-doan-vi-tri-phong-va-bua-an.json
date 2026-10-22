@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khách sạn phù hợp đoàn không chỉ cần đủ phòng. Vị trí, cơ cấu giường, bữa sáng và thời gian phục vụ quyết định đoàn có nghỉ thuận tiện hay phải chờ và di chuyển nhiều."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách sạn phù hợp đoàn không chỉ cần đủ phòng. Vị trí, cơ cấu giường, bữa sáng và thời gian phục vụ quyết định đoàn có nghỉ thuận tiện hay phải chờ và di chuyển nhiều.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra vị trí bằng nhu cầu thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra vị trí bằng nhu cầu thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi khoảng cách đến biển, nhà hàng và điểm sinh hoạt. 'Gần biển' không đồng nghĩa phòng có hướng biển hoặc ra biển không cần băng đường. Với xe 45 chỗ, kiểm tra nơi dừng, bãi đỗ và lối lấy hành lý. Đoàn có người lớn tuổi cần lối đi và thang máy thuận tiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi khoảng cách đến biển, nhà hàng và điểm sinh hoạt. 'Gần biển' không đồng nghĩa phòng có hướng biển hoặc ra biển không cần băng đường. Với xe 45 chỗ, kiểm tra nơi dừng, bãi đỗ và lối lấy hành lý. Đoàn có người lớn tuổi cần lối đi và thang máy thuận tiện.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Đặt cơ cấu phòng rõ ràng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt cơ cấu phòng rõ ràng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phân biệt phòng đôi, hai giường, phòng gia đình và giường phụ. Ghi số khách tối đa, chi phí phòng đơn và nhu cầu trẻ em. Đoàn đông nên có danh sách phân phòng trước, với người nhận thay đổi. Nhận phòng sớm hoặc trả muộn chỉ là quyền lợi khi khách sạn xác nhận, không nên coi là mặc định."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phân biệt phòng đôi, hai giường, phòng gia đình và giường phụ. Ghi số khách tối đa, chi phí phòng đơn và nhu cầu trẻ em. Đoàn đông nên có danh sách phân phòng trước, với người nhận thay đổi. Nhận phòng sớm hoặc trả muộn chỉ là quyền lợi khi khách sạn xác nhận, không nên coi là mặc định.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra dịch vụ đoàn sử dụng cùng giờ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra dịch vụ đoàn sử dụng cùng giờ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi sức chứa và khung giờ bữa sáng, khu tập trung và khả năng giữ hành lý. Nếu tổ chức gala ở ngoài khách sạn, tính khoảng cách và phương tiện đi lại. Báo giá cần tên cơ sở, loại phòng và quyền lợi đã chốt. Khi chưa giữ phòng, thông tin nên được ghi là phương án dự kiến để tránh hiểu nhầm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi sức chứa và khung giờ bữa sáng, khu tập trung và khả năng giữ hành lý. Nếu tổ chức gala ở ngoài khách sạn, tính khoảng cách và phương tiện đi lại. Báo giá cần tên cơ sở, loại phòng và quyền lợi đã chốt. Khi chưa giữ phòng, thông tin nên được ghi là phương án dự kiến để tránh hiểu nhầm.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách sạn nhiều sao hơn có luôn tốt hơn cho đoàn không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách sạn nhiều sao hơn có luôn tốt hơn cho đoàn không?</span>"
     },
     {
       "type": "p",
-      "text": "Không thể kết luận chỉ từ hạng sao. Cần kiểm tra phòng, vị trí, bữa ăn và khả năng phục vụ đúng quy mô."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không thể kết luận chỉ từ hạng sao. Cần kiểm tra phòng, vị trí, bữa ăn và khả năng phục vụ đúng quy mô.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động",
-        "Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-vung-tau-so-bao-gia-theo-phong-bua-an-va-hoat-dong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-long-hai-ho-tram-so-tien-ich-theo-muc-tieu-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Long Hải – Hồ Tràm: so tiện ích theo mục tiêu đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
