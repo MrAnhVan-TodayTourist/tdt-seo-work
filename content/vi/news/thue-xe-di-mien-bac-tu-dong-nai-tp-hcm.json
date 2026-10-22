@@ -8,29 +8,28 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Miền Bắc xa, hầu hết đoàn bay ra rồi thuê xe địa phương. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Miền Bắc xa, hầu hết đoàn bay ra rồi thuê xe địa phương. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi miền Bắc từ Đồng Nai, TP.HCM?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi miền Bắc từ Đồng Nai, TP.HCM?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Đi miền Bắc từ Biên Hòa, TP.HCM nên đi bằng gì?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi miền Bắc từ Biên Hòa, TP.HCM nên đi bằng gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đồng Nai – Hà Nội trên 1.600 km nên đoàn gần như luôn bay ra Hà Nội rồi thuê xe tại chỗ. Tuyến thường gặp: Hà Nội – Ninh Bình – Hạ Long – Sapa. Hà Nội – Ninh Bình khoảng 2–2,5 giờ; Hà Nội – Sapa khoảng 8 giờ nếu đi tàu đêm đến Lào Cai rồi khoảng 1 giờ lên núi; Hà Nội – Hà Giang khoảng 6–7 giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đồng Nai – Hà Nội trên 1.600 km nên đoàn gần như luôn bay ra Hà Nội rồi thuê xe tại chỗ. Tuyến thường gặp: Hà Nội – Ninh Bình – Hạ Long – Sapa. Hà Nội – Ninh Bình khoảng 2–2,5 giờ; Hà Nội – Sapa khoảng 8 giờ nếu đi tàu đêm đến Lào Cai rồi khoảng 1 giờ lên núi; Hà Nội – Hà Giang khoảng 6–7 giờ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213039625-0.jpg",
-      "alt": "Thuê xe đi miền Bắc từ Đồng Nai, TP.HCM từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213039625-0.jpg\" alt=\"Thuê xe đi miền Bắc từ Đồng Nai, TP.HCM từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Mùa đẹp từng điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mùa đẹp từng điểm</span></strong>"
     },
     {
       "type": "list",
@@ -42,111 +41,111 @@
     },
     {
       "type": "h2",
-      "text": "Lịch trình 5 ngày 4 đêm gợi ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình 5 ngày 4 đêm gợi ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 1:</strong> Bay Hà Nội, phố cổ, hồ Gươm, ẩm thực."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 1:</strong> Bay Hà Nội, phố cổ, hồ Gươm, ẩm thực.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 2:</strong> Ninh Bình."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 2:</strong> Ninh Bình.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 3:</strong> Hạ Long."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 3:</strong> Hạ Long.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 4–5:</strong> Sapa hoặc quay lại Hà Nội và bay về. Nên đi từng cụm, không ép nhiều điểm xa nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 4–5:</strong> Sapa hoặc quay lại Hà Nội và bay về. Nên đi từng cụm, không ép nhiều điểm xa nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tuyến Sapa – Hà Giang đường hẹp, dễ sạt lở vào tháng 7–8. Hà Giang cần ít nhất 3 ngày. Đặt vé máy bay và xe địa phương sớm vào dịp lễ Tết. Mang áo ấm mùa đông."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tuyến Sapa – Hà Giang đường hẹp, dễ sạt lở vào tháng 7–8. Hà Giang cần ít nhất 3 ngày. Đặt vé máy bay và xe địa phương sớm vào dịp lễ Tết. Mang áo ấm mùa đông.</span>"
     },
     {
       "type": "h2",
-      "text": "Cách đi miền Bắc cho đoàn từ Đồng Nai"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cách đi miền Bắc cho đoàn từ Đồng Nai</span></strong>"
     },
     {
       "type": "p",
-      "text": "Quãng đường từ Đồng Nai ra miền Bắc rất xa, hầu hết đoàn chọn bay ra Hà Nội rồi thuê xe tại điểm đến để di chuyển các tuyến Hạ Long, Ninh Bình, Sa Pa. Cách này tiết kiệm thời gian và sức khỏe cho đoàn. Today Tourist có thể hỗ trợ vé máy bay và thuê xe trọn gói theo lịch trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quãng đường từ Đồng Nai ra miền Bắc rất xa, hầu hết đoàn chọn bay ra Hà Nội rồi thuê xe tại điểm đến để di chuyển các tuyến Hạ Long, Ninh Bình, Sa Pa. Cách này tiết kiệm thời gian và sức khỏe cho đoàn. Today Tourist có thể hỗ trợ vé máy bay và thuê xe trọn gói theo lịch trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị theo mùa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị theo mùa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa đông miền Bắc lạnh, đoàn cần áo ấm dày; mùa hè nắng nóng, mưa nhiều. Chuẩn bị trang phục phù hợp từng mùa để chuyến đi thoải mái."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa đông miền Bắc lạnh, đoàn cần áo ấm dày; mùa hè nắng nóng, mưa nhiều. Chuẩn bị trang phục phù hợp từng mùa để chuyến đi thoải mái.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý lịch trình ngắn cho đoàn đi miền Bắc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý lịch trình ngắn cho đoàn đi miền Bắc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn thường chọn tuyến Hà Nội – Hạ Long – Ninh Bình trong 4–5 ngày, hoặc thêm Sa Pa nếu có nhiều thời gian hơn. Hãy báo trước số người, ngày đi và ngân sách để tư vấn lịch trình, vé máy bay và thuê xe phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn thường chọn tuyến Hà Nội – Hạ Long – Ninh Bình trong 4–5 ngày, hoặc thêm Sa Pa nếu có nhiều thời gian hơn. Hãy báo trước số người, ngày đi và ngân sách để tư vấn lịch trình, vé máy bay và thuê xe phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Miền Bắc cách Đồng Nai bao xa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Miền Bắc cách Đồng Nai bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trên 1.600 km nên thường đi máy bay."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trên 1.600 km nên thường đi máy bay.</span>"
     },
     {
       "type": "h3",
-      "text": "Hà Nội đi Ninh Bình mất bao lâu?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Hà Nội đi Ninh Bình mất bao lâu?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 2–2,5 giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 2–2,5 giờ.</span>"
     },
     {
       "type": "h3",
-      "text": "Mùa nào đi Sapa đẹp?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Mùa nào đi Sapa đẹp?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tháng 9–10 và tháng 3–4."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tháng 9–10 và tháng 3–4.</span>"
     },
     {
       "type": "h3",
-      "text": "Hà Giang đi mấy ngày?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Hà Giang đi mấy ngày?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ít nhất 3 ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ít nhất 3 ngày.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist hỗ trợ gì?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist hỗ trợ gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tư vấn vé máy bay, xe và lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tư vấn vé máy bay, xe và lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-xuyen-viet-theo-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi xuyên Việt theo lịch trình riêng</a> · <a href=\"/vi/tin-tuc/thue-xe-di-da-nang-hoi-an/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Đà Nẵng – Hội An</a> · <a href=\"/vi/tin-tuc/thue-xe-di-hue/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Huế</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-xuyen-viet-theo-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi xuyên Việt theo lịch trình riêng</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-da-nang-hoi-an/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Nẵng – Hội An</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-hue/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Huế</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -155,6 +154,10 @@
         "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM",
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
