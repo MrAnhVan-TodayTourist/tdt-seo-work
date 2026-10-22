@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Nhiều công ty ở Biên Hòa và các khu công nghiệp muốn đoàn được đón ngay tại nơi làm việc. Để việc này gọn, cần thống nhất điểm đón, giờ tập trung và tuyến xe từ đầu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Nhiều công ty ở Biên Hòa và các khu công nghiệp muốn đoàn được đón ngay tại nơi làm việc. Để việc này gọn, cần thống nhất điểm đón, giờ tập trung và tuyến xe từ đầu.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Điểm đón theo đề nghị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm đón theo đề nghị</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist có thể trao đổi điểm đón theo yêu cầu của đoàn. Hãy gửi địa chỉ cụ thể, vị trí xe dừng và giờ mong muốn để kiểm tra lịch."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist có thể trao đổi điểm đón theo yêu cầu của đoàn. Hãy gửi địa chỉ cụ thể, vị trí xe dừng và giờ mong muốn để kiểm tra lịch.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222528451-0.jpg",
-      "alt": "A lone rider on a quad bike explores expansive desert dunes at sunset."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222528451-0.jpg\" alt=\"A lone rider on a quad bike explores expansive desert dunes at sunset.\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đón tại doanh nghiệp, khu công nghiệp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đón tại doanh nghiệp, khu công nghiệp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với công ty trong khu công nghiệp, cần hỏi cổng, nơi đỗ xe và khung giờ xe lớn ra vào. Không mặc định xe vào được mọi khuôn viên; nếu không, đoàn có thể tập trung ở điểm gần cổng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với công ty trong khu công nghiệp, cần hỏi cổng, nơi đỗ xe và khung giờ xe lớn ra vào. Không mặc định xe vào được mọi khuôn viên; nếu không, đoàn có thể tập trung ở điểm gần cổng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tác động của nhiều điểm đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tác động của nhiều điểm đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi điểm đón thêm làm kéo dài thời gian khởi hành. Nếu khách ở nhiều nơi, có thể gom về một vài điểm tập kết thuận tiện. Thống nhất giờ ở từng điểm để cả đoàn khởi hành đúng giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi điểm đón thêm làm kéo dài thời gian khởi hành. Nếu khách ở nhiều nơi, có thể gom về một vài điểm tập kết thuận tiện. Thống nhất giờ ở từng điểm để cả đoàn khởi hành đúng giờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Thông tin địa chỉ cần gửi để tính lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông tin địa chỉ cần gửi để tính lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, địa chỉ điểm đón, giờ mong muốn, người liên hệ và điểm trả khách. Từ đó TodayTourist sẽ tính giờ khởi hành và xác nhận phương án đón phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, địa chỉ điểm đón, giờ mong muốn, người liên hệ và điểm trả khách. Từ đó TodayTourist sẽ tính giờ khởi hành và xác nhận phương án đón phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn ở cả Biên Hòa và TP.HCM có đi chung được không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn ở cả Biên Hòa và TP.HCM có đi chung được không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể bàn phương án điểm tập kết hoặc xe riêng, tùy số khách và thời gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể bàn phương án điểm tập kết hoặc xe riêng, tùy số khách và thời gian.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tổ chức tour Phan Thiết cho công ty: chuẩn bị từ đâu?",
-        "Thuê xe đi Phan Thiết hay đặt tour trọn gói: cách chọn cho đoàn riêng",
-        "Tour ghép Phan Thiết hay tour đoàn riêng: chọn theo nhu cầu nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-phan-thiet-cho-cong-ty-chuan-bi-tu-dau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức tour Phan Thiết cho công ty: chuẩn bị từ đâu?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-phan-thiet-hay-dat-tour-tron-goi-cach-chon-cho-doan-rieng/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Phan Thiết hay đặt tour trọn gói: cách chọn cho đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-phan-thiet-hay-tour-doan-rieng-chon-theo-nhu-cau-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép Phan Thiết hay tour đoàn riêng: chọn theo nhu cầu nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
