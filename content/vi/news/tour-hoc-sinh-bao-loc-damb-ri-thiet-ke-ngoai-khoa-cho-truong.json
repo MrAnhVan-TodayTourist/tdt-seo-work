@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Bảo Lộc–Đamb’ri có thể được cân nhắc cho chuyến ngoại khóa của trường khi mục tiêu và điều kiện tham gia phù hợp. Chương trình cần phân biệt phần học tập, tham quan và trò chơi để giáo viên dễ quản lý."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Bảo Lộc–Đamb’ri có thể được cân nhắc cho chuyến ngoại khóa của trường khi mục tiêu và điều kiện tham gia phù hợp. Chương trình cần phân biệt phần học tập, tham quan và trò chơi để giáo viên dễ quản lý.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn nội dung học tập gắn với trải nghiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn nội dung học tập gắn với trải nghiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến đi có thể đặt trọng tâm vào cảnh quan thác, cách tổ chức một điểm du lịch hoặc tìm hiểu sản phẩm trà tại cơ sở nhận tham quan. Giáo viên nên chọn một vài câu hỏi chính thay vì yêu cầu học sinh ghi chép mọi thứ trên đường. Nếu có trải nghiệm trà, cần xác nhận nơi nào nhận đoàn, phần nào được quan sát và hoạt động nào được thực hiện. Không coi việc đứng chụp ảnh trước nông trường là một chương trình học tập đầy đủ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến đi có thể đặt trọng tâm vào cảnh quan thác, cách tổ chức một điểm du lịch hoặc tìm hiểu sản phẩm trà tại cơ sở nhận tham quan. Giáo viên nên chọn một vài câu hỏi chính thay vì yêu cầu học sinh ghi chép mọi thứ trên đường. Nếu có trải nghiệm trà, cần xác nhận nơi nào nhận đoàn, phần nào được quan sát và hoạt động nào được thực hiện. Không coi việc đứng chụp ảnh trước nông trường là một chương trình học tập đầy đủ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214820834-0.jpg",
-      "alt": "Tour học sinh Bảo Lộc – Đamb’ri: thiết kế ngoại khóa cho trường"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214820834-0.jpg\" alt=\"Tour học sinh Bảo Lộc – Đamb’ri: thiết kế ngoại khóa cho trường\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tại Đamb’ri, tách tham quan khỏi trò chơi tự chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tại Đamb’ri, tách tham quan khỏi trò chơi tự chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gói vào cổng, tuyến tham quan và từng trò chơi cần được kiểm tra theo dịch vụ đặt thực tế. Những hạng mục có yêu cầu chiều cao, độ tuổi hoặc điều kiện tham gia không nên ghi chung là dành cho tất cả học sinh. Nhà trường cần có phương án cho trẻ không tham gia trò chơi để các em vẫn được quản lý cùng nhóm. Vị trí tập trung, giờ trở lại và người kiểm đếm phải rõ trước khi chia lớp tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gói vào cổng, tuyến tham quan và từng trò chơi cần được kiểm tra theo dịch vụ đặt thực tế. Những hạng mục có yêu cầu chiều cao, độ tuổi hoặc điều kiện tham gia không nên ghi chung là dành cho tất cả học sinh. Nhà trường cần có phương án cho trẻ không tham gia trò chơi để các em vẫn được quản lý cùng nhóm. Vị trí tập trung, giờ trở lại và người kiểm đếm phải rõ trước khi chia lớp tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Bố trí xe, bữa ăn và hoạt động tối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bố trí xe, bữa ăn và hoạt động tối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nhiều lớp cần danh sách theo xe, giáo viên và hướng dẫn viên; chỗ ngồi phải tính đủ nhân sự đi cùng. Nếu có lưu trú, xác nhận phân phòng, người phụ trách mỗi khu và nội dung giao lưu phù hợp học sinh. Lửa trại chỉ được tính khi địa điểm nhận tổ chức và phương án đã được thống nhất. TodayTourist xây chương trình theo khối lớp, số lượng, ngày đi và mục tiêu nhà trường, tránh dùng nguyên lịch tour công ty cho học sinh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhiều lớp cần danh sách theo xe, giáo viên và hướng dẫn viên; chỗ ngồi phải tính đủ nhân sự đi cùng. Nếu có lưu trú, xác nhận phân phòng, người phụ trách mỗi khu và nội dung giao lưu phù hợp học sinh. Lửa trại chỉ được tính khi địa điểm nhận tổ chức và phương án đã được thống nhất. TodayTourist xây chương trình theo khối lớp, số lượng, ngày đi và mục tiêu nhà trường, tránh dùng nguyên lịch tour công ty cho học sinh.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể kết hợp Bảo Lộc và Nam Cát Tiên cho học sinh không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể kết hợp Bảo Lộc và Nam Cát Tiên cho học sinh không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể nghiên cứu chương trình nhiều ngày khi lịch học, sức đi và quản lý đoàn phù hợp; cần khảo sát tuyến và nơi nghỉ trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể nghiên cứu chương trình nhiều ngày khi lịch học, sức đi và quản lý đoàn phù hợp; cần khảo sát tuyến và nơi nghỉ trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Thác Đamb’ri Bảo Lộc: chọn gói tham quan cho khách đoàn",
-        "Du lịch trà Bảo Lộc: chọn điểm đồi chè và trải nghiệm cho đoàn",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thac-damb-ri-bao-loc-chon-goi-tham-quan-cho-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thác Đamb’ri Bảo Lộc: chọn gói tham quan cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/du-lich-tra-bao-loc-chon-diem-doi-che-va-trai-nghiem-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Du lịch trà Bảo Lộc: chọn điểm đồi chè và trải nghiệm cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
