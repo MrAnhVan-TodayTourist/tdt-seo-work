@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Miền Tây một ngày phù hợp khi nhóm muốn đổi không khí mà không nghỉ qua đêm. Điều cần chọn trước là tuyến đủ gần, điểm đón gọn và một trải nghiệm chính. Lịch đi từ Biên Hòa có thêm chặng so với xuất phát ở TP.HCM nên cần tính cả thời gian tập trung đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Miền Tây một ngày phù hợp khi nhóm muốn đổi không khí mà không nghỉ qua đêm. Điều cần chọn trước là tuyến đủ gần, điểm đón gọn và một trải nghiệm chính. Lịch đi từ Biên Hòa có thêm chặng so với xuất phát ở TP.HCM nên cần tính cả thời gian tập trung đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ba hướng để lựa chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ba hướng để lựa chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Mỹ Tho–Bến Tre</strong> thích hợp cho thuyền sông Tiền, cù lao và bữa ăn miệt vườn. <strong>Sa Đéc</strong> phù hợp người thích hoa, ảnh và văn hóa địa phương. <strong>Trà Vinh–Cồn Chim</strong> thiên về trải nghiệm cộng đồng, nhưng cần kiểm tra thời gian đường và qua sông trước khi chốt lịch một ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Mỹ Tho–Bến Tre</strong> thích hợp cho thuyền sông Tiền, cù lao và bữa ăn miệt vườn. <strong>Sa Đéc</strong> phù hợp người thích hoa, ảnh và văn hóa địa phương. <strong>Trà Vinh–Cồn Chim</strong> thiên về trải nghiệm cộng đồng, nhưng cần kiểm tra thời gian đường và qua sông trước khi chốt lịch một ngày.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Giữ buổi tham quan đủ thoải mái"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ buổi tham quan đủ thoải mái</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên ưu tiên một cụm thay vì thêm nhiều điểm xa nhau. Sau bữa trưa, bố trí khoảng nghỉ và một hoạt động nhẹ trước khi về. Đoàn có người lớn tuổi hoặc học sinh cần thời gian lên xuống xe–thuyền, nhà vệ sinh và kiểm đếm, không nên dùng lịch của nhóm ít người làm chuẩn cho đoàn đông."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên ưu tiên một cụm thay vì thêm nhiều điểm xa nhau. Sau bữa trưa, bố trí khoảng nghỉ và một hoạt động nhẹ trước khi về. Đoàn có người lớn tuổi hoặc học sinh cần thời gian lên xuống xe–thuyền, nhà vệ sinh và kiểm đếm, không nên dùng lịch của nhóm ít người làm chuẩn cho đoàn đông.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt phần dịch vụ trong ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phần dịch vụ trong ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá cần ghi số bữa, vé, thuyền, hoạt động, nước uống và điểm trả khách. Nếu có trò chơi gắn kết, dành khung riêng và hỏi phương án mưa. Không ghép thêm Cần Thơ hoặc Cà Mau vào lịch một ngày chỉ để tăng số địa danh; chuyến đi cần phù hợp sức và thời gian thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá cần ghi số bữa, vé, thuyền, hoạt động, nước uống và điểm trả khách. Nếu có trò chơi gắn kết, dành khung riêng và hỏi phương án mưa. Không ghép thêm Cần Thơ hoặc Cà Mau vào lịch một ngày chỉ để tăng số địa danh; chuyến đi cần phù hợp sức và thời gian thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể xuất phát muộn để đi Miền Tây một ngày không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể xuất phát muộn để đi Miền Tây một ngày không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể điều chỉnh với đoàn riêng, nhưng khi xuất phát muộn cần rút tuyến hoặc bớt điểm. Giờ cụ thể phải tính từ địa chỉ đón và tình hình dịch vụ ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể điều chỉnh với đoàn riêng, nhưng khi xuất phát muộn cần rút tuyến hoặc bớt điểm. Giờ cụ thể phải tính từ địa chỉ đón và tình hình dịch vụ ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây 1 ngày? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour miền Tây 1 ngày? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-sa-dec/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Sa Đéc: chọn làng hoa, văn hóa và vườn Lai Vung theo mùa</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-sa-dec/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Sa Đéc: chọn làng hoa, văn hóa và vườn Lai Vung theo mùa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-tra-vinh/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Trà Vinh–Cồn Chim: chọn trải nghiệm văn hóa và cộng đồng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tra-vinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Trà Vinh–Cồn Chim: chọn trải nghiệm văn hóa và cộng đồng</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Làng hoa Sa Đéc 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-lang-hoa-sa-dec-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Làng hoa Sa Đéc 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tra-vinh-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Trà Vinh – Cồn Chim 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tra-vinh-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Trà Vinh – Cồn Chim 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
