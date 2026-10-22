@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Trải nghiệm trà có thể làm hành trình Bảo Lộc thêm khác biệt. Để chuyến đi có giá trị hơn một lần chụp ảnh, hãy xác định đoàn muốn ngắm cảnh, thưởng thức trà hay tìm hiểu cách làm sản phẩm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trải nghiệm trà có thể làm hành trình Bảo Lộc thêm khác biệt. Để chuyến đi có giá trị hơn một lần chụp ảnh, hãy xác định đoàn muốn ngắm cảnh, thưởng thức trà hay tìm hiểu cách làm sản phẩm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ba nhu cầu dẫn tới ba cách đặt dịch vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ba nhu cầu dẫn tới ba cách đặt dịch vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngắm đồi chè cần điểm tiếp cận và vị trí chụp ảnh được phép. Thưởng thức trà cần chỗ ngồi, thời lượng và nội dung giới thiệu. Tìm hiểu sản xuất cần cơ sở nhận tham quan cùng người hướng dẫn phù hợp. Một nơi có bán trà không có nghĩa mở cửa cho khách vào khu sản xuất. Người phụ trách nên nói rõ mục tiêu để TodayTourist hỏi đúng phần dịch vụ, thay vì chỉ ghi “tham quan đồi chè” trong lịch rồi phát sinh kỳ vọng khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngắm đồi chè cần điểm tiếp cận và vị trí chụp ảnh được phép. Thưởng thức trà cần chỗ ngồi, thời lượng và nội dung giới thiệu. Tìm hiểu sản xuất cần cơ sở nhận tham quan cùng người hướng dẫn phù hợp. Một nơi có bán trà không có nghĩa mở cửa cho khách vào khu sản xuất. Người phụ trách nên nói rõ mục tiêu để TodayTourist hỏi đúng phần dịch vụ, thay vì chỉ ghi “tham quan đồi chè” trong lịch rồi phát sinh kỳ vọng khác nhau.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214873056-0.jpg",
-      "alt": "Du lịch trà Bảo Lộc: chọn điểm đồi chè và trải nghiệm cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214873056-0.jpg\" alt=\"Du lịch trà Bảo Lộc: chọn điểm đồi chè và trải nghiệm cho đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đoàn nhiều xe cần kiểm tra đường vào và sức chứa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn nhiều xe cần kiểm tra đường vào và sức chứa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các điểm chụp ảnh hoặc quán nhỏ có thể không phù hợp cho cả đoàn đông đến một lần. Cần hỏi xe 45 chỗ dừng ở đâu, khách đi bộ bao xa và khu vực nào được sử dụng. Nếu phải chia lượt thưởng thức trà, nhóm còn lại cần hoạt động hoặc nơi nghỉ phù hợp. Không đi vào vùng canh tác, hái lá hoặc xếp đạo cụ chụp hình khi chưa được nơi quản lý đồng ý. Đặt dịch vụ trước giúp phần trải nghiệm có thời lượng rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các điểm chụp ảnh hoặc quán nhỏ có thể không phù hợp cho cả đoàn đông đến một lần. Cần hỏi xe 45 chỗ dừng ở đâu, khách đi bộ bao xa và khu vực nào được sử dụng. Nếu phải chia lượt thưởng thức trà, nhóm còn lại cần hoạt động hoặc nơi nghỉ phù hợp. Không đi vào vùng canh tác, hái lá hoặc xếp đạo cụ chụp hình khi chưa được nơi quản lý đồng ý. Đặt dịch vụ trước giúp phần trải nghiệm có thời lượng rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép trà với lịch nghỉ, không để thành một điểm chạy qua"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép trà với lịch nghỉ, không để thành một điểm chạy qua</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trong tour 2N1Đ, một buổi thưởng trà có thể phù hợp trước giờ nhận phòng hoặc sau khi khách đã nghỉ, tùy tuyến thực tế. Với học sinh, có thể bổ sung phiếu tìm hiểu sản phẩm; với công ty, ưu tiên không gian trò chuyện và thư giãn. Đồ uống, phần hướng dẫn và mua sản phẩm cần được phân biệt trong báo giá. TodayTourist thiết kế phần trải nghiệm sau khi xác nhận cơ sở còn nhận đoàn, không hứa đồi chè nào cũng cho vào chụp ảnh miễn phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trong tour 2N1Đ, một buổi thưởng trà có thể phù hợp trước giờ nhận phòng hoặc sau khi khách đã nghỉ, tùy tuyến thực tế. Với học sinh, có thể bổ sung phiếu tìm hiểu sản phẩm; với công ty, ưu tiên không gian trò chuyện và thư giãn. Đồ uống, phần hướng dẫn và mua sản phẩm cần được phân biệt trong báo giá. TodayTourist thiết kế phần trải nghiệm sau khi xác nhận cơ sở còn nhận đoàn, không hứa đồi chè nào cũng cho vào chụp ảnh miễn phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có được hái chè hoặc vào nhà máy không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có được hái chè hoặc vào nhà máy không?</span>"
     },
     {
       "type": "p",
-      "text": "Chỉ khi cơ sở xác nhận có dịch vụ phù hợp. Cần đặt trước nội dung, thời gian, số người và quy định tham gia; không mặc định theo tên điểm đến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ khi cơ sở xác nhận có dịch vụ phù hợp. Cần đặt trước nội dung, thời gian, số người và quy định tham gia; không mặc định theo tên điểm đến.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Chùa Trà, Tu viện Bát Nhã Bảo Lộc: ghép tham quan hay hành hương",
-        "Bảo Lộc, Nam Cát Tiên ăn gì: đặt thực đơn hợp khách đoàn",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chua-tra-tu-vien-bat-nha-bao-loc-ghep-tham-quan-hay-hanh-huong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chùa Trà, Tu viện Bát Nhã Bảo Lộc: ghép tham quan hay hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bao-loc-nam-cat-tien-an-gi-dat-thuc-don-hop-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bảo Lộc, Nam Cát Tiên ăn gì: đặt thực đơn hợp khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
