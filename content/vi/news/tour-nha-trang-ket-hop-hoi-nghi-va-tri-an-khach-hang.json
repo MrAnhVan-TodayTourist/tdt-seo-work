@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour hội nghị tại Nha Trang cần đảm bảo phần công việc diễn ra thuận lợi rồi mới kết hợp tham quan và nghỉ dưỡng. Đoàn doanh nghiệp nên chốt nội dung họp, thành phần khách và yêu cầu kỹ thuật trước khi chọn nơi lưu trú hoặc lịch vui chơi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour hội nghị tại Nha Trang cần đảm bảo phần công việc diễn ra thuận lợi rồi mới kết hợp tham quan và nghỉ dưỡng. Đoàn doanh nghiệp nên chốt nội dung họp, thành phần khách và yêu cầu kỹ thuật trước khi chọn nơi lưu trú hoặc lịch vui chơi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt phòng họp với phòng tiệc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt phòng họp với phòng tiệc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cách xếp lớp học, chữ U hoặc rạp hát tạo sức chứa khác nhau. Hỏi diện tích sử dụng, màn hình, âm thanh, micro, mạng, điều hòa và khu đón tiếp. Phòng Gala phù hợp bàn tròn chưa chắc thuận tiện ghi chép hoặc trình chiếu. Không lấy sức chứa quảng bá chung làm xác nhận cho cách bố trí cụ thể của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cách xếp lớp học, chữ U hoặc rạp hát tạo sức chứa khác nhau. Hỏi diện tích sử dụng, màn hình, âm thanh, micro, mạng, điều hòa và khu đón tiếp. Phòng Gala phù hợp bàn tròn chưa chắc thuận tiện ghi chép hoặc trình chiếu. Không lấy sức chứa quảng bá chung làm xác nhận cho cách bố trí cụ thể của đoàn.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Lập lịch theo phần công việc bắt buộc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lập lịch theo phần công việc bắt buộc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giữ buổi họp chính vào thời điểm khách đã nghỉ sau di chuyển. Hạn chế đặt tour đảo trước giờ họp vì việc tập kết và điều kiện biển có thể ảnh hưởng lịch. Đoàn có khách mời chỉ dự một phần cần phương án đón, ăn uống và tiễn riêng; không mặc định họ theo toàn bộ tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giữ buổi họp chính vào thời điểm khách đã nghỉ sau di chuyển. Hạn chế đặt tour đảo trước giờ họp vì việc tập kết và điều kiện biển có thể ảnh hưởng lịch. Đoàn có khách mời chỉ dự một phần cần phương án đón, ăn uống và tiễn riêng; không mặc định họ theo toàn bộ tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị nhận diện và danh sách khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị nhận diện và danh sách khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất backdrop, biển chỉ dẫn, tên chương trình, sơ đồ ngồi và danh sách phát biểu. File trình chiếu cần được kiểm tra với thiết bị của địa điểm. Nếu có phiên dịch, kết nối trực tuyến hoặc trình diễn sản phẩm, ghi yêu cầu rõ trong đề xuất để kiểm tra khả năng đáp ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất backdrop, biển chỉ dẫn, tên chương trình, sơ đồ ngồi và danh sách phát biểu. File trình chiếu cần được kiểm tra với thiết bị của địa điểm. Nếu có phiên dịch, kết nối trực tuyến hoặc trình diễn sản phẩm, ghi yêu cầu rõ trong đề xuất để kiểm tra khả năng đáp ứng.</span>"
     },
     {
       "type": "h2",
-      "text": "Dự trù hậu cần ngoài phòng họp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dự trù hậu cần ngoài phòng họp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Teabreak, bữa ăn, khu chờ, chỗ xe và nơi chuẩn bị cho ekip đều cần được tính. Với chương trình tri ân, làm rõ quà tặng và phần giao nhận; với hội nghị tổng kết, tách vinh danh khỏi các nội dung trao đổi cần tập trung. TodayTourist tư vấn chương trình kết hợp hội nghị, nghỉ dưỡng và Gala theo nhu cầu doanh nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Teabreak, bữa ăn, khu chờ, chỗ xe và nơi chuẩn bị cho ekip đều cần được tính. Với chương trình tri ân, làm rõ quà tặng và phần giao nhận; với hội nghị tổng kết, tách vinh danh khỏi các nội dung trao đổi cần tập trung. TodayTourist tư vấn chương trình kết hợp hội nghị, nghỉ dưỡng và Gala theo nhu cầu doanh nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể tổ chức hội nghị ngay tại khách sạn không? Phải kiểm tra phòng chức năng và lịch trống. Khách mời không đi tour có thể tham gia riêng Gala? Cần thống nhất số lượng và dịch vụ riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể tổ chức hội nghị ngay tại khách sạn không? Phải kiểm tra phòng chức năng và lịch trống. Khách mời không đi tour có thể tham gia riêng Gala? Cần thống nhất số lượng và dịch vụ riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nha Trang cho học sinh, sinh viên: trải nghiệm biển và văn hóa",
-        "Tour Nha Trang cho cơ quan, đoàn thể và tập thể giáo viên",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-cho-hoc-sinh-sinh-vien-trai-nghiem-bien-va-van-hoa/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang cho học sinh, sinh viên: trải nghiệm biển và văn hóa</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-cho-co-quan-doan-the-va-tap-the-giao-vien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang cho cơ quan, đoàn thể và tập thể giáo viên</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
