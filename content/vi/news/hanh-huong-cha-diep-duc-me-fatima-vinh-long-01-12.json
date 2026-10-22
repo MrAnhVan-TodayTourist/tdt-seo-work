@@ -8,46 +8,49 @@
   "published_at": "2026-01-12",
   "content": [
     {
-      "type": "p",
-      "text": "(20h tối 11/01 – 12/01/2026)"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">(20h tối 11/01 – 12/01/2026)</span></p></blockquote>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12-2.jpg",
-      "alt": "HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG"
-    },
-    {
-      "type": "p",
-      "text": "Chuyến hành hương vừa qua đã diễn ra trong không khí trang nghiêm, ấm áp và đầy ý nghĩa, mang lại những giây phút lắng đọng, bình an cho mỗi người tham dự."
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12-2.jpg\" alt=\"HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG\"></figure>"
     },
     {
       "type": "p",
-      "text": "TodayTourist trân trọng cảm ơn Quý khách – Nhà thờ Giáo xứ Hiền Phước (Long Thành, Đồng Nai) đã tin tưởng và đồng hành cùng chúng tôi trong hành trình đức tin này."
-    },
-    {
-      "type": "img",
-      "src": "/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12-3.jpg",
-      "alt": "HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG"
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến hành hương vừa qua đã diễn ra trong không khí trang nghiêm, ấm áp và đầy ý nghĩa, mang lại những giây phút lắng đọng, bình an cho mỗi người tham dự.</span>"
     },
     {
       "type": "p",
-      "text": "Sự tin yêu của Quý Giáo xứ là động lực để TodayTourist luôn phục vụ tận tâm và chỉn chu hơn mỗi ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist trân trọng cảm ơn Quý khách – Nhà thờ Giáo xứ Hiền Phước (Long Thành, Đồng Nai) đã tin tưởng và đồng hành cùng chúng tôi trong hành trình đức tin này.</span>"
+    },
+    {
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/news/hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12-3.jpg\" alt=\"HÀNH HƯƠNG CHA DIỆP – ĐỨC MẸ FATIMA VĨNH LONG\"></figure>"
     },
     {
       "type": "p",
-      "text": "Kính chúc Quý Cha, Quý chức và cộng đoàn luôn mạnh khỏe, nhiều ơn lành và bình an."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sự tin yêu của Quý Giáo xứ là động lực để TodayTourist luôn phục vụ tận tâm và chỉn chu hơn mỗi ngày.</span>"
     },
     {
       "type": "p",
-      "text": "Hẹn gặp lại Quý khách trong những chuyến hành hương sắp tới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kính chúc Quý Cha, Quý chức và cộng đoàn luôn mạnh khỏe, nhiều ơn lành và bình an.</span>"
     },
     {
       "type": "p",
-      "text": "Tour Cha Diệp – Đức Mẹ Fatima Vĩnh Long: khởi hành hàng tuần"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hẹn gặp lại Quý khách trong những chuyến hành hương sắp tới.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-01-12."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Cha Diệp – Đức Mẹ Fatima Vĩnh Long: khởi hành hàng tuần</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-01-12.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
-  ]
+  ],
+  "hidden": false
 }
