@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Trong Gala vinh danh, người được ghi nhận cần là trọng tâm. Doanh nghiệp nên chuẩn bị danh sách, nội dung giới thiệu và cách trao thưởng rõ ràng, để phần ghi nhận diễn ra chỉn chu mà không làm gián đoạn quá lâu việc dùng tiệc của khách."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trong Gala vinh danh, người được ghi nhận cần là trọng tâm. Doanh nghiệp nên chuẩn bị danh sách, nội dung giới thiệu và cách trao thưởng rõ ràng, để phần ghi nhận diễn ra chỉn chu mà không làm gián đoạn quá lâu việc dùng tiệc của khách.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Khóa thông tin người nhận và nội dung ghi nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khóa thông tin người nhận và nội dung ghi nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Danh sách cần đúng họ tên, chức danh, bộ phận và hạng mục được trao. Nếu có người vắng mặt, nên thống nhất cách xử lý trước. Cúp, bằng, quà hoặc file trình chiếu phải cùng thông tin đã duyệt. Người phụ trách nên cung cấp cách đọc tên và nội dung giới thiệu quan trọng cho MC. Không sử dụng danh sách tạm từ nhiều bộ phận mà chưa có đầu mối xác nhận cuối, vì sửa vào sát giờ dễ gây nhầm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Danh sách cần đúng họ tên, chức danh, bộ phận và hạng mục được trao. Nếu có người vắng mặt, nên thống nhất cách xử lý trước. Cúp, bằng, quà hoặc file trình chiếu phải cùng thông tin đã duyệt. Người phụ trách nên cung cấp cách đọc tên và nội dung giới thiệu quan trọng cho MC. Không sử dụng danh sách tạm từ nhiều bộ phận mà chưa có đầu mối xác nhận cuối, vì sửa vào sát giờ dễ gây nhầm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213232076-0.jpg",
-      "alt": "Gala vinh danh nhân viên: chuẩn bị danh sách và phần trao thưởng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213232076-0.jpg\" alt=\"Gala vinh danh nhân viên: chuẩn bị danh sách và phần trao thưởng\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn cách trao phù hợp số lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn cách trao phù hợp số lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao theo từng hạng mục hoặc nhóm nếu mục tiêu và số người phù hợp. Cần tính lối lên, vị trí đứng, người trao và phần chụp ảnh. Danh sách nhiều người nên có cách sắp xếp giúp khách theo dõi, tránh để người nhận chờ mà chưa biết lượt. Sân khấu và khu vực tập trung phải được xác nhận theo bố trí thực tế. Không đưa quá nhiều người lên cùng lúc chỉ để rút ngắn thời gian trên kịch bản."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao theo từng hạng mục hoặc nhóm nếu mục tiêu và số người phù hợp. Cần tính lối lên, vị trí đứng, người trao và phần chụp ảnh. Danh sách nhiều người nên có cách sắp xếp giúp khách theo dõi, tránh để người nhận chờ mà chưa biết lượt. Sân khấu và khu vực tập trung phải được xác nhận theo bố trí thực tế. Không đưa quá nhiều người lên cùng lúc chỉ để rút ngắn thời gian trên kịch bản.</span>"
     },
     {
       "type": "h2",
-      "text": "Liên kết vinh danh với nhịp của đêm tiệc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Liên kết vinh danh với nhịp của đêm tiệc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phần trao thưởng nên có khung thời gian riêng và được phối hợp với nhà hàng, âm thanh, trình chiếu nếu dùng. Sau những phần trang trọng có thể bố trí giao lưu theo mục tiêu. Báo giá cần phân biệt tổ chức chương trình với cúp, quà và sản phẩm hình ảnh nếu có. TodayTourist tư vấn kịch bản trên cơ sở danh sách và nội dung doanh nghiệp duyệt; không tự tạo thành tích, danh hiệu hoặc tên khách hàng để làm bài quảng bá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phần trao thưởng nên có khung thời gian riêng và được phối hợp với nhà hàng, âm thanh, trình chiếu nếu dùng. Sau những phần trang trọng có thể bố trí giao lưu theo mục tiêu. Báo giá cần phân biệt tổ chức chương trình với cúp, quà và sản phẩm hình ảnh nếu có. TodayTourist tư vấn kịch bản trên cơ sở danh sách và nội dung doanh nghiệp duyệt; không tự tạo thành tích, danh hiệu hoặc tên khách hàng để làm bài quảng bá.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý các bước chuẩn bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý các bước chuẩn bị</span></strong>"
     },
     {
       "type": "list",
@@ -55,59 +54,63 @@
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần từng người nhận thưởng phát biểu không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần từng người nhận thưởng phát biểu không?</span>"
     },
     {
       "type": "p",
-      "text": "Không bắt buộc. Doanh nghiệp có thể chọn đại diện hoặc lời chia sẻ ngắn theo mục tiêu và thời lượng; nên thống nhất từ trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không bắt buộc. Doanh nghiệp có thể chọn đại diện hoặc lời chia sẻ ngắn theo mục tiêu và thời lượng; nên thống nhất từ trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu",
-        "Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp",
-        "Kỷ niệm thành lập công ty: xây dựng chương trình phù hợp"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/kich-ban-gala-dinner-sap-xep-phat-bieu-dung-tiec-va-giao-luu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-gala-dinner-chon-tiec-va-noi-dung-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ky-niem-thanh-lap-cong-ty-xay-dung-chuong-trinh-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kỷ niệm thành lập công ty: xây dựng chương trình phù hợp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
