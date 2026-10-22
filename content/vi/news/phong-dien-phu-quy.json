@@ -3,21 +3,21 @@
   "title": "Phong điện và làng chài Phú Quý: trải nghiệm ngoài các bãi biển",
   "category": "Tour Phú Quý – Tư vấn đoàn",
   "image": "phu-quy-phong-dien-phu-quy.jpg",
-  "summary": "Phong điện và làng chài Phú Quý. Tư vấn tour cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Ngoài biển, nhiều khách muốn chụp ảnh phong điện và tìm hiểu nhịp sống làng chài Phú Quý.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Ngoài biển, nhiều khách muốn chụp ảnh phong điện và tìm hiểu nhịp sống làng chài Phú Quý. Hai nhu cầu này có thể kết hợp trong lịch tham quan, nhưng cần tôn trọng khu vực vận hành và không gian sinh hoạt của cư dân."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ngoài biển, nhiều khách muốn chụp ảnh phong điện và tìm hiểu nhịp sống làng chài Phú Quý. Hai nhu cầu này có thể kết hợp trong lịch tham quan, nhưng cần tôn trọng khu vực vận hành và không gian sinh hoạt của cư dân.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chụp phong điện từ khu vực được tiếp cận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chụp phong điện từ khu vực được tiếp cận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy chọn góc nhìn phù hợp theo hướng dẫn tại điểm, tránh vào khu kỹ thuật hoặc vượt rào. Không giới thiệu việc đi sát chân tua-bin như một quyền lợi mặc định của tour. Nếu cần ảnh đoàn, ưu tiên nơi có đủ khoảng đứng, không cản xe và không ảnh hưởng hoạt động tại khu vực."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy chọn góc nhìn phù hợp theo hướng dẫn tại điểm, tránh vào khu kỹ thuật hoặc vượt rào. Không giới thiệu việc đi sát chân tua-bin như một quyền lợi mặc định của tour. Nếu cần ảnh đoàn, ưu tiên nơi có đủ khoảng đứng, không cản xe và không ảnh hưởng hoạt động tại khu vực.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Làng chài nên được khám phá có chừng mực"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làng chài nên được khám phá có chừng mực</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có thể quan sát cảnh sinh hoạt và dừng ở nơi được hướng dẫn. Xin phép trước khi chụp cận người dân, nhà riêng hoặc công việc của họ. Một chuyến tham quan không tự động bao gồm lên thuyền, vào cơ sở chế biến hay được trải nghiệm đánh bắt; từng phần phải hỏi riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có thể quan sát cảnh sinh hoạt và dừng ở nơi được hướng dẫn. Xin phép trước khi chụp cận người dân, nhà riêng hoặc công việc của họ. Một chuyến tham quan không tự động bao gồm lên thuyền, vào cơ sở chế biến hay được trải nghiệm đánh bắt; từng phần phải hỏi riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết hợp với lịch ăn và nghỉ của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp với lịch ăn và nghỉ của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không nên chen nhiều điểm nhỏ làm đoàn lên xuống phương tiện liên tục. Chọn một góc ảnh phong điện và một khoảng khám phá đời sống địa phương đủ chất lượng. Nếu có mua hải sản hoặc quà, hỏi cách bảo quản và thời gian vận chuyển về; đừng coi mọi sản phẩm mua tại làng chài đều phù hợp mang theo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên chen nhiều điểm nhỏ làm đoàn lên xuống phương tiện liên tục. Chọn một góc ảnh phong điện và một khoảng khám phá đời sống địa phương đủ chất lượng. Nếu có mua hải sản hoặc quà, hỏi cách bảo quản và thời gian vận chuyển về; đừng coi mọi sản phẩm mua tại làng chài đều phù hợp mang theo.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tour có chắc được vào khu phong điện không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tour có chắc được vào khu phong điện không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần phân biệt ngắm và chụp ảnh từ khu vực cho phép với vào khu vận hành. Chương trình cần xác nhận cách tiếp cận thực tế; không cam kết quyền vào khu kỹ thuật."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần phân biệt ngắm và chụp ảnh từ khu vực cho phép với vào khu vận hành. Chương trình cần xác nhận cách tiếp cận thực tế; không cam kết quyền vào khu kỹ thuật.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn tour Phú Quý cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn tour Phú Quý cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Cao Cát và chùa Linh Sơn: chọn phần văn hóa trong tour Phú Quý",
-        "Hải đăng Phú Quý và Núi Cấm: kiểm tra lối đi trước khi tham quan",
-        "Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nui-cao-cat-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Cao Cát và chùa Linh Sơn: chọn phần văn hóa trong tour Phú Quý</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hai-dang-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hải đăng Phú Quý và Núi Cấm: kiểm tra lối đi trước khi tham quan</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
