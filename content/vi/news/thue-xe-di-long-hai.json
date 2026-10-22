@@ -8,61 +8,60 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Long Hải gần Biên Hòa, phù hợp cho gia đình, công ty và nhóm bạn muốn đi biển nhanh gọn mà không cần chạy quá xa.</strong> TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Long Hải gần Biên Hòa, phù hợp cho gia đình, công ty và nhóm bạn muốn đi biển nhanh gọn mà không cần chạy quá xa.</strong> TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi Long Hải?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi Long Hải?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Long Hải: biển gần Biên Hòa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Long Hải: biển gần Biên Hòa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Long Hải cách TP.HCM khoảng 100 km và nằm cách Vũng Tàu khoảng 25 km về phía đông bắc. Khu vực này nay thuộc TP.HCM sau sáp nhập hành chính nhưng vẫn thường được gọi là Long Hải – Vũng Tàu. Từ Biên Hòa, Đồng Nai, quãng đường khoảng 90–100 km, đi 2–2,5 tiếng. Đoàn thường đi trong ngày hoặc 2 ngày 1 đêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Long Hải cách TP.HCM khoảng 100 km và nằm cách Vũng Tàu khoảng 25 km về phía đông bắc. Khu vực này nay thuộc TP.HCM sau sáp nhập hành chính nhưng vẫn thường được gọi là Long Hải – Vũng Tàu. Từ Biên Hòa, Đồng Nai, quãng đường khoảng 90–100 km, đi 2–2,5 tiếng. Đoàn thường đi trong ngày hoặc 2 ngày 1 đêm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203724985-0.jpg",
-      "alt": "Thuê xe đi Long Hải từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203724985-0.jpg\" alt=\"Thuê xe đi Long Hải từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đi trong ngày hay ở lại một đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi trong ngày hay ở lại một đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi trong ngày cần xuất phát sớm để có đủ thời gian tắm biển, ăn trưa và về trước giờ đông xe. Nếu muốn thong thả, hãy ở lại một đêm để ăn hải sản buổi tối và dạo biển sáng hôm sau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi trong ngày cần xuất phát sớm để có đủ thời gian tắm biển, ăn trưa và về trước giờ đông xe. Nếu muốn thong thả, hãy ở lại một đêm để ăn hải sản buổi tối và dạo biển sáng hôm sau.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết hợp tâm linh, tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp tâm linh, tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Dinh Cô, khu mộ Cô ở Hòn Hang và các điểm tâm linh khác nằm trong khu vực; đoàn công ty có thể kết hợp team building trên bãi biển hoặc trong resort."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dinh Cô, khu mộ Cô ở Hòn Hang và các điểm tâm linh khác nằm trong khu vực; đoàn công ty có thể kết hợp team building trên bãi biển hoặc trong resort.</span>"
     },
     {
       "type": "h2",
-      "text": "Cuối tuần và dịp lễ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cuối tuần và dịp lễ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đường về biển cuối tuần thường đông, đoạn về Biên Hòa, TP.HCM chiều Chủ nhật dễ kẹt. Hãy rời sớm hơn dự kiến khoảng một giờ, đặt trước nhà hàng và chỗ nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đường về biển cuối tuần thường đông, đoạn về Biên Hòa, TP.HCM chiều Chủ nhật dễ kẹt. Hãy rời sớm hơn dự kiến khoảng một giờ, đặt trước nhà hàng và chỗ nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe và an toàn khi tắm biển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và an toàn khi tắm biển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm 7–13 người xe 16 chỗ; đoàn 25–35 xe 29–35 chỗ; đoàn đông xe 45 chỗ. Tắm ở khu có người cứu hộ, tránh xuống nước khi biển động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm 7–13 người xe 16 chỗ; đoàn 25–35 xe 29–35 chỗ; đoàn đông xe 45 chỗ. Tắm ở khu có người cứu hộ, tránh xuống nước khi biển động.</span>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình mẫu đi Long Hải trong ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình mẫu đi Long Hải trong ngày</span></strong>"
     },
     {
       "type": "list",
@@ -76,67 +75,67 @@
     },
     {
       "type": "h2",
-      "text": "Những lưu ý giúp chuyến Long Hải trọn vẹn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những lưu ý giúp chuyến Long Hải trọn vẹn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cuối tuần và dịp lễ, đường ven biển thường đông, nên khởi hành sớm. Đoàn có trẻ em cần chú ý an toàn khi tắm biển, luôn có người lớn đi cùng. Chuẩn bị đồ thay, túi đựng đồ ướt, kem chống nắng và nước uống để đoàn thoải mái suốt ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cuối tuần và dịp lễ, đường ven biển thường đông, nên khởi hành sớm. Đoàn có trẻ em cần chú ý an toàn khi tắm biển, luôn có người lớn đi cùng. Chuẩn bị đồ thay, túi đựng đồ ướt, kem chống nắng và nước uống để đoàn thoải mái suốt ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Ăn uống và mua quà khi đi Long Hải"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ăn uống và mua quà khi đi Long Hải</span></strong>"
     },
     {
       "type": "p",
-      "text": "Long Hải nổi tiếng với hải sản, cá khô, mực khô và các món ăn dân dã ven biển. Hãy hỏi giá trước khi gọi món, ưu tiên quán đã được nhà xe hoặc người quen giới thiệu. Mua quà vào cuối buổi để dễ bảo quản và báo trước tài xế để sắp xếp khoang hành lý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Long Hải nổi tiếng với hải sản, cá khô, mực khô và các món ăn dân dã ven biển. Hãy hỏi giá trước khi gọi món, ưu tiên quán đã được nhà xe hoặc người quen giới thiệu. Mua quà vào cuối buổi để dễ bảo quản và báo trước tài xế để sắp xếp khoang hành lý.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Nhóm 10–15 người nên thuê xe nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nhóm 10–15 người nên thuê xe nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe 16 chỗ cho nhóm đến 12–13 người, trên đó nên chọn 29 chỗ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe 16 chỗ cho nhóm đến 12–13 người, trên đó nên chọn 29 chỗ.</span>"
     },
     {
       "type": "h3",
-      "text": "Long Hải cách Biên Hòa bao xa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Long Hải cách Biên Hòa bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 90–100 km."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 90–100 km.</span>"
     },
     {
       "type": "h3",
-      "text": "Có đi trong ngày được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có đi trong ngày được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Được nếu xuất phát sớm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Được nếu xuất phát sớm.</span>"
     },
     {
       "type": "h3",
-      "text": "Có thể kết hợp Dinh Cô không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể kết hợp Dinh Cô không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-ho-tram-ho-coc/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Hồ Tràm – Hồ Cốc</a> · <a href=\"/vi/tin-tuc/thue-xe-di-la-gi/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi La Gi</a> · <a href=\"/vi/tin-tuc/thue-xe-di-dinh-thay-thim-va-ta-cu-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Dinh Thầy Thím và Tà Cú theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-ho-tram-ho-coc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Hồ Tràm – Hồ Cốc</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-la-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi La Gi</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-dinh-thay-thim-va-ta-cu-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Dinh Thầy Thím và Tà Cú theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -145,6 +144,10 @@
         "Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức",
         "Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
