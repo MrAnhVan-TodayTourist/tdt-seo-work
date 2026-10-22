@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Ba ngày hai đêm cho đoàn công ty nhiều thời gian hơn để cân bằng nghỉ dưỡng và hoạt động tập thể. Lịch dưới đây là khung tham khảo; chương trình chi tiết sẽ được TodayTourist xác nhận theo từng đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ba ngày hai đêm cho đoàn công ty nhiều thời gian hơn để cân bằng nghỉ dưỡng và hoạt động tập thể. Lịch dưới đây là khung tham khảo; chương trình chi tiết sẽ được TodayTourist xác nhận theo từng đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ngày đầu nhận phòng và nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày đầu nhận phòng và nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày đầu nên nhẹ: di chuyển, ăn trưa, nhận phòng và có thời gian nghỉ. Buổi chiều có thể đi biển hoặc một hoạt động ngắn, buổi tối ăn nhẹ để đoàn lấy lại sức. Cách này tránh việc khách đến nơi đã phải tham gia chương trình dày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày đầu nên nhẹ: di chuyển, ăn trưa, nhận phòng và có thời gian nghỉ. Buổi chiều có thể đi biển hoặc một hoạt động ngắn, buổi tối ăn nhẹ để đoàn lấy lại sức. Cách này tránh việc khách đến nơi đã phải tham gia chương trình dày.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222219021-0.jpg",
-      "alt": "A vibrant sunset over the ocean in Vietnam, casting warm hues across t"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222219021-0.jpg\" alt=\"A vibrant sunset over the ocean in Vietnam, casting warm hues across t\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Ngày giữa tham quan, Team Building hoặc Gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày giữa tham quan, Team Building hoặc Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là ngày dành cho nội dung chính. Có thể tham quan buổi sáng, Team Building buổi chiều và Gala Dinner buổi tối, hoặc tách thành các ngày khác nhau nếu đoàn muốn thoải mái hơn. Cần xác nhận địa điểm, nhân sự điều phối và phương án khi trời mưa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là ngày dành cho nội dung chính. Có thể tham quan buổi sáng, Team Building buổi chiều và Gala Dinner buổi tối, hoặc tách thành các ngày khác nhau nếu đoàn muốn thoải mái hơn. Cần xác nhận địa điểm, nhân sự điều phối và phương án khi trời mưa.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày cuối trả phòng và về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày cuối trả phòng và về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày cuối nên có ăn sáng, trả phòng và thời gian mua đặc sản vừa phải. Cân nhắc giờ về để khách kịp nghỉ trước ngày làm việc kế tiếp. Nếu có chặng dừng trên đường, hãy tính thêm thời gian cho cả đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày cuối nên có ăn sáng, trả phòng và thời gian mua đặc sản vừa phải. Cân nhắc giờ về để khách kịp nghỉ trước ngày làm việc kế tiếp. Nếu có chặng dừng trên đường, hãy tính thêm thời gian cho cả đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý khi chốt chương trình 3N2Đ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý khi chốt chương trình 3N2Đ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là lịch tham khảo, chưa phải chương trình cố định cho mọi đoàn. Anh/chị gửi ngày đi, số khách và mục tiêu để TodayTourist bổ sung chương trình, nơi lưu trú và báo giá phù hợp trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là lịch tham khảo, chưa phải chương trình cố định cho mọi đoàn. Anh/chị gửi ngày đi, số khách và mục tiêu để TodayTourist bổ sung chương trình, nơi lưu trú và báo giá phù hợp trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "3 ngày 2 đêm có nhiều hơn 2 ngày 1 đêm bao nhiêu?"
+      "text": "<span style=\"font-size:16px;color:#374151\">3 ngày 2 đêm có nhiều hơn 2 ngày 1 đêm bao nhiêu?</span>"
     },
     {
       "type": "p",
-      "text": "Không chỉ nhiều hơn một ngày. Quan trọng là đoàn có thêm một đêm nghỉ và thời gian giãn nhịp, nhưng chi phí và thời gian nghỉ việc cũng tăng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không chỉ nhiều hơn một ngày. Quan trọng là đoàn có thêm một đêm nghỉ và thời gian giãn nhịp, nhưng chi phí và thời gian nghỉ việc cũng tăng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner",
-        "Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?",
-        "Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phan-thiet-1-ngay-2-ngay-1-dem-hay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-phan-thiet-mui-ne-cho-doan-cong-ty-nhu-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
