@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "BBQ hoặc lửa trại có thể tạo phần sinh hoạt tối gần gũi, nhưng không phải bãi biển hay resort nào cũng cho phép. Cần xác nhận điều kiện tổ chức trước khi đưa vào chương trình bán tour."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">BBQ hoặc lửa trại có thể tạo phần sinh hoạt tối gần gũi, nhưng không phải bãi biển hay resort nào cũng cho phép. Cần xác nhận điều kiện tổ chức trước khi đưa vào chương trình bán tour.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt tiệc BBQ với lửa trại"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt tiệc BBQ với lửa trại</span></strong>"
     },
     {
       "type": "p",
-      "text": "BBQ là hình thức bữa ăn, có thể do nhà hàng chế biến và phục vụ. Lửa trại là hoạt động riêng liên quan khu vực sử dụng, nhân sự và điều kiện an toàn. Không gộp hai nội dung thành một quyền lợi mặc định. Nếu địa điểm không cho dùng lửa, có thể chọn giao lưu, trò chơi nhẹ hoặc chương trình ánh sáng phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">BBQ là hình thức bữa ăn, có thể do nhà hàng chế biến và phục vụ. Lửa trại là hoạt động riêng liên quan khu vực sử dụng, nhân sự và điều kiện an toàn. Không gộp hai nội dung thành một quyền lợi mặc định. Nếu địa điểm không cho dùng lửa, có thể chọn giao lưu, trò chơi nhẹ hoặc chương trình ánh sáng phù hợp.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Hỏi nơi tổ chức trước khi xây kịch bản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi nơi tổ chức trước khi xây kịch bản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác nhận có được tổ chức ngoài trời không, khu vực nào, giờ bắt đầu và kết thúc, giới hạn âm thanh và người phụ trách. Phương án mưa cần nêu địa điểm thay thế và phần thực đơn hoặc hoạt động thay đổi. Không tự ý mang thiết bị, nhiên liệu hay đồ ăn vào khu nghỉ khi chưa được đồng ý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác nhận có được tổ chức ngoài trời không, khu vực nào, giờ bắt đầu và kết thúc, giới hạn âm thanh và người phụ trách. Phương án mưa cần nêu địa điểm thay thế và phần thực đơn hoặc hoạt động thay đổi. Không tự ý mang thiết bị, nhiên liệu hay đồ ăn vào khu nghỉ khi chưa được đồng ý.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt bữa ăn và sinh hoạt vừa sức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt bữa ăn và sinh hoạt vừa sức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi rõ món, lượng phục vụ, số khách mỗi bàn và đồ uống. Trẻ em hoặc người không ăn hải sản cần món thay thế. Sau ngày vận động, chương trình tối nên có thời gian nghỉ và kết thúc phù hợp. Báo giá cần tách bữa ăn, thuê khu, nhân sự và thiết bị để đoàn lựa chọn đúng ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi rõ món, lượng phục vụ, số khách mỗi bàn và đồ uống. Trẻ em hoặc người không ăn hải sản cần món thay thế. Sau ngày vận động, chương trình tối nên có thời gian nghỉ và kết thúc phù hợp. Báo giá cần tách bữa ăn, thuê khu, nhân sự và thiết bị để đoàn lựa chọn đúng ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour hai ngày có chắc được đốt lửa trại không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour hai ngày có chắc được đốt lửa trại không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Hoạt động phụ thuộc quy định và điều kiện của địa điểm theo ngày tổ chức; cần xác nhận bằng chương trình cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Hoạt động phụ thuộc quy định và điều kiện của địa điểm theo ngày tổ chức; cần xác nhận bằng chương trình cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-ho-tram-ho-coc-kiem-tra-mat-bang-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm",
         "Tour Long Hải – Phước Hải 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
