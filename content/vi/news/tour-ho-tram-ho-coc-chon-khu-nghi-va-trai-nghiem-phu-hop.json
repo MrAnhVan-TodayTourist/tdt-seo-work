@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tìm tour Hồ Tràm hoặc Hồ Cốc, nhiều khách ưu tiên nghỉ dưỡng và không gian sinh hoạt hơn số điểm tham quan. Vì vậy tên resort, quyền sử dụng tiện ích và thời gian ở lại cần được làm rõ ngay từ đầu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tìm tour Hồ Tràm hoặc Hồ Cốc, nhiều khách ưu tiên nghỉ dưỡng và không gian sinh hoạt hơn số điểm tham quan. Vì vậy tên resort, quyền sử dụng tiện ích và thời gian ở lại cần được làm rõ ngay từ đầu.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Không dùng hai tên biển thay cho địa chỉ cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không dùng hai tên biển thay cho địa chỉ cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hồ Tràm và Hồ Cốc là những tên điểm đến thường đi cùng trong chương trình, nhưng nơi nghỉ thực tế phải được ghi chính xác. Hỏi bãi biển trước cơ sở lưu trú hay phải đi xe, hồ bơi có được sử dụng không, nhà hàng nằm ở đâu. Không nên chọn bằng ảnh quảng cáo mà chưa biết ảnh đó thuộc khu nào."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hồ Tràm và Hồ Cốc là những tên điểm đến thường đi cùng trong chương trình, nhưng nơi nghỉ thực tế phải được ghi chính xác. Hỏi bãi biển trước cơ sở lưu trú hay phải đi xe, hồ bơi có được sử dụng không, nhà hàng nằm ở đâu. Không nên chọn bằng ảnh quảng cáo mà chưa biết ảnh đó thuộc khu nào.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn thời lượng theo hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thời lượng theo hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày phù hợp khi đoàn đặt khu dùng trong ngày và có mục tiêu rõ như giao lưu hoặc nghỉ biển. Hai ngày một đêm có thêm thời gian nhận phòng và ăn tối. Ba ngày hai đêm có thể dành cho nghỉ sâu hơn hoặc hội nghị. Đừng thêm Bình Châu vào mọi lịch nếu đoàn chủ yếu muốn sử dụng tiện ích resort."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày phù hợp khi đoàn đặt khu dùng trong ngày và có mục tiêu rõ như giao lưu hoặc nghỉ biển. Hai ngày một đêm có thêm thời gian nhận phòng và ăn tối. Ba ngày hai đêm có thể dành cho nghỉ sâu hơn hoặc hội nghị. Đừng thêm Bình Châu vào mọi lịch nếu đoàn chủ yếu muốn sử dụng tiện ích resort.</span>"
     },
     {
       "type": "h2",
-      "text": "Hỏi kỹ dịch vụ đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi kỹ dịch vụ đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn cần Team Building phải xác nhận mặt bằng và khung giờ; đoàn cần gala phải kiểm tra khu tiệc và âm thanh. Với gia đình, quan tâm loại giường, người ở tối đa và dịch vụ trẻ em. Giá phòng và quyền dùng tiện ích không phải lúc nào cũng trùng với gói đoàn; yêu cầu một bảng hạng mục rõ ràng trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn cần Team Building phải xác nhận mặt bằng và khung giờ; đoàn cần gala phải kiểm tra khu tiệc và âm thanh. Với gia đình, quan tâm loại giường, người ở tối đa và dịch vụ trẻ em. Giá phòng và quyền dùng tiện ích không phải lúc nào cũng trùng với gói đoàn; yêu cầu một bảng hạng mục rõ ràng trước khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Hồ Tràm có luôn bao gồm tắm khoáng Bình Châu không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Hồ Tràm có luôn bao gồm tắm khoáng Bình Châu không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Đây có thể là dịch vụ tự chọn hoặc gói riêng; cần xem báo giá và loại vé được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Đây có thể là dịch vụ tự chọn hoặc gói riêng; cần xem báo giá và loại vé được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?",
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Tour Bình Châu: chọn trải nghiệm khoáng nóng khi đi Hồ Tràm"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-1-ngay-can-dat-nhung-dich-vu-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-binh-chau-chon-trai-nghiem-khoang-nong-khi-di-ho-tram/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Châu: chọn trải nghiệm khoáng nóng khi đi Hồ Tràm</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
