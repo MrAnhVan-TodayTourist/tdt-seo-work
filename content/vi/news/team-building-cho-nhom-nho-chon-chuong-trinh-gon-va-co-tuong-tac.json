@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Nhóm nhỏ vẫn có thể tổ chức Team Building có mục tiêu và nội dung rõ ràng. Với khoảng 30 hoặc 50 người, nên thiết kế số đội, nhiệm vụ và cách dẫn vừa quy mô, thay vì thu nhỏ một kịch bản đông người nhưng giữ nguyên toàn bộ thiết bị."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Nhóm nhỏ vẫn có thể tổ chức Team Building có mục tiêu và nội dung rõ ràng. Với khoảng 30 hoặc 50 người, nên thiết kế số đội, nhiệm vụ và cách dẫn vừa quy mô, thay vì thu nhỏ một kịch bản đông người nhưng giữ nguyên toàn bộ thiết bị.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn số đội để mọi người có vai trò"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn số đội để mọi người có vai trò</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một nhóm nhỏ có thể cần ít đội hơn để từng nhiệm vụ không bị phân tán. Người tổ chức nên xem trong mỗi trò có bao nhiêu thành viên thực sự tham gia và những người còn lại làm gì. Hoạt động cần có thời gian giải thích, thực hiện và chia sẻ kết quả. Các mốc 30 hoặc 50 người chỉ là ví dụ lập phương án; số đội cuối cùng phụ thuộc kịch bản và số đăng ký, không phải công thức áp dụng cố định."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một nhóm nhỏ có thể cần ít đội hơn để từng nhiệm vụ không bị phân tán. Người tổ chức nên xem trong mỗi trò có bao nhiêu thành viên thực sự tham gia và những người còn lại làm gì. Hoạt động cần có thời gian giải thích, thực hiện và chia sẻ kết quả. Các mốc 30 hoặc 50 người chỉ là ví dụ lập phương án; số đội cuối cùng phụ thuộc kịch bản và số đăng ký, không phải công thức áp dụng cố định.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213201969-0.jpg",
-      "alt": "Team Building cho nhóm nhỏ: chọn chương trình gọn và có tương tác"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213201969-0.jpg\" alt=\"Team Building cho nhóm nhỏ: chọn chương trình gọn và có tương tác\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Ưu tiên nội dung trước thiết bị và trang trí"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ưu tiên nội dung trước thiết bị và trang trí</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu ngân sách hạn chế, có thể tập trung vào MC phù hợp, dụng cụ theo nhiệm vụ và phần điều phối cần thiết. Sân khấu lớn hoặc nhiều hạng mục trang trí có thể không phục vụ mục tiêu của nhóm. Tuy nhiên, đoàn ít người không có nghĩa chỉ cần một người dẫn là đủ mọi phần việc. Phạm vi nhân sự, âm thanh và chuẩn bị vẫn phải được xem theo địa điểm và chương trình cụ thể, không cắt đồng loạt theo số khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu ngân sách hạn chế, có thể tập trung vào MC phù hợp, dụng cụ theo nhiệm vụ và phần điều phối cần thiết. Sân khấu lớn hoặc nhiều hạng mục trang trí có thể không phục vụ mục tiêu của nhóm. Tuy nhiên, đoàn ít người không có nghĩa chỉ cần một người dẫn là đủ mọi phần việc. Phạm vi nhân sự, âm thanh và chuẩn bị vẫn phải được xem theo địa điểm và chương trình cụ thể, không cắt đồng loạt theo số khách.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh tổ chức riêng với kết hợp tour"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh tổ chức riêng với kết hợp tour</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm có thể chỉ đặt một buổi tại công ty hoặc ghép hoạt động trong chuyến đi nghỉ. Hai lựa chọn cần so sánh cả thời gian và chi phí vận chuyển, ăn uống, địa điểm. Báo giá nên phân biệt phần theo chương trình với phần theo người, vì giảm khách không chắc làm giảm mọi khoản. TodayTourist tư vấn theo mục tiêu và điều kiện thực tế để nhóm nhận phương án dễ theo, thay vì dùng giá của một đoàn lớn rồi chia lại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm có thể chỉ đặt một buổi tại công ty hoặc ghép hoạt động trong chuyến đi nghỉ. Hai lựa chọn cần so sánh cả thời gian và chi phí vận chuyển, ăn uống, địa điểm. Báo giá nên phân biệt phần theo chương trình với phần theo người, vì giảm khách không chắc làm giảm mọi khoản. TodayTourist tư vấn theo mục tiêu và điều kiện thực tế để nhóm nhận phương án dễ theo, thay vì dùng giá của một đoàn lớn rồi chia lại.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý chương trình gọn 90–120 phút"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý chương trình gọn 90–120 phút</span></strong>"
     },
     {
       "type": "list",
@@ -54,59 +53,63 @@
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm ít người có bắt buộc thuê sân khấu hoặc cổng phao không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm ít người có bắt buộc thuê sân khấu hoặc cổng phao không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Thiết bị và trang trí chọn theo mục tiêu, không gian và ngân sách. Chỉ đưa vào khi phục vụ chương trình và được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Thiết bị và trang trí chọn theo mục tiêu, không gian và ngân sách. Chỉ đưa vào khi phục vụ chương trình và được thống nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building ít vận động: để nhiều thành viên cùng tham gia",
-        "Team Building trong nhà: chọn hoạt động phù hợp hội trường",
-        "Team Building tại công ty: tổ chức trong khuôn viên cần chuẩn bị gì?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-it-van-dong-de-nhieu-thanh-vien-cung-tham-gia/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building ít vận động: để nhiều thành viên cùng tham gia</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-trong-nha-chon-hoat-dong-phu-hop-hoi-truong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building trong nhà: chọn hoạt động phù hợp hội trường</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-tai-cong-ty-to-chuc-trong-khuon-vien-can-chuan-bi-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building tại công ty: tổ chức trong khuôn viên cần chuẩn bị gì?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
