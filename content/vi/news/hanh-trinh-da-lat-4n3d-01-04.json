@@ -8,8 +8,8 @@
   "published_at": "2026-01-04",
   "content": [
     {
-      "type": "p",
-      "text": "Hành trình Đà Lạt 4 ngày 3 đêm vừa qua đã khép lại trọn vẹn,"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Hành trình Đà Lạt 4 ngày 3 đêm vừa qua đã khép lại trọn vẹn,</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "để lại thật nhiều kỷ niệm đẹp, tiếng cười và những khoảnh khắc ấm áp giữa cao nguyên."
+      "text": "<span style=\"font-size:16px;color:#374151\">để lại thật nhiều kỷ niệm đẹp, tiếng cười và những khoảnh khắc ấm áp giữa cao nguyên.</span>"
     },
     {
       "type": "p",
-      "text": "Today Tourist xin gửi lời cảm ơn chân thành đến Quý khách hàng, đặc biệt là 8 gia đình đã tin tưởng lựa chọn và đồng hành cùng chúng tôi trong chuyến đi này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Today Tourist xin gửi lời cảm ơn chân thành đến Quý khách hàng, đặc biệt là 8 gia đình đã tin tưởng lựa chọn và đồng hành cùng chúng tôi trong chuyến đi này.</span>"
     },
     {
       "type": "html",
@@ -29,31 +29,35 @@
     },
     {
       "type": "p",
-      "text": "Sự tin tưởng của Quý khách không chỉ là niềm vinh dự, mà còn là động lực để đội ngũ Today Tourist luôn nỗ lực chăm sóc từng chi tiết nhỏ nhất trong suốt hành trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sự tin tưởng của Quý khách không chỉ là niềm vinh dự, mà còn là động lực để đội ngũ Today Tourist luôn nỗ lực chăm sóc từng chi tiết nhỏ nhất trong suốt hành trình.</span>"
     },
     {
       "type": "p",
-      "text": "Mỗi chuyến đi là một cơ hội để chúng tôi được phục vụ, lắng nghe và hoàn thiện hơn mỗi ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi chuyến đi là một cơ hội để chúng tôi được phục vụ, lắng nghe và hoàn thiện hơn mỗi ngày.</span>"
     },
     {
       "type": "p",
-      "text": "Hy vọng rằng Đà Lạt 4N3Đ vừa qua không chỉ là một chuyến du lịch, mà còn là những ký ức đẹp để Quý khách nhớ về."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hy vọng rằng Đà Lạt 4N3Đ vừa qua không chỉ là một chuyến du lịch, mà còn là những ký ức đẹp để Quý khách nhớ về.</span>"
     },
     {
       "type": "p",
-      "text": "Kính chúc Quý khách và gia đình thật nhiều sức khỏe, niềm vui và bình an."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kính chúc Quý khách và gia đình thật nhiều sức khỏe, niềm vui và bình an.</span>"
     },
     {
       "type": "p",
-      "text": "Rất mong sẽ tiếp tục được đồng hành cùng Quý khách trong những hành trình sắp tới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Rất mong sẽ tiếp tục được đồng hành cùng Quý khách trong những hành trình sắp tới.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-01-04."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-01-04.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
