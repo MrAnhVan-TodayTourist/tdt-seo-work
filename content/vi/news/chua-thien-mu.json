@@ -3,106 +3,113 @@
   "title": "Chùa Thiên Mụ: tham quan văn hóa và cảnh sông Hương trong tour Huế",
   "category": "Tour Đà Nẵng – Hội An – Huế – Tư vấn đoàn",
   "image": "da-nang-chua-thien-mu.jpg",
-  "summary": "Chùa Thiên Mụ. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Chùa Thiên Mụ có thể kết hợp nhu cầu tìm hiểu văn hóa với ngắm cảnh trong chuyến Huế.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Chùa Thiên Mụ có thể kết hợp nhu cầu tìm hiểu văn hóa với ngắm cảnh trong chuyến Huế. Đoàn nên dành thời lượng phù hợp cho tham quan và việc tập trung, giữ nếp lịch sự tại không gian thờ tự."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chùa Thiên Mụ có thể kết hợp nhu cầu tìm hiểu văn hóa với ngắm cảnh trong chuyến Huế. Đoàn nên dành thời lượng phù hợp cho tham quan và việc tập trung, giữ nếp lịch sự tại không gian thờ tự.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định phần tham quan của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định phần tham quan của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách muốn viếng chùa có nhịp khác nhóm chủ yếu ngắm cảnh. Hỏi lối tiếp cận, thời gian và phạm vi được hướng dẫn. Không thêm nghi lễ hoặc lời hứa cầu nguyện có kết quả vào tour; phần giới thiệu lịch sử cần nguồn rõ thay vì kể truyền thuyết như sự thật."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách muốn viếng chùa có nhịp khác nhóm chủ yếu ngắm cảnh. Hỏi lối tiếp cận, thời gian và phạm vi được hướng dẫn. Không thêm nghi lễ hoặc lời hứa cầu nguyện có kết quả vào tour; phần giới thiệu lịch sử cần nguồn rõ thay vì kể truyền thuyết như sự thật.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792465987348-0.jpg",
-      "alt": "Đà Nẵng – Hội An – Huế – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792465987348-0.jpg\" alt=\"Đà Nẵng – Hội An – Huế – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tham quan và chụp ảnh phù hợp nơi thờ tự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham quan và chụp ảnh phù hợp nơi thờ tự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuẩn bị trang phục lịch sự, nói chuyện vừa đủ nghe và làm theo hướng dẫn. Ảnh tập thể nên chụp ở nơi được phép, không cản người hành lễ. Người cần nhịp nhẹ có thể chọn phần tham quan ngắn nếu có nơi nghỉ cùng đầu mối rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuẩn bị trang phục lịch sự, nói chuyện vừa đủ nghe và làm theo hướng dẫn. Ảnh tập thể nên chụp ở nơi được phép, không cản người hành lễ. Người cần nhịp nhẹ có thể chọn phần tham quan ngắn nếu có nơi nghỉ cùng đầu mối rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Không suy ra có thuyền từ cảnh sông"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không suy ra có thuyền từ cảnh sông</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngắm sông Hương tại điểm tham quan khác với dịch vụ thuyền hoặc chương trình trên sông. Nếu muốn thêm, phải xác nhận bến, thời lượng và chi phí. Lịch đoàn nên giữ khoảng ăn nghỉ và đường đến nơi ở, không ghép một hoạt động mới vào buổi đã kín."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngắm sông Hương tại điểm tham quan khác với dịch vụ thuyền hoặc chương trình trên sông. Nếu muốn thêm, phải xác nhận bến, thời lượng và chi phí. Lịch đoàn nên giữ khoảng ăn nghỉ và đường đến nơi ở, không ghép một hoạt động mới vào buổi đã kín.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tour ghé Thiên Mụ có phải tour hành hương chuyên biệt không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tour ghé Thiên Mụ có phải tour hành hương chuyên biệt không?</span>"
     },
     {
       "type": "p",
-      "text": "Không tự động. Nếu đoàn muốn hành hương, hãy nêu mục tiêu và các yêu cầu riêng để xây lịch phù hợp, thay vì chỉ thêm tên nhiều chùa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không tự động. Nếu đoàn muốn hành hương, hãy nêu mục tiêu và các yêu cầu riêng để xây lịch phù hợp, thay vì chỉ thêm tên nhiều chùa.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo Anh Văn: 0902 898 726</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo Mr Anh Văn: 0902 898 726</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đà Nẵng đi Huế qua Hải Vân–Lăng Cô: chốt tuyến xe và điểm dừng",
-        "Đà Nẵng–Hội An–Huế ăn gì: chọn thực đơn cho khách đoàn",
-        "Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/da-nang-di-hue/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đà Nẵng đi Huế qua Hải Vân–Lăng Cô: chốt tuyến xe và điểm dừng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/da-nang-an-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đà Nẵng–Hội An–Huế ăn gì: chọn thực đơn cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-nang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình để trao đổi với Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình để trao đổi với Mr Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
