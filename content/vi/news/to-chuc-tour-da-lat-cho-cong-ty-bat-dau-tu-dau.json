@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tổ chức tour Đà Lạt cho công ty không bắt đầu từ danh sách điểm check-in, mà từ mục tiêu chuyến đi. Đoàn cần nghỉ dưỡng, kết nối nhân sự, khen thưởng hay kết hợp tổng kết? Khi mục tiêu rõ, việc chọn lịch trình, nơi lưu trú và ngân sách sẽ dễ thống nhất hơn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tổ chức tour Đà Lạt cho công ty không bắt đầu từ danh sách điểm check-in, mà từ mục tiêu chuyến đi. Đoàn cần nghỉ dưỡng, kết nối nhân sự, khen thưởng hay kết hợp tổng kết? Khi mục tiêu rõ, việc chọn lịch trình, nơi lưu trú và ngân sách sẽ dễ thống nhất hơn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt yêu cầu với một đầu mối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt yêu cầu với một đầu mối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp nên xác định người phụ trách làm việc với đơn vị lữ hành. Đầu mối này tổng hợp số khách, ngày đi, ngân sách, cơ cấu phòng và hoạt động mong muốn. Cần biết đoàn có người thân, trẻ em hoặc khách không tham gia vận động hay không. Một yêu cầu thống nhất giúp tránh việc nhiều phòng ban gửi các mong muốn khác nhau rồi chương trình bị thay đổi liên tục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp nên xác định người phụ trách làm việc với đơn vị lữ hành. Đầu mối này tổng hợp số khách, ngày đi, ngân sách, cơ cấu phòng và hoạt động mong muốn. Cần biết đoàn có người thân, trẻ em hoặc khách không tham gia vận động hay không. Một yêu cầu thống nhất giúp tránh việc nhiều phòng ban gửi các mong muốn khác nhau rồi chương trình bị thay đổi liên tục.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215272032-0.jpg",
-      "alt": "Tổ chức tour Đà Lạt cho công ty: bắt đầu từ đâu?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215272032-0.jpg\" alt=\"Tổ chức tour Đà Lạt cho công ty: bắt đầu từ đâu?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Phân bổ tham quan, nghỉ và hoạt động đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân bổ tham quan, nghỉ và hoạt động đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đà Lạt có thể kết hợp tham quan với Team Building, Gala Dinner, BBQ hoặc giao lưu văn hóa. Tuy nhiên, nên chọn hoạt động phục vụ mục tiêu chính. Đoàn cần gắn kết có thể dành một buổi cho trò chơi tập thể; đoàn cần vinh danh nên dành đủ thời gian cho Gala. Đừng bố trí lịch tham quan kín rồi xem phần tập thể là tiết mục chen thêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đà Lạt có thể kết hợp tham quan với Team Building, Gala Dinner, BBQ hoặc giao lưu văn hóa. Tuy nhiên, nên chọn hoạt động phục vụ mục tiêu chính. Đoàn cần gắn kết có thể dành một buổi cho trò chơi tập thể; đoàn cần vinh danh nên dành đủ thời gian cho Gala. Đừng bố trí lịch tham quan kín rồi xem phần tập thể là tiết mục chen thêm.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra năng lực phục vụ cùng lúc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra năng lực phục vụ cùng lúc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với khách đoàn, số phòng, cơ cấu giường, bãi xe và khả năng phục vụ bữa ăn cần được xem cùng nhau. Một địa điểm đẹp chưa chắc phù hợp đoàn nhiều xe. Nếu chia phòng hoặc dùng bữa theo đợt, phải thông báo rõ để doanh nghiệp cân nhắc. Chương trình ngoài trời cũng cần phương án chuyển vào nhà khi điều kiện không thuận lợi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với khách đoàn, số phòng, cơ cấu giường, bãi xe và khả năng phục vụ bữa ăn cần được xem cùng nhau. Một địa điểm đẹp chưa chắc phù hợp đoàn nhiều xe. Nếu chia phòng hoặc dùng bữa theo đợt, phải thông báo rõ để doanh nghiệp cân nhắc. Chương trình ngoài trời cũng cần phương án chuyển vào nhà khi điều kiện không thuận lợi.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt bằng chương trình và báo giá rõ ràng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt bằng chương trình và báo giá rõ ràng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trước khi đăng ký, rà lại lịch trình, danh sách dịch vụ, thiết bị sự kiện, khoản không gồm và điều kiện thay đổi số khách. TodayTourist tư vấn tour đoàn Đà Lạt từ Đồng Nai, TP.HCM theo quy mô và ngân sách. Doanh nghiệp có thể gửi yêu cầu để nhận chương trình riêng, thay vì phải chọn nguyên một tour có sẵn rồi cố điều chỉnh sau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trước khi đăng ký, rà lại lịch trình, danh sách dịch vụ, thiết bị sự kiện, khoản không gồm và điều kiện thay đổi số khách. TodayTourist tư vấn tour đoàn Đà Lạt từ Đồng Nai, TP.HCM theo quy mô và ngân sách. Doanh nghiệp có thể gửi yêu cầu để nhận chương trình riêng, thay vì phải chọn nguyên một tour có sẵn rồi cố điều chỉnh sau.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty ít người có làm đoàn riêng được không? Có thể gửi số khách để được tư vấn phương án phù hợp. Có cần cả Team Building và Gala không? Chọn theo mục tiêu và ngân sách, không bắt buộc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty ít người có làm đoàn riêng được không? Có thể gửi số khách để được tư vấn phương án phù hợp. Có cần cả Team Building và Gala không? Chọn theo mục tiêu và ngân sách, không bắt buộc.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building Đà Lạt: chọn địa điểm và chương trình",
-        "Gala Dinner Đà Lạt: chương trình và các khoản chi phí",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-da-lat-chon-dia-diem-va-chuong-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Đà Lạt: chọn địa điểm và chương trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-da-lat-chuong-trinh-va-cac-khoan-chi-phi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Đà Lạt: chương trình và các khoản chi phí</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
