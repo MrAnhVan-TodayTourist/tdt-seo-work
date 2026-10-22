@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Cùng là đi Phan Thiết, thuê xe và đặt tour trọn gói là hai cách tổ chức khác nhau. Chọn đúng giúp đoàn rõ ai làm gì và tổng chi phí có hợp lý không."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Cùng là đi Phan Thiết, thuê xe và đặt tour trọn gói là hai cách tổ chức khác nhau. Chọn đúng giúp đoàn rõ ai làm gì và tổng chi phí có hợp lý không.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Việc khách tự phụ trách khi thuê xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Việc khách tự phụ trách khi thuê xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi chỉ thuê xe, đoàn thường tự lo phòng, bữa ăn, vé, lịch trình và hoạt động. Xe chở khách đúng lịch nhưng không chịu trách nhiệm cho các dịch vụ khác. Phù hợp đoàn có người quen điều phối."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi chỉ thuê xe, đoàn thường tự lo phòng, bữa ăn, vé, lịch trình và hoạt động. Xe chở khách đúng lịch nhưng không chịu trách nhiệm cho các dịch vụ khác. Phù hợp đoàn có người quen điều phối.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222506967-0.jpg",
-      "alt": "A picturesque road in Phan Thiet, Vietnam, bordered by trees and leadi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222506967-0.jpg\" alt=\"A picturesque road in Phan Thiet, Vietnam, bordered by trees and leadi\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ của tour trọn gói"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ của tour trọn gói</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour trọn gói gồm nhiều dịch vụ trong một chương trình, có đầu mối xử lý và thường có hướng dẫn viên hoặc người điều phối. Cần ghi rõ dịch vụ nào đã bao gồm để không hiểu nhầm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour trọn gói gồm nhiều dịch vụ trong một chương trình, có đầu mối xử lý và thường có hướng dẫn viên hoặc người điều phối. Cần ghi rõ dịch vụ nào đã bao gồm để không hiểu nhầm.</span>"
     },
     {
       "type": "h2",
-      "text": "Số chỗ, hành lý và lịch xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Số chỗ, hành lý và lịch xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Dù chọn cách nào, hãy xác định số người, hành lý, điểm đón, giờ đi và giờ về. Xe cần phù hợp số khách và lối đi vào nơi lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dù chọn cách nào, hãy xác định số người, hành lý, điểm đón, giờ đi và giờ về. Xe cần phù hợp số khách và lối đi vào nơi lưu trú.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh tổng chi phí và trách nhiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh tổng chi phí và trách nhiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giá thuê xe thấp không có nghĩa tổng chi phí thấp nếu đoàn phải tự mua các dịch vụ còn lại. Hãy cộng đủ các khoản, đồng thời xem ai chịu trách nhiệm khi có thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá thuê xe thấp không có nghĩa tổng chi phí thấp nếu đoàn phải tự mua các dịch vụ còn lại. Hãy cộng đủ các khoản, đồng thời xem ai chịu trách nhiệm khi có thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nhỏ nên thuê xe hay đặt tour?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhỏ nên thuê xe hay đặt tour?</span>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn linh hoạt và tự lo được dịch vụ, thuê xe có thể phù hợp. Nếu muốn một đầu mối lo toàn bộ, tour trọn gói thuận tiện hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn linh hoạt và tự lo được dịch vụ, thuê xe có thể phù hợp. Nếu muốn một đầu mối lo toàn bộ, tour trọn gói thuận tiện hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?",
-        "Du lịch Phan Thiết tự túc hay đặt tour: phương án nào phù hợp?",
-        "Tour Phan Thiết đón tại Biên Hòa – Đồng Nai: đặt điểm đón cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phan-thiet-mui-ne-cho-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/du-lich-phan-thiet-tu-tuc-hay-dat-tour-phuong-an-nao-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Du lịch Phan Thiết tự túc hay đặt tour: phương án nào phù hợp?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phan-thiet-don-tai-bien-hoa-dong-nai-dat-diem-don-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phan Thiết đón tại Biên Hòa – Đồng Nai: đặt điểm đón cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
