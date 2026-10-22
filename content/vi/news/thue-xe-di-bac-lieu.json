@@ -8,137 +8,136 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Bạc Liêu là điểm dừng quen thuộc của tour miền Tây, nổi tiếng nhà công tử Bạc Liêu, đồng điện gió ven biển và cánh đồng muối. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Bạc Liêu là điểm dừng quen thuộc của tour miền Tây, nổi tiếng nhà công tử Bạc Liêu, đồng điện gió ven biển và cánh đồng muối. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi Bạc Liêu?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi Bạc Liêu?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Biên Hòa – Bạc Liêu: chặng dài miền Tây"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Biên Hòa – Bạc Liêu: chặng dài miền Tây</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạc Liêu nay thuộc tỉnh Cà Mau sau sáp nhập hành chính nhưng du khách vẫn quen gọi là Bạc Liêu. Từ Biên Hòa, Đồng Nai, quãng đường khoảng 300 km (ước tính), xe đoàn nên tính khoảng 6–7 tiếng cả nghỉ. Đoàn thường đi 2 ngày 1 đêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạc Liêu nay thuộc tỉnh Cà Mau sau sáp nhập hành chính nhưng du khách vẫn quen gọi là Bạc Liêu. Từ Biên Hòa, Đồng Nai, quãng đường khoảng 300 km (ước tính), xe đoàn nên tính khoảng 6–7 tiếng cả nghỉ. Đoàn thường đi 2 ngày 1 đêm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792212972337-0.jpg",
-      "alt": "Thuê xe đi Bạc Liêu từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792212972337-0.jpg\" alt=\"Thuê xe đi Bạc Liêu từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Nhà công tử Bạc Liêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhà công tử Bạc Liêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà công tử Bạc Liêu ở số 13 Điện Biên Phủ, xây từ năm 1917 đến 1919 theo kiến trúc Tây Âu, gồm 2 tầng với 5 phòng ngủ và 4 đại sảnh. Giờ mở cửa và giá vé có thể thay đổi nên cần kiểm tra lại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà công tử Bạc Liêu ở số 13 Điện Biên Phủ, xây từ năm 1917 đến 1919 theo kiến trúc Tây Âu, gồm 2 tầng với 5 phòng ngủ và 4 đại sảnh. Giờ mở cửa và giá vé có thể thay đổi nên cần kiểm tra lại.</span>"
     },
     {
       "type": "h2",
-      "text": "Cánh đồng điện gió và vườn chim"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cánh đồng điện gió và vườn chim</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cánh đồng điện gió ở Biển Đông A, Vĩnh Trạch Đông đẹp nhất vào buổi chiều khi có hoàng hôn. Vườn chim Bạc Liêu rộng khoảng 385 ha, cách trung tâm khoảng 8 km, bảo tồn hơn 40.000 cá thể của 78 loài. Chùa Xiêm Cán có ba ngọn tháp theo phong cách Angkor Wat."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cánh đồng điện gió ở Biển Đông A, Vĩnh Trạch Đông đẹp nhất vào buổi chiều khi có hoàng hôn. Vườn chim Bạc Liêu rộng khoảng 385 ha, cách trung tâm khoảng 8 km, bảo tồn hơn 40.000 cá thể của 78 loài. Chùa Xiêm Cán có ba ngọn tháp theo phong cách Angkor Wat.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết hợp hành hương"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp hành hương</span></strong>"
     },
     {
       "type": "p",
-      "text": "Quan Âm Phật Đài (Mẹ Nam Hải) xây năm 1973, có tượng Quan Âm cao khoảng 11 m. Thánh đường Tắc Sậy cách khoảng 30–40 km, thuộc xã Phong Thạnh. Đoàn có thể ghép hành hương vào ngày thứ hai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quan Âm Phật Đài (Mẹ Nam Hải) xây năm 1973, có tượng Quan Âm cao khoảng 11 m. Thánh đường Tắc Sậy cách khoảng 30–40 km, thuộc xã Phong Thạnh. Đoàn có thể ghép hành hương vào ngày thứ hai.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn 25–35 người xe 29–35 chỗ; đoàn đông xe 45 chỗ ghế ngả. Chặng dài nên có tài xế quen Quốc lộ 1 và nghỉ chân đều đặn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn 25–35 người xe 29–35 chỗ; đoàn đông xe 45 chỗ ghế ngả. Chặng dài nên có tài xế quen Quốc lộ 1 và nghỉ chân đều đặn.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý hoạt động ở Bạc Liêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý hoạt động ở Bạc Liêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngoài nhà công tử Bạc Liêu và cánh đồng điện gió, đoàn có thể thưởng thức ẩm thực địa phương, nghe đờn ca tài tử và ghé các điểm tâm linh quanh khu vực. Chuyến đi thích hợp cho gia đình, nhóm bạn và đoàn công ty muốn kết hợp tham quan và nghỉ ngơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngoài nhà công tử Bạc Liêu và cánh đồng điện gió, đoàn có thể thưởng thức ẩm thực địa phương, nghe đờn ca tài tử và ghé các điểm tâm linh quanh khu vực. Chuyến đi thích hợp cho gia đình, nhóm bạn và đoàn công ty muốn kết hợp tham quan và nghỉ ngơi.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị cho chặng đường dài"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị cho chặng đường dài</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chặng Biên Hòa – Bạc Liêu khá xa, đoàn nên đi 2 ngày 1 đêm hoặc dài hơn. Mang nước uống, thuốc cá nhân, mũ nón và kem chống nắng. Xuất phát sớm, nghỉ chân 2–3 giờ một lần để cả đoàn giữ sức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chặng Biên Hòa – Bạc Liêu khá xa, đoàn nên đi 2 ngày 1 đêm hoặc dài hơn. Mang nước uống, thuốc cá nhân, mũ nón và kem chống nắng. Xuất phát sớm, nghỉ chân 2–3 giờ một lần để cả đoàn giữ sức.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe và tài xế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và tài xế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ. Tài xế nên quen tuyến miền Tây và nghỉ đủ giữa các chặng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ. Tài xế nên quen tuyến miền Tây và nghỉ đủ giữa các chặng.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịp nào nên đi Bạc Liêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịp nào nên đi Bạc Liêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạc Liêu đông vào các dịp lễ hội và cuối tuần, đặc biệt khi kết hợp hành hương. Mùa khô thuận lợi cho tham quan cánh đồng điện gió, ít mưa, đường đi dễ hơn. Đoàn nên đặt xe, phòng và nhà hàng sớm để có lịch thuận lợi nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạc Liêu đông vào các dịp lễ hội và cuối tuần, đặc biệt khi kết hợp hành hương. Mùa khô thuận lợi cho tham quan cánh đồng điện gió, ít mưa, đường đi dễ hơn. Đoàn nên đặt xe, phòng và nhà hàng sớm để có lịch thuận lợi nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Bạc Liêu cách Biên Hòa bao xa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Bạc Liêu cách Biên Hòa bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 300 km (ước tính)."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 300 km (ước tính).</span>"
     },
     {
       "type": "h3",
-      "text": "Điện gió đẹp nhất lúc nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Điện gió đẹp nhất lúc nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Buổi chiều lúc hoàng hôn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Buổi chiều lúc hoàng hôn.</span>"
     },
     {
       "type": "h3",
-      "text": "Có kết hợp Cà Mau được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có kết hợp Cà Mau được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Được, nên thêm một ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Được, nên thêm một ngày.</span>"
     },
     {
       "type": "h3",
-      "text": "Có thể ghép hành hương?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể ghép hành hương?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có, Mẹ Nam Hải và Tắc Sậy."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có, Mẹ Nam Hải và Tắc Sậy.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Cà Mau</a> · <a href=\"/vi/tin-tuc/thue-xe-di-rach-gia/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Rạch Giá</a> · <a href=\"/vi/tin-tuc/thue-xe-di-ha-tien/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Hà Tiên</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Cà Mau</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-rach-gia/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Rạch Giá</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-ha-tien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Hà Tiên</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -147,6 +146,10 @@
         "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM",
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
