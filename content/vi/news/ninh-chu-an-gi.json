@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Ăn uống là phần khách thường quan tâm khi đi Ninh Chữ hoặc Bình Hưng, nhất là bữa trên bè và BBQ hải sản. Để chọn đúng, nên xin thực đơn thay vì chỉ đọc chữ đặc sản. Giá bữa ăn phụ thuộc món, khẩu phần và cách phục vụ nên cần được chốt rõ theo đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ăn uống là phần khách thường quan tâm khi đi Ninh Chữ hoặc Bình Hưng, nhất là bữa trên bè và BBQ hải sản. Để chọn đúng, nên xin thực đơn thay vì chỉ đọc chữ đặc sản. Giá bữa ăn phụ thuộc món, khẩu phần và cách phục vụ nên cần được chốt rõ theo đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra món và định lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra món và định lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi số người mỗi bàn, thực đơn, nước uống và phần tôm hùm nếu có. Không hiểu chữ BBQ tôm hùm là mỗi người mặc định một con. Khẩu phần cùng hình thức phục vụ phải theo báo giá xác nhận; sản phẩm theo mùa có thể cần thay thế nhưng phải được thông báo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi số người mỗi bàn, thực đơn, nước uống và phần tôm hùm nếu có. Không hiểu chữ BBQ tôm hùm là mỗi người mặc định một con. Khẩu phần cùng hình thức phục vụ phải theo báo giá xác nhận; sản phẩm theo mùa có thể cần thay thế nhưng phải được thông báo.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Phân biệt nhà hàng, bè và tiệc sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt nhà hàng, bè và tiệc sự kiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bữa trên bè có chặng di chuyển và điều kiện không gian khác nhà hàng đất liền. Gala cần thêm khu riêng cùng thiết bị nếu đoàn yêu cầu. Hãy so đúng cấu hình, không lấy giá bữa thường làm chuẩn cho tiệc có sân khấu hoặc món hải sản đặc biệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bữa trên bè có chặng di chuyển và điều kiện không gian khác nhà hàng đất liền. Gala cần thêm khu riêng cùng thiết bị nếu đoàn yêu cầu. Hãy so đúng cấu hình, không lấy giá bữa thường làm chuẩn cho tiệc có sân khấu hoặc món hải sản đặc biệt.</span>"
     },
     {
       "type": "h2",
-      "text": "Báo nhu cầu riêng từ lúc hỏi giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo nhu cầu riêng từ lúc hỏi giá</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trẻ em, người ăn chay, dị ứng hoặc chế độ riêng cần được cung cấp trước để kiểm tra khả năng đáp ứng. Với bữa ăn tự túc, ghi rõ trong chương trình để khách chuẩn bị ngân sách. Không thêm món vào quảng bá chỉ vì tuyến khác từng có; thực đơn phải đúng dịch vụ của chuyến này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trẻ em, người ăn chay, dị ứng hoặc chế độ riêng cần được cung cấp trước để kiểm tra khả năng đáp ứng. Với bữa ăn tự túc, ghi rõ trong chương trình để khách chuẩn bị ngân sách. Không thêm món vào quảng bá chỉ vì tuyến khác từng có; thực đơn phải đúng dịch vụ của chuyến này.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đi Bình Hưng có bắt buộc ăn tôm hùm không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi Bình Hưng có bắt buộc ăn tôm hùm không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Có thể trao đổi thực đơn khác theo ngân sách và nhu cầu. Cần xác nhận lại dịch vụ, không mặc định bỏ một món sẽ giảm đúng một khoản cố định."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Có thể trao đổi thực đơn khác theo ngân sách và nhu cầu. Cần xác nhận lại dịch vụ, không mặc định bỏ một món sẽ giảm đúng một khoản cố định.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/resort-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Resort Ninh Chữ hay phòng trên Bình Hưng: chọn nơi ở cho đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/resort-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Resort Ninh Chữ hay phòng trên Bình Hưng: chọn nơi ở cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/vinh-hy-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Ninh Chữ–Vĩnh Hy–Bình Hưng mùa nào: chọn lịch và phương án biển</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vinh-hy-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ninh Chữ–Vĩnh Hy–Bình Hưng mùa nào: chọn lịch và phương án biển</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
