@@ -21,7 +21,7 @@
     },
     {
       "type": "html",
-      "html": "<figure><img src=\"/content/vi/images/pasted-1792411852867-0.jpg\" alt=\"Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist\"></figure>"
+      "html": "<figure style=\"width:1200px\"><img src=\"/content/vi/images/pasted-1792411852867-0.jpg\" alt=\"Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist\" style=\"width:1200px;height:675px\"></figure>"
     },
     {
       "type": "h2",
@@ -80,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Ninh Chữ–Vĩnh Hy–Bình Hưng: so đúng phần dịch vụ",
-        "Tour Ninh Chữ–Vĩnh Hy 3 ngày 2 đêm: chọn lịch nghỉ và tham quan",
-        "Tour Bình Hưng–Ninh Chữ 2 ngày 2 đêm: hiểu rõ đêm xe và đêm phòng"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Giá tour Ninh Chữ–Vĩnh Hy–Bình Hưng: so đúng phần dịch vụ</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy 3 ngày 2 đêm: chọn lịch nghỉ và tham quan</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-binh-hung-2-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng–Ninh Chữ 2 ngày 2 đêm: hiểu rõ đêm xe và đêm phòng</a>"
     },
     {
       "type": "h2",
