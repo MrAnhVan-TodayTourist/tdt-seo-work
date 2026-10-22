@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour viếng chùa dành cho nhóm Phật tử cần có thời gian chiêm bái và sinh hoạt theo mong muốn của đoàn. Số điểm đến chỉ là một phần của chương trình; cách bố trí bữa ăn, nghỉ và phối hợp với nơi đến mới quyết định lịch có phù hợp hay không."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour viếng chùa dành cho nhóm Phật tử cần có thời gian chiêm bái và sinh hoạt theo mong muốn của đoàn. Số điểm đến chỉ là một phần của chương trình; cách bố trí bữa ăn, nghỉ và phối hợp với nơi đến mới quyết định lịch có phù hợp hay không.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Lập danh sách điểm ưu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lập danh sách điểm ưu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể bắt đầu từ tuyến gần như các chùa trên hướng Quốc lộ 51, viếng chùa khu vực Vũng Tàu hoặc hướng Núi Bà Đen. Với hành trình xa, đoàn có thể trao đổi tuyến miền Tây và những điểm phù hợp. Hãy phân biệt điểm bắt buộc với điểm chỉ thêm nếu có thời gian. Lịch cần ghi cụ thể danh sách đã chốt thay vì chỉ dùng tên tour thập tự hoặc nhiều cảnh chùa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể bắt đầu từ tuyến gần như các chùa trên hướng Quốc lộ 51, viếng chùa khu vực Vũng Tàu hoặc hướng Núi Bà Đen. Với hành trình xa, đoàn có thể trao đổi tuyến miền Tây và những điểm phù hợp. Hãy phân biệt điểm bắt buộc với điểm chỉ thêm nếu có thời gian. Lịch cần ghi cụ thể danh sách đã chốt thay vì chỉ dùng tên tour thập tự hoặc nhiều cảnh chùa.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214018470-0.jpg",
-      "alt": "Tour hành hương Phật giáo: chọn tuyến viếng chùa cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214018470-0.jpg\" alt=\"Tour hành hương Phật giáo: chọn tuyến viếng chùa cho đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thông báo nhu cầu sinh hoạt và ăn uống"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông báo nhu cầu sinh hoạt và ăn uống</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu có thời gian tụng kinh, nghe chia sẻ hoặc sinh hoạt cùng đạo tràng, đầu mối đoàn cần trao đổi với nơi đến. Công ty du lịch không tự xác nhận nghi thức hay buổi tiếp đón thay cho cơ sở tôn giáo. Suất ăn chay, ăn mặn hoặc yêu cầu riêng cần thống kê trước; không mặc định tất cả tour hành hương đều dùng chay, cũng không mặc định được dùng bữa tại chùa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu có thời gian tụng kinh, nghe chia sẻ hoặc sinh hoạt cùng đạo tràng, đầu mối đoàn cần trao đổi với nơi đến. Công ty du lịch không tự xác nhận nghi thức hay buổi tiếp đón thay cho cơ sở tôn giáo. Suất ăn chay, ăn mặn hoặc yêu cầu riêng cần thống kê trước; không mặc định tất cả tour hành hương đều dùng chay, cũng không mặc định được dùng bữa tại chùa.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ nhịp tham quan trang nghiêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ nhịp tham quan trang nghiêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên có giờ tập trung, hướng dẫn trang phục và lưu ý chụp ảnh theo quy định nơi đến. Đoàn có người lớn tuổi cần dự kiến khoảng nghỉ và khả năng đi bộ. Những câu chuyện tín ngưỡng nên được trình bày với sự tôn trọng, không dùng lời hứa cầu được điều mong muốn để bán tour. TodayTourist tiếp nhận yêu cầu tuyến, số người và ngày đi để trao đổi dịch vụ, phương tiện và lịch chiêm bái."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên có giờ tập trung, hướng dẫn trang phục và lưu ý chụp ảnh theo quy định nơi đến. Đoàn có người lớn tuổi cần dự kiến khoảng nghỉ và khả năng đi bộ. Những câu chuyện tín ngưỡng nên được trình bày với sự tôn trọng, không dùng lời hứa cầu được điều mong muốn để bán tour. TodayTourist tiếp nhận yêu cầu tuyến, số người và ngày đi để trao đổi dịch vụ, phương tiện và lịch chiêm bái.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi viếng chùa có nhất thiết phải đủ 10 điểm không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi viếng chùa có nhất thiết phải đủ 10 điểm không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Nếu chọn chương trình mang tên 10 cảnh chùa, cần chốt đủ danh sách cụ thể. Với đoàn muốn có thời gian lâu hơn ở từng nơi, có thể chọn ít điểm và ghi đúng tên chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Nếu chọn chương trình mang tên 10 cảnh chùa, cần chốt đủ danh sách cụ thể. Với đoàn muốn có thời gian lâu hơn ở từng nơi, có thể chọn ít điểm và ghi đúng tên chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour cho nhóm Phật tử, đạo tràng: thiết kế lịch chiêm bái",
-        "Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý",
-        "Tour 10 cảnh chùa Vũng Tàu: chọn danh sách và lịch chiêm bái",
-        "Thuê xe viếng chùa, thập tự Vũng Tàu – Long Hải"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cho-nhom-phat-tu-dao-trang-thiet-ke-lich-chiem-bai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour cho nhóm Phật tử, đạo tràng: thiết kế lịch chiêm bái</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-chon-tuyen-gan-va-lich-hop-ly/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-10-canh-chua-vung-tau-chon-danh-sach-va-lich-chiem-bai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour 10 cảnh chùa Vũng Tàu: chọn danh sách và lịch chiêm bái</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe viếng chùa, thập tự Vũng Tàu – Long Hải</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
