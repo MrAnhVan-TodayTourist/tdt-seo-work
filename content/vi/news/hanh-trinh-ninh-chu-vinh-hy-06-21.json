@@ -8,8 +8,8 @@
   "published_at": "2026-06-21",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể Chi nhánh phía Nam – Nhà máy Z176 trong hành trình tham quan, nghỉ dưỡng và khám phá vẻ đẹp biển xanh nắng vàng tại Ninh Chữ – Vĩnh Hy đầy sôi động và ý nghĩa"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng tập thể Chi nhánh phía Nam – Nhà máy Z176 trong hành trình tham quan, nghỉ dưỡng và khám phá vẻ đẹp biển xanh nắng vàng tại Ninh Chữ – Vĩnh Hy đầy sôi động và ý nghĩa</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "p",
-      "text": "Hòa mình vào vẻ đẹp hoang sơ của Vịnh Vĩnh Hy – một trong những vịnh biển đẹp nhất Việt Nam"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hòa mình vào vẻ đẹp hoang sơ của Vịnh Vĩnh Hy – một trong những vịnh biển đẹp nhất Việt Nam</span>"
     },
     {
       "type": "html",
@@ -29,43 +29,47 @@
     },
     {
       "type": "p",
-      "text": "Thư giãn tại bãi biển Ninh Chữ với làn nước trong xanh và bờ cát dài thơ mộng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thư giãn tại bãi biển Ninh Chữ với làn nước trong xanh và bờ cát dài thơ mộng</span>"
     },
     {
       "type": "p",
-      "text": "Trải nghiệm tàu đáy kính khám phá hệ sinh thái biển đa dạng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Trải nghiệm tàu đáy kính khám phá hệ sinh thái biển đa dạng</span>"
     },
     {
       "type": "p",
-      "text": "Check-in những cung đường ven biển tuyệt đẹp cùng khung cảnh thiên nhiên hùng vĩ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in những cung đường ven biển tuyệt đẹp cùng khung cảnh thiên nhiên hùng vĩ</span>"
     },
     {
       "type": "p",
-      "text": "Tham quan các điểm đến nổi tiếng mang đậm nét văn hóa và đặc trưng vùng duyên hải Nam Trung Bộ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan các điểm đến nổi tiếng mang đậm nét văn hóa và đặc trưng vùng duyên hải Nam Trung Bộ</span>"
     },
     {
       "type": "p",
-      "text": "Tăng cường tinh thần đoàn kết, giao lưu và gắn kết tập thể"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tăng cường tinh thần đoàn kết, giao lưu và gắn kết tập thể</span>"
     },
     {
       "type": "p",
-      "text": "Thưởng thức những món hải sản tươi ngon cùng đặc sản địa phương hấp dẫn"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thưởng thức những món hải sản tươi ngon cùng đặc sản địa phương hấp dẫn</span>"
     },
     {
       "type": "p",
-      "text": "Lưu giữ những khoảnh khắc đáng nhớ trong hành trình nghỉ dưỡng đầy cảm xúc"
+      "text": "<span style=\"font-size:16px;color:#374151\">Lưu giữ những khoảnh khắc đáng nhớ trong hành trình nghỉ dưỡng đầy cảm xúc</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin kính chúc toàn thể Ban lãnh đạo cùng cán bộ, nhân viên Chi nhánh phía Nam – Nhà máy Z176 thật nhiều sức khỏe, niềm vui và có một chuyến đi an toàn, ý nghĩa với thật nhiều kỷ niệm đẹp!"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc toàn thể Ban lãnh đạo cùng cán bộ, nhân viên Chi nhánh phía Nam – Nhà máy Z176 thật nhiều sức khỏe, niềm vui và có một chuyến đi an toàn, ý nghĩa với thật nhiều kỷ niệm đẹp!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-21."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-21.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
