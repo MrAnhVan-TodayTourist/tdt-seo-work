@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khi hỏi dịch vụ tổ chức sự kiện, doanh nghiệp nên bắt đầu bằng tên và mục tiêu chương trình: giao lưu nội bộ, kỷ niệm thành lập, hội nghị khách hàng hay tiệc cuối năm. Mỗi dạng cần cách triển khai khác nhau; không nên dùng một gói chung rồi bổ sung dần nhiều khoản."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi hỏi dịch vụ tổ chức sự kiện, doanh nghiệp nên bắt đầu bằng tên và mục tiêu chương trình: giao lưu nội bộ, kỷ niệm thành lập, hội nghị khách hàng hay tiệc cuối năm. Mỗi dạng cần cách triển khai khác nhau; không nên dùng một gói chung rồi bổ sung dần nhiều khoản.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định loại sự kiện và đối tượng tham dự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định loại sự kiện và đối tượng tham dự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sự kiện dành cho nhân viên có thể ưu tiên tương tác và gắn kết, còn chương trình cho khách hàng thường cần phần đón tiếp và nội dung giới thiệu rõ ràng. Có gia đình hoặc trẻ nhỏ tham dự thì cách bố trí không gian và hoạt động cũng thay đổi. Doanh nghiệp nên nêu số người từng nhóm, phần nội dung bắt buộc và kết quả mong muốn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sự kiện dành cho nhân viên có thể ưu tiên tương tác và gắn kết, còn chương trình cho khách hàng thường cần phần đón tiếp và nội dung giới thiệu rõ ràng. Có gia đình hoặc trẻ nhỏ tham dự thì cách bố trí không gian và hoạt động cũng thay đổi. Doanh nghiệp nên nêu số người từng nhóm, phần nội dung bắt buộc và kết quả mong muốn.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213085425-0.jpg",
-      "alt": "Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213085425-0.jpg\" alt=\"Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tách các phần công việc để dễ đối chiếu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách các phần công việc để dễ đối chiếu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một phương án có thể gồm xây kịch bản, điều phối, MC, thiết bị, địa điểm, ăn uống và vận chuyển. Phần nào công ty tự làm hoặc đã đặt cần ghi rõ để tránh chồng chéo. Nếu cần quay chụp, sản phẩm và thời hạn bàn giao nên được xác nhận riêng. Những hạng mục kỹ thuật hoặc chương trình đặc biệt chỉ đưa vào khi có điều kiện thực hiện; chữ “trọn gói” không có nghĩa là bổ sung không giới hạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một phương án có thể gồm xây kịch bản, điều phối, MC, thiết bị, địa điểm, ăn uống và vận chuyển. Phần nào công ty tự làm hoặc đã đặt cần ghi rõ để tránh chồng chéo. Nếu cần quay chụp, sản phẩm và thời hạn bàn giao nên được xác nhận riêng. Những hạng mục kỹ thuật hoặc chương trình đặc biệt chỉ đưa vào khi có điều kiện thực hiện; chữ “trọn gói” không có nghĩa là bổ sung không giới hạn.</span>"
     },
     {
       "type": "h2",
-      "text": "Các mốc chuẩn bị nên đặt sẵn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Các mốc chuẩn bị nên đặt sẵn</span></strong>"
     },
     {
       "type": "list",
@@ -47,35 +46,35 @@
     },
     {
       "type": "h2",
-      "text": "Chọn đầu mối duyệt và quản lý thay đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn đầu mối duyệt và quản lý thay đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người phụ trách nên tổng hợp ý kiến nội bộ rồi gửi một bản yêu cầu thống nhất. Cần chốt người duyệt kịch bản, nội dung hiển thị, danh sách khách và thời điểm khóa phương án. Khi tăng số người hoặc đổi thời lượng, hai bên xem lại phạm vi và chi phí liên quan trước khi thực hiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người phụ trách nên tổng hợp ý kiến nội bộ rồi gửi một bản yêu cầu thống nhất. Cần chốt người duyệt kịch bản, nội dung hiển thị, danh sách khách và thời điểm khóa phương án. Khi tăng số người hoặc đổi thời lượng, hai bên xem lại phạm vi và chi phí liên quan trước khi thực hiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Doanh nghiệp nhỏ có tổ chức sự kiện được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Doanh nghiệp nhỏ có tổ chức sự kiện được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Được. Chương trình có thể gọn: một mục tiêu, vài phần chính và thời lượng vừa đủ, thay vì dàn dựng nhiều hạng mục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Được. Chương trình có thể gọn: một mục tiêu, vài phần chính và thời lượng vừa đủ, thay vì dàn dựng nhiều hạng mục.</span>"
     },
     {
       "type": "h3",
-      "text": "Sự kiện có cần gắn với chuyến đi không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Sự kiện có cần gắn với chuyến đi không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không bắt buộc. Có thể tổ chức tại công ty hoặc nhà hàng, hoặc kết hợp trong tour nếu muốn đoàn vừa nghỉ ngơi vừa giao lưu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không bắt buộc. Có thể tổ chức tại công ty hoặc nhà hàng, hoặc kết hợp trong tour nếu muốn đoàn vừa nghỉ ngơi vừa giao lưu.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -87,23 +86,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
