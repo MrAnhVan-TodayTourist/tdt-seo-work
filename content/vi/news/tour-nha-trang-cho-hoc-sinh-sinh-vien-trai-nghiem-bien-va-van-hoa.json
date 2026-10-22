@@ -2,7 +2,7 @@
   "slug": "tour-nha-trang-cho-hoc-sinh-sinh-vien-trai-nghiem-bien-va-van-hoa",
   "title": "Tour Nha Trang cho học sinh, sinh viên: trải nghiệm biển và văn hóa",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "tour-nha-trang-cho-hoc-sinh-sinh-vien-trai-nghiem-bien-va-van-hoa.jpg",
+  "image": "tour-nha-trang-cho-hoc-sinh-sinh-vien-trai-nghiem-bien-va-va-v2.jpg",
   "summary": "Tour Nha Trang cho trường học nên có mục tiêu trải nghiệm rõ: tìm hiểu sinh vật biển, văn hóa địa phương hoặc kỹ năng tập thể. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Có thể đề nghị nội dung quan sát ở Viện Hải dương học, tìm hiểu văn hóa tại Tháp Bà Ponagar hoặc hoạt động phối hợp theo nhóm. Mỗi điểm nên đi cùng câu hỏi hoặc nhiệm vụ ngắn để học sinh có điều ghi nhận. Nội dung và hình thức tiếp cận phải phù hợp lứa tuổi; không cần thêm quá nhiều điểm chỉ để kéo dài danh sách."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216009162-0.jpg",
-      "alt": "Tour Nha Trang cho học sinh, sinh viên: trải nghiệm biển và văn hóa"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216009162-0.jpg\" alt=\"Tour Nha Trang cho học sinh, sinh viên: trải nghiệm biển và văn hóa\"></figure>"
     },
     {
       "type": "h2",
