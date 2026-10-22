@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Nơi lưu trú quyết định nhiều phần của tour Bảo Lộc–Nam Cát Tiên: giờ nhận phòng, thời gian đi tham quan và cách tổ chức buổi tối. Đoàn nên chọn theo khả năng phục vụ thực tế, không chỉ theo ảnh đẹp hoặc tên hạng phòng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Nơi lưu trú quyết định nhiều phần của tour Bảo Lộc–Nam Cát Tiên: giờ nhận phòng, thời gian đi tham quan và cách tổ chức buổi tối. Đoàn nên chọn theo khả năng phục vụ thực tế, không chỉ theo ảnh đẹp hoặc tên hạng phòng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ở Nam Cát Tiên, hỏi rõ trong Vườn hay bên ngoài"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ở Nam Cát Tiên, hỏi rõ trong Vườn hay bên ngoài</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng tại khu Vườn và khu lưu trú bên ngoài có cách tiếp cận, tập trung và di chuyển tới tuyến tham quan khác nhau. Cần xác nhận vị trí phòng, phương tiện chuyển khách, nơi giữ hành lý và giờ phục vụ ăn. Không phải resort gần Nam Cát Tiên nằm trong Vườn Quốc gia. Khi gửi báo giá, nên có tên cơ sở dự kiến và điều kiện thay tương đương để khách biết chính xác mình ngủ ở đâu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng tại khu Vườn và khu lưu trú bên ngoài có cách tiếp cận, tập trung và di chuyển tới tuyến tham quan khác nhau. Cần xác nhận vị trí phòng, phương tiện chuyển khách, nơi giữ hành lý và giờ phục vụ ăn. Không phải resort gần Nam Cát Tiên nằm trong Vườn Quốc gia. Khi gửi báo giá, nên có tên cơ sở dự kiến và điều kiện thay tương đương để khách biết chính xác mình ngủ ở đâu.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214921414-0.jpg",
-      "alt": "Khách sạn, resort Nam Cát Tiên – Bảo Lộc: chọn nơi ở cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214921414-0.jpg\" alt=\"Khách sạn, resort Nam Cát Tiên – Bảo Lộc: chọn nơi ở cho đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đoàn công ty cần đủ phòng và không gian chung"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn công ty cần đủ phòng và không gian chung</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy so tổng số phòng phù hợp cơ cấu khách, cách phân phòng đôi hoặc nhiều người, cùng lựa chọn khi có gia đình đi kèm. Sau đó kiểm tra nhà hàng, sân Team Building, nơi Gala và khoảng di chuyển giữa các khu. Một cơ sở đẹp nhưng phòng nằm tản xa có thể không thuận tiện cho đoàn đông. Người phụ trách nên chốt sơ đồ phòng cùng nhóm khách cần ưu tiên vị trí trước thời hạn đặt dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy so tổng số phòng phù hợp cơ cấu khách, cách phân phòng đôi hoặc nhiều người, cùng lựa chọn khi có gia đình đi kèm. Sau đó kiểm tra nhà hàng, sân Team Building, nơi Gala và khoảng di chuyển giữa các khu. Một cơ sở đẹp nhưng phòng nằm tản xa có thể không thuận tiện cho đoàn đông. Người phụ trách nên chốt sơ đồ phòng cùng nhóm khách cần ưu tiên vị trí trước thời hạn đặt dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhóm nhỏ có thể chọn homestay, nhưng vẫn phải so tiện ích"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhóm nhỏ có thể chọn homestay, nhưng vẫn phải so tiện ích</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với gia đình hoặc nhóm bạn, homestay có thể phù hợp nếu nhu cầu phòng, vệ sinh, điều hòa và bữa ăn được xác nhận. Đừng dùng từ “resort” để suy ra có hồ bơi, buffet sáng hoặc mọi tiện ích đều miễn phí. Cần hỏi trẻ em dùng dịch vụ ra sao, phần nào bao gồm và chính sách khi tăng giảm phòng. TodayTourist lựa chọn nơi ở theo yêu cầu và khả năng nhận khách, không bảo đảm một cơ sở còn phòng chỉ dựa trên ảnh quảng bá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với gia đình hoặc nhóm bạn, homestay có thể phù hợp nếu nhu cầu phòng, vệ sinh, điều hòa và bữa ăn được xác nhận. Đừng dùng từ “resort” để suy ra có hồ bơi, buffet sáng hoặc mọi tiện ích đều miễn phí. Cần hỏi trẻ em dùng dịch vụ ra sao, phần nào bao gồm và chính sách khi tăng giảm phòng. TodayTourist lựa chọn nơi ở theo yêu cầu và khả năng nhận khách, không bảo đảm một cơ sở còn phòng chỉ dựa trên ảnh quảng bá.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể ở một nơi và tham quan nơi khác không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể ở một nơi và tham quan nơi khác không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể, nhưng cần tính thời gian chuyển khách, giờ dịch vụ và hành lý. Trong tour 3N2Đ, hãy so phương án đổi nơi ngủ với phương án ở cùng một cơ sở."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể, nhưng cần tính thời gian chuyển khách, giờ dịch vụ và hành lý. Trong tour 3N2Đ, hãy so phương án đổi nơi ngủ với phương án ở cùng một cơ sở.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Bảo Lộc, Nam Cát Tiên mùa nào: chuẩn bị theo thời tiết",
-        "Tour Bảo Lộc, Nam Cát Tiên cho gia đình và người lớn tuổi",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-bao-loc-nam-cat-tien-mua-nao-chuan-bi-theo-thoi-tiet/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Bảo Lộc, Nam Cát Tiên mùa nào: chuẩn bị theo thời tiết</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bao-loc-nam-cat-tien-cho-gia-dinh-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bảo Lộc, Nam Cát Tiên cho gia đình và người lớn tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nam-cat-tien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nam Cát Tiên từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
