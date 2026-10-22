@@ -3,21 +3,21 @@
   "title": "Tour Tây Nguyên cho công ty, cơ quan và xí nghiệp: chuẩn bị yêu cầu",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tour-tay-nguyen-cho-cong-ty-v2.jpg",
-  "summary": "Tour Tây Nguyên cho công ty, cơ quan và xí nghiệp. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Một chuyến Tây Nguyên cho doanh nghiệp cần đáp ứng mục tiêu chung của đơn vị: nghỉ ngơi, gắn kết, tri ân hay kết hợp họp.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Một chuyến Tây Nguyên cho doanh nghiệp cần đáp ứng mục tiêu chung của đơn vị: nghỉ ngơi, gắn kết, tri ân hay kết hợp họp. Chốt mục tiêu và ngân sách trước giúp người phụ trách nhận báo giá có thể so sánh, thay vì phải chỉnh liên tục từng phần nhỏ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một chuyến Tây Nguyên cho doanh nghiệp cần đáp ứng mục tiêu chung của đơn vị: nghỉ ngơi, gắn kết, tri ân hay kết hợp họp. Chốt mục tiêu và ngân sách trước giúp người phụ trách nhận báo giá có thể so sánh, thay vì phải chỉnh liên tục từng phần nhỏ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Lập một bản yêu cầu ngắn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lập một bản yêu cầu ngắn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi số khách dự kiến, tỷ lệ trẻ em hoặc người lớn tuổi, ngày đi, điểm đón và ngân sách. Chọn hai hoặc ba trải nghiệm cần có. Nếu đoàn cần về trước một giờ để kịp ca làm, nêu rõ; điều này ảnh hưởng tuyến nhiều hơn việc thêm một điểm chụp ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi số khách dự kiến, tỷ lệ trẻ em hoặc người lớn tuổi, ngày đi, điểm đón và ngân sách. Chọn hai hoặc ba trải nghiệm cần có. Nếu đoàn cần về trước một giờ để kịp ca làm, nêu rõ; điều này ảnh hưởng tuyến nhiều hơn việc thêm một điểm chụp ảnh.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chọn người duyệt và đầu mối làm việc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn người duyệt và đầu mối làm việc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên thống nhất một người gom ý kiến, một mốc duyệt chương trình và hạn chốt danh sách. Khi có nhiều phòng ban hoặc nhiều xe, phân nhóm và người phụ trách từng xe. Nội dung thay đổi cần được cập nhật vào một phiên bản lịch dùng chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên thống nhất một người gom ý kiến, một mốc duyệt chương trình và hạn chốt danh sách. Khi có nhiều phòng ban hoặc nhiều xe, phân nhóm và người phụ trách từng xe. Nội dung thay đổi cần được cập nhật vào một phiên bản lịch dùng chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt dịch vụ và phương án dự phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt dịch vụ và phương án dự phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Yêu cầu nêu xe, phòng, thực đơn, vé, bảo hiểm và sự kiện theo thỏa thuận. Với Team Building ngoài trời, ghi phương án mưa và cách xử lý chi phí. Với Gala, thống nhất đầu mối duyệt kịch bản và nội dung vinh danh để chương trình giữ đúng thông điệp doanh nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Yêu cầu nêu xe, phòng, thực đơn, vé, bảo hiểm và sự kiện theo thỏa thuận. Với Team Building ngoài trời, ghi phương án mưa và cách xử lý chi phí. Với Gala, thống nhất đầu mối duyệt kịch bản và nội dung vinh danh để chương trình giữ đúng thông điệp doanh nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đoàn chưa chốt số khách có thể xin phương án không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể gửi khoảng số khách dự kiến. Báo giá cuối cần cập nhật theo danh sách và dịch vụ được xác nhận, kèm điều kiện tăng giảm.</span>"
     },
     {
       "type": "h2",
-      "text": "Đoàn chưa chốt số khách có thể xin phương án không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể gửi khoảng số khách dự kiến. Báo giá cuối cần cập nhật theo danh sách và dịch vụ được xác nhận, kèm điều kiện tăng giảm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Tây Nguyên: chọn sân, hoạt động và phương án mưa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Tây Nguyên: lên lịch tiệc, vinh danh và thiết bị</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Team Building Tây Nguyên: chọn sân, hoạt động và phương án mưa",
-        "Gala Dinner Tây Nguyên: lên lịch tiệc, vinh danh và thiết bị",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
