@@ -8,137 +8,136 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Cần Thơ là thủ phủ miền Tây, nổi tiếng chợ nổi, bến Ninh Kiều và ẩm thực sông nước. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Cần Thơ là thủ phủ miền Tây, nổi tiếng chợ nổi, bến Ninh Kiều và ẩm thực sông nước. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi Cần Thơ?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi Cần Thơ?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Biên Hòa – Cần Thơ: quãng đường và giờ nên đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Biên Hòa – Cần Thơ: quãng đường và giờ nên đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần Thơ cách TP.HCM khoảng 170 km, đi ô tô khoảng 3–4 tiếng ban ngày. Từ Biên Hòa, Đồng Nai, xe đoàn nên tính khoảng 4–5 tiếng cả giờ nghỉ. Đoàn muốn xem chợ nổi Cái Răng buổi sáng thường đi ngày hôm trước và nghỉ đêm tại Cần Thơ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần Thơ cách TP.HCM khoảng 170 km, đi ô tô khoảng 3–4 tiếng ban ngày. Từ Biên Hòa, Đồng Nai, xe đoàn nên tính khoảng 4–5 tiếng cả giờ nghỉ. Đoàn muốn xem chợ nổi Cái Răng buổi sáng thường đi ngày hôm trước và nghỉ đêm tại Cần Thơ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792212932675-0.jpg",
-      "alt": "Thuê xe đi Cần Thơ từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792212932675-0.jpg\" alt=\"Thuê xe đi Cần Thơ từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chợ nổi Cái Răng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chợ nổi Cái Răng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chợ nổi Cái Răng cách trung tâm khoảng 6 km, đi bằng thuyền hoặc đường bộ. Thời điểm đẹp nhất là khoảng 5–7 giờ sáng, đến khoảng 9 giờ chợ bắt đầu thưa. Đoàn đông có thể thuê thuyền riêng; hãy hỏi kỹ giá và thời gian trước khi lên thuyền."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chợ nổi Cái Răng cách trung tâm khoảng 6 km, đi bằng thuyền hoặc đường bộ. Thời điểm đẹp nhất là khoảng 5–7 giờ sáng, đến khoảng 9 giờ chợ bắt đầu thưa. Đoàn đông có thể thuê thuyền riêng; hãy hỏi kỹ giá và thời gian trước khi lên thuyền.</span>"
     },
     {
       "type": "h2",
-      "text": "Bến Ninh Kiều và các điểm khác"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bến Ninh Kiều và các điểm khác</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bến Ninh Kiều là công viên ven sông nơi sông Cần Thơ gặp sông Hậu, có chợ đêm và cầu đi bộ. Nhà cổ Bình Thủy, thiền viện Trúc Lâm Phương Nam ở Phong Điền và các vườn trái cây như Mỹ Khánh, Vàm Xáng là điểm nên thêm cho đoàn có thời gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bến Ninh Kiều là công viên ven sông nơi sông Cần Thơ gặp sông Hậu, có chợ đêm và cầu đi bộ. Nhà cổ Bình Thủy, thiền viện Trúc Lâm Phương Nam ở Phong Điền và các vườn trái cây như Mỹ Khánh, Vàm Xáng là điểm nên thêm cho đoàn có thời gian.</span>"
     },
     {
       "type": "h2",
-      "text": "Mùa nào đi đẹp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mùa nào đi đẹp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng tháng 5–8 là mùa trái cây; tháng 9–11 là mùa nước nổi với nhiều món đặc sản; tháng 12–2 là mùa hoa quanh Tết. Giá vé và giờ mở cửa có thể thay đổi nên cần kiểm tra lại gần ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng tháng 5–8 là mùa trái cây; tháng 9–11 là mùa nước nổi với nhiều món đặc sản; tháng 12–2 là mùa hoa quanh Tết. Giá vé và giờ mở cửa có thể thay đổi nên cần kiểm tra lại gần ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình gợi ý 2 ngày 1 đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình gợi ý 2 ngày 1 đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 1:</strong> khởi hành sớm, tới Cần Thơ ăn trưa, chiều thăm nhà cổ hoặc vườn trái cây, tối dạo Ninh Kiều. <strong>Ngày 2:</strong> 5 giờ sáng đi chợ nổi Cái Răng, ăn sáng, trả phòng, về Biên Hòa, TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 1:</strong> khởi hành sớm, tới Cần Thơ ăn trưa, chiều thăm nhà cổ hoặc vườn trái cây, tối dạo Ninh Kiều. <strong>Ngày 2:</strong> 5 giờ sáng đi chợ nổi Cái Răng, ăn sáng, trả phòng, về Biên Hòa, TP.HCM.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn 25–35 người xe 29–35 chỗ; đoàn đông xe 45 chỗ; nhóm nhỏ xe 16 chỗ. Báo trước giờ đón sớm để tài xế nghỉ đủ và xe có mặt đúng giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn 25–35 người xe 29–35 chỗ; đoàn đông xe 45 chỗ; nhóm nhỏ xe 16 chỗ. Báo trước giờ đón sớm để tài xế nghỉ đủ và xe có mặt đúng giờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý thêm cho chuyến Cần Thơ 2 ngày 1 đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý thêm cho chuyến Cần Thơ 2 ngày 1 đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn thường xuất phát sớm để kịp tham quan chợ nổi Cái Răng vào buổi sáng ngày hôm sau. Buổi tối dạo bến Ninh Kiều, thưởng thức ẩm thực miền Tây và nghỉ ngơi. Chuyến đi nhẹ nhàng, phù hợp gia đình, nhóm bạn và đoàn công ty."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn thường xuất phát sớm để kịp tham quan chợ nổi Cái Răng vào buổi sáng ngày hôm sau. Buổi tối dạo bến Ninh Kiều, thưởng thức ẩm thực miền Tây và nghỉ ngơi. Chuyến đi nhẹ nhàng, phù hợp gia đình, nhóm bạn và đoàn công ty.</span>"
     },
     {
       "type": "h2",
-      "text": "Kinh nghiệm đi chợ nổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kinh nghiệm đi chợ nổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chợ nổi họp sớm, đoàn nên có mặt từ khoảng 5–6 giờ sáng để xem cảnh mua bán sôi động. Mặc áo phao khi đi thuyền, mang mũ nón và áo khoác mỏng cho buổi sáng sớm. Hỏi giá trước khi ăn uống trên ghe để tránh nhầm lẫn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chợ nổi họp sớm, đoàn nên có mặt từ khoảng 5–6 giờ sáng để xem cảnh mua bán sôi động. Mặc áo phao khi đi thuyền, mang mũ nón và áo khoác mỏng cho buổi sáng sớm. Hỏi giá trước khi ăn uống trên ghe để tránh nhầm lẫn.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe cho chặng Biên Hòa – Cần Thơ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe cho chặng Biên Hòa – Cần Thơ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ. Nên chọn tài xế quen đường miền Tây và xuất phát sớm để tránh kẹt xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ. Nên chọn tài xế quen đường miền Tây và xuất phát sớm để tránh kẹt xe.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Biên Hòa đi Cần Thơ mất bao lâu?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Biên Hòa đi Cần Thơ mất bao lâu?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 4–5 tiếng cả nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 4–5 tiếng cả nghỉ.</span>"
     },
     {
       "type": "h3",
-      "text": "Chợ nổi Cái Răng họp mấy giờ?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chợ nổi Cái Răng họp mấy giờ?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 5–7 giờ sáng là đẹp nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 5–7 giờ sáng là đẹp nhất.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi trong ngày được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi trong ngày được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Rất gấp, không xem được chợ nổi lúc sáng sớm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Rất gấp, không xem được chợ nổi lúc sáng sớm.</span>"
     },
     {
       "type": "h3",
-      "text": "Nên đi mùa nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nên đi mùa nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa trái cây hoặc mùa nước nổi tùy sở thích."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa trái cây hoặc mùa nước nổi tùy sở thích.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-dong-thap-sa-dec-cao-lanh-va-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Đồng Tháp: Sa Đéc, Cao Lãnh và lịch trình riêng</a> · <a href=\"/vi/tin-tuc/thue-xe-di-vinh-long/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Vĩnh Long</a> · <a href=\"/vi/tin-tuc/thue-xe-di-tra-vinh/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Trà Vinh</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-dong-thap-sa-dec-cao-lanh-va-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đồng Tháp: Sa Đéc, Cao Lãnh và lịch trình riêng</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-vinh-long/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Vĩnh Long</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-tra-vinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Trà Vinh</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -147,6 +146,10 @@
         "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM",
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
