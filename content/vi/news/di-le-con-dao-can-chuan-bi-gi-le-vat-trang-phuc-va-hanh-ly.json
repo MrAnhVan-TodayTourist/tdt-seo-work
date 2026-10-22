@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chuẩn bị đi lễ Côn Đảo không nên bắt đầu bằng việc mua thật nhiều lễ vật. Điều hữu ích hơn là biết mình tới đâu, nội quy nơi đó và phương tiện vận chuyển cho phép mang những gì. Một danh sách gọn giúp khách dễ di chuyển, giữ chi phí phù hợp và tránh mang đồ không dùng được tại điểm viếng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chuẩn bị đi lễ Côn Đảo không nên bắt đầu bằng việc mua thật nhiều lễ vật. Điều hữu ích hơn là biết mình tới đâu, nội quy nơi đó và phương tiện vận chuyển cho phép mang những gì. Một danh sách gọn giúp khách dễ di chuyển, giữ chi phí phù hợp và tránh mang đồ không dùng được tại điểm viếng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra nơi viếng trước khi mua lễ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra nơi viếng trước khi mua lễ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nội quy có thể khác giữa các điểm, nên hỏi hoặc xem nguồn chính thức trước khi chuẩn bị. Không có cơ sở để xem mọi danh sách truyền trên mạng là yêu cầu bắt buộc. Với Hàng Dương, thông tin hiện hành trên trang chính thức nêu không đốt vàng mã trong khu vực. Khách nên ưu tiên cách chuẩn bị giản dị, phù hợp hướng dẫn và hạn chế rác sau khi viếng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nội quy có thể khác giữa các điểm, nên hỏi hoặc xem nguồn chính thức trước khi chuẩn bị. Không có cơ sở để xem mọi danh sách truyền trên mạng là yêu cầu bắt buộc. Với Hàng Dương, thông tin hiện hành trên trang chính thức nêu không đốt vàng mã trong khu vực. Khách nên ưu tiên cách chuẩn bị giản dị, phù hợp hướng dẫn và hạn chế rác sau khi viếng.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Trang phục cần thuận tiện và lịch sự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trang phục cần thuận tiện và lịch sự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn đồ phù hợp không gian tưởng niệm, đồng thời thuận tiện đi lại trong thời tiết của chuyến đi. Có thể tách một bộ trang phục viếng khỏi đồ dùng tắm biển hoặc nghỉ dưỡng. Giày dép nên phù hợp các đoạn phải đi bộ. Gia đình có trẻ nhỏ cần chuẩn bị đồ thay và vật dụng cá nhân dễ lấy, tránh để hết trong hành lý lớn khi đang ở chặng nối."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn đồ phù hợp không gian tưởng niệm, đồng thời thuận tiện đi lại trong thời tiết của chuyến đi. Có thể tách một bộ trang phục viếng khỏi đồ dùng tắm biển hoặc nghỉ dưỡng. Giày dép nên phù hợp các đoạn phải đi bộ. Gia đình có trẻ nhỏ cần chuẩn bị đồ thay và vật dụng cá nhân dễ lấy, tránh để hết trong hành lý lớn khi đang ở chặng nối.</span>"
     },
     {
       "type": "h2",
-      "text": "Tách đồ cần dùng trên đường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách đồ cần dùng trên đường</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giấy tờ, thông tin vé, nước uống và đồ cá nhân cần được đặt nơi thuận tiện. Vật dụng đặc biệt, đồ dễ vỡ, chất lỏng hoặc thiết bị điện phải kiểm tra quy định của hãng vận chuyển. Nếu có lễ vật, đóng gói gọn và làm rõ có cần mua tại đảo hay không. Không mặc định các hãng tàu và máy bay chấp nhận giống nhau về loại và lượng hành lý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giấy tờ, thông tin vé, nước uống và đồ cá nhân cần được đặt nơi thuận tiện. Vật dụng đặc biệt, đồ dễ vỡ, chất lỏng hoặc thiết bị điện phải kiểm tra quy định của hãng vận chuyển. Nếu có lễ vật, đóng gói gọn và làm rõ có cần mua tại đảo hay không. Không mặc định các hãng tàu và máy bay chấp nhận giống nhau về loại và lượng hành lý.</span>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ chi phí và người phụ trách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ chi phí và người phụ trách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nên biết lễ vật có nằm trong gói tour hay do từng người tự chuẩn bị. Với phần chung, xác định ai đặt, ai nhận và nơi sử dụng; tránh nhiều người mua trùng. Không cần gắn giá trị lễ với kỳ vọng kết quả tâm linh. TodayTourist hỗ trợ tư vấn chuyến đi và phần chuẩn bị theo nhu cầu, còn hạng mục cụ thể được xác nhận trước khi phát sinh chi phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nên biết lễ vật có nằm trong gói tour hay do từng người tự chuẩn bị. Với phần chung, xác định ai đặt, ai nhận và nơi sử dụng; tránh nhiều người mua trùng. Không cần gắn giá trị lễ với kỳ vọng kết quả tâm linh. TodayTourist hỗ trợ tư vấn chuyến đi và phần chuẩn bị theo nhu cầu, còn hạng mục cụ thể được xác nhận trước khi phát sinh chi phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần mua bộ lễ theo quảng cáo trên mạng? Không nên coi đó là bắt buộc; kiểm tra nội quy và lựa chọn của mình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần mua bộ lễ theo quảng cáo trên mạng? Không nên coi đó là bắt buộc; kiểm tra nội quy và lựa chọn của mình.</span>"
     },
     {
       "type": "p",
-      "text": "Mang lễ vật bằng máy bay được không? Cần hỏi hãng theo vật dụng thực tế và điều kiện vé."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mang lễ vật bằng máy bay được không? Cần hỏi hãng theo vật dụng thực tế và điều kiện vé.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương Côn Đảo: kết hợp viếng và tham quan thế nào?",
-        "Viếng mộ cô Sáu và Nghĩa trang Hàng Dương: chuẩn bị chuyến đi",
-        "Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-con-dao-ket-hop-vieng-va-tham-quan-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương Côn Đảo: kết hợp viếng và tham quan thế nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vieng-mo-co-sau-va-nghia-trang-hang-duong-chuan-bi-chuyen-di/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Viếng mộ cô Sáu và Nghĩa trang Hàng Dương: chuẩn bị chuyến đi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
