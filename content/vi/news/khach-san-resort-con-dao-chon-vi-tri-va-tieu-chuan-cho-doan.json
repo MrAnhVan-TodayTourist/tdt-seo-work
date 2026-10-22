@@ -8,97 +8,100 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn nơi lưu trú ở Côn Đảo cần cân bằng vị trí, tiêu chuẩn phòng và nhịp chương trình. Khách đi viếng có thể ưu tiên thuận tiện di chuyển, trong khi đoàn nghỉ dưỡng quan tâm không gian và thời gian sử dụng tiện ích. Với công ty, khả năng bố trí đủ phòng đúng cơ cấu thường quan trọng hơn chỉ tên hạng sao."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn nơi lưu trú ở Côn Đảo cần cân bằng vị trí, tiêu chuẩn phòng và nhịp chương trình. Khách đi viếng có thể ưu tiên thuận tiện di chuyển, trong khi đoàn nghỉ dưỡng quan tâm không gian và thời gian sử dụng tiện ích. Với công ty, khả năng bố trí đủ phòng đúng cơ cấu thường quan trọng hơn chỉ tên hạng sao.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn vị trí theo việc sẽ làm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn vị trí theo việc sẽ làm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người muốn đi bộ quanh khu trung tâm nên hỏi khoảng cách và đường thực tế. Đoàn nghỉ dưỡng cần xem không gian, bãi biển hoặc tiện ích phù hợp, cùng chặng xe đi tham quan. Gần một điểm chưa chắc thuận tiện cả lịch. Hãy so nơi lưu trú trong toàn bộ chương trình, gồm giờ ăn, viếng và chặng tới sân bay hoặc cảng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người muốn đi bộ quanh khu trung tâm nên hỏi khoảng cách và đường thực tế. Đoàn nghỉ dưỡng cần xem không gian, bãi biển hoặc tiện ích phù hợp, cùng chặng xe đi tham quan. Gần một điểm chưa chắc thuận tiện cả lịch. Hãy so nơi lưu trú trong toàn bộ chương trình, gồm giờ ăn, viếng và chặng tới sân bay hoặc cảng.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218441015-0.jpg",
-      "alt": "Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218441015-0.jpg\" alt=\"Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra cơ cấu phòng và giường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra cơ cấu phòng và giường</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá phải cho biết loại phòng, số người, giường và điều kiện giường phụ. Đoàn có nhiều gia đình hoặc số nam nữ không đều cần phân phòng sớm. Phòng đơn, phòng hướng biển và nâng hạng nếu có phải được làm rõ chi phí. Không mặc định những yêu cầu ghi trong tin nhắn đều đã được cơ sở xác nhận; cần thông tin chốt cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá phải cho biết loại phòng, số người, giường và điều kiện giường phụ. Đoàn có nhiều gia đình hoặc số nam nữ không đều cần phân phòng sớm. Phòng đơn, phòng hướng biển và nâng hạng nếu có phải được làm rõ chi phí. Không mặc định những yêu cầu ghi trong tin nhắn đều đã được cơ sở xác nhận; cần thông tin chốt cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Hỏi quyền lợi ăn sáng và tiện ích"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi quyền lợi ăn sáng và tiện ích</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không phải mọi hạng phòng hoặc cơ sở đều có cùng cách phục vụ ăn sáng. Cần xác nhận có bữa sáng không, tại đâu và theo hình thức nào; không tự ghi buffet cho mọi đêm. Với đoàn muốn giao lưu hoặc hội nghị, kiểm tra phòng, sức chứa và thiết bị riêng. Tiện ích tại cơ sở và hạng mục trong tour là hai phần cần đọc rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không phải mọi hạng phòng hoặc cơ sở đều có cùng cách phục vụ ăn sáng. Cần xác nhận có bữa sáng không, tại đâu và theo hình thức nào; không tự ghi buffet cho mọi đêm. Với đoàn muốn giao lưu hoặc hội nghị, kiểm tra phòng, sức chứa và thiết bị riêng. Tiện ích tại cơ sở và hạng mục trong tour là hai phần cần đọc rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Khớp giờ nhận trả với vận chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khớp giờ nhận trả với vận chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đến sớm hoặc về muộn có thể cần gửi đồ, chỗ nghỉ hay dùng thêm phòng theo điều kiện và phí riêng. Người đại diện nên biết phương án trước khi thông báo cho đoàn. TodayTourist tư vấn lưu trú theo ngày, quy mô, cơ cấu phòng và ngân sách; tên cơ sở, tiêu chuẩn cùng quyền lợi được xác nhận trong báo giá hoặc chương trình cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đến sớm hoặc về muộn có thể cần gửi đồ, chỗ nghỉ hay dùng thêm phòng theo điều kiện và phí riêng. Người đại diện nên biết phương án trước khi thông báo cho đoàn. TodayTourist tư vấn lưu trú theo ngày, quy mô, cơ cấu phòng và ngân sách; tên cơ sở, tiêu chuẩn cùng quyền lợi được xác nhận trong báo giá hoặc chương trình cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách sạn trong tour có chắc buffet sáng? Không; cần xác nhận đúng cơ sở và gói đã đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách sạn trong tour có chắc buffet sáng? Không; cần xác nhận đúng cơ sở và gói đã đặt.</span>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông có bảo đảm cùng một khách sạn không? Phải kiểm tra số phòng và cơ cấu còn nhận vào ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông có bảo đảm cùng một khách sạn không? Phải kiểm tra số phòng và cơ cấu còn nhận vào ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh",
-        "Tour Côn Đảo cho công ty, cơ quan và đoàn thể",
-        "Team Building, Gala Dinner tại Côn Đảo: chọn quy mô và địa điểm"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-cho-cong-ty-co-quan-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo cho công ty, cơ quan và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-gala-dinner-tai-con-dao-chon-quy-mo-va-dia-diem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building, Gala Dinner tại Côn Đảo: chọn quy mô và địa điểm</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
