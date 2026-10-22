@@ -2,7 +2,7 @@
   "slug": "di-nha-trang-cung-tre-nho-hoac-nguoi-lon-tuoi",
   "title": "Đi Nha Trang cùng trẻ nhỏ hoặc người lớn tuổi",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "di-nha-trang-cung-tre-nho-hoac-nguoi-lon-tuoi.jpg",
+  "image": "di-nha-trang-cung-tre-nho-hoac-nguoi-lon-tuoi-v2.jpg",
   "summary": "Tour Nha Trang cho gia đình cần cân bằng sở thích của nhiều thế hệ. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Giữ khoảng nghỉ sau di chuyển và tránh xếp hoạt động sớm liên tục với chương trình tối muộn. Nếu đi đảo, nên để lịch chiều nhẹ; nếu chọn khu vui chơi, xác định những khu phù hợp thay vì cố khám phá toàn bộ. Một ngày ít điểm nhưng không vội thường phù hợp gia đình hơn lịch nối nhiều trải nghiệm."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216052049-0.jpg",
-      "alt": "Đi Nha Trang cùng trẻ nhỏ hoặc người lớn tuổi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216052049-0.jpg\" alt=\"Đi Nha Trang cùng trẻ nhỏ hoặc người lớn tuổi\"></figure>"
     },
     {
       "type": "h2",
