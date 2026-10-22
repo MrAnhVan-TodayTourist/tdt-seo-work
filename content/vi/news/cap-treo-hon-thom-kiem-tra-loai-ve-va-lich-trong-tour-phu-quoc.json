@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Hòn Thơm có thể là phần vui chơi chính trong lịch Nam đảo. Khách nên xem loại vé và thời gian vận hành của ngày đi, không chỉ quan tâm chuyến cáp treo."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Hòn Thơm có thể là phần vui chơi chính trong lịch Nam đảo. Khách nên xem loại vé và thời gian vận hành của ngày đi, không chỉ quan tâm chuyến cáp treo.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt phương tiện và gói trải nghiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt phương tiện và gói trải nghiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sun World giới thiệu tuyến cáp treo kết nối khu Hòn Thơm với phần Nam đảo. Các gói có thể có quyền lợi vui chơi hoặc bữa ăn khác nhau. Báo giá cần tên vé và phần bao gồm cụ thể. Không suy mọi dịch vụ tại khu đều thuộc một gói."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sun World giới thiệu tuyến cáp treo kết nối khu Hòn Thơm với phần Nam đảo. Các gói có thể có quyền lợi vui chơi hoặc bữa ăn khác nhau. Báo giá cần tên vé và phần bao gồm cụ thể. Không suy mọi dịch vụ tại khu đều thuộc một gói.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Dành thời gian thay đồ và nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dành thời gian thay đồ và nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn công viên nước, chuẩn bị đồ dùng phù hợp cùng thời gian thay đồ, ăn uống và quay về. Gia đình cần xem điều kiện từng hoạt động; người không chơi cần phương án nghỉ. Không ghép canô, công viên nước và nhiều điểm tham quan trong một buổi mà không tính khoảng chuyển tiếp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn công viên nước, chuẩn bị đồ dùng phù hợp cùng thời gian thay đồ, ăn uống và quay về. Gia đình cần xem điều kiện từng hoạt động; người không chơi cần phương án nghỉ. Không ghép canô, công viên nước và nhiều điểm tham quan trong một buổi mà không tính khoảng chuyển tiếp.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận giờ phục vụ gần ngày đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận giờ phục vụ gần ngày đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch vận hành và tình trạng thời tiết phải được kiểm tra. Nếu còn show tối tại Sunset Town, tính giờ quay lại, bữa ăn và điểm tập trung. Hoạt động tự chọn cần rõ người tham gia và chặng xe; khách không mua vé không nên bị để chờ tại nơi bất tiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch vận hành và tình trạng thời tiết phải được kiểm tra. Nếu còn show tối tại Sunset Town, tính giờ quay lại, bữa ăn và điểm tập trung. Hoạt động tự chọn cần rõ người tham gia và chặng xe; khách không mua vé không nên bị để chờ tại nơi bất tiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour cơ bản Phú Quốc có luôn gồm cáp treo không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour cơ bản Phú Quốc có luôn gồm cáp treo không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Cáp treo chỉ được xem là bao gồm khi báo giá ghi đúng loại vé và quyền lợi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Cáp treo chỉ được xem là bao gồm khi báo giá ghi đúng loại vé và quyền lợi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm",
-        "Sunset Town, Cầu Hôn và show Phú Quốc: chọn buổi tối phù hợp",
-        "Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-dao-phu-quoc-chon-bien-di-tich-va-trai-nghiem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/sunset-town-cau-hon-va-show-phu-quoc-chon-buoi-toi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Sunset Town, Cầu Hôn và show Phú Quốc: chọn buổi tối phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-cho-gia-dinh-co-tre-nho-chon-lich-va-tien-ich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
