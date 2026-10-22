@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn đi Đức Mẹ Măng Đen cần phân biệt chuyến hành hương với tour nghỉ mát thông thường. Nếu cầu nguyện hoặc dự lễ là mục đích chính, lịch nên dành thời gian cho phần đó trước khi thêm tham quan ở Măng Đen hay điểm kết hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn đi Đức Mẹ Măng Đen cần phân biệt chuyến hành hương với tour nghỉ mát thông thường. Nếu cầu nguyện hoặc dự lễ là mục đích chính, lịch nên dành thời gian cho phần đó trước khi thêm tham quan ở Măng Đen hay điểm kết hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Giữ mục đích hành hương làm trọng tâm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ mục đích hành hương làm trọng tâm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy ghi rõ thời gian mong muốn tại trung tâm hành hương và hoạt động cần được xác nhận. Lịch lễ hoặc sinh hoạt riêng phải kiểm tra từ nơi đến cho ngày đoàn đi. Nếu muốn kết hợp Nhà thờ gỗ hoặc điểm tham quan khác, cần phân bổ đủ thời gian. Không mặc định mọi tour Măng Đen đều có phần sinh hoạt tôn giáo giống nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy ghi rõ thời gian mong muốn tại trung tâm hành hương và hoạt động cần được xác nhận. Lịch lễ hoặc sinh hoạt riêng phải kiểm tra từ nơi đến cho ngày đoàn đi. Nếu muốn kết hợp Nhà thờ gỗ hoặc điểm tham quan khác, cần phân bổ đủ thời gian. Không mặc định mọi tour Măng Đen đều có phần sinh hoạt tôn giáo giống nhau.</span>"
     },
     {
       "type": "html",
@@ -25,76 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đọc lịch đường dài và số đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc lịch đường dài và số đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Từ Đồng Nai và TP.HCM, phương án đi xe cần tính chặng đường cùng thời gian nghỉ thực tế. Tên 2N2Đ hoặc 3N3Đ phải được giải thích đêm xe, đêm phòng. Các lịch khác nhau có thể cùng số điểm nhưng mức nghỉ khác. Nhóm muốn nhịp chậm nên yêu cầu lịch ít điểm và có khoảng linh hoạt, thay vì chỉ chọn tên tour ngắn nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Từ Đồng Nai và TP.HCM, phương án đi xe cần tính chặng đường cùng thời gian nghỉ thực tế. Tên 2N2Đ hoặc 3N3Đ phải được giải thích đêm xe, đêm phòng. Các lịch khác nhau có thể cùng số điểm nhưng mức nghỉ khác. Nhóm muốn nhịp chậm nên yêu cầu lịch ít điểm và có khoảng linh hoạt, thay vì chỉ chọn tên tour ngắn nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe, phòng và điểm kết hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe, phòng và điểm kết hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist trao đổi xe giường nằm hoặc 45 chỗ theo hành trình, số người và dịch vụ được xác nhận. Phòng cần được phân theo nhóm thực tế, bữa ăn theo nhu cầu đoàn. Tham quan cảnh quan là phần bổ sung, không nên làm lỡ hoạt động chính. Bài này hỗ trợ chọn tour hành hương; những nội dung du lịch Măng Đen và Tây Nguyên đã có sẽ được liên kết để khách tìm hiểu phần tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist trao đổi xe giường nằm hoặc 45 chỗ theo hành trình, số người và dịch vụ được xác nhận. Phòng cần được phân theo nhóm thực tế, bữa ăn theo nhu cầu đoàn. Tham quan cảnh quan là phần bổ sung, không nên làm lỡ hoạt động chính. Bài này hỗ trợ chọn tour hành hương; những nội dung du lịch Măng Đen và Tây Nguyên đã có sẽ được liên kết để khách tìm hiểu phần tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chỉ đi hành hương mà không thêm nhiều điểm du lịch không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chỉ đi hành hương mà không thêm nhiều điểm du lịch không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể gửi yêu cầu để trao đổi lịch riêng. Cần xem thời lượng di chuyển, phòng nghỉ và điều kiện hoạt động của nơi đến trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể gửi yêu cầu để trao đổi lịch riêng. Cần xem thời lượng di chuyển, phòng nghỉ và điều kiện hoạt động của nơi đến trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Đức Mẹ La Vang từ Đồng Nai, TP.HCM: chọn tuyến và thời lượng",
-        "Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ",
-        "Tour hành hương nhiều ngày: chọn số đêm và tuyến kết hợp",
-        "Thuê xe hành hương Đức Mẹ Măng Đen"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-duc-me-la-vang-tu-dong-nai-tp-hcm-chon-tuyen-va-thoi-luong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đức Mẹ La Vang từ Đồng Nai, TP.HCM: chọn tuyến và thời lượng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-cong-giao-sap-lich-theo-nhu-cau-giao-xu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-nhieu-ngay-chon-so-dem-va-tuyen-ket-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương nhiều ngày: chọn số đêm và tuyến kết hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe hành hương Đức Mẹ Măng Đen</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
