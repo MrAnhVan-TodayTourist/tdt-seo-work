@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Gành Đá Đĩa, Nhà thờ Mằng Lăng và Đầm Ô Loan thường được cân nhắc trong hướng tham quan phía Bắc Phú Yên. Đây là một tuyến để kết hợp cảnh quan, văn hóa và bữa ăn, nhưng cần tính nhịp đi của đoàn thay vì chỉ nối ba tên điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gành Đá Đĩa, Nhà thờ Mằng Lăng và Đầm Ô Loan thường được cân nhắc trong hướng tham quan phía Bắc Phú Yên. Đây là một tuyến để kết hợp cảnh quan, văn hóa và bữa ăn, nhưng cần tính nhịp đi của đoàn thay vì chỉ nối ba tên điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Gành Đá Đĩa: đủ thời gian ngắm và di chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gành Đá Đĩa: đủ thời gian ngắm và di chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các khối đá ven biển là phần cảnh quan nổi bật. Đoàn cần đi theo lối phù hợp, cân nhắc bề mặt, đoạn lên xuống và điều kiện thời tiết. Với khách muốn chụp ảnh, nên dành khoảng riêng và thống nhất giờ tập trung. Không khuyến khích tới sát mép sóng hoặc vị trí khó đi chỉ để lấy góc ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các khối đá ven biển là phần cảnh quan nổi bật. Đoàn cần đi theo lối phù hợp, cân nhắc bề mặt, đoạn lên xuống và điều kiện thời tiết. Với khách muốn chụp ảnh, nên dành khoảng riêng và thống nhất giờ tập trung. Không khuyến khích tới sát mép sóng hoặc vị trí khó đi chỉ để lấy góc ảnh.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Mằng Lăng: tham quan theo phạm vi được phép"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mằng Lăng: tham quan theo phạm vi được phép</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà thờ là điểm để tìm hiểu kiến trúc và văn hóa trong tuyến. Kiểm tra thời gian đón khách, khu vực có thể vào và lịch sinh hoạt tại nơi này. Đoàn nên ăn mặc, nói chuyện và chụp ảnh phù hợp không gian tôn giáo. Nếu muốn nghe giới thiệu chuyên sâu, cần trao đổi trước thay vì mặc định lúc nào cũng có người thuyết minh tại điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà thờ là điểm để tìm hiểu kiến trúc và văn hóa trong tuyến. Kiểm tra thời gian đón khách, khu vực có thể vào và lịch sinh hoạt tại nơi này. Đoàn nên ăn mặc, nói chuyện và chụp ảnh phù hợp không gian tôn giáo. Nếu muốn nghe giới thiệu chuyên sâu, cần trao đổi trước thay vì mặc định lúc nào cũng có người thuyết minh tại điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Đầm Ô Loan: chọn trải nghiệm và bữa ăn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đầm Ô Loan: chọn trải nghiệm và bữa ăn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu đưa bữa ăn vào tuyến, hỏi nhà hàng, thực đơn, sức chứa và đường tiếp cận. Đặc sản hoặc hải sản không tự động nằm trong giá; cần thể hiện món đã chốt và khoản gọi thêm. Đoàn đông nên đặt trước thời điểm dùng bữa và phương án phục vụ để tránh kéo dài lịch trình. Có thể dành thời gian ngắm cảnh theo điều kiện thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu đưa bữa ăn vào tuyến, hỏi nhà hàng, thực đơn, sức chứa và đường tiếp cận. Đặc sản hoặc hải sản không tự động nằm trong giá; cần thể hiện món đã chốt và khoản gọi thêm. Đoàn đông nên đặt trước thời điểm dùng bữa và phương án phục vụ để tránh kéo dài lịch trình. Có thể dành thời gian ngắm cảnh theo điều kiện thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết hợp với Quy Nhơn hoặc Tuy Hòa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết hợp với Quy Nhơn hoặc Tuy Hòa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thứ tự điểm phụ thuộc nơi đón và nơi nghỉ. Với tour liên tuyến, hướng Bắc Phú Yên có thể được xem xét theo đường di chuyển, nhưng phải tính giờ nhận phòng và các hoạt động tối. Nếu còn muốn đi Mũi Điện hoặc Hòn Nưa, nên xem ngày khác hoặc kéo dài chương trình, tránh gom hai hướng vào một ngày quá gấp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thứ tự điểm phụ thuộc nơi đón và nơi nghỉ. Với tour liên tuyến, hướng Bắc Phú Yên có thể được xem xét theo đường di chuyển, nhưng phải tính giờ nhận phòng và các hoạt động tối. Nếu còn muốn đi Mũi Điện hoặc Hòn Nưa, nên xem ngày khác hoặc kéo dài chương trình, tránh gom hai hướng vào một ngày quá gấp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gành Đá Đĩa và Gành Đá Dĩa có phải hai nơi không? Đây là những cách viết thường gặp của cùng điểm đến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gành Đá Đĩa và Gành Đá Dĩa có phải hai nơi không? Đây là những cách viết thường gặp của cùng điểm đến.</span>"
     },
     {
       "type": "p",
-      "text": "Tuyến này có luôn gồm bữa hải sản không? Không; xem thực đơn và phần bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tuyến này có luôn gồm bữa hải sản không? Không; xem thực đơn và phần bao gồm.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Phú Yên: chọn lịch trình riêng cho chuyến đi xứ Nẫu",
-        "Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên",
-        "Tuy Hòa – Bãi Xép – Nghinh Phong: chọn điểm trong tour Phú Yên"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-yen-chon-lich-trinh-rieng-cho-chuyen-di-xu-nau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Yên: chọn lịch trình riêng cho chuyến đi xứ Nẫu</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mui-dien-vung-ro-hon-nua-chon-tuyen-nam-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Mũi Điện – Vũng Rô – Hòn Nưa: chọn tuyến Nam Phú Yên</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tuy-hoa-bai-xep-nghinh-phong-chon-diem-trong-tour-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tuy Hòa – Bãi Xép – Nghinh Phong: chọn điểm trong tour Phú Yên</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
