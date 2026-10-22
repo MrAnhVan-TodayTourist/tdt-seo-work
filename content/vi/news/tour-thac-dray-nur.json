@@ -3,21 +3,21 @@
   "title": "Thác Dray Nur–Dray Sap: chọn chặng tham quan phù hợp trong tour",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tay-nguyen-tour-thac-dray-nur.jpg",
-  "summary": "Thác Dray Nur–Dray Sap. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Dray Nur và Dray Sap là những tên thác thường xuất hiện khi khách tìm du lịch Ban Mê.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Dray Nur và Dray Sap là những tên thác thường xuất hiện khi khách tìm du lịch Ban Mê. Hai tên cùng được nhắc không có nghĩa mọi tour đều thăm cả hai. Chọn điểm theo đường vào, quỹ thời gian và khả năng đi bộ của đoàn sẽ hữu ích hơn chỉ so ảnh."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Dray Nur và Dray Sap là những tên thác thường xuất hiện khi khách tìm du lịch Ban Mê. Hai tên cùng được nhắc không có nghĩa mọi tour đều thăm cả hai. Chọn điểm theo đường vào, quỹ thời gian và khả năng đi bộ của đoàn sẽ hữu ích hơn chỉ so ảnh.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận thác và lối tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận thác và lối tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi tên thác trong giá tour, khu được vào và chặng từ bãi xe đến điểm quan sát. Đoàn có trẻ nhỏ hoặc người cần nghỉ nên kiểm tra bậc thang và nơi chờ. Không quyết định bằng một ảnh góc rộng vốn không thể hiện đầy đủ lối đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi tên thác trong giá tour, khu được vào và chặng từ bãi xe đến điểm quan sát. Đoàn có trẻ nhỏ hoặc người cần nghỉ nên kiểm tra bậc thang và nơi chờ. Không quyết định bằng một ảnh góc rộng vốn không thể hiện đầy đủ lối đi.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Dành thời gian cho điều kiện thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dành thời gian cho điều kiện thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mưa, nền trơn hoặc thay đổi khu vực hoạt động có thể ảnh hưởng cách tham quan. Tuân theo hướng dẫn và biển tại điểm, không tự xuống vùng nước hay chọn đường tắt để chụp ảnh. Chương trình cần có phương án điều chỉnh nếu phần ngoài trời không phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mưa, nền trơn hoặc thay đổi khu vực hoạt động có thể ảnh hưởng cách tham quan. Tuân theo hướng dẫn và biển tại điểm, không tự xuống vùng nước hay chọn đường tắt để chụp ảnh. Chương trình cần có phương án điều chỉnh nếu phần ngoài trời không phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Đừng thêm cả hai thác chỉ để đủ danh sách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đừng thêm cả hai thác chỉ để đủ danh sách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu đoàn có chặng chuyển vùng hoặc Gala buổi tối, có thể chọn một thác và giữ thêm giờ nghỉ. Các tour liên tuyến tham khảo bên dưới không phải cam kết luôn có Dray Nur hay Dray Sap. Gửi yêu cầu để xác nhận tuyến mới và phần vé."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu đoàn có chặng chuyển vùng hoặc Gala buổi tối, có thể chọn một thác và giữ thêm giờ nghỉ. Các tour liên tuyến tham khảo bên dưới không phải cam kết luôn có Dray Nur hay Dray Sap. Gửi yêu cầu để xác nhận tuyến mới và phần vé.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tham quan thác có mặc định được tắm không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Nội dung ngắm thác khác hoạt động xuống nước; chỉ tham gia phần được nơi tổ chức cho phép và hướng dẫn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham quan thác có mặc định được tắm không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Nội dung ngắm thác khác hoạt động xuống nước; chỉ tham gia phần được nơi tổ chức cho phép và hướng dẫn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-pleiku/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Pleiku–Gia Lai: chọn Biển Hồ, phố núi và điểm văn hóa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bien-ho-pleiku/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Biển Hồ và Biển Hồ Chè Pleiku: chọn hai trải nghiệm khác nhau</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tour Pleiku–Gia Lai: chọn Biển Hồ, phố núi và điểm văn hóa",
-        "Biển Hồ và Biển Hồ Chè Pleiku: chọn hai trải nghiệm khác nhau",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
