@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Ẩm thực là phần đáng dành thời gian trong tour Quy Nhơn – Phú Yên. Với khách đoàn, lựa chọn món cần đi cùng khả năng phục vụ, vị trí nhà hàng và nhu cầu của nhiều thành viên, để cả nhóm được ăn đúng nhịp và dễ thưởng thức."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ẩm thực là phần đáng dành thời gian trong tour Quy Nhơn – Phú Yên. Với khách đoàn, lựa chọn món cần đi cùng khả năng phục vụ, vị trí nhà hàng và nhu cầu của nhiều thành viên, để cả nhóm được ăn đúng nhịp và dễ thưởng thức.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn món địa phương có trọng tâm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn món địa phương có trọng tâm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ở Quy Nhơn có thể tìm hiểu bánh hỏi cháo lòng, bún chả cá, bánh xèo và các món biển; Phú Yên có bánh canh hẹ, mắt cá ngừ và món ăn gắn với Đầm Ô Loan. Đây là gợi ý tìm hiểu, không có nghĩa mọi món đều nằm trong tour. Hãy chọn vài món đoàn quan tâm và hỏi nơi phục vụ phù hợp theo tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ở Quy Nhơn có thể tìm hiểu bánh hỏi cháo lòng, bún chả cá, bánh xèo và các món biển; Phú Yên có bánh canh hẹ, mắt cá ngừ và món ăn gắn với Đầm Ô Loan. Đây là gợi ý tìm hiểu, không có nghĩa mọi món đều nằm trong tour. Hãy chọn vài món đoàn quan tâm và hỏi nơi phục vụ phù hợp theo tuyến.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Bữa tham quan và bữa Gala khác nhau"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bữa tham quan và bữa Gala khác nhau</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bữa trưa trên đường cần phục vụ đúng giờ và thuận tiện tiếp tục hành trình. Tiệc tối cần tính không gian, thời gian giao lưu và thiết bị nếu có chương trình. BBQ hoặc buffet có cách phục vụ khác thực đơn bàn. Đoàn đông nên chốt số bàn, số người mỗi bàn, thực đơn và cách bổ sung món khi nhu cầu thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bữa trưa trên đường cần phục vụ đúng giờ và thuận tiện tiếp tục hành trình. Tiệc tối cần tính không gian, thời gian giao lưu và thiết bị nếu có chương trình. BBQ hoặc buffet có cách phục vụ khác thực đơn bàn. Đoàn đông nên chốt số bàn, số người mỗi bàn, thực đơn và cách bổ sung món khi nhu cầu thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Không chọn chỉ theo hình hải sản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không chọn chỉ theo hình hải sản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi món cụ thể, định lượng hoặc cách phục vụ đã thỏa thuận, số bữa và đồ uống. Món gọi thêm, hải sản chọn riêng hoặc đồ uống ngoài thực đơn có thể phát sinh. Nhà hàng nổi tiếng với khách lẻ chưa chắc nhận và phục vụ đồng thời một đoàn lớn; cần kiểm tra sức chứa, bãi xe, nhà vệ sinh và nhịp ra món."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi món cụ thể, định lượng hoặc cách phục vụ đã thỏa thuận, số bữa và đồ uống. Món gọi thêm, hải sản chọn riêng hoặc đồ uống ngoài thực đơn có thể phát sinh. Nhà hàng nổi tiếng với khách lẻ chưa chắc nhận và phục vụ đồng thời một đoàn lớn; cần kiểm tra sức chứa, bãi xe, nhà vệ sinh và nhịp ra món.</span>"
     },
     {
       "type": "h2",
-      "text": "Gửi nhu cầu đặc biệt trước chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gửi nhu cầu đặc biệt trước chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lập số khách ăn chay, trẻ em, người không dùng hải sản và nhu cầu cần trao đổi riêng. Có thể bố trí món thay thế phù hợp nhưng phải xác nhận với nơi phục vụ. Nếu muốn tự do một bữa để khám phá, ghi rõ bữa nào tự túc và cách tập trung sau đó. TodayTourist tư vấn thực đơn theo lịch trình, ngân sách và số khách cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lập số khách ăn chay, trẻ em, người không dùng hải sản và nhu cầu cần trao đổi riêng. Có thể bố trí món thay thế phù hợp nhưng phải xác nhận với nơi phục vụ. Nếu muốn tự do một bữa để khám phá, ghi rõ bữa nào tự túc và cách tập trung sau đó. TodayTourist tư vấn thực đơn theo lịch trình, ngân sách và số khách cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour có luôn bao gồm mắt cá ngừ hoặc BBQ hải sản không? Không; phải xem thực đơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour có luôn bao gồm mắt cá ngừ hoặc BBQ hải sản không? Không; phải xem thực đơn.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đổi một bữa đoàn thành tự do không? Có thể trao đổi khi thiết kế và dự toán."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đổi một bữa đoàn thành tự do không? Có thể trao đổi khi thiết kế và dự toán.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn",
-        "Gala Dinner Quy Nhơn – Phú Yên: địa điểm, kịch bản và dự toán",
-        "BBQ và lửa trại Quy Nhơn – Phú Yên: chọn hoạt động phù hợp"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-quy-nhon-phu-yen-tinh-ngan-sach-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-quy-nhon-phu-yen-dia-diem-kich-ban-va-du-toan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Quy Nhơn – Phú Yên: địa điểm, kịch bản và dự toán</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bbq-va-lua-trai-quy-nhon-phu-yen-chon-hoat-dong-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">BBQ và lửa trại Quy Nhơn – Phú Yên: chọn hoạt động phù hợp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
