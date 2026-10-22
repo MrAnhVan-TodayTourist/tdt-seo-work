@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Buổi tối ở Cần Thơ có thể dành cho dạo Bến Ninh Kiều, ăn nhà hàng hoặc trải nghiệm du thuyền. Đây cũng là phần cần chọn theo nhịp của đoàn. Nếu sáng hôm sau đi chợ nổi, nên giữ giờ kết thúc vừa phải, thay vì tăng hoạt động đến muộn rồi thiếu thời gian nghỉ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Buổi tối ở Cần Thơ có thể dành cho dạo Bến Ninh Kiều, ăn nhà hàng hoặc trải nghiệm du thuyền. Đây cũng là phần cần chọn theo nhịp của đoàn. Nếu sáng hôm sau đi chợ nổi, nên giữ giờ kết thúc vừa phải, thay vì tăng hoạt động đến muộn rồi thiếu thời gian nghỉ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dạo trung tâm hay đặt bữa tối trên sông"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dạo trung tâm hay đặt bữa tối trên sông</span></strong>"
     },
     {
       "type": "p",
-      "text": "Dạo bến phù hợp nhóm muốn tự do và ít ràng buộc thời gian. Du thuyền cần đặt rõ dịch vụ ăn, khu chỗ ngồi, giờ lên và xuống. Không mặc định mọi nhà hàng gần sông đều là du thuyền chạy, hoặc mọi vé du thuyền đã có bữa ăn giống nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dạo bến phù hợp nhóm muốn tự do và ít ràng buộc thời gian. Du thuyền cần đặt rõ dịch vụ ăn, khu chỗ ngồi, giờ lên và xuống. Không mặc định mọi nhà hàng gần sông đều là du thuyền chạy, hoặc mọi vé du thuyền đã có bữa ăn giống nhau.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đoàn công ty cần hỏi khu sử dụng riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn công ty cần hỏi khu sử dụng riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu có vinh danh, phát biểu hoặc giao lưu, hãy gửi nội dung để kiểm tra khả năng tổ chức. Sân khấu, âm thanh, màn hình và thời lượng phải được xác nhận. Nhóm muốn Gala đầy đủ có thể chọn nhà hàng riêng thay vì dịch vụ du thuyền thông thường, tùy mục tiêu và ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu có vinh danh, phát biểu hoặc giao lưu, hãy gửi nội dung để kiểm tra khả năng tổ chức. Sân khấu, âm thanh, màn hình và thời lượng phải được xác nhận. Nhóm muốn Gala đầy đủ có thể chọn nhà hàng riêng thay vì dịch vụ du thuyền thông thường, tùy mục tiêu và ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ đầu mối khi có thời gian tự do"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ đầu mối khi có thời gian tự do</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nên có điểm gặp, giờ tập trung, địa chỉ khách sạn và người liên hệ. Gia đình có trẻ nhỏ có thể chọn ăn sớm rồi về nghỉ; người khác dạo theo nhu cầu. Khi đặt tour, xác nhận phần buổi tối đã gồm trong giá hay tự túc để mọi người hiểu đúng khoản chi và lịch sinh hoạt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nên có điểm gặp, giờ tập trung, địa chỉ khách sạn và người liên hệ. Gia đình có trẻ nhỏ có thể chọn ăn sớm rồi về nghỉ; người khác dạo theo nhu cầu. Khi đặt tour, xác nhận phần buổi tối đã gồm trong giá hay tự túc để mọi người hiểu đúng khoản chi và lịch sinh hoạt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể đổi bữa tối du thuyền thành Gala không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể đổi bữa tối du thuyền thành Gala không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị điều chỉnh, nhưng cần kiểm tra địa điểm, thiết bị và chi phí. Không coi đây là thay đổi miễn phí hoặc dịch vụ sẵn có khi chưa xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị điều chỉnh, nhưng cần kiểm tra địa điểm, thiết bị và chi phí. Không coi đây là thay đổi miễn phí hoặc dịch vụ sẵn có khi chưa xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc Bến Ninh Kiều? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc Bến Ninh Kiều? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-can-tho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cần Thơ: chọn chợ nổi, miệt vườn và trải nghiệm buổi tối</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-cho-noi-cai-rang/\" target=\"_blank\" rel=\"noopener nofollow\">Chợ nổi Cái Răng: chọn giờ đi, thuyền và dịch vụ trong tour</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cho-noi-cai-rang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chợ nổi Cái Răng: chọn giờ đi, thuyền và dịch vụ trong tour</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
