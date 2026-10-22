@@ -2,7 +2,7 @@
   "slug": "to-chuc-tour-nha-trang-cho-cong-ty-xi-nghiep",
   "title": "Tổ chức tour Nha Trang cho công ty, xí nghiệp",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "to-chuc-tour-nha-trang-cho-cong-ty-xi-nghiep.jpg",
+  "image": "to-chuc-tour-nha-trang-cho-cong-ty-xi-nghiep-v2.jpg",
   "summary": "Tour công ty đi Nha Trang cần phục vụ mục tiêu của tập thể: nghỉ ngơi, gắn kết, khen thưởng hoặc tri ân. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Xác định chuyến đi ưu tiên nghỉ dưỡng hay hoạt động chung, ai duyệt ngân sách và ai tổng hợp danh sách. Công ty có nhiều ca làm nên kiểm tra khả năng bố trí nhân sự trước khi giữ ngày. Trẻ em, người đi kèm và khách mời cần được tách khỏi số nhân viên để tính phòng, xe và suất ăn chính xác."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215872038-0.jpg",
-      "alt": "Tổ chức tour Nha Trang cho công ty, xí nghiệp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215872038-0.jpg\" alt=\"Tổ chức tour Nha Trang cho công ty, xí nghiệp\"></figure>"
     },
     {
       "type": "h2",
