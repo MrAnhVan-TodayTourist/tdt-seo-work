@@ -3,21 +3,21 @@
   "title": "Tàu Rạch Giá–Nam Du, Hòn Sơn: kiểm tra vé và chuyến nối",
   "category": "Tour Nam Du – Hòn Sơn – Tư vấn đoàn",
   "image": "nam-du-ve-tau-nam-du.jpg",
-  "summary": "Tàu Rạch Giá–Nam Du, Hòn Sơn. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Tàu Rạch Giá–Nam Du, Hòn Sơn: kiểm tra vé và chuyến nối. TodayTourist tư vấn chương trình phù hợp cho khách đoàn.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Vé tàu cần được kiểm tra cho đúng tuyến, ngày và chiều đi về. Khách muốn kết hợp hai đảo còn phải xác nhận chặng nối. Lịch nhìn thấy trên Internet chỉ giúp tham khảo trước khi đối chiếu chuyến thực tế."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Vé tàu cần được kiểm tra cho đúng tuyến, ngày và chiều đi về. Khách muốn kết hợp hai đảo còn phải xác nhận chặng nối. Lịch nhìn thấy trên Internet chỉ giúp tham khảo trước khi đối chiếu chuyến thực tế.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Giữ cả chiều đi và chiều về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ cả chiều đi và chiều về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày và nhu cầu loại chỗ để kiểm tra. Hỏi nơi làm thủ tục và thời gian cần có mặt; đừng dùng giờ trên một bài cũ làm lịch chính thức. Tàu ra đảo và tàu tham quan quanh đảo là hai dịch vụ khác nhau, không thể thay vé cho nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày và nhu cầu loại chỗ để kiểm tra. Hỏi nơi làm thủ tục và thời gian cần có mặt; đừng dùng giờ trên một bài cũ làm lịch chính thức. Tàu ra đảo và tàu tham quan quanh đảo là hai dịch vụ khác nhau, không thể thay vé cho nhau.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Danh sách và giấy tờ theo đúng yêu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Danh sách và giấy tờ theo đúng yêu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người đại diện cần hỏi thông tin phải gửi, giấy tờ mang theo và điều kiện sửa vé. Kiểm tra riêng trường hợp trẻ em hoặc khách dùng hộ chiếu nước ngoài. Chỉ thu thông tin cần cho dịch vụ, gửi qua kênh phù hợp; không công khai danh sách cá nhân trong nội dung quảng bá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người đại diện cần hỏi thông tin phải gửi, giấy tờ mang theo và điều kiện sửa vé. Kiểm tra riêng trường hợp trẻ em hoặc khách dùng hộ chiếu nước ngoài. Chỉ thu thông tin cần cho dịch vụ, gửi qua kênh phù hợp; không công khai danh sách cá nhân trong nội dung quảng bá.</span>"
     },
     {
       "type": "h2",
-      "text": "Đổi tàu phải cập nhật xe và phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đổi tàu phải cập nhật xe và phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi cách xử lý vé khi khách đổi ngày hoặc chuyến điều chỉnh vận hành. Điều kiện có thể khác theo loại vé và nguyên nhân thay đổi. Nếu làm liên tuyến, kiểm tra giờ nối và phương án khi không đi được; phòng ở hai đảo cùng các bữa ăn phải được cập nhật đồng thời."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi cách xử lý vé khi khách đổi ngày hoặc chuyến điều chỉnh vận hành. Điều kiện có thể khác theo loại vé và nguyên nhân thay đổi. Nếu làm liên tuyến, kiểm tra giờ nối và phương án khi không đi được; phòng ở hai đảo cùng các bữa ăn phải được cập nhật đồng thời.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tàu đi Nam Du ghé Hòn Sơn có nghĩa được tham quan cả hai?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tàu đi Nam Du ghé Hòn Sơn có nghĩa được tham quan cả hai?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Việc đi ngang hoặc dừng một chặng không tự tạo chương trình tham quan. Cần vé, thời gian và dịch vụ nối được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Việc đi ngang hoặc dừng một chặng không tự tạo chương trình tham quan. Cần vé, thời gian và dịch vụ nối được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Nam Du–Hòn Sơn mùa nào đẹp: chọn ngày đi và dự phòng đổi lịch",
-        "Nam Du–Hòn Sơn cho gia đình và người lớn tuổi: chọn nhịp nhẹ",
-        "Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nam-du-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nam Du–Hòn Sơn mùa nào đẹp: chọn ngày đi và dự phòng đổi lịch</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-du-gia-dinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nam Du–Hòn Sơn cho gia đình và người lớn tuổi: chọn nhịp nhẹ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
