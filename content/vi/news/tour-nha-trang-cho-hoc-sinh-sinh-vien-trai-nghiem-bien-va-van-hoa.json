@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Nha Trang cho trường học nên có mục tiêu trải nghiệm rõ: tìm hiểu sinh vật biển, văn hóa địa phương hoặc kỹ năng tập thể. Lịch cần phù hợp độ tuổi và cách quản lý của nhà trường, thay vì dùng nguyên chương trình nghỉ dưỡng của người lớn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Nha Trang cho trường học nên có mục tiêu trải nghiệm rõ: tìm hiểu sinh vật biển, văn hóa địa phương hoặc kỹ năng tập thể. Lịch cần phù hợp độ tuổi và cách quản lý của nhà trường, thay vì dùng nguyên chương trình nghỉ dưỡng của người lớn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm theo mục tiêu học tập"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm theo mục tiêu học tập</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị nội dung quan sát ở Viện Hải dương học, tìm hiểu văn hóa tại Tháp Bà Ponagar hoặc hoạt động phối hợp theo nhóm. Mỗi điểm nên đi cùng câu hỏi hoặc nhiệm vụ ngắn để học sinh có điều ghi nhận. Nội dung và hình thức tiếp cận phải phù hợp lứa tuổi; không cần thêm quá nhiều điểm chỉ để kéo dài danh sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị nội dung quan sát ở Viện Hải dương học, tìm hiểu văn hóa tại Tháp Bà Ponagar hoặc hoạt động phối hợp theo nhóm. Mỗi điểm nên đi cùng câu hỏi hoặc nhiệm vụ ngắn để học sinh có điều ghi nhận. Nội dung và hình thức tiếp cận phải phù hợp lứa tuổi; không cần thêm quá nhiều điểm chỉ để kéo dài danh sách.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Tổ chức danh sách theo xe và nhóm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tổ chức danh sách theo xe và nhóm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà trường cần thống nhất giáo viên phụ trách, đầu mối điều hành và quy trình điểm danh ở điểm đón, nơi tham quan, khách sạn. Danh sách phòng, suất ăn và người có nhu cầu riêng nên được chuẩn bị trước. Số học sinh trên xe phải phù hợp phương án bố trí giáo viên, hướng dẫn viên và sức chứa được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà trường cần thống nhất giáo viên phụ trách, đầu mối điều hành và quy trình điểm danh ở điểm đón, nơi tham quan, khách sạn. Danh sách phòng, suất ăn và người có nhu cầu riêng nên được chuẩn bị trước. Số học sinh trên xe phải phù hợp phương án bố trí giáo viên, hướng dẫn viên và sức chứa được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Cân nhắc hoạt động trên biển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cân nhắc hoạt động trên biển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không mặc định tour đảo hoặc trò chơi nước phù hợp mọi độ tuổi. Cần xác nhận điều kiện tham gia với đơn vị phục vụ và có cách quản lý rõ. Đoàn có thể chọn trải nghiệm trên đất liền nếu hoạt động biển không phù hợp; học sinh không tham gia một phần cần có người phụ trách và hoạt động thay thế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không mặc định tour đảo hoặc trò chơi nước phù hợp mọi độ tuổi. Cần xác nhận điều kiện tham gia với đơn vị phục vụ và có cách quản lý rõ. Đoàn có thể chọn trải nghiệm trên đất liền nếu hoạt động biển không phù hợp; học sinh không tham gia một phần cần có người phụ trách và hoạt động thay thế.</span>"
     },
     {
       "type": "h2",
-      "text": "Thông báo rõ cho phụ huynh hoặc sinh viên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông báo rõ cho phụ huynh hoặc sinh viên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nêu lịch, bữa ăn, nơi nghỉ, đồ cần mang, liên hệ hỗ trợ và khoản tự túc nếu có. Hoạt động tự do phải có phạm vi và giờ tập trung, không chỉ ghi một dòng chung. TodayTourist tư vấn tour trường học theo mục tiêu nhà trường, quy mô và thời gian nghỉ; lịch cụ thể được phối hợp trước khi triển khai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nêu lịch, bữa ăn, nơi nghỉ, đồ cần mang, liên hệ hỗ trợ và khoản tự túc nếu có. Hoạt động tự do phải có phạm vi và giờ tập trung, không chỉ ghi một dòng chung. TodayTourist tư vấn tour trường học theo mục tiêu nhà trường, quy mô và thời gian nghỉ; lịch cụ thể được phối hợp trước khi triển khai.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể kết hợp tham quan và Team Building không? Nên chọn trò theo độ tuổi và thời gian. Có bắt buộc đi đảo? Không; có thể đề nghị phương án trải nghiệm trên đất liền."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể kết hợp tham quan và Team Building không? Nên chọn trò theo độ tuổi và thời gian. Có bắt buộc đi đảo? Không; có thể đề nghị phương án trải nghiệm trên đất liền.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nha Trang cho cơ quan, đoàn thể và tập thể giáo viên",
-        "Đi Nha Trang cùng trẻ nhỏ hoặc người lớn tuổi",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-cho-co-quan-doan-the-va-tap-the-giao-vien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang cho cơ quan, đoàn thể và tập thể giáo viên</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-nha-trang-cung-tre-nho-hoac-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Nha Trang cùng trẻ nhỏ hoặc người lớn tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
