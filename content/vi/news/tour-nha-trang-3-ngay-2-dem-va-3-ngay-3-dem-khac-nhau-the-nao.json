@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khi tìm tour Nha Trang 3 ngày, khách thường gặp cả 3N2Đ và 3N3Đ. Khác biệt cần xem là giờ xuất phát, số đêm trên xe và số đêm ở khách sạn. Tên tour không đủ để kết luận phương án nào có nhiều thời gian nghỉ dưỡng hơn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi tìm tour Nha Trang 3 ngày, khách thường gặp cả 3N2Đ và 3N3Đ. Khác biệt cần xem là giờ xuất phát, số đêm trên xe và số đêm ở khách sạn. Tên tour không đủ để kết luận phương án nào có nhiều thời gian nghỉ dưỡng hơn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đếm riêng đêm xe và đêm khách sạn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đếm riêng đêm xe và đêm khách sạn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một phương án 3N3Đ có thể khởi hành tối hôm trước, nghỉ đêm trên xe rồi ở khách sạn hai đêm. Một phương án 3N2Đ có thể khởi hành buổi sáng và ở khách sạn hai đêm. Đây là hai cách tổ chức thường gặp, không phải quy tắc cho mọi nhà tour. Hãy yêu cầu lịch từng ngày và địa điểm nghỉ từng đêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một phương án 3N3Đ có thể khởi hành tối hôm trước, nghỉ đêm trên xe rồi ở khách sạn hai đêm. Một phương án 3N2Đ có thể khởi hành buổi sáng và ở khách sạn hai đêm. Đây là hai cách tổ chức thường gặp, không phải quy tắc cho mọi nhà tour. Hãy yêu cầu lịch từng ngày và địa điểm nghỉ từng đêm.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Phương án đi ban ngày phù hợp ai?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phương án đi ban ngày phù hợp ai?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn hạn chế ngủ trên xe có thể cân nhắc xuất phát sáng. Đổi lại, ngày đầu dành nhiều thời gian di chuyển, nên lịch chiều cần nhẹ và có khoảng nghỉ. Người phụ trách nên kiểm tra bữa ăn trên đường, giờ nhận phòng dự kiến và việc có đủ thời gian cho hoạt động chính của ngày đầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn hạn chế ngủ trên xe có thể cân nhắc xuất phát sáng. Đổi lại, ngày đầu dành nhiều thời gian di chuyển, nên lịch chiều cần nhẹ và có khoảng nghỉ. Người phụ trách nên kiểm tra bữa ăn trên đường, giờ nhận phòng dự kiến và việc có đủ thời gian cho hoạt động chính của ngày đầu.</span>"
     },
     {
       "type": "h2",
-      "text": "Phương án đi ban đêm cần chuẩn bị gì?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phương án đi ban đêm cần chuẩn bị gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khởi hành tối có thể giúp đoàn dành thêm thời gian ban ngày tại điểm đến, nhưng không thay thế một đêm nghỉ khách sạn. Cần chọn phương tiện phù hợp, điểm tập kết thuận tiện và khoảng nghỉ khi đến nơi. Không mặc định được nhận phòng sớm miễn phí; nếu cần phòng ngay buổi sáng phải hỏi riêng điều kiện và chi phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khởi hành tối có thể giúp đoàn dành thêm thời gian ban ngày tại điểm đến, nhưng không thay thế một đêm nghỉ khách sạn. Cần chọn phương tiện phù hợp, điểm tập kết thuận tiện và khoảng nghỉ khi đến nơi. Không mặc định được nhận phòng sớm miễn phí; nếu cần phòng ngay buổi sáng phải hỏi riêng điều kiện và chi phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo lịch nghỉ và hoạt động của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo lịch nghỉ và hoạt động của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty có nhân viên vừa kết thúc ca làm cần tính thời gian tập trung và nghỉ trước khi đi. Đoàn muốn Team Building, tour đảo và Gala nên tránh dồn ba phần vào ngày vừa đến. Hãy so hai phương án bằng giờ có mặt thực tế, thời gian nghỉ, đêm phòng và tổng dịch vụ, rồi lựa chọn theo lịch của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty có nhân viên vừa kết thúc ca làm cần tính thời gian tập trung và nghỉ trước khi đi. Đoàn muốn Team Building, tour đảo và Gala nên tránh dồn ba phần vào ngày vừa đến. Hãy so hai phương án bằng giờ có mặt thực tế, thời gian nghỉ, đêm phòng và tổng dịch vụ, rồi lựa chọn theo lịch của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "3N3Đ có nghĩa ba đêm khách sạn không? Không nhất thiết. 3N2Đ có thể thêm Gala không? Có thể đề nghị thiết kế, nhưng cần cân đối lịch và ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">3N3Đ có nghĩa ba đêm khách sạn không? Không nhất thiết. 3N2Đ có thể thêm Gala không? Có thể đề nghị thiết kế, nhưng cần cân đối lịch và ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Nha Trang cuối tuần: lịch trình 2 ngày có phù hợp?",
-        "Lịch trình Nha Trang 4 ngày 3 đêm cho đoàn nghỉ dưỡng",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-nha-trang-cuoi-tuan-lich-trinh-2-ngay-co-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Nha Trang cuối tuần: lịch trình 2 ngày có phù hợp?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-nha-trang-4-ngay-3-dem-cho-doan-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Nha Trang 4 ngày 3 đêm cho đoàn nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
