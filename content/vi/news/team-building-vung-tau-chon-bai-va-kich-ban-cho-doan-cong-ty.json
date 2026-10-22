@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Team Building Vũng Tàu hiệu quả khi trò chơi phù hợp mục tiêu doanh nghiệp và mặt bằng thực tế. Không nên chọn bằng số lượng trò chơi hoặc lời hứa chương trình thật hoành tráng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Team Building Vũng Tàu hiệu quả khi trò chơi phù hợp mục tiêu doanh nghiệp và mặt bằng thực tế. Không nên chọn bằng số lượng trò chơi hoặc lời hứa chương trình thật hoành tráng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắt đầu từ thông điệp muốn truyền tải"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắt đầu từ thông điệp muốn truyền tải</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn làm quen giữa phòng ban cần hoạt động phối hợp nhẹ. Đoàn muốn tăng khả năng trao đổi cần trò chơi có phần phân công và phản hồi. Gửi số người, độ tuổi, thể lực và nội dung cần tránh cho người xây kịch bản. Không dùng trò gây khó chịu, bêu tên hoặc ép người không muốn vận động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn làm quen giữa phòng ban cần hoạt động phối hợp nhẹ. Đoàn muốn tăng khả năng trao đổi cần trò chơi có phần phân công và phản hồi. Gửi số người, độ tuổi, thể lực và nội dung cần tránh cho người xây kịch bản. Không dùng trò gây khó chịu, bêu tên hoặc ép người không muốn vận động.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Khảo sát bãi hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khảo sát bãi hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần kiểm tra nền, diện tích, lối vào, nơi nghỉ, nhà vệ sinh và điều kiện sử dụng. Bãi biển công cộng không đồng nghĩa được tùy ý đặt sân khấu hay mở âm thanh. Chốt khung giờ theo thời tiết và tình trạng mặt bằng. Trò chơi trên bờ cần ranh giới rõ; không tự ý đưa người tham gia ra khu nước sâu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần kiểm tra nền, diện tích, lối vào, nơi nghỉ, nhà vệ sinh và điều kiện sử dụng. Bãi biển công cộng không đồng nghĩa được tùy ý đặt sân khấu hay mở âm thanh. Chốt khung giờ theo thời tiết và tình trạng mặt bằng. Trò chơi trên bờ cần ranh giới rõ; không tự ý đưa người tham gia ra khu nước sâu.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt chương trình có phần dự phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt chương trình có phần dự phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá nên nêu MC, hoạt náo, dụng cụ, nước uống, quà và thời lượng. Có phương án đổi nội dung khi mưa hoặc gió, xác nhận địa điểm trong nhà và chi phí từ trước. Trong lịch tour, để khoảng nghỉ sau ăn và thời gian thay đồ trước gala. Sau hoạt động, một phần chia sẻ ngắn giúp kết nối trò chơi với mục tiêu ban đầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá nên nêu MC, hoạt náo, dụng cụ, nước uống, quà và thời lượng. Có phương án đổi nội dung khi mưa hoặc gió, xác nhận địa điểm trong nhà và chi phí từ trước. Trong lịch tour, để khoảng nghỉ sau ăn và thời gian thay đồ trước gala. Sau hoạt động, một phần chia sẻ ngắn giúp kết nối trò chơi với mục tiêu ban đầu.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Team Building một ngày có khác hai ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Team Building một ngày có khác hai ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Khác chủ yếu ở thời gian và cách kết hợp lịch. Một ngày thường cần chương trình gọn; hai ngày có thêm khoảng nghỉ và sinh hoạt tối."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khác chủ yếu ở thời gian và cách kết hợp lịch. Một ngày thường cần chương trình gọn; hai ngày có thêm khoảng nghỉ và sinh hoạt tối.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển",
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-1-ngay-lich-gon-de-vua-tham-quan-vua-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
