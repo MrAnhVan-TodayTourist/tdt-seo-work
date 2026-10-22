@@ -3,21 +3,21 @@
   "title": "Phú Quý 2N1Đ, 2N2Đ hay 3N3Đ: đọc đúng thời gian tour",
   "category": "Tour Phú Quý – Tư vấn đoàn",
   "image": "phu-quy-tour-phu-quy-2-ngay-1-dem.jpg",
-  "summary": "Phú Quý 2N1Đ, 2N2Đ hay 3N3Đ. Tư vấn tour cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Các cách ghi 2N1Đ, 2N2Đ và 3N3Đ dễ khiến khách so những chương trình khác nhau như thể giống nhau.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Các cách ghi 2N1Đ, 2N2Đ và 3N3Đ dễ khiến khách so những chương trình khác nhau như thể giống nhau. Điều cần xem là ngày rời điểm đón, số đêm ngủ phòng và thời gian có thể trải nghiệm trên đảo sau khi trừ di chuyển."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Các cách ghi 2N1Đ, 2N2Đ và 3N3Đ dễ khiến khách so những chương trình khác nhau như thể giống nhau. Điều cần xem là ngày rời điểm đón, số đêm ngủ phòng và thời gian có thể trải nghiệm trên đảo sau khi trừ di chuyển.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đếm đêm xe và đêm phòng riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đếm đêm xe và đêm phòng riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một đêm trong tên tour có thể là di chuyển trên xe hoặc nghỉ trên đất liền, không phải ngủ tại đảo. Hãy yêu cầu lịch từng ngày và từng đêm. Nếu đoàn cần phòng để nghỉ trước tàu, phần phòng tạm và thời gian sử dụng cũng phải ghi riêng; không suy ra chỉ từ ký hiệu trên tiêu đề."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một đêm trong tên tour có thể là di chuyển trên xe hoặc nghỉ trên đất liền, không phải ngủ tại đảo. Hãy yêu cầu lịch từng ngày và từng đêm. Nếu đoàn cần phòng để nghỉ trước tàu, phần phòng tạm và thời gian sử dụng cũng phải ghi riêng; không suy ra chỉ từ ký hiệu trên tiêu đề.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Lịch ngắn cần giảm mục tiêu tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch ngắn cần giảm mục tiêu tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn ít ngày nên ưu tiên đảo chính và một số điểm thật sự muốn đến. Nếu muốn thêm hoạt động biển, Gala hoặc nghỉ ngơi dài, phải kiểm tra còn đủ thời gian không. Dồn nhiều trải nghiệm vào lịch ngắn làm giờ tập trung căng hơn và khó điều chỉnh khi tàu hoặc thời tiết thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn ít ngày nên ưu tiên đảo chính và một số điểm thật sự muốn đến. Nếu muốn thêm hoạt động biển, Gala hoặc nghỉ ngơi dài, phải kiểm tra còn đủ thời gian không. Dồn nhiều trải nghiệm vào lịch ngắn làm giờ tập trung căng hơn và khó điều chỉnh khi tàu hoặc thời tiết thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Thiết kế lịch khác theo yêu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thiết kế lịch khác theo yêu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist có chương trình 3N2Đ làm cơ sở tham khảo. Các lịch 2N1Đ, 2N2Đ hoặc 3N3Đ cần được tư vấn riêng theo ngày đi, tàu và dịch vụ có thể bố trí. Hãy nêu số ngày được nghỉ thay vì yêu cầu giữ đủ một danh sách điểm bất kể thời gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist có chương trình 3N2Đ làm cơ sở tham khảo. Các lịch 2N1Đ, 2N2Đ hoặc 3N3Đ cần được tư vấn riêng theo ngày đi, tàu và dịch vụ có thể bố trí. Hãy nêu số ngày được nghỉ thay vì yêu cầu giữ đủ một danh sách điểm bất kể thời gian.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### 3N3Đ có chắc nhiều hơn 3N2Đ một đêm trên đảo?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### 3N3Đ có chắc nhiều hơn 3N2Đ một đêm trên đảo?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Cần đọc nơi ngủ của từng đêm và thời điểm khởi hành; đêm bổ sung có thể nằm trên xe hoặc đất liền. So dịch vụ cụ thể rồi mới so giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Cần đọc nơi ngủ của từng đêm và thời điểm khởi hành; đêm bổ sung có thể nằm trên xe hoặc đất liền. So dịch vụ cụ thể rồi mới so giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn tour Phú Quý cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn tour Phú Quý cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Phú Quý từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón",
-        "Tour Phú Quý cho công ty: kế hoạch cho cơ quan và xí nghiệp",
-        "Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy-tu-bien-hoa/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý từ Biên Hòa, Đồng Nai và TP.HCM: chốt điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý cho công ty: kế hoạch cho cơ quan và xí nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
