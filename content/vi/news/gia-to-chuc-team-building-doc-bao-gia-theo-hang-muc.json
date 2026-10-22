@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Giá tổ chức Team Building phụ thuộc quy mô, thời lượng, địa điểm và phạm vi phục vụ. Hai báo giá cùng số người có thể khác ở nhân sự, dụng cụ hoặc phần ăn, xe. Doanh nghiệp nên so sánh cùng một yêu cầu, thay vì chỉ nhìn tổng tiền hoặc giá trên mỗi khách."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Giá tổ chức Team Building phụ thuộc quy mô, thời lượng, địa điểm và phạm vi phục vụ. Hai báo giá cùng số người có thể khác ở nhân sự, dụng cụ hoặc phần ăn, xe. Doanh nghiệp nên so sánh cùng một yêu cầu, thay vì chỉ nhìn tổng tiền hoặc giá trên mỗi khách.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt chi phí theo chương trình và theo khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt chi phí theo chương trình và theo khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "MC, kịch bản, điều phối hoặc một số thiết bị thường được đề xuất theo chương trình; ăn, vé hoặc vật phẩm có thể được tính theo người. Cách tính cụ thể phải nêu trong báo giá, không mặc định mọi hạng mục đều tăng hoặc giảm cùng tỷ lệ số khách. Doanh nghiệp nên hỏi số đội dự kiến và thời lượng hoạt động, để biết gói đang so sánh phục vụ cùng mức nhu cầu hay chỉ có cùng tên gọi."
+      "text": "<span style=\"font-size:16px;color:#374151\">MC, kịch bản, điều phối hoặc một số thiết bị thường được đề xuất theo chương trình; ăn, vé hoặc vật phẩm có thể được tính theo người. Cách tính cụ thể phải nêu trong báo giá, không mặc định mọi hạng mục đều tăng hoặc giảm cùng tỷ lệ số khách. Doanh nghiệp nên hỏi số đội dự kiến và thời lượng hoạt động, để biết gói đang so sánh phục vụ cùng mức nhu cầu hay chỉ có cùng tên gọi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213093105-0.jpg",
-      "alt": "Giá tổ chức Team Building: đọc báo giá theo hạng mục"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213093105-0.jpg\" alt=\"Giá tổ chức Team Building: đọc báo giá theo hạng mục\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra những phần dễ bị bỏ ngoài gói"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra những phần dễ bị bỏ ngoài gói</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu vực sân, âm thanh, vận chuyển dụng cụ, quà trò chơi và phần trang trí cần được ghi rõ nếu sử dụng. Xe, bữa ăn và lưu trú có thể thuộc gói tour hoặc là dịch vụ bổ sung. Nếu địa điểm thu riêng một khoản sử dụng không gian, cần đưa vào phương án tổng. Không lấy giá của một đoàn tại nơi khác làm giá chuẩn, vì ngày tổ chức và điều kiện bàn giao cũng có thể làm thay đổi chi phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu vực sân, âm thanh, vận chuyển dụng cụ, quà trò chơi và phần trang trí cần được ghi rõ nếu sử dụng. Xe, bữa ăn và lưu trú có thể thuộc gói tour hoặc là dịch vụ bổ sung. Nếu địa điểm thu riêng một khoản sử dụng không gian, cần đưa vào phương án tổng. Không lấy giá của một đoàn tại nơi khác làm giá chuẩn, vì ngày tổ chức và điều kiện bàn giao cũng có thể làm thay đổi chi phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Sáu câu nên hỏi khi nhận báo giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sáu câu nên hỏi khi nhận báo giá</span></strong>"
     },
     {
       "type": "list",
@@ -49,63 +48,71 @@
     },
     {
       "type": "h2",
-      "text": "Tối ưu bằng việc giữ nội dung cần thiết"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tối ưu bằng việc giữ nội dung cần thiết</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có ngân sách giới hạn có thể ưu tiên một mục tiêu, số trò vừa đủ và dụng cụ phù hợp quy mô, thay vì thêm nhiều phần trang trí. Có thể yêu cầu phương án tổ chức riêng và phương án kết hợp tour để đối chiếu. Trước khi đặt, chốt giá áp dụng theo số người, thời lượng, phần tự chuẩn bị và cách xử lý thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có ngân sách giới hạn có thể ưu tiên một mục tiêu, số trò vừa đủ và dụng cụ phù hợp quy mô, thay vì thêm nhiều phần trang trí. Có thể yêu cầu phương án tổ chức riêng và phương án kết hợp tour để đối chiếu. Trước khi đặt, chốt giá áp dụng theo số người, thời lượng, phần tự chuẩn bị và cách xử lý thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Vì sao hai nơi báo giá khác nhau dù cùng số người?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Vì sao hai nơi báo giá khác nhau dù cùng số người?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thường do khác phạm vi: số trò, số nhân sự, dụng cụ, âm thanh hoặc phần ăn, xe. Hãy đưa các báo giá về cùng một bảng hạng mục để so sánh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thường do khác phạm vi: số trò, số nhân sự, dụng cụ, âm thanh hoặc phần ăn, xe. Hãy đưa các báo giá về cùng một bảng hạng mục để so sánh.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist có báo giá theo từng hạng mục không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist có báo giá theo từng hạng mục không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có. TodayTourist trao đổi phạm vi trước, sau đó báo giá theo hạng mục để doanh nghiệp dễ đối chiếu và điều chỉnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có. TodayTourist trao đổi phạm vi trước, sau đó báo giá theo hạng mục để doanh nghiệp dễ đối chiếu và điều chỉnh.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tổ chức Team Building cho doanh nghiệp tại Đồng Nai và TP.HCM",
-        "Giá tổ chức Gala Dinner: tính tiệc, sân khấu và chương trình",
-        "Chi phí thuê xe một chiều, khứ hồi và nhiều ngày"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-team-building-cho-doanh-nghiep-tai-dong-nai-va-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức Team Building cho doanh nghiệp tại Đồng Nai và TP.HCM</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-to-chuc-gala-dinner-tinh-tiec-san-khau-va-chuong-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tổ chức Gala Dinner: tính tiệc, sân khấu và chương trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-thue-xe-mot-chieu-khu-hoi-va-nhieu-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí thuê xe một chiều, khứ hồi và nhiều ngày</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
