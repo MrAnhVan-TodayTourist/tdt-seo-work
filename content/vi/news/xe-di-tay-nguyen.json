@@ -3,21 +3,21 @@
   "title": "Xe đi Tây Nguyên: chọn 45 chỗ, giường nằm, 29 và 16 chỗ",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "xe-di-tay-nguyen-v2.jpg",
-  "summary": "Xe đi Tây Nguyên. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Chọn xe cho tour Tây Nguyên cần xét thời gian di chuyển, số người và hành lý.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn xe cho tour Tây Nguyên cần xét thời gian di chuyển, số người và hành lý. TodayTourist ưu tiên thế mạnh xe 45 chỗ và xe giường nằm; đoàn nhỏ có thể trao đổi xe 29 hoặc 16 chỗ. Không nên chọn phương tiện chỉ bằng cách chia số khách cho tên số chỗ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn xe cho tour Tây Nguyên cần xét thời gian di chuyển, số người và hành lý. TodayTourist ưu tiên thế mạnh xe 45 chỗ và xe giường nằm; đoàn nhỏ có thể trao đổi xe 29 hoặc 16 chỗ. Không nên chọn phương tiện chỉ bằng cách chia số khách cho tên số chỗ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xe 45 chỗ cho đoàn và hoạt động chung"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe 45 chỗ cho đoàn và hoạt động chung</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông nên hỏi cấu hình xe, chỗ cho người đi kèm và khoang hành lý. Cần kiểm tra nơi đón, bãi xe khách sạn và đường vào điểm tham quan. Đừng mặc định xe lớn tới sát mọi điểm; có nơi cần đi bộ hoặc bố trí phương án khác đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông nên hỏi cấu hình xe, chỗ cho người đi kèm và khoang hành lý. Cần kiểm tra nơi đón, bãi xe khách sạn và đường vào điểm tham quan. Đừng mặc định xe lớn tới sát mọi điểm; có nơi cần đi bộ hoặc bố trí phương án khác đã xác nhận.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Xe giường nằm cho chặng qua đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe giường nằm cho chặng qua đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi số giường thực tế, cách bố trí, loại phương tiện và nhu cầu của khách trước khi chốt. Người khó nghỉ trên xe nên trao đổi để chọn lịch phù hợp. Một đêm xe vẫn khác đêm phòng; phương tiện thuận hơn không đồng nghĩa có thể xếp ngày đầu quá nhiều hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi số giường thực tế, cách bố trí, loại phương tiện và nhu cầu của khách trước khi chốt. Người khó nghỉ trên xe nên trao đổi để chọn lịch phù hợp. Một đêm xe vẫn khác đêm phòng; phương tiện thuận hơn không đồng nghĩa có thể xếp ngày đầu quá nhiều hoạt động.</span>"
     },
     {
       "type": "h2",
-      "text": "Xe 29 và 16 chỗ cho nhóm nhỏ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe 29 và 16 chỗ cho nhóm nhỏ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn theo số khách, người phục vụ và hành lý, kèm điều kiện của từng tuyến. Hỏi tổng chi xe, thời gian dùng và phần phát sinh khi đổi lịch. Nếu đoàn đã tự có dịch vụ phòng hoặc vé, làm rõ nhu cầu thuê xe riêng so với mua tour trọn gói."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn theo số khách, người phục vụ và hành lý, kèm điều kiện của từng tuyến. Hỏi tổng chi xe, thời gian dùng và phần phát sinh khi đổi lịch. Nếu đoàn đã tự có dịch vụ phòng hoặc vé, làm rõ nhu cầu thuê xe riêng so với mua tour trọn gói.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể chọn xe rồi thay đổi số khách sau không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần báo sớm để kiểm tra sức chứa, hành lý và dịch vụ. Thay đổi quy mô có thể ảnh hưởng loại xe và tổng báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Có thể chọn xe rồi thay đổi số khách sau không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần báo sớm để kiểm tra sức chứa, hành lý và dịch vụ. Thay đổi quy mô có thể ảnh hưởng loại xe và tổng báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Tây Nguyên: kiểm tra chương trình, cọc và điều kiện thay đổi</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chu-dang-ya/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chư Đăng Ya và mùa hoa dã quỳ: chuẩn bị phần check-in Pleiku</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Đặt tour Tây Nguyên: kiểm tra chương trình, cọc và điều kiện thay đổi",
-        "Chư Đăng Ya và mùa hoa dã quỳ: chuẩn bị phần check-in Pleiku",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
