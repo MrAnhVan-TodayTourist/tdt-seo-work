@@ -3,21 +3,21 @@
   "title": "BBQ và lửa trại Nam Du–Hòn Sơn: phân biệt bữa ăn và giao lưu",
   "category": "Tour Nam Du – Hòn Sơn – Tư vấn đoàn",
   "image": "nam-du-bbq-nam-du.jpg",
-  "summary": "BBQ và lửa trại Nam Du–Hòn Sơn. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "BBQ hải sản và lửa trại là hai nhu cầu khác nhau khi đi biển đảo.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "BBQ hải sản và lửa trại là hai nhu cầu khác nhau khi đi biển đảo. Đoàn cần biết đang đặt một bữa ăn, một buổi giao lưu hay cả hai. Không nên hiểu có BBQ nghĩa là đã được tổ chức lửa trại tại cùng địa điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">BBQ hải sản và lửa trại là hai nhu cầu khác nhau khi đi biển đảo. Đoàn cần biết đang đặt một bữa ăn, một buổi giao lưu hay cả hai. Không nên hiểu có BBQ nghĩa là đã được tổ chức lửa trại tại cùng địa điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt thực đơn và cách phục vụ BBQ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt thực đơn và cách phục vụ BBQ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi món theo suất, món gọi thêm và khách tự nướng hay có phục vụ. Đoàn đông cần giờ lên món, bàn ăn và lựa chọn không hải sản. Chương trình Nam Du đang giới thiệu có BBQ; tiêu chuẩn cụ thể phải xác nhận lại theo báo giá của chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi món theo suất, món gọi thêm và khách tự nướng hay có phục vụ. Đoàn đông cần giờ lên món, bàn ăn và lựa chọn không hải sản. Chương trình Nam Du đang giới thiệu có BBQ; tiêu chuẩn cụ thể phải xác nhận lại theo báo giá của chuyến đi.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Lửa trại cần được cho phép tại nơi tổ chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lửa trại cần được cho phép tại nơi tổ chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không tự đốt lửa trên bãi biển. Kiểm tra địa điểm tiếp nhận, thời gian, người phụ trách và việc dọn vệ sinh. Nếu gió hoặc điều kiện không phù hợp, chọn giao lưu không dùng lửa; việc chuyển phương án cần được nêu trước thay vì hứa đủ mọi hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không tự đốt lửa trên bãi biển. Kiểm tra địa điểm tiếp nhận, thời gian, người phụ trách và việc dọn vệ sinh. Nếu gió hoặc điều kiện không phù hợp, chọn giao lưu không dùng lửa; việc chuyển phương án cần được nêu trước thay vì hứa đủ mọi hoạt động.</span>"
     },
     {
       "type": "h2",
-      "text": "Báo giá riêng phần giao lưu bổ sung"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo giá riêng phần giao lưu bổ sung</span></strong>"
     },
     {
       "type": "p",
-      "text": "MC, âm thanh, dụng cụ và địa điểm không nên bị gộp mơ hồ vào tên bữa ăn. Nếu chỉ cần sinh hoạt đơn giản, có thể xây phần giao lưu gọn theo ngân sách. Hãy nêu mục tiêu và quy mô đoàn để TodayTourist kiểm tra cách bố trí phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">MC, âm thanh, dụng cụ và địa điểm không nên bị gộp mơ hồ vào tên bữa ăn. Nếu chỉ cần sinh hoạt đơn giản, có thể xây phần giao lưu gọn theo ngân sách. Hãy nêu mục tiêu và quy mô đoàn để TodayTourist kiểm tra cách bố trí phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tour Hòn Sơn có mặc định BBQ và lửa trại không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tour Hòn Sơn có mặc định BBQ và lửa trại không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Cần đọc phần dịch vụ của đúng chương trình và kiểm tra riêng yêu cầu bổ sung. Bữa tối hải sản không đồng nghĩa BBQ hoặc lửa trại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Cần đọc phần dịch vụ của đúng chương trình và kiểm tra riêng yêu cầu bổ sung. Bữa tối hải sản không đồng nghĩa BBQ hoặc lửa trại.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Xe đi Nam Du–Hòn Sơn: chọn xe đêm và phương tiện tại đảo",
-        "Tàu Rạch Giá–Nam Du, Hòn Sơn: kiểm tra vé và chuyến nối",
-        "Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe đi Nam Du–Hòn Sơn: chọn xe đêm và phương tiện tại đảo</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ve-tau-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tàu Rạch Giá–Nam Du, Hòn Sơn: kiểm tra vé và chuyến nối</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nam-du-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
