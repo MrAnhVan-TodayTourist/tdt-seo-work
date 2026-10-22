@@ -8,8 +8,8 @@
   "published_at": "2026-05-31",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể quý cô Trường Mầm non Phú Hữu trong chuyến tham quan – nghỉ dưỡng đầy niềm vui và những kỷ niệm đáng nhớ tại thành phố ngàn hoa Đà Lạt"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng tập thể quý cô Trường Mầm non Phú Hữu trong chuyến tham quan – nghỉ dưỡng đầy niềm vui và những kỷ niệm đáng nhớ tại thành phố ngàn hoa Đà Lạt</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá thành phố Đà Lạt mộng mơ với khí hậu trong lành, mát mẻ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá thành phố Đà Lạt mộng mơ với khí hậu trong lành, mát mẻ</span>"
     },
     {
       "type": "html",
@@ -29,31 +29,35 @@
     },
     {
       "type": "p",
-      "text": "Tham quan các điểm du lịch nổi tiếng và tận hưởng vẻ đẹp thiên nhiên của phố núi"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan các điểm du lịch nổi tiếng và tận hưởng vẻ đẹp thiên nhiên của phố núi</span>"
     },
     {
       "type": "p",
-      "text": "Check-in lưu giữ những khoảnh khắc đẹp cùng đồng nghiệp và bạn bè"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in lưu giữ những khoảnh khắc đẹp cùng đồng nghiệp và bạn bè</span>"
     },
     {
       "type": "p",
-      "text": "Thưởng thức cà phê, đặc sản và ẩm thực địa phương hấp dẫn"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thưởng thức cà phê, đặc sản và ẩm thực địa phương hấp dẫn</span>"
     },
     {
       "type": "p",
-      "text": "Tham gia các hoạt động giao lưu, vui chơi, gắn kết tập thể đầy ý nghĩa"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham gia các hoạt động giao lưu, vui chơi, gắn kết tập thể đầy ý nghĩa</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin kính chúc quý cô luôn thật nhiều sức khỏe, niềm vui và có thêm thật nhiều kỷ niệm đẹp sau hành trình lần này!"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc quý cô luôn thật nhiều sức khỏe, niềm vui và có thêm thật nhiều kỷ niệm đẹp sau hành trình lần này!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-31."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-31.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-nha-trang-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
