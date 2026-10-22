@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tìm tour Phú Quốc, khách có thể muốn nghỉ biển, vui chơi hoặc tổ chức chuyến đi cho công ty. Một chương trình phù hợp cần giải quyết mục tiêu đó trước khi quyết định đi bao nhiêu điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tìm tour Phú Quốc, khách có thể muốn nghỉ biển, vui chơi hoặc tổ chức chuyến đi cho công ty. Một chương trình phù hợp cần giải quyết mục tiêu đó trước khi quyết định đi bao nhiêu điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một ưu tiên chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một ưu tiên chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nghỉ dưỡng nên dành thời gian cho nơi lưu trú và biển. Gia đình thích vui chơi cần chọn khu phù hợp độ tuổi. Đoàn công ty cần xác định Team Building, Gala Dinner hoặc hội nghị. Các mục tiêu có thể kết hợp, nhưng không nên đưa tất cả vào một lịch ngắn khiến phần lớn thời gian dành cho di chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nghỉ dưỡng nên dành thời gian cho nơi lưu trú và biển. Gia đình thích vui chơi cần chọn khu phù hợp độ tuổi. Đoàn công ty cần xác định Team Building, Gala Dinner hoặc hội nghị. Các mục tiêu có thể kết hợp, nhưng không nên đưa tất cả vào một lịch ngắn khiến phần lớn thời gian dành cho di chuyển.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "So phương tiện theo cả hành trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So phương tiện theo cả hành trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Máy bay cần tính xe đưa đón, giờ làm thủ tục và hành lý. Ô tô kết hợp tàu cần tính đêm đi đường, giờ tàu và xe trên đảo. TodayTourist có hai chương trình tham khảo 3N2Đ bằng máy bay và 3N3Đ bằng ô tô–tàu. Số đêm trong tên tour không đồng nghĩa toàn bộ đều là đêm khách sạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Máy bay cần tính xe đưa đón, giờ làm thủ tục và hành lý. Ô tô kết hợp tàu cần tính đêm đi đường, giờ tàu và xe trên đảo. TodayTourist có hai chương trình tham khảo 3N2Đ bằng máy bay và 3N3Đ bằng ô tô–tàu. Số đêm trong tên tour không đồng nghĩa toàn bộ đều là đêm khách sạn.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt dịch vụ theo quy mô khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt dịch vụ theo quy mô khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm ít người có thể xem chuyến ghép thực tế; đoàn riêng có thể đề nghị ngày, điểm đón và hoạt động riêng. Báo giá cần phòng, bữa ăn, vé, phương tiện và phần tự chọn. Với khách từ Đồng Nai hoặc TP.HCM, xác nhận điểm tập trung và phạm vi đưa đón. Chương trình có thể được thiết kế lại sau khi kiểm tra dịch vụ theo ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm ít người có thể xem chuyến ghép thực tế; đoàn riêng có thể đề nghị ngày, điểm đón và hoạt động riêng. Báo giá cần phòng, bữa ăn, vé, phương tiện và phần tự chọn. Với khách từ Đồng Nai hoặc TP.HCM, xác nhận điểm tập trung và phạm vi đưa đón. Chương trình có thể được thiết kế lại sau khi kiểm tra dịch vụ theo ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour trọn gói có bao gồm mọi khu vui chơi không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour trọn gói có bao gồm mọi khu vui chơi không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Chỉ các vé và dịch vụ được ghi trong phần bao gồm mới thuộc gói; các lựa chọn khác cần được báo rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Chỉ các vé và dịch vụ được ghi trong phần bao gồm mới thuộc gói; các lựa chọn khác cần được báo rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Phú Quốc: cách tính tổng chi phí trước khi đặt",
-        "Đi Phú Quốc bằng máy bay hay xe và tàu: so theo thời gian, ngân sách",
-        "Tour Phú Quốc cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phu-quoc-cach-tinh-tong-chi-phi-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phú Quốc: cách tính tổng chi phí trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phu-quoc-bang-may-bay-hay-xe-va-tau-so-theo-thoi-gian-ngan-sach/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phú Quốc bằng máy bay hay xe và tàu: so theo thời gian, ngân sách</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-cho-cong-ty-chuan-bi-yeu-cau-de-nhan-bao-gia-dung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
