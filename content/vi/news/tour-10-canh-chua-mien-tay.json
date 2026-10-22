@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tour 10 cảnh chùa Miền Tây được nhiều nhóm chọn để hành hương trong ngày, nhưng số điểm không nên làm chuyến đi quá vội. Cần biết danh sách chùa, tuyến xe và thời gian dành cho mỗi nơi. Nhóm có người lớn tuổi có thể chọn ít điểm hơn để giữ nhịp nghỉ và chiêm bái thoải mái."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour 10 cảnh chùa Miền Tây được nhiều nhóm chọn để hành hương trong ngày, nhưng số điểm không nên làm chuyến đi quá vội. Cần biết danh sách chùa, tuyến xe và thời gian dành cho mỗi nơi. Nhóm có người lớn tuổi có thể chọn ít điểm hơn để giữ nhịp nghỉ và chiêm bái thoải mái.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đọc danh sách chùa thay vì chỉ tên tour"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc danh sách chùa thay vì chỉ tên tour</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chương trình phải ghi rõ những điểm được dự kiến ghé, đường đi và điều kiện tiếp nhận. Nếu một nơi không phục vụ đúng ngày, phương án thay thế cần trao đổi với đoàn. Không coi cụm từ mười cảnh chùa là cam kết có đủ một danh sách cố định cho mọi thời điểm và mọi điểm xuất phát."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chương trình phải ghi rõ những điểm được dự kiến ghé, đường đi và điều kiện tiếp nhận. Nếu một nơi không phục vụ đúng ngày, phương án thay thế cần trao đổi với đoàn. Không coi cụm từ mười cảnh chùa là cam kết có đủ một danh sách cố định cho mọi thời điểm và mọi điểm xuất phát.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chốt bữa ăn cùng cách sinh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt bữa ăn cùng cách sinh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có thể yêu cầu ăn chay hoặc ăn mặn theo nhu cầu, không mặc định tour hành hương luôn ăn chay. Việc mang lễ, sinh hoạt hoặc tập trung riêng nên hỏi trước và theo hướng dẫn từng chùa. Giữ trang phục lịch sự, không tổ chức trò chơi hoặc dùng âm thanh trong không gian cần trang nghiêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có thể yêu cầu ăn chay hoặc ăn mặn theo nhu cầu, không mặc định tour hành hương luôn ăn chay. Việc mang lễ, sinh hoạt hoặc tập trung riêng nên hỏi trước và theo hướng dẫn từng chùa. Giữ trang phục lịch sự, không tổ chức trò chơi hoặc dùng âm thanh trong không gian cần trang nghiêm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính thời gian cho cả đường và lên xuống xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính thời gian cho cả đường và lên xuống xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày từ Biên Hòa hoặc TP.HCM có giới hạn về chặng và giờ về. Đoàn đông sẽ mất thêm thời gian kiểm đếm, vệ sinh và tập trung. TodayTourist có chương trình tuyến Long An–Tiền Giang để tham khảo; trước khi đặt cần xác nhận lại danh sách điểm và dịch vụ phù hợp ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày từ Biên Hòa hoặc TP.HCM có giới hạn về chặng và giờ về. Đoàn đông sẽ mất thêm thời gian kiểm đếm, vệ sinh và tập trung. TodayTourist có chương trình tuyến Long An–Tiền Giang để tham khảo; trước khi đặt cần xác nhận lại danh sách điểm và dịch vụ phù hợp ngày đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể đi ít hơn mười chùa không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể đi ít hơn mười chùa không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị đoàn riêng giảm số điểm. Mục tiêu là thời gian hành hương phù hợp, không cần giữ đủ con số nếu khiến đoàn đi quá gấp hoặc về quá muộn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị đoàn riêng giảm số điểm. Mục tiêu là thời gian hành hương phù hợp, không cần giữ đủ con số nếu khiến đoàn đi quá gấp hoặc về quá muộn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour 10 cảnh chùa miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour 10 cảnh chùa miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/chua-vinh-trang/\" target=\"_blank\" rel=\"noopener nofollow\">Chùa Vĩnh Tràng trong tour Mỹ Tho: bố trí tham quan đúng nhịp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chua-vinh-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chùa Vĩnh Tràng trong tour Mỹ Tho: bố trí tham quan đúng nhịp</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-me-nam-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Mẹ Nam Hải Bạc Liêu: bố trí chiêm bái và điểm kết hợp</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-10-canh-chua-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour 10 cảnh chùa Miền Tây 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-10-canh-chua-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour 10 cảnh chùa Miền Tây 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
