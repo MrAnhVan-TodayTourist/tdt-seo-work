@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn công ty có thể muốn kết hợp Côn Đảo với hoạt động gắn kết hoặc bữa tối giao lưu. Trước khi thêm vào lịch, cần kiểm tra không gian, quy mô và cách vận chuyển thiết bị. Một chương trình vừa sức và đúng nơi thường hữu ích hơn kịch bản đông người, âm thanh lớn nhưng chưa có điều kiện thực hiện."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn công ty có thể muốn kết hợp Côn Đảo với hoạt động gắn kết hoặc bữa tối giao lưu. Trước khi thêm vào lịch, cần kiểm tra không gian, quy mô và cách vận chuyển thiết bị. Một chương trình vừa sức và đúng nơi thường hữu ích hơn kịch bản đông người, âm thanh lớn nhưng chưa có điều kiện thực hiện.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn mục tiêu và mức vận động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn mục tiêu và mức vận động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu mục tiêu là giao lưu, có thể chọn trò chơi nhẹ, chia sẻ hoặc hoạt động nhóm ngắn. Nếu cần Team Building có vận động, kiểm tra sức khách, thời tiết và mặt bằng. Đoàn vừa đi xe đêm và tàu nên có khoảng nghỉ trước hoạt động. Không mặc định mọi thành viên tham gia cùng một cường độ; nên có cách tham gia nhẹ cho người lớn tuổi hoặc khách cần nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu mục tiêu là giao lưu, có thể chọn trò chơi nhẹ, chia sẻ hoặc hoạt động nhóm ngắn. Nếu cần Team Building có vận động, kiểm tra sức khách, thời tiết và mặt bằng. Đoàn vừa đi xe đêm và tàu nên có khoảng nghỉ trước hoạt động. Không mặc định mọi thành viên tham gia cùng một cường độ; nên có cách tham gia nhẹ cho người lớn tuổi hoặc khách cần nghỉ.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Xác nhận địa điểm trước khi thiết kế kịch bản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận địa điểm trước khi thiết kế kịch bản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần biết diện tích sử dụng, sức chứa, mặt bằng, khu vực âm thanh được phép và phương án khi mưa. Bãi biển đẹp chưa chắc là nơi phù hợp tổ chức sự kiện của đoàn. Với Gala Dinner, kiểm tra phòng hoặc khu vực ăn, sân khấu, tầm nhìn và thời gian phục vụ. Không dùng di tích hay không gian tưởng niệm cho hoạt động náo nhiệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần biết diện tích sử dụng, sức chứa, mặt bằng, khu vực âm thanh được phép và phương án khi mưa. Bãi biển đẹp chưa chắc là nơi phù hợp tổ chức sự kiện của đoàn. Với Gala Dinner, kiểm tra phòng hoặc khu vực ăn, sân khấu, tầm nhìn và thời gian phục vụ. Không dùng di tích hay không gian tưởng niệm cho hoạt động náo nhiệt.</span>"
     },
     {
       "type": "h2",
-      "text": "Tách rõ các khoản của chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách rõ các khoản của chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá nên phân biệt bữa ăn với MC, trò chơi, thiết bị, trang trí và nhân sự vận hành. Đồ uống, quà, màn hình hoặc phần biểu diễn nếu cần phải được nêu riêng. Nếu đoàn muốn BBQ hay lửa trại, cần xác nhận nơi cho phép và cách phục vụ; không tự thêm hoạt động đốt lửa ngoài trời vào tour khi chưa có điều kiện cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá nên phân biệt bữa ăn với MC, trò chơi, thiết bị, trang trí và nhân sự vận hành. Đồ uống, quà, màn hình hoặc phần biểu diễn nếu cần phải được nêu riêng. Nếu đoàn muốn BBQ hay lửa trại, cần xác nhận nơi cho phép và cách phục vụ; không tự thêm hoạt động đốt lửa ngoài trời vào tour khi chưa có điều kiện cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ khoảng chuẩn bị và kế hoạch thay thế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ khoảng chuẩn bị và kế hoạch thay thế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một buổi tối giao lưu cần thời gian khách nghỉ, thay trang phục và nhân sự kiểm tra thiết bị. Nếu hoạt động ngoài trời không thể thực hiện, thống nhất từ đầu phương án chuyển vào trong hoặc điều chỉnh chương trình. TodayTourist tư vấn hoạt động đoàn theo ngày, quy mô và ngân sách; chỉ chốt kịch bản sau khi địa điểm cùng các dịch vụ đã được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một buổi tối giao lưu cần thời gian khách nghỉ, thay trang phục và nhân sự kiểm tra thiết bị. Nếu hoạt động ngoài trời không thể thực hiện, thống nhất từ đầu phương án chuyển vào trong hoặc điều chỉnh chương trình. TodayTourist tư vấn hoạt động đoàn theo ngày, quy mô và ngân sách; chỉ chốt kịch bản sau khi địa điểm cùng các dịch vụ đã được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Côn Đảo nào cũng có Team Building không? Đây là nhu cầu cần kiểm tra và báo giá theo từng đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Côn Đảo nào cũng có Team Building không? Đây là nhu cầu cần kiểm tra và báo giá theo từng đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể thêm lửa trại không? Chỉ xem xét khi địa điểm cho phép và có phương án tổ chức phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể thêm lửa trại không? Chỉ xem xét khi địa điểm cho phép và có phương án tổ chức phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Côn Đảo cho công ty, cơ quan và đoàn thể",
-        "Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan",
-        "Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-cho-cong-ty-co-quan-va-doan-the/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo cho công ty, cơ quan và đoàn thể</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/khach-san-resort-con-dao-chon-vi-tri-va-tieu-chuan-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Khách sạn, resort Côn Đảo: chọn vị trí và tiêu chuẩn cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
