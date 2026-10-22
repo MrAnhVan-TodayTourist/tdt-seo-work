@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Một chuyến đi biển gần chỉ thuận lợi khi điểm đến phù hợp với mục tiêu của đoàn. Vũng Tàu, Long Hải–Phước Hải và Hồ Tràm–Hồ Cốc có thể cùng nằm trong danh sách cân nhắc, nhưng không nên chọn chỉ bằng tên gọi hoặc giá quảng cáo."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một chuyến đi biển gần chỉ thuận lợi khi điểm đến phù hợp với mục tiêu của đoàn. Vũng Tàu, Long Hải–Phước Hải và Hồ Tràm–Hồ Cốc có thể cùng nằm trong danh sách cân nhắc, nhưng không nên chọn chỉ bằng tên gọi hoặc giá quảng cáo.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo việc đoàn muốn làm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo việc đoàn muốn làm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn thích dạo phố, ăn uống và kết hợp các điểm tham quan có thể bắt đầu với Vũng Tàu. Đoàn muốn nghỉ gần biển, kết hợp Dinh Cô và tìm hiểu Minh Đạm nên xem Long Hải–Phước Hải. Với Hồ Tràm–Hồ Cốc, hãy ưu tiên câu hỏi về resort, không gian sinh hoạt và thời gian nghỉ. Đây là cách chọn chương trình, không phải cam kết mọi khu lưu trú đều có đủ dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn thích dạo phố, ăn uống và kết hợp các điểm tham quan có thể bắt đầu với Vũng Tàu. Đoàn muốn nghỉ gần biển, kết hợp Dinh Cô và tìm hiểu Minh Đạm nên xem Long Hải–Phước Hải. Với Hồ Tràm–Hồ Cốc, hãy ưu tiên câu hỏi về resort, không gian sinh hoạt và thời gian nghỉ. Đây là cách chọn chương trình, không phải cam kết mọi khu lưu trú đều có đủ dịch vụ.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Một ngày hay ngủ lại?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Một ngày hay ngủ lại?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi trong ngày phù hợp khi đoàn cần tiết kiệm thời gian và có một hoạt động chính. Hai ngày một đêm tạo khoảng trống cho nhận phòng, nghỉ, sinh hoạt chung và ăn tối. Nếu có hội nghị hoặc Gala Dinner, đừng lấy lịch một ngày rồi nối thêm sự kiện mà bỏ qua giờ nghỉ và di chuyển. Có thể so sánh hai phương án trên cùng một danh sách khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi trong ngày phù hợp khi đoàn cần tiết kiệm thời gian và có một hoạt động chính. Hai ngày một đêm tạo khoảng trống cho nhận phòng, nghỉ, sinh hoạt chung và ăn tối. Nếu có hội nghị hoặc Gala Dinner, đừng lấy lịch một ngày rồi nối thêm sự kiện mà bỏ qua giờ nghỉ và di chuyển. Có thể so sánh hai phương án trên cùng một danh sách khách.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh ba báo giá trên cùng tiêu chuẩn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh ba báo giá trên cùng tiêu chuẩn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi cùng ngày đi, số người, điểm đón, loại phòng, số bữa và yêu cầu Team Building cho từng phương án. Tách khoản bắt buộc với khoản lựa chọn như khoáng nóng hoặc sân khấu. Khi đoàn có nhiều người lớn tuổi, thời gian đi bộ và khoảng cách từ phòng đến nhà hàng cũng cần được tính. Chọn phương án đáp ứng đúng nhu cầu trước khi chốt giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi cùng ngày đi, số người, điểm đón, loại phòng, số bữa và yêu cầu Team Building cho từng phương án. Tách khoản bắt buộc với khoản lựa chọn như khoáng nóng hoặc sân khấu. Khi đoàn có nhiều người lớn tuổi, thời gian đi bộ và khoảng cách từ phòng đến nhà hàng cũng cần được tính. Chọn phương án đáp ứng đúng nhu cầu trước khi chốt giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên đi cả Vũng Tàu, Long Hải và Hồ Tràm trong một ngày?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên đi cả Vũng Tàu, Long Hải và Hồ Tràm trong một ngày?</span>"
     },
     {
       "type": "p",
-      "text": "Thường nên chọn một khu vực chính. Việc ghé nhiều nơi chỉ hợp lý khi thời gian di chuyển và thời lượng trải nghiệm vẫn đáp ứng mục tiêu đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thường nên chọn một khu vực chính. Việc ghé nhiều nơi chỉ hợp lý khi thời gian di chuyển và thời lượng trải nghiệm vẫn đáp ứng mục tiêu đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt",
-        "Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?",
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-tron-goi-chon-lich-trinh-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-1-ngay-can-dat-nhung-dich-vu-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
