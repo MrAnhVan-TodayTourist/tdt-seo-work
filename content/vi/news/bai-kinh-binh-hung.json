@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Bãi Kinh thường xuất hiện trong chương trình đi Bình Hưng của TodayTourist như điểm chuyển từ xe sang tàu. Với đoàn đông, chặng chuyển này cần được bố trí rõ dù thời gian trên biển không dài. Khách nên hỏi bến xác nhận, hành lý, chia nhóm và điều kiện phục vụ đúng ngày đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Bãi Kinh thường xuất hiện trong chương trình đi Bình Hưng của TodayTourist như điểm chuyển từ xe sang tàu. Với đoàn đông, chặng chuyển này cần được bố trí rõ dù thời gian trên biển không dài. Khách nên hỏi bến xác nhận, hành lý, chia nhóm và điều kiện phục vụ đúng ngày đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tách giờ đến bến khỏi giờ lên tàu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách giờ đến bến khỏi giờ lên tàu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe đến chưa có nghĩa cả đoàn ra đảo ngay lập tức. Cần tính thời gian xuống xe, tập trung và chuyển hành lý. Nếu đón nhiều điểm hoặc chặng đường thay đổi, người điều phối phải cập nhật giờ với bến; không giữ lịch tàu theo một thời gian đường chưa được kiểm tra."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe đến chưa có nghĩa cả đoàn ra đảo ngay lập tức. Cần tính thời gian xuống xe, tập trung và chuyển hành lý. Nếu đón nhiều điểm hoặc chặng đường thay đổi, người điều phối phải cập nhật giờ với bến; không giữ lịch tàu theo một thời gian đường chưa được kiểm tra.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chia nhóm theo phương tiện xác nhận"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia nhóm theo phương tiện xác nhận</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi loại tàu, số lượt và khả năng phục vụ, không suy ra từ tổng số chỗ trên xe. Mỗi nhóm cần đầu mối, điểm gặp và kiểm đếm khi đến đảo. Thành viên cần hỗ trợ lên xuống nên báo trước; việc chọn dịch vụ và trang bị phải được xác nhận với bên phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi loại tàu, số lượt và khả năng phục vụ, không suy ra từ tổng số chỗ trên xe. Mỗi nhóm cần đầu mối, điểm gặp và kiểm đếm khi đến đảo. Thành viên cần hỗ trợ lên xuống nên báo trước; việc chọn dịch vụ và trang bị phải được xác nhận với bên phục vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị thay đổi khi biển không phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị thay đổi khi biển không phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chặng tàu phụ thuộc điều kiện vận hành tại thời điểm đi. Đề nghị rõ cách thông báo, tuyến thay thế và điều kiện xử lý dịch vụ đã đặt. Không nên tiếp tục quảng bá lịch ra đảo cố định khi chưa xác nhận; một chuyến biển có thể cần thay đổi dù kế hoạch xe không đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chặng tàu phụ thuộc điều kiện vận hành tại thời điểm đi. Đề nghị rõ cách thông báo, tuyến thay thế và điều kiện xử lý dịch vụ đã đặt. Không nên tiếp tục quảng bá lịch ra đảo cố định khi chưa xác nhận; một chuyến biển có thể cần thay đổi dù kế hoạch xe không đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có nên mang toàn bộ hành lý lớn lên đảo không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên mang toàn bộ hành lý lớn lên đảo không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tùy số đêm và cách lưu trú. Có thể chuẩn bị túi gọn cho đêm đảo nếu có phương án giữ hành lý được xác nhận; không để đồ trên xe hoặc tại bến khi chưa thống nhất người chịu trách nhiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy số đêm và cách lưu trú. Có thể chuẩn bị túi gọn cho đêm đảo nếu có phương án giữ hành lý được xác nhận; không để đồ trên xe hoặc tại bến khi chưa thống nhất người chịu trách nhiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Vịnh Vĩnh Hy: chọn tham quan vịnh hay nghỉ tại Ninh Chữ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Vịnh Vĩnh Hy: chọn tham quan vịnh hay nghỉ tại Ninh Chữ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tau-day-kinh-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tàu đáy kính Vĩnh Hy: hỏi rõ vé, thời lượng và phần trải nghiệm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tau-day-kinh-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tàu đáy kính Vĩnh Hy: hỏi rõ vé, thời lượng và phần trải nghiệm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 2 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
