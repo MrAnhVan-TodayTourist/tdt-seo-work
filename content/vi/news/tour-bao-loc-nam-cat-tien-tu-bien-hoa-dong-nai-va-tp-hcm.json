@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khách đoàn tại Biên Hòa, các khu công nghiệp Đồng Nai hoặc TP.HCM thường cần đón tại công ty để thuận tiện quản lý. Khi đặt tour Bảo Lộc hoặc Nam Cát Tiên, điểm đón nên được chốt cùng lịch trình và loại xe."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách đoàn tại Biên Hòa, các khu công nghiệp Đồng Nai hoặc TP.HCM thường cần đón tại công ty để thuận tiện quản lý. Khi đặt tour Bảo Lộc hoặc Nam Cát Tiên, điểm đón nên được chốt cùng lịch trình và loại xe.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đón tại công ty: thuận tiện nhưng cần khảo sát lối vào"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đón tại công ty: thuận tiện nhưng cần khảo sát lối vào</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trưởng đoàn nên gửi ghim vị trí, giờ cho phép xe vào và nơi tập trung nhân sự. Với xe 45 chỗ, cần kiểm tra khoảng quay đầu, nơi dừng và khả năng xếp hành lý mà không cản trở cổng ra vào. Nếu công ty ở Amata hoặc khu công nghiệp Biên Hòa 2, tên khu công nghiệp chưa đủ để tài xế tìm đúng cổng. Có thể chọn điểm tập trung gần đó khi đường nội bộ không phù hợp, sau khi thống nhất với đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trưởng đoàn nên gửi ghim vị trí, giờ cho phép xe vào và nơi tập trung nhân sự. Với xe 45 chỗ, cần kiểm tra khoảng quay đầu, nơi dừng và khả năng xếp hành lý mà không cản trở cổng ra vào. Nếu công ty ở Amata hoặc khu công nghiệp Biên Hòa 2, tên khu công nghiệp chưa đủ để tài xế tìm đúng cổng. Có thể chọn điểm tập trung gần đó khi đường nội bộ không phù hợp, sau khi thống nhất với đoàn.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214619041-0.jpg",
-      "alt": "Tour Bảo Lộc, Nam Cát Tiên từ Biên Hòa, Đồng Nai và TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214619041-0.jpg\" alt=\"Tour Bảo Lộc, Nam Cát Tiên từ Biên Hòa, Đồng Nai và TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Đoàn có khách ở cả Đồng Nai và TP.HCM"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn có khách ở cả Đồng Nai và TP.HCM</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gom khách từ nhiều nơi giúp thuận tiện cho từng người nhưng cũng có thể kéo dài thời gian đón. Hai phương án nên so là một xe đi qua các điểm đã chốt hoặc nhiều xe xuất phát riêng rồi gặp nhau trên tuyến. Chọn theo số người mỗi khu vực, thời gian tập trung và tổng ngân sách. Không nên hứa đón tận nhà cho toàn bộ khách nếu chưa tính tuyến; tour đoàn riêng và tour ghép cũng có điều kiện đưa đón khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gom khách từ nhiều nơi giúp thuận tiện cho từng người nhưng cũng có thể kéo dài thời gian đón. Hai phương án nên so là một xe đi qua các điểm đã chốt hoặc nhiều xe xuất phát riêng rồi gặp nhau trên tuyến. Chọn theo số người mỗi khu vực, thời gian tập trung và tổng ngân sách. Không nên hứa đón tận nhà cho toàn bộ khách nếu chưa tính tuyến; tour đoàn riêng và tour ghép cũng có điều kiện đưa đón khác nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt chiều về ngay trong yêu cầu đầu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt chiều về ngay trong yêu cầu đầu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngoài giờ khởi hành, cần biết đoàn muốn về trước giờ nào và trả tại một hay nhiều điểm. Người phụ trách gửi ngày đi, số khách dự kiến, tuyến Bảo Lộc hoặc Nam Cát Tiên, số ngày và chương trình tối. TodayTourist sẽ dùng thông tin này để đề xuất điểm đón, chặng dừng và nhịp tham quan. Với nhu cầu thuê xe riêng, cần ghi rõ đã có chương trình hay muốn công ty tổ chức trọn gói để báo đúng phạm vi dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngoài giờ khởi hành, cần biết đoàn muốn về trước giờ nào và trả tại một hay nhiều điểm. Người phụ trách gửi ngày đi, số khách dự kiến, tuyến Bảo Lộc hoặc Nam Cát Tiên, số ngày và chương trình tối. TodayTourist sẽ dùng thông tin này để đề xuất điểm đón, chặng dừng và nhịp tham quan. Với nhu cầu thuê xe riêng, cần ghi rõ đã có chương trình hay muốn công ty tổ chức trọn gói để báo đúng phạm vi dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đón đoàn ở xí nghiệp ngoài nội ô Biên Hòa không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đón đoàn ở xí nghiệp ngoài nội ô Biên Hòa không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể xem xét theo vị trí, đường vào, loại xe và lịch điều động. Điểm đón cùng chi phí cần được xác nhận trong báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể xem xét theo vị trí, đường vào, loại xe và lịch điều động. Điểm đón cùng chi phí cần được xác nhận trong báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Bảo Lộc – Nam Cát Tiên cho công ty, cơ quan và xí nghiệp",
-        "Team Building Bảo Lộc, Nam Cát Tiên: chọn sân và trò chơi",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bao-loc-nam-cat-tien-cho-cong-ty-co-quan-va-xi-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bảo Lộc – Nam Cát Tiên cho công ty, cơ quan và xí nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-bao-loc-nam-cat-tien-chon-san-va-tro-choi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Bảo Lộc, Nam Cát Tiên: chọn sân và trò chơi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
