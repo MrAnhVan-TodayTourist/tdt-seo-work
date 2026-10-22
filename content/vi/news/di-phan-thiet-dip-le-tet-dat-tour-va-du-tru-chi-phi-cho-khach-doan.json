@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Dịp lễ, Tết là thời điểm nhiều đoàn muốn đi nhưng cũng là lúc dịch vụ khan hiếm. Càng lên kế hoạch sớm, đoàn càng có nhiều lựa chọn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Dịp lễ, Tết là thời điểm nhiều đoàn muốn đi nhưng cũng là lúc dịch vụ khan hiếm. Càng lên kế hoạch sớm, đoàn càng có nhiều lựa chọn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Quỹ phòng và xe ngày cao điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quỹ phòng và xe ngày cao điểm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng và xe thường kín nhanh vào dịp lễ. Hãy đưa ra vài ngày dự phòng và hỏi sớm về quỹ phòng. Đoàn đông có thể phải chia nhiều nơi lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng và xe thường kín nhanh vào dịp lễ. Hãy đưa ra vài ngày dự phòng và hỏi sớm về quỹ phòng. Đoàn đông có thể phải chia nhiều nơi lưu trú.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222656709-0.jpg",
-      "alt": "A picturesque lighthouse stands tall on a rocky cliff under a clear bl"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222656709-0.jpg\" alt=\"A picturesque lighthouse stands tall on a rocky cliff under a clear bl\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thay đổi giá và điều kiện giữ chỗ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thay đổi giá và điều kiện giữ chỗ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giá và điều kiện dịp lễ có thể khác ngày thường. Không dùng bảng giá hay lịch của năm trước để quyết định; cần báo giá mới cho đúng ngày. Hỏi thời hạn giữ chỗ và mức cọc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá và điều kiện dịp lễ có thể khác ngày thường. Không dùng bảng giá hay lịch của năm trước để quyết định; cần báo giá mới cho đúng ngày. Hỏi thời hạn giữ chỗ và mức cọc.</span>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình có dự phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình có dự phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giao thông ngày lễ thường đông, thời gian di chuyển có thể kéo dài. Lịch nên có khoảng đệm, tránh nhiều điểm trong một ngày. Chuẩn bị phương án khi thời tiết thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giao thông ngày lễ thường đông, thời gian di chuyển có thể kéo dài. Lịch nên có khoảng đệm, tránh nhiều điểm trong một ngày. Chuẩn bị phương án khi thời tiết thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Thông tin cần xác nhận trước thanh toán"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông tin cần xác nhận trước thanh toán</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trước khi thanh toán, xác nhận ngày, số khách, dịch vụ gồm trong giá, điều kiện đổi hủy và thông tin hóa đơn. Lưu lại chương trình cuối cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trước khi thanh toán, xác nhận ngày, số khách, dịch vụ gồm trong giá, điều kiện đổi hủy và thông tin hóa đơn. Lưu lại chương trình cuối cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên đặt tour Phan Thiết dịp lễ trước bao lâu?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên đặt tour Phan Thiết dịp lễ trước bao lâu?</span>"
     },
     {
       "type": "p",
-      "text": "Càng sớm càng tốt, nhưng thời điểm cụ thể phụ thuộc dịch vụ. Hãy liên hệ để kiểm tra tình trạng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Càng sớm càng tốt, nhưng thời điểm cụ thể phụ thuộc dịch vụ. Hãy liên hệ để kiểm tra tình trạng.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?",
-        "Tour ghép Phan Thiết hay tour đoàn riêng: chọn theo nhu cầu nào?",
-        "Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-di-phan-thiet-2-ngay-1-dem-gom-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-phan-thiet-hay-tour-doan-rieng-chon-theo-nhu-cau-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép Phan Thiết hay tour đoàn riêng: chọn theo nhu cầu nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-phan-thiet-mui-ne-cho-doan-cong-ty-nhu-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
