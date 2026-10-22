@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Một chuyến du lịch công ty không chỉ cần điểm tham quan đẹp. Với Bảo Lộc–Nam Cát Tiên, người phụ trách còn phải giải quyết số khách, phòng, thời gian nghỉ, hoạt động chung và việc chia nhóm trải nghiệm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một chuyến du lịch công ty không chỉ cần điểm tham quan đẹp. Với Bảo Lộc–Nam Cát Tiên, người phụ trách còn phải giải quyết số khách, phòng, thời gian nghỉ, hoạt động chung và việc chia nhóm trải nghiệm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn mục tiêu trước khi chọn lịch trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn mục tiêu trước khi chọn lịch trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu doanh nghiệp muốn nhân viên nghỉ dưỡng, nên tăng thời gian ở nơi lưu trú và giảm di chuyển. Nếu muốn kết nối giữa bộ phận, dành một buổi Team Building có nội dung rõ ràng. Nếu có vinh danh, đặt Gala làm trọng tâm buổi tối. Cùng một điểm đến nhưng ba mục tiêu này sẽ dẫn tới cách bố trí khác nhau. Yêu cầu gửi TodayTourist nên ghi cả điều đoàn muốn đạt được, thay vì chỉ hỏi giá tour thấp nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu doanh nghiệp muốn nhân viên nghỉ dưỡng, nên tăng thời gian ở nơi lưu trú và giảm di chuyển. Nếu muốn kết nối giữa bộ phận, dành một buổi Team Building có nội dung rõ ràng. Nếu có vinh danh, đặt Gala làm trọng tâm buổi tối. Cùng một điểm đến nhưng ba mục tiêu này sẽ dẫn tới cách bố trí khác nhau. Yêu cầu gửi TodayTourist nên ghi cả điều đoàn muốn đạt được, thay vì chỉ hỏi giá tour thấp nhất.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214672020-0.jpg",
-      "alt": "Tour Bảo Lộc – Nam Cát Tiên cho công ty, cơ quan và xí nghiệp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214672020-0.jpg\" alt=\"Tour Bảo Lộc – Nam Cát Tiên cho công ty, cơ quan và xí nghiệp\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Quản lý đoàn đông bằng các nhóm dễ theo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quản lý đoàn đông bằng các nhóm dễ theo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nhiều xe cần danh sách theo xe, trưởng nhóm và giờ tập trung thống nhất. Khi tham quan rừng, có thể phải chia nhóm theo dịch vụ nội khu và mức vận động; không mặc định cả đoàn cùng vào một tuyến sâu. Danh sách phòng nên chốt sớm, đặc biệt khi có vợ chồng, trẻ em hoặc khách cần phòng gần khu ăn. Doanh nghiệp cũng nên xác định khách nào tham gia đầy đủ và khách nào chỉ dự một phần để đặt dịch vụ chính xác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhiều xe cần danh sách theo xe, trưởng nhóm và giờ tập trung thống nhất. Khi tham quan rừng, có thể phải chia nhóm theo dịch vụ nội khu và mức vận động; không mặc định cả đoàn cùng vào một tuyến sâu. Danh sách phòng nên chốt sớm, đặc biệt khi có vợ chồng, trẻ em hoặc khách cần phòng gần khu ăn. Doanh nghiệp cũng nên xác định khách nào tham gia đầy đủ và khách nào chỉ dự một phần để đặt dịch vụ chính xác.</span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình trọn gói phải có phạm vi rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình trọn gói phải có phạm vi rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá cần thể hiện xe, phòng, ăn, tham quan, hướng dẫn và các hạng mục sự kiện. Nếu có backdrop, quà trò chơi, âm thanh, chụp ảnh hoặc tiệc BBQ thì ghi riêng để tránh hiểu nhầm. Thời hạn xác nhận số người và cách điều chỉnh khi tăng giảm khách cũng cần thống nhất trước. TodayTourist tư vấn chương trình đoàn riêng từ Đồng Nai và TP.HCM; lịch và dịch vụ được hoàn thiện sau khi khảo sát yêu cầu, không sao chép nguyên lịch tour khách lẻ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá cần thể hiện xe, phòng, ăn, tham quan, hướng dẫn và các hạng mục sự kiện. Nếu có backdrop, quà trò chơi, âm thanh, chụp ảnh hoặc tiệc BBQ thì ghi riêng để tránh hiểu nhầm. Thời hạn xác nhận số người và cách điều chỉnh khi tăng giảm khách cũng cần thống nhất trước. TodayTourist tư vấn chương trình đoàn riêng từ Đồng Nai và TP.HCM; lịch và dịch vụ được hoàn thiện sau khi khảo sát yêu cầu, không sao chép nguyên lịch tour khách lẻ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể tổ chức cho các ca làm việc khác ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể tổ chức cho các ca làm việc khác ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề xuất nhiều đợt theo cùng tiêu chuẩn dịch vụ, nhưng ngày đi và khả năng giữ phòng, sân sự kiện phải được xác nhận từng đợt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề xuất nhiều đợt theo cùng tiêu chuẩn dịch vụ, nhưng ngày đi và khả năng giữ phòng, sân sự kiện phải được xác nhận từng đợt.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building Bảo Lộc, Nam Cát Tiên: chọn sân và trò chơi",
-        "Gala Dinner Bảo Lộc, Nam Cát Tiên: lên tiệc và chương trình",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-bao-loc-nam-cat-tien-chon-san-va-tro-choi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Bảo Lộc, Nam Cát Tiên: chọn sân và trò chơi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-bao-loc-nam-cat-tien-len-tiec-va-chuong-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Bảo Lộc, Nam Cát Tiên: lên tiệc và chương trình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-45-cho-bien-hoa-dong-nai-tphcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
