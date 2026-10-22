@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Núi Cấm là một hướng tham quan cảnh quan và chiêm bái tại An Giang. Khi ghép với Châu Đốc, cần dành đủ thời gian cho chặng lên núi, đi bộ và nghỉ. Chương trình phải làm rõ hình thức di chuyển và vé, vì tên điểm đến không cho biết toàn bộ dịch vụ mà đoàn sẽ sử dụng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Núi Cấm là một hướng tham quan cảnh quan và chiêm bái tại An Giang. Khi ghép với Châu Đốc, cần dành đủ thời gian cho chặng lên núi, đi bộ và nghỉ. Chương trình phải làm rõ hình thức di chuyển và vé, vì tên điểm đến không cho biết toàn bộ dịch vụ mà đoàn sẽ sử dụng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn hình thức lên núi trước khi chốt lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn hình thức lên núi trước khi chốt lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi phương tiện hoặc dịch vụ cáp treo có trong chương trình, thời gian hoạt động và điểm tập trung. Không tự hiểu xe tour sẽ đi đến mọi vị trí trên núi. Các chặng đi bộ và phần tham quan phải được mô tả rõ để người lớn tuổi hoặc thành viên ít vận động cân nhắc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi phương tiện hoặc dịch vụ cáp treo có trong chương trình, thời gian hoạt động và điểm tập trung. Không tự hiểu xe tour sẽ đi đến mọi vị trí trên núi. Các chặng đi bộ và phần tham quan phải được mô tả rõ để người lớn tuổi hoặc thành viên ít vận động cân nhắc.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Giữ thời gian cho không gian chiêm bái"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ thời gian cho không gian chiêm bái</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể tìm hiểu các điểm như chùa Vạn Linh, khu tượng Phật và cảnh quan theo tuyến đã thống nhất. Đoàn cần lịch vừa phải, trang phục phù hợp và tuân theo hướng dẫn tại nơi thờ tự. Nếu có thời gian tự do, thống nhất giờ và điểm gặp để không phải tìm người trước khi xuống núi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể tìm hiểu các điểm như chùa Vạn Linh, khu tượng Phật và cảnh quan theo tuyến đã thống nhất. Đoàn cần lịch vừa phải, trang phục phù hợp và tuân theo hướng dẫn tại nơi thờ tự. Nếu có thời gian tự do, thống nhất giờ và điểm gặp để không phải tìm người trước khi xuống núi.</span>"
     },
     {
       "type": "h2",
-      "text": "Không nhồi quá nhiều điểm An Giang vào một ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không nhồi quá nhiều điểm An Giang vào một ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Miếu Bà, Trà Sư và Núi Cấm đều cần thời gian riêng. Nếu muốn đủ cả ba, nên xem khả năng thêm ngày hoặc điều chỉnh điểm, đặc biệt đoàn đông. TodayTourist tiếp nhận tuyến Núi Cấm theo yêu cầu để kiểm tra dịch vụ; tour Châu Đốc trên website chỉ là tham khảo, không mặc định đã gồm điểm này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Miếu Bà, Trà Sư và Núi Cấm đều cần thời gian riêng. Nếu muốn đủ cả ba, nên xem khả năng thêm ngày hoặc điều chỉnh điểm, đặc biệt đoàn đông. TodayTourist tiếp nhận tuyến Núi Cấm theo yêu cầu để kiểm tra dịch vụ; tour Châu Đốc trên website chỉ là tham khảo, không mặc định đã gồm điểm này.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có phải giá tour Núi Cấm luôn gồm cáp treo?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có phải giá tour Núi Cấm luôn gồm cáp treo?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Chỉ coi là đã gồm khi báo giá ghi rõ loại vé và phần dịch vụ. Nếu chưa gồm, cần biết khoản tự túc hoặc lựa chọn phương tiện khác trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Chỉ coi là đã gồm khi báo giá ghi rõ loại vé và phần dịch vụ. Nếu chưa gồm, cần biết khoản tự túc hoặc lựa chọn phương tiện khác trước khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Núi Cấm? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Núi Cấm? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-chau-doc/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Châu Đốc: chọn hành hương Núi Sam và lịch nghỉ phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-chau-doc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Châu Đốc: chọn hành hương Núi Sam và lịch nghỉ phù hợp</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-rung-tram-tra-su/\" target=\"_blank\" rel=\"noopener nofollow\">Rừng tràm Trà Sư: chọn thuyền và lịch kết hợp Châu Đốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-rung-tram-tra-su/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Rừng tràm Trà Sư: chọn thuyền và lịch kết hợp Châu Đốc</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-chau-doc-rung-tram-tra-su-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Châu Đốc – Trà Sư 1 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-chau-doc-rung-tram-tra-su-1n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Châu Đốc – Trà Sư 1 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-chau-doc-ha-tien-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Châu Đốc – Hà Tiên 2 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-chau-doc-ha-tien-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Châu Đốc – Hà Tiên 2 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
