@@ -8,29 +8,28 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Huế là cố đô với nhiều di tích, thường đi cùng Quảng Trị và Đà Nẵng. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Huế là cố đô với nhiều di tích, thường đi cùng Quảng Trị và Đà Nẵng. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi Huế?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi Huế?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Huế cách Biên Hòa, TP.HCM bao xa?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Huế cách Biên Hòa, TP.HCM bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Huế cách TP.HCM trên 1.000 km (ước tính theo quốc lộ 1A), và cách Đà Nẵng khoảng 100 km. Vì vậy đoàn từ Biên Hòa, Đồng Nai, TP.HCM thường đến Huế qua đường hàng không, hoặc đi trong chuyến xuyên miền Trung nhiều ngày. Nếu đoàn đi chung một xe từ Đồng Nai, nên đặt ít nhất 2 ngày đường."
+      "text": "<span style=\"font-size:16px;color:#374151\">Huế cách TP.HCM trên 1.000 km (ước tính theo quốc lộ 1A), và cách Đà Nẵng khoảng 100 km. Vì vậy đoàn từ Biên Hòa, Đồng Nai, TP.HCM thường đến Huế qua đường hàng không, hoặc đi trong chuyến xuyên miền Trung nhiều ngày. Nếu đoàn đi chung một xe từ Đồng Nai, nên đặt ít nhất 2 ngày đường.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213010058-0.jpg",
-      "alt": "Thuê xe đi Huế từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213010058-0.jpg\" alt=\"Thuê xe đi Huế từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Điểm tham quan cốt lõi của Huế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm tham quan cốt lõi của Huế</span></strong>"
     },
     {
       "type": "list",
@@ -44,111 +43,111 @@
     },
     {
       "type": "h2",
-      "text": "Lịch trình 2 ngày 1 đêm gợi ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình 2 ngày 1 đêm gợi ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 1:</strong> Đại Nội sáng sớm, trưa ăn đặc sản Huế, chiều chùa Thiên Mụ rồi đi thuyền sông Hương nghe ca Huế buổi tối."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 1:</strong> Đại Nội sáng sớm, trưa ăn đặc sản Huế, chiều chùa Thiên Mụ rồi đi thuyền sông Hương nghe ca Huế buổi tối.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 2:</strong> Lăng Tự Đức, Khải Định, Minh Mạng theo cụm, ăn trưa rồi tiếp tục Đà Nẵng hoặc ra sân bay."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 2:</strong> Lăng Tự Đức, Khải Định, Minh Mạng theo cụm, ăn trưa rồi tiếp tục Đà Nẵng hoặc ra sân bay.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe và lưu ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và lưu ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các lăng nằm rải rác, nên đi xe riêng theo cụm điểm để tiết kiệm thời gian. Nhóm 10–14 khách đi xe 16 chỗ; đoàn đông đi 29–45 chỗ. Mùa mưa (thường cuối năm) lịch trình nên linh hoạt. Xác nhận giờ mở cửa và giá vé từng điểm trước ngày đi vì có thể thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các lăng nằm rải rác, nên đi xe riêng theo cụm điểm để tiết kiệm thời gian. Nhóm 10–14 khách đi xe 16 chỗ; đoàn đông đi 29–45 chỗ. Mùa mưa (thường cuối năm) lịch trình nên linh hoạt. Xác nhận giờ mở cửa và giá vé từng điểm trước ngày đi vì có thể thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý thêm cho đoàn đi Huế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý thêm cho đoàn đi Huế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Huế là cố đô với nhiều di tích như Đại Nội, chùa Thiên Mục, lăng Khải Định, lăng Minh Mạng và sông Hương. Đoàn nên dành ít nhất 2 ngày để tham quan trọn vẹn. Ẩm thực Huế như bún bò, bánh bèo, bánh nậm, cơm hến là những món đoàn không nên bỏ lỡ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Huế là cố đô với nhiều di tích như Đại Nội, chùa Thiên Mục, lăng Khải Định, lăng Minh Mạng và sông Hương. Đoàn nên dành ít nhất 2 ngày để tham quan trọn vẹn. Ẩm thực Huế như bún bò, bánh bèo, bánh nậm, cơm hến là những món đoàn không nên bỏ lỡ.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý thời tiết"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý thời tiết</span></strong>"
     },
     {
       "type": "p",
-      "text": "Huế mưa nhiều vào mùa mưa, đoàn nên mang áo mưa và giày chống trượt. Mùa nắng nóng nên mang mũ nón và nước uống."
+      "text": "<span style=\"font-size:16px;color:#374151\">Huế mưa nhiều vào mùa mưa, đoàn nên mang áo mưa và giày chống trượt. Mùa nắng nóng nên mang mũ nón và nước uống.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn phương án di chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phương án di chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Quãng đường rất xa, nhiều đoàn bay đến rồi thuê xe tại điểm đến. Đoàn muốn đi xe riêng cần chia chặng và có tài xế phụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quãng đường rất xa, nhiều đoàn bay đến rồi thuê xe tại điểm đến. Đoàn muốn đi xe riêng cần chia chặng và có tài xế phụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị ăn uống và nghỉ ngơi khi đi Huế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị ăn uống và nghỉ ngơi khi đi Huế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Huế có nhiều món ăn dân dã, đoàn nên đặt bàn trước vào giờ cao điểm. Ưu tiên chỗ nghỉ gần trung tâm để buổi tối dễ dạo phố, nghe ca Huế trên sông Hương. Mỗi ngày nên có một buổi chậm để đoàn nghỉ ngơi sau khi tham quan nhiều lăng tẩm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Huế có nhiều món ăn dân dã, đoàn nên đặt bàn trước vào giờ cao điểm. Ưu tiên chỗ nghỉ gần trung tâm để buổi tối dễ dạo phố, nghe ca Huế trên sông Hương. Mỗi ngày nên có một buổi chậm để đoàn nghỉ ngơi sau khi tham quan nhiều lăng tẩm.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Huế cách TP.HCM bao xa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Huế cách TP.HCM bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trên 1.000 km theo quốc lộ 1A (ước tính); cách Đà Nẵng khoảng 100 km."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trên 1.000 km theo quốc lộ 1A (ước tính); cách Đà Nẵng khoảng 100 km.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi Huế mấy ngày là đủ?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi Huế mấy ngày là đủ?</span></strong>"
     },
     {
       "type": "p",
-      "text": "2 ngày 1 đêm cho các điểm chính; thêm Đà Nẵng, Hội An nên đi 4–5 ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">2 ngày 1 đêm cho các điểm chính; thêm Đà Nẵng, Hội An nên đi 4–5 ngày.</span>"
     },
     {
       "type": "h3",
-      "text": "Chùa Thiên Mụ cách trung tâm bao xa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chùa Thiên Mụ cách trung tâm bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khoảng 5 km."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khoảng 5 km.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi lăng nào nên ưu tiên?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi lăng nào nên ưu tiên?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu ít thời gian: Tự Đức hoặc Khải Định; đủ thời gian đi thêm Minh Mạng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu ít thời gian: Tự Đức hoặc Khải Định; đủ thời gian đi thêm Minh Mạng.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist hỗ trợ gì?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist hỗ trợ gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-quang-binh/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Quảng Bình</a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-trung-nhieu-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi miền Trung nhiều ngày</a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-bac-tu-dong-nai-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi miền Bắc từ Đồng Nai, TP.HCM</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-quang-binh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Quảng Bình</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-trung-nhieu-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi miền Trung nhiều ngày</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-mien-bac-tu-dong-nai-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi miền Bắc từ Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -157,6 +156,10 @@
         "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM",
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
