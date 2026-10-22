@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Gia đình có trẻ nhỏ và nhóm người lớn tuổi cần chọn tour biển theo nhịp nghỉ, không chỉ cảnh đẹp. Ninh Chữ có thể thuận tiện giữ phòng trên đất liền; Bình Hưng thêm chặng tàu và chuyển hành lý. Hãy báo nhu cầu của thành viên để kiểm tra điểm, phòng và hoạt động phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gia đình có trẻ nhỏ và nhóm người lớn tuổi cần chọn tour biển theo nhịp nghỉ, không chỉ cảnh đẹp. Ninh Chữ có thể thuận tiện giữ phòng trên đất liền; Bình Hưng thêm chặng tàu và chuyển hành lý. Hãy báo nhu cầu của thành viên để kiểm tra điểm, phòng và hoạt động phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Giảm chuyển phương tiện khi cần"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giảm chuyển phương tiện khi cần</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu thành viên khó lên xuống tàu hoặc dễ mệt sau đường xe, có thể chọn nghỉ Ninh Chữ và một vài điểm đất liền. Muốn đi đảo cần hỏi lối lên xuống, bến, chỗ nghỉ và thời lượng. Không mặc định chuyến tàu ngắn phù hợp tất cả người tham gia."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu thành viên khó lên xuống tàu hoặc dễ mệt sau đường xe, có thể chọn nghỉ Ninh Chữ và một vài điểm đất liền. Muốn đi đảo cần hỏi lối lên xuống, bến, chỗ nghỉ và thời lượng. Không mặc định chuyến tàu ngắn phù hợp tất cả người tham gia.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Báo nhu cầu phòng và bữa ăn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo nhu cầu phòng và bữa ăn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi tuổi trẻ, nhu cầu ghế, ngủ chung hoặc riêng, chế độ ăn và hỗ trợ cần thiết. Phụ thu trẻ em tùy điều kiện dịch vụ, không coi là một tỷ lệ cố định cho mọi tour. Phòng gần thang máy hay ít bậc phải kiểm tra với cơ sở, không chỉ ghi yêu cầu rồi xem như đã có."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi tuổi trẻ, nhu cầu ghế, ngủ chung hoặc riêng, chế độ ăn và hỗ trợ cần thiết. Phụ thu trẻ em tùy điều kiện dịch vụ, không coi là một tỷ lệ cố định cho mọi tour. Phòng gần thang máy hay ít bậc phải kiểm tra với cơ sở, không chỉ ghi yêu cầu rồi xem như đã có.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn ít hoạt động và có phương án nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ít hoạt động và có phương án nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giữ khoảng ngủ trưa, ăn đúng giờ và một trải nghiệm chính mỗi buổi. Thành viên không đi thuyền có thể cần người đi cùng và lịch thay thế, phải chốt trước. Người có vấn đề sức khỏe nên trao đổi với người chăm sóc hoặc bác sĩ riêng trước khi quyết định hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giữ khoảng ngủ trưa, ăn đúng giờ và một trải nghiệm chính mỗi buổi. Thành viên không đi thuyền có thể cần người đi cùng và lịch thay thế, phải chốt trước. Người có vấn đề sức khỏe nên trao đổi với người chăm sóc hoặc bác sĩ riêng trước khi quyết định hoạt động.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Tour đi đêm có hợp nhóm người lớn tuổi không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tour đi đêm có hợp nhóm người lớn tuổi không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tùy khả năng nghỉ và sinh hoạt của từng người. Có thể cân nhắc lịch ban ngày hoặc thêm đêm phòng. Nên xem cả giờ đi về, không chỉ số ngày ghi trên tên tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy khả năng nghỉ và sinh hoạt của từng người. Có thể cân nhắc lịch ban ngày hoặc thêm đêm phòng. Nên xem cả giờ đi về, không chỉ số ngày ghi trên tên tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-binh-hung/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng: chọn đi đảo, ngủ đêm và trải nghiệm biển</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-binh-hung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng: chọn đi đảo, ngủ đêm và trải nghiệm biển</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/bai-kinh-binh-hung/\" target=\"_blank\" rel=\"noopener nofollow\">Bãi Kinh và đường ra Bình Hưng: chuẩn bị chặng tàu cho đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bai-kinh-binh-hung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bãi Kinh và đường ra Bình Hưng: chuẩn bị chặng tàu cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
