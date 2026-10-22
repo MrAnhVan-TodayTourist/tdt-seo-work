@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Gala Dinner Đà Lạt là dịp để công ty nhìn lại hành trình, ghi nhận đóng góp và tạo một tối giao lưu đáng nhớ. Muốn chương trình diễn ra liền mạch, cần chuẩn bị cả kịch bản lẫn phòng tiệc, thiết bị và người phối hợp. Giá Gala vì vậy không chỉ là giá một bữa tối."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gala Dinner Đà Lạt là dịp để công ty nhìn lại hành trình, ghi nhận đóng góp và tạo một tối giao lưu đáng nhớ. Muốn chương trình diễn ra liền mạch, cần chuẩn bị cả kịch bản lẫn phòng tiệc, thiết bị và người phối hợp. Giá Gala vì vậy không chỉ là giá một bữa tối.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định nội dung trọng tâm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định nội dung trọng tâm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn mục tiêu chính: tổng kết, vinh danh, tri ân hoặc kết nối. Từ đó chia thời lượng cho phát biểu, trao thưởng, văn nghệ và trò chơi. Nếu có nhiều hạng mục khen thưởng, cần danh sách chính xác, thứ tự mời và người trao. Những phần quan trọng nên có thời gian riêng, tránh để tiết mục giao lưu kéo dài rồi vinh danh diễn ra vội."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn mục tiêu chính: tổng kết, vinh danh, tri ân hoặc kết nối. Từ đó chia thời lượng cho phát biểu, trao thưởng, văn nghệ và trò chơi. Nếu có nhiều hạng mục khen thưởng, cần danh sách chính xác, thứ tự mời và người trao. Những phần quan trọng nên có thời gian riêng, tránh để tiết mục giao lưu kéo dài rồi vinh danh diễn ra vội.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215393124-0.jpg",
-      "alt": "Gala Dinner Đà Lạt: chương trình và các khoản chi phí"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215393124-0.jpg\" alt=\"Gala Dinner Đà Lạt: chương trình và các khoản chi phí\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra phòng tiệc và thiết bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra phòng tiệc và thiết bị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sức chứa phải tính theo bàn ăn, sân khấu, lối đi và khu vực kỹ thuật, không chỉ theo diện tích phòng. Kiểm tra âm thanh, micro, màn hình hoặc máy chiếu, nguồn điện và thời gian lắp đặt. Đoàn nhiều người cần nhìn thấy sân khấu từ các bàn. Nếu Gala ở địa điểm khác khách sạn, phải tính xe đưa đón và giờ trở về."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sức chứa phải tính theo bàn ăn, sân khấu, lối đi và khu vực kỹ thuật, không chỉ theo diện tích phòng. Kiểm tra âm thanh, micro, màn hình hoặc máy chiếu, nguồn điện và thời gian lắp đặt. Đoàn nhiều người cần nhìn thấy sân khấu từ các bàn. Nếu Gala ở địa điểm khác khách sạn, phải tính xe đưa đón và giờ trở về.</span>"
     },
     {
       "type": "h2",
-      "text": "Phối hợp bữa ăn với kịch bản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phối hợp bữa ăn với kịch bản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thời điểm lên món cần thống nhất với phần phát biểu và trao thưởng. Nên có một người từ doanh nghiệp cùng MC kiểm tra tên, chức danh, nhạc và nội dung trình chiếu trước chương trình. Những tiết mục nhân sự tự biểu diễn cần được đăng ký và chạy thử khi có thể. Không nên chỉ đưa danh sách vào tối diễn ra Gala."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thời điểm lên món cần thống nhất với phần phát biểu và trao thưởng. Nên có một người từ doanh nghiệp cùng MC kiểm tra tên, chức danh, nhạc và nội dung trình chiếu trước chương trình. Những tiết mục nhân sự tự biểu diễn cần được đăng ký và chạy thử khi có thể. Không nên chỉ đưa danh sách vào tối diễn ra Gala.</span>"
     },
     {
       "type": "h2",
-      "text": "Chi phí nào cần hỏi riêng?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chi phí nào cần hỏi riêng?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngoài thực đơn, có thể có chi phí thuê phòng, sân khấu, MC, âm thanh, màn hình, trang trí, quà tặng hoặc thời gian phục vụ thêm. Báo giá cần ghi rõ từng phần. TodayTourist tư vấn Gala Dinner trong tour Đà Lạt theo quy mô và nội dung doanh nghiệp, kết hợp tham quan hoặc Team Building theo lịch riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngoài thực đơn, có thể có chi phí thuê phòng, sân khấu, MC, âm thanh, màn hình, trang trí, quà tặng hoặc thời gian phục vụ thêm. Báo giá cần ghi rõ từng phần. TodayTourist tư vấn Gala Dinner trong tour Đà Lạt theo quy mô và nội dung doanh nghiệp, kết hợp tham quan hoặc Team Building theo lịch riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gala có bắt buộc tổ chức ngoài trời không? Không; chọn không gian theo nội dung và điều kiện. Có thể dùng tiết mục của nhân viên không? Có, nên thống nhất kịch bản và yêu cầu kỹ thuật từ trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gala có bắt buộc tổ chức ngoài trời không? Không; chọn không gian theo nội dung và điều kiện. Có thể dùng tiết mục của nhân viên không? Có, nên thống nhất kịch bản và yêu cầu kỹ thuật từ trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đốt lửa trại, BBQ hay giao lưu cồng chiêng: đoàn nên chọn gì?",
-        "Tour Đà Lạt kết hợp hội nghị, tổng kết và tri ân khách hàng",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dot-lua-trai-bbq-hay-giao-luu-cong-chieng-doan-nen-chon-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đốt lửa trại, BBQ hay giao lưu cồng chiêng: đoàn nên chọn gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-ket-hop-hoi-nghi-tong-ket-va-tri-an-khach-hang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt kết hợp hội nghị, tổng kết và tri ân khách hàng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
