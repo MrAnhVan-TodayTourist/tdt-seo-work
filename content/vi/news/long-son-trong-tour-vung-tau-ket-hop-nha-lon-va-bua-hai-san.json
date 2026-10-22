@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Long Sơn có thể là một phần trải nghiệm riêng trong chuyến đi Vũng Tàu. Nếu đoàn muốn tìm hiểu Nhà Lớn hoặc ăn hải sản tại khu này, cần dành thời gian thực tế thay vì thêm tên điểm đến vào lịch cho đủ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Long Sơn có thể là một phần trải nghiệm riêng trong chuyến đi Vũng Tàu. Nếu đoàn muốn tìm hiểu Nhà Lớn hoặc ăn hải sản tại khu này, cần dành thời gian thực tế thay vì thêm tên điểm đến vào lịch cho đủ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định mục tiêu ghé Long Sơn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định mục tiêu ghé Long Sơn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà Lớn Long Sơn là nơi có câu chuyện văn hóa gắn với ông Trần. Đoàn muốn tham quan nên có thời gian nghe giới thiệu và ứng xử phù hợp tại điểm. Nếu mục tiêu chính là bữa ăn, chọn dịch vụ ăn uống trước rồi mới cân nhắc tham quan. Không biến một bữa ăn thành lời hứa có đủ trải nghiệm văn hóa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà Lớn Long Sơn là nơi có câu chuyện văn hóa gắn với ông Trần. Đoàn muốn tham quan nên có thời gian nghe giới thiệu và ứng xử phù hợp tại điểm. Nếu mục tiêu chính là bữa ăn, chọn dịch vụ ăn uống trước rồi mới cân nhắc tham quan. Không biến một bữa ăn thành lời hứa có đủ trải nghiệm văn hóa.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Kiểm tra việc tiếp cận nhà hàng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra việc tiếp cận nhà hàng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu đề nghị ăn tại khu bè, hỏi cách di chuyển, phương tiện, sức chứa, lối lên xuống và điều kiện phục vụ. Đoàn có người lớn tuổi hoặc trẻ nhỏ cần lựa chọn thuận tiện. Không mặc định mọi nhà hàng đều tiếp nhận xe lớn hoặc phục vụ đoàn đông cùng giờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu đề nghị ăn tại khu bè, hỏi cách di chuyển, phương tiện, sức chứa, lối lên xuống và điều kiện phục vụ. Đoàn có người lớn tuổi hoặc trẻ nhỏ cần lựa chọn thuận tiện. Không mặc định mọi nhà hàng đều tiếp nhận xe lớn hoặc phục vụ đoàn đông cùng giờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép vào tuyến với khoảng nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép vào tuyến với khoảng nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tính thời gian đi thêm, ăn uống và tập trung lại để không ảnh hưởng nhận phòng hoặc gala. Đặt thực đơn, định lượng, đồ uống và phí vận chuyển nếu có. Phần Long Sơn là lựa chọn bổ sung theo yêu cầu; TodayTourist cần kiểm tra điểm tiếp đón và dịch vụ trước khi xác nhận vào chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tính thời gian đi thêm, ăn uống và tập trung lại để không ảnh hưởng nhận phòng hoặc gala. Đặt thực đơn, định lượng, đồ uống và phí vận chuyển nếu có. Phần Long Sơn là lựa chọn bổ sung theo yêu cầu; TodayTourist cần kiểm tra điểm tiếp đón và dịch vụ trước khi xác nhận vào chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Vũng Tàu nào cũng ghé Long Sơn không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Vũng Tàu nào cũng ghé Long Sơn không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Đây là lựa chọn cần xem tuyến đường, thời gian và nhu cầu đoàn; chỉ bao gồm khi đã ghi trong chương trình xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Đây là lựa chọn cần xem tuyến đường, thời gian và nhu cầu đoàn; chỉ bao gồm khi đã ghi trong chương trình xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt",
-        "Vũng Tàu ăn gì: đặt bữa hải sản cho đoàn công ty và gia đình",
-        "Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-tron-goi-chon-lich-trinh-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu trọn gói: chọn lịch trình trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vung-tau-an-gi-dat-bua-hai-san-cho-doan-cong-ty-va-gia-dinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Vũng Tàu ăn gì: đặt bữa hải sản cho đoàn công ty và gia đình</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
