@@ -8,37 +8,36 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Thuê nguyên xe đưa công nhân về quê dịp Tết cần phân tuyến theo nơi về và chốt riêng ngày đón lại.</strong> Công ty hoặc công đoàn nên làm đầu mối chung để gom danh sách, lịch và người liên hệ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Thuê nguyên xe đưa công nhân về quê dịp Tết cần phân tuyến theo nơi về và chốt riêng ngày đón lại.</strong> Công ty hoặc công đoàn nên làm đầu mối chung để gom danh sách, lịch và người liên hệ.</span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đưa công nhân về quê dịp Tết?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đưa công nhân về quê dịp Tết?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Chia tuyến theo điểm trả"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia tuyến theo điểm trả</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tập hợp số người và địa chỉ trả dự kiến, rồi nhóm những điểm thuận cùng hành trình. Danh sách cần có người đi kèm và hành lý. Với nhiều xe, ghi rõ ai phụ trách từng tuyến và cách liên lạc khi thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tập hợp số người và địa chỉ trả dự kiến, rồi nhóm những điểm thuận cùng hành trình. Danh sách cần có người đi kèm và hành lý. Với nhiều xe, ghi rõ ai phụ trách từng tuyến và cách liên lạc khi thay đổi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203256050-0.jpg",
-      "alt": "Thuê nguyên xe đưa công nhân về quê và đón lại dịp Tết"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203256050-0.jpg\" alt=\"Thuê nguyên xe đưa công nhân về quê và đón lại dịp Tết\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chốt cả chiều trở lại"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt cả chiều trở lại</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày về quê và ngày quay lại nhà máy có thể khác nhau giữa nhóm. Đặt hai chiều theo lịch thực tế, kiểm tra thời hạn giữ xe và điều kiện đổi số người. Không mặc định xe đưa về sẽ chờ nhiều ngày tại quê."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày về quê và ngày quay lại nhà máy có thể khác nhau giữa nhóm. Đặt hai chiều theo lịch thực tế, kiểm tra thời hạn giữ xe và điều kiện đổi số người. Không mặc định xe đưa về sẽ chờ nhiều ngày tại quê.</span>"
     },
     {
       "type": "h2",
-      "text": "Những yếu tố làm thay đổi giá thuê xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những yếu tố làm thay đổi giá thuê xe</span></strong>"
     },
     {
       "type": "list",
@@ -55,11 +54,11 @@
     },
     {
       "type": "p",
-      "text": "Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Vì mỗi đoàn khác nhau, TodayTourist báo giá theo từng yêu cầu thay vì một mức chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận báo giá nhanh chỉ với 3 thông tin"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận báo giá nhanh chỉ với 3 thông tin</span></strong>"
     },
     {
       "type": "list",
@@ -71,11 +70,11 @@
     },
     {
       "type": "p",
-      "text": "Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chi tiết còn lại Mr Anh Văn sẽ hỏi thêm khi tư vấn. Thuê xe không mặc định gồm hướng dẫn viên, bữa ăn hay vé tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Lịch làm việc mẫu cho chuyến xe đưa công nhân về quê"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch làm việc mẫu cho chuyến xe đưa công nhân về quê</span></strong>"
     },
     {
       "type": "list",
@@ -88,59 +87,59 @@
     },
     {
       "type": "h2",
-      "text": "Vì sao công ty nên thuê nguyên xe thay vì để công nhân tự mua vé"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Vì sao công ty nên thuê nguyên xe thay vì để công nhân tự mua vé</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thuê nguyên xe giúp đoàn đi cùng giờ, cùng điểm đón, người đi và người ở lại đều yên tâm hơn. Công nhân tránh được cảnh chen chúc ở bến xe dịp cao điểm Tết, hành lý nhiều cũng dễ sắp xếp hơn. Doanh nghiệp chủ động quản lý được giờ về và giờ trở lại, hạn chế tình trạng nghỉ kéo dài do không có xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê nguyên xe giúp đoàn đi cùng giờ, cùng điểm đón, người đi và người ở lại đều yên tâm hơn. Công nhân tránh được cảnh chen chúc ở bến xe dịp cao điểm Tết, hành lý nhiều cũng dễ sắp xếp hơn. Doanh nghiệp chủ động quản lý được giờ về và giờ trở lại, hạn chế tình trạng nghỉ kéo dài do không có xe.</span>"
     },
     {
       "type": "p",
-      "text": "Với những đoàn từ 30 người trở lên, Today Tourist thường tư vấn xe 45 chỗ hoặc chia hai xe 29 chỗ theo từng tuyến để vừa đúng nhu cầu và dễ điều phối. Đoàn có người đi chung hướng nên ghép theo tỉnh để giảm số km chạy không."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với những đoàn từ 30 người trở lên, Today Tourist thường tư vấn xe 45 chỗ hoặc chia hai xe 29 chỗ theo từng tuyến để vừa đúng nhu cầu và dễ điều phối. Đoàn có người đi chung hướng nên ghép theo tỉnh để giảm số km chạy không.</span>"
     },
     {
       "type": "p",
-      "text": "Thời điểm sát Tết xe rất khan hiếm, nên liên hệ sớm để giữ xe và tài xế quen tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thời điểm sát Tết xe rất khan hiếm, nên liên hệ sớm để giữ xe và tài xế quen tuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có nên đặt xe sớm trước Tết không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên đặt xe sớm trước Tết không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên chốt sớm danh sách và tuyến để việc sắp xếp xe thuận lợi hơn. Lịch xe cụ thể được xác nhận theo từng đoàn khi báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên chốt sớm danh sách và tuyến để việc sắp xếp xe thuận lợi hơn. Lịch xe cụ thể được xác nhận theo từng đoàn khi báo giá.</span>"
     },
     {
       "type": "h3",
-      "text": "Chỉ gửi tên tuyến có nhận được giá cuối cùng không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Chỉ gửi tên tuyến có nhận được giá cuối cùng không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thêm ngày đi, điểm đón trả, số người, hành lý và các lượt sử dụng. Báo giá cuối cùng dựa trên phương án xe và dịch vụ đã xác nhận.</span>"
     },
     {
       "type": "h3",
-      "text": "Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Thuê xe đã gồm hướng dẫn viên và bữa ăn chưa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ gồm khi ghi rõ trong báo giá. Mặc định thuê xe là dịch vụ vận chuyển.</span>"
     },
     {
       "type": "h3",
-      "text": "Báo giá và đặt xe thực hiện thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Báo giá và đặt xe thực hiện thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn, kèm số người, ngày đi và nơi đón. Mr Anh Văn tư vấn và báo giá theo yêu cầu. Điều kiện đặt cọc, thanh toán và đổi lịch được thống nhất và xác nhận trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Xem thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem thêm</span></strong>"
     },
     {
       "type": "list",
@@ -152,27 +151,27 @@
     },
     {
       "type": "h2",
-      "text": "Liên hệ tư vấn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Liên hệ tư vấn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đưa công nhân về quê dịp Tết theo nhu cầu của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhắn Zalo hoặc gọi Mr Anh Văn để được tư vấn và báo giá thuê xe đưa công nhân về quê dịp Tết theo nhu cầu của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">📞 <strong>Mr Anh Văn – Phòng Kinh doanh: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong> (Zalo/điện thoại) · <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nhắn Zalo</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)</strong><br>📍 Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>🕘 Thứ 2 – Thứ 7: 8:00 – 17:00 (nghỉ trưa 12:00 – 13:00)<br>🌐 todaytourist.com</span>"
     },
     {
       "type": "p",
-      "text": "Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị có thể ghé trực tiếp văn phòng trong giờ làm việc để được tư vấn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -181,6 +180,10 @@
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận",
         "Tổ chức Team Building cho doanh nghiệp tại Đồng Nai và TP.HCM"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
