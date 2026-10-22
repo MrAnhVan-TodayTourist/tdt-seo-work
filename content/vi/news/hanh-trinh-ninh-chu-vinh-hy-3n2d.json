@@ -8,8 +8,8 @@
   "published_at": "2026-09-21",
   "content": [
     {
-      "type": "p",
-      "text": "TodayTourist hân hạnh đồng hành cùng Hội Xóm Giềng Thiện Lành trong hành trình khám phá Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist hân hạnh đồng hành cùng Hội Xóm Giềng Thiện Lành trong hành trình khám phá Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Chuyến đi không chỉ là dịp để mọi người cùng nhau nghỉ ngơi, tận hưởng vẻ đẹp của biển xanh, nắng vàng mà còn là cơ hội gắn kết tình làng nghĩa xóm, sẻ chia những khoảnh khắc vui vẻ và lưu giữ nhiều kỷ niệm đáng nhớ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến đi không chỉ là dịp để mọi người cùng nhau nghỉ ngơi, tận hưởng vẻ đẹp của biển xanh, nắng vàng mà còn là cơ hội gắn kết tình làng nghĩa xóm, sẻ chia những khoảnh khắc vui vẻ và lưu giữ nhiều kỷ niệm đáng nhớ.</span>"
     },
     {
       "type": "p",
-      "text": "Xin chân thành cảm ơn Hội Xóm Giềng Thiện Lành đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn Hội Xóm Giềng Thiện Lành đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này.</span>"
     },
     {
       "type": "html",
@@ -29,15 +29,19 @@
     },
     {
       "type": "p",
-      "text": "Đặc biệt, xin gửi lời cảm ơn đến HDV Thành Đạt đã nhiệt tình hỗ trợ, chăm sóc đoàn chu đáo và mang đến một chuyến đi an toàn, trọn vẹn, đầy ắp tiếng cười."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặc biệt, xin gửi lời cảm ơn đến HDV Thành Đạt đã nhiệt tình hỗ trợ, chăm sóc đoàn chu đáo và mang đến một chuyến đi an toàn, trọn vẹn, đầy ắp tiếng cười.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist”.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
