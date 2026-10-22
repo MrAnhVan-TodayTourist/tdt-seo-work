@@ -3,7 +3,7 @@
   "title": "Biển Mỹ Khê: dành thời gian nghỉ biển trong tour Đà Nẵng",
   "category": "Tour Đà Nẵng – Hội An – Huế – Tư vấn đoàn",
   "image": "da-nang-bien-my-khe.jpg",
-  "summary": "Biển Mỹ Khê. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Biển Mỹ Khê có thể là phần nghỉ ngơi đáng giá nếu chương trình dành thời lượng phù hợp.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -20,9 +20,8 @@
       "text": "Nếu muốn tắm biển, tính cả thay đồ, gửi đồ và trở về nơi ở. Đoàn chỉ chụp ảnh có thể cần lịch khác. Không cố thêm khoảng biển sát giờ bay hoặc sau ngày chuyển tuyến quá dài; khách nên biết sẽ được nghỉ bao lâu trước khi chọn tour."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792465815509-0.jpg",
-      "alt": "Đà Nẵng – Hội An – Huế – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792465815509-0.jpg\" alt=\"Đà Nẵng – Hội An – Huế – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
