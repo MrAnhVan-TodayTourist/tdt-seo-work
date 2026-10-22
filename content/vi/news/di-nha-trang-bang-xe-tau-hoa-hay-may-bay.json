@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Phương tiện phù hợp phụ thuộc điểm xuất phát, số người, lịch nghỉ và cách đoàn muốn di chuyển. Khi so tour Nha Trang bằng xe, tàu hỏa hoặc máy bay, cần tính cả thời gian tập kết và đưa đón tại điểm đến, không chỉ thời gian trên phương tiện chính."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Phương tiện phù hợp phụ thuộc điểm xuất phát, số người, lịch nghỉ và cách đoàn muốn di chuyển. Khi so tour Nha Trang bằng xe, tàu hỏa hoặc máy bay, cần tính cả thời gian tập kết và đưa đón tại điểm đến, không chỉ thời gian trên phương tiện chính.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xe ghế ngồi hoặc giường nằm cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe ghế ngồi hoặc giường nằm cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe giúp tổ chức điểm đón và hoạt động chung thuận tiện hơn với nhiều đoàn tại Đồng Nai, TP.HCM. Xe ghế ngồi phù hợp phương án đi ban ngày; giường nằm có thể được cân nhắc khi di chuyển đêm. TodayTourist ưu tiên thế mạnh xe 45 chỗ và xe giường nằm; đoàn nhỏ hơn có thể hỏi phương án 16 hoặc 29 chỗ. Loại xe và bố trí thực tế cần được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe giúp tổ chức điểm đón và hoạt động chung thuận tiện hơn với nhiều đoàn tại Đồng Nai, TP.HCM. Xe ghế ngồi phù hợp phương án đi ban ngày; giường nằm có thể được cân nhắc khi di chuyển đêm. TodayTourist ưu tiên thế mạnh xe 45 chỗ và xe giường nằm; đoàn nhỏ hơn có thể hỏi phương án 16 hoặc 29 chỗ. Loại xe và bố trí thực tế cần được xác nhận.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Tàu hỏa cần tính vé và chặng kết nối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tàu hỏa cần tính vé và chặng kết nối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi ga đi, ga đến, loại chỗ, số người và cách bố trí cùng nhóm. Với đoàn đông, khả năng có chỗ theo yêu cầu phải được kiểm tra trước, không mặc định mọi người ở cùng khoang. Chi phí xe đưa ra ga, đón tại Nha Trang, bữa ăn và tham quan địa phương cần được tính cùng giá vé tàu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi ga đi, ga đến, loại chỗ, số người và cách bố trí cùng nhóm. Với đoàn đông, khả năng có chỗ theo yêu cầu phải được kiểm tra trước, không mặc định mọi người ở cùng khoang. Chi phí xe đưa ra ga, đón tại Nha Trang, bữa ăn và tham quan địa phương cần được tính cùng giá vé tàu.</span>"
     },
     {
       "type": "h2",
-      "text": "Máy bay cần so toàn bộ thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Máy bay cần so toàn bộ thời gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bên cạnh giờ bay, tính việc đến sân bay, thủ tục, nhận hành lý và chặng từ sân bay Cam Ranh đến nơi lưu trú. Làm rõ hành lý, tên khách và điều kiện vé. Đoàn muốn đi máy bay nên hỏi khả năng thiết kế và dịch vụ được xác nhận, không lấy một giá vé quảng bá làm chi phí cố định của cả tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bên cạnh giờ bay, tính việc đến sân bay, thủ tục, nhận hành lý và chặng từ sân bay Cam Ranh đến nơi lưu trú. Làm rõ hành lý, tên khách và điều kiện vé. Đoàn muốn đi máy bay nên hỏi khả năng thiết kế và dịch vụ được xác nhận, không lấy một giá vé quảng bá làm chi phí cố định của cả tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo điều kiện đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo điều kiện đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nhiều hành lý hoặc muốn tập kết tại công ty có thể ưu tiên xe. Đoàn ít ngày nghỉ có thể so phương án bay; nhóm muốn trải nghiệm tàu nên cân đối lịch chạy. Hãy gửi điểm đón, thời lượng và quy mô để TodayTourist tư vấn lựa chọn, rồi so tổng dịch vụ của từng phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nhiều hành lý hoặc muốn tập kết tại công ty có thể ưu tiên xe. Đoàn ít ngày nghỉ có thể so phương án bay; nhóm muốn trải nghiệm tàu nên cân đối lịch chạy. Hãy gửi điểm đón, thời lượng và quy mô để TodayTourist tư vấn lựa chọn, rồi so tổng dịch vụ của từng phương án.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe 45 chỗ có áp dụng cho mọi quy mô không? Cần tính số người và hành lý thực tế. Có thể đi một phương tiện và về phương tiện khác? Có thể đề nghị thiết kế, phải kiểm tra dịch vụ và chi phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe 45 chỗ có áp dụng cho mọi quy mô không? Cần tính số người và hành lý thực tế. Có thể đi một phương tiện và về phương tiện khác? Có thể đề nghị thiết kế, phải kiểm tra dịch vụ và chi phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Chọn khách sạn, resort Nha Trang cho khách đoàn",
-        "Ăn gì ở Nha Trang? Chọn nhà hàng và thực đơn cho đoàn",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-khach-san-resort-nha-trang-cho-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn khách sạn, resort Nha Trang cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/an-gi-o-nha-trang-chon-nha-hang-va-thuc-don-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ăn gì ở Nha Trang? Chọn nhà hàng và thực đơn cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
