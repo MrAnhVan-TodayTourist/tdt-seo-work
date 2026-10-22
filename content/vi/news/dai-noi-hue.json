@@ -3,106 +3,113 @@
   "title": "Đại Nội Huế: chọn thời lượng để tham quan di sản có chiều sâu",
   "category": "Tour Đà Nẵng – Hội An – Huế – Tư vấn đoàn",
   "image": "da-nang-dai-noi-hue.jpg",
-  "summary": "Đại Nội Huế. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Đại Nội Huế nên được tham quan với tuyến đi và thời gian rõ, thay vì chỉ chụp ảnh cổng rồi rời đi.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Đại Nội Huế nên được tham quan với tuyến đi và thời gian rõ, thay vì chỉ chụp ảnh cổng rồi rời đi. Đoàn muốn hiểu di sản cần lựa chọn phần hướng dẫn phù hợp cùng khả năng đi bộ của thành viên."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đại Nội Huế nên được tham quan với tuyến đi và thời gian rõ, thay vì chỉ chụp ảnh cổng rồi rời đi. Đoàn muốn hiểu di sản cần lựa chọn phần hướng dẫn phù hợp cùng khả năng đi bộ của thành viên.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn vài điểm có nội dung giới thiệu rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn vài điểm có nội dung giới thiệu rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất tuyến tham quan, nơi tập trung và điều khách muốn tìm hiểu về kiến trúc hoặc đời sống cung đình. Không cần yêu cầu đi hết mọi công trình. Dành thời gian nghe hướng dẫn, quan sát và đặt câu hỏi thường hữu ích hơn một danh sách dài chỉ để đủ điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất tuyến tham quan, nơi tập trung và điều khách muốn tìm hiểu về kiến trúc hoặc đời sống cung đình. Không cần yêu cầu đi hết mọi công trình. Dành thời gian nghe hướng dẫn, quan sát và đặt câu hỏi thường hữu ích hơn một danh sách dài chỉ để đủ điểm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792465969609-0.jpg",
-      "alt": "Đà Nẵng – Hội An – Huế – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792465969609-0.jpg\" alt=\"Đà Nẵng – Hội An – Huế – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra vé, lối đi và phần đang tiếp đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra vé, lối đi và phần đang tiếp đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi phần vé của đúng chương trình và khu vực có thể tham quan. Điều kiện từng công trình có thể khác; không suy ra tất cả đều mở từ một ảnh quảng bá. Nhóm nhiều độ tuổi cần khoảng nghỉ, nước uống và cách tập trung phù hợp tuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi phần vé của đúng chương trình và khu vực có thể tham quan. Điều kiện từng công trình có thể khác; không suy ra tất cả đều mở từ một ảnh quảng bá. Nhóm nhiều độ tuổi cần khoảng nghỉ, nước uống và cách tập trung phù hợp tuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Đừng đặt quá sát chuyến bay về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đừng đặt quá sát chuyến bay về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với lịch nguồn 4N3Đ, ngày cuối còn phải nối chặng từ Huế ra sân bay Đà Nẵng. Cần tính đủ tham quan, ăn uống, đường đi và thủ tục bay. Nếu giờ không đáp ứng, phải điều chỉnh chương trình trước; không hứa đủ các điểm bất kể chuyến bay."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với lịch nguồn 4N3Đ, ngày cuối còn phải nối chặng từ Huế ra sân bay Đà Nẵng. Cần tính đủ tham quan, ăn uống, đường đi và thủ tục bay. Nếu giờ không đáp ứng, phải điều chỉnh chương trình trước; không hứa đủ các điểm bất kể chuyến bay.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Đại Nội có nên ghép nhiều lăng trong cùng buổi không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Đại Nội có nên ghép nhiều lăng trong cùng buổi không?</span>"
     },
     {
       "type": "p",
-      "text": "Tùy mức tham quan và thời gian thực tế. Đoàn muốn nghe giới thiệu kỹ nên giảm điểm; không so chương trình chỉ bằng số nơi được ghi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy mức tham quan và thời gian thực tế. Đoàn muốn nghe giới thiệu kỹ nên giảm điểm; không so chương trình chỉ bằng số nơi được ghi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo Anh Văn: 0902 898 726</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo Mr Anh Văn: 0902 898 726</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Lăng Khải Định hay Tự Đức: chọn phần tham quan lăng ở Huế",
-        "Chùa Thiên Mụ: tham quan văn hóa và cảnh sông Hương trong tour Huế",
-        "Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lang-khai-dinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lăng Khải Định hay Tự Đức: chọn phần tham quan lăng ở Huế</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chua-thien-mu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chùa Thiên Mụ: tham quan văn hóa và cảnh sông Hương trong tour Huế</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-nang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình để trao đổi với Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình để trao đổi với Mr Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
