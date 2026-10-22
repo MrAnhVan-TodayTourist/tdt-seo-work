@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khi đặt tour Núi Bà Đen, nên làm rõ đoàn muốn viếng khu chùa, tham quan đỉnh núi hay kết hợp cả hai. Đây là những phần cần đối chiếu với lựa chọn dịch vụ và thời gian, tránh hiểu rằng một loại vé mặc định bao gồm toàn bộ trải nghiệm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi đặt tour Núi Bà Đen, nên làm rõ đoàn muốn viếng khu chùa, tham quan đỉnh núi hay kết hợp cả hai. Đây là những phần cần đối chiếu với lựa chọn dịch vụ và thời gian, tránh hiểu rằng một loại vé mặc định bao gồm toàn bộ trải nghiệm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt mục đích của chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt mục đích của chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu chùa và khu tham quan đỉnh núi cần được ghi đúng trong lịch. Đoàn chiêm bái có thể muốn dành thời gian tại khu chùa; nhóm tham quan cảnh quan lại có ưu tiên khác. Cáp treo có các tuyến và lựa chọn dịch vụ, nên hỏi rõ gói áp dụng cho hành trình. Thông tin giá hoặc chương trình cũ trên mạng không thay thế xác nhận cho ngày đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu chùa và khu tham quan đỉnh núi cần được ghi đúng trong lịch. Đoàn chiêm bái có thể muốn dành thời gian tại khu chùa; nhóm tham quan cảnh quan lại có ưu tiên khác. Cáp treo có các tuyến và lựa chọn dịch vụ, nên hỏi rõ gói áp dụng cho hành trình. Thông tin giá hoặc chương trình cũ trên mạng không thay thế xác nhận cho ngày đi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214171049-0.jpg",
-      "alt": "Tour Núi Bà Đen: chọn phần viếng chùa và tham quan"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214171049-0.jpg\" alt=\"Tour Núi Bà Đen: chọn phần viếng chùa và tham quan\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Cân đối lịch từ điểm đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cân đối lịch từ điểm đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Từ Biên Hòa, Đồng Nai hay TP.HCM, giờ khởi hành cần tính theo địa điểm tập trung, số xe và lịch đoàn. Ngoài di chuyển còn có kiểm đếm, chờ dịch vụ, bữa ăn và phần đi bộ thực tế. Có cáp treo không có nghĩa mọi thành viên không phải đi bộ. Nếu thêm Tòa Thánh hoặc điểm khác ở Tây Ninh, cần xem tổng thời gian thay vì mặc định đưa vào tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Từ Biên Hòa, Đồng Nai hay TP.HCM, giờ khởi hành cần tính theo địa điểm tập trung, số xe và lịch đoàn. Ngoài di chuyển còn có kiểm đếm, chờ dịch vụ, bữa ăn và phần đi bộ thực tế. Có cáp treo không có nghĩa mọi thành viên không phải đi bộ. Nếu thêm Tòa Thánh hoặc điểm khác ở Tây Ninh, cần xem tổng thời gian thay vì mặc định đưa vào tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra gói tour và điều kiện sử dụng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra gói tour và điều kiện sử dụng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy yêu cầu liệt kê xe, bữa ăn, vé vào điểm và tuyến cáp nếu có. Nếu khách muốn tự chọn dịch vụ bổ sung, khoản đó nên được tách rõ. Đoàn đông cần thống nhất người phụ trách từng xe cùng điểm tập trung sau tham quan. TodayTourist tiếp nhận yêu cầu để trao đổi chương trình theo nhu cầu chiêm bái và tham quan; lịch vận hành, vé và phạm vi phục vụ phải xác nhận trước khi chốt chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy yêu cầu liệt kê xe, bữa ăn, vé vào điểm và tuyến cáp nếu có. Nếu khách muốn tự chọn dịch vụ bổ sung, khoản đó nên được tách rõ. Đoàn đông cần thống nhất người phụ trách từng xe cùng điểm tập trung sau tham quan. TodayTourist tiếp nhận yêu cầu để trao đổi chương trình theo nhu cầu chiêm bái và tham quan; lịch vận hành, vé và phạm vi phục vụ phải xác nhận trước khi chốt chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Bà Đen có luôn bao gồm cả đỉnh núi và khu chùa không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Bà Đen có luôn bao gồm cả đỉnh núi và khu chùa không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần đọc lịch cùng hạng mục vé, tuyến cáp treo hoặc gói dịch vụ được báo cho đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần đọc lịch cùng hạng mục vé, tuyến cáp treo hoặc gói dịch vụ được báo cho đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý",
-        "Dinh Thầy Thím – Tà Cú: chọn hành trình tâm linh kết hợp",
-        "Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai",
-        "Thuê xe đi Tây Ninh: Núi Bà Đen, Tòa Thánh và lịch trình riêng"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-chon-tuyen-gan-va-lich-hop-ly/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dinh-thay-thim-ta-cu-chon-hanh-trinh-tam-linh-ket-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Dinh Thầy Thím – Tà Cú: chọn hành trình tâm linh kết hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vieng-chua-huong-quoc-lo-51-chon-lich-gan-dong-nai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi Tây Ninh: Núi Bà Đen, Tòa Thánh và lịch trình riêng</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
