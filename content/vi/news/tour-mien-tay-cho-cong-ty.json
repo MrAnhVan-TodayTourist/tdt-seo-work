@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Một tour Miền Tây cho công ty cần phù hợp số ngày nghỉ, ngân sách và mục tiêu gắn kết của đơn vị. Người phụ trách sẽ dễ so phương án hơn khi đưa cùng một bộ yêu cầu cho các nhà cung cấp. Điểm tham quan nên được chọn sau khi thống nhất nhu cầu của cả đoàn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một tour Miền Tây cho công ty cần phù hợp số ngày nghỉ, ngân sách và mục tiêu gắn kết của đơn vị. Người phụ trách sẽ dễ so phương án hơn khi đưa cùng một bộ yêu cầu cho các nhà cung cấp. Điểm tham quan nên được chọn sau khi thống nhất nhu cầu của cả đoàn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị năm thông tin trước khi hỏi giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị năm thông tin trước khi hỏi giá</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy gửi ngày đi, số người dự kiến, điểm đón, ngân sách và hoạt động bắt buộc. Nếu có người nhà đi kèm, bổ sung người lớn–trẻ em và nhu cầu phòng. Đoàn xuất phát sau giờ làm hoặc theo ca cần nói rõ thời điểm có thể tập trung, tránh lịch đón chỉ phù hợp nhân sự văn phòng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy gửi ngày đi, số người dự kiến, điểm đón, ngân sách và hoạt động bắt buộc. Nếu có người nhà đi kèm, bổ sung người lớn–trẻ em và nhu cầu phòng. Đoàn xuất phát sau giờ làm hoặc theo ca cần nói rõ thời điểm có thể tập trung, tránh lịch đón chỉ phù hợp nhân sự văn phòng.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chọn tuyến theo mục tiêu của chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn tuyến theo mục tiêu của chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỹ Tho–Bến Tre có thể cân nhắc cho chương trình một ngày và trò chơi miệt vườn. Cần Thơ phù hợp lịch nghỉ qua đêm có tiệc giao lưu. Tuyến Cà Mau hoặc An Giang cần dự trù thêm thời gian di chuyển. Nếu có Team Building, xác nhận khu và khung chơi trước khi tăng số điểm tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỹ Tho–Bến Tre có thể cân nhắc cho chương trình một ngày và trò chơi miệt vườn. Cần Thơ phù hợp lịch nghỉ qua đêm có tiệc giao lưu. Tuyến Cà Mau hoặc An Giang cần dự trù thêm thời gian di chuyển. Nếu có Team Building, xác nhận khu và khung chơi trước khi tăng số điểm tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ phần tổ chức và hồ sơ đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ phần tổ chức và hồ sơ đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá nên ghi xe, hướng dẫn, thuyền, bữa ăn, phòng, thiết bị và dịch vụ sự kiện. Đơn vị có thể yêu cầu nội dung hợp đồng, chứng từ cùng điều kiện thay đổi số người. TodayTourist sẽ tiếp nhận thông tin qua Mr Anh Văn, đề xuất phương án và xác nhận dịch vụ thực tế trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá nên ghi xe, hướng dẫn, thuyền, bữa ăn, phòng, thiết bị và dịch vụ sự kiện. Đơn vị có thể yêu cầu nội dung hợp đồng, chứng từ cùng điều kiện thay đổi số người. TodayTourist sẽ tiếp nhận thông tin qua Mr Anh Văn, đề xuất phương án và xác nhận dịch vụ thực tế trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể chỉ tham quan và ăn trưa, không Team Building không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể chỉ tham quan và ăn trưa, không Team Building không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Được. Chương trình nên theo mục tiêu của công ty. Không cần thêm sự kiện nếu đoàn muốn nghỉ nhẹ; ngân sách có thể dành cho bữa ăn, xe hoặc điểm trải nghiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Được. Chương trình nên theo mục tiêu của công ty. Không cần thêm sự kiện nếu đoàn muốn nghỉ nhẹ; ngân sách có thể dành cho bữa ăn, xe hoặc điểm trải nghiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây cho công ty? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour miền Tây cho công ty? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-cong-doan-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour công đoàn, công nhân đi Miền Tây: cân bằng lịch ca và ngân sách</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cong-doan-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour công đoàn, công nhân đi Miền Tây: cân bằng lịch ca và ngân sách</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Miền Tây: chọn tiệc riêng hay bữa tối trên du thuyền</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
