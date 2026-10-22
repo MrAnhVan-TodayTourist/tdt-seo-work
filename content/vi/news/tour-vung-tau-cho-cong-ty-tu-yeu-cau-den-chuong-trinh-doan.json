@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Người phụ trách tour công ty cần một chương trình có thể trình duyệt, triển khai và kiểm tra. Vì vậy yêu cầu ban đầu nên mô tả mục tiêu, quy mô và giới hạn ngân sách, thay vì chỉ hỏi giá một tour."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Người phụ trách tour công ty cần một chương trình có thể trình duyệt, triển khai và kiểm tra. Vì vậy yêu cầu ban đầu nên mô tả mục tiêu, quy mô và giới hạn ngân sách, thay vì chỉ hỏi giá một tour.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Viết yêu cầu ngắn nhưng đủ thông tin"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Viết yêu cầu ngắn nhưng đủ thông tin</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cho biết số khách dự kiến, ngày đi, điểm đón tại Đồng Nai hoặc TP.HCM, số đêm và mục tiêu chuyến đi. Nếu có người nhà đi cùng, tách danh sách nhân viên, trẻ em và khách mời. Ghi rõ cần nghỉ dưỡng, gắn kết đội nhóm hay tiệc tri ân để đơn vị tổ chức đề xuất đúng trọng tâm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cho biết số khách dự kiến, ngày đi, điểm đón tại Đồng Nai hoặc TP.HCM, số đêm và mục tiêu chuyến đi. Nếu có người nhà đi cùng, tách danh sách nhân viên, trẻ em và khách mời. Ghi rõ cần nghỉ dưỡng, gắn kết đội nhóm hay tiệc tri ân để đơn vị tổ chức đề xuất đúng trọng tâm.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Làm chương trình và phân công đầu mối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm chương trình và phân công đầu mối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch nên thể hiện giờ dự kiến, bữa ăn, nhận phòng, hoạt động chung và khoảng nghỉ. Mỗi xe cần người phụ trách danh sách; phía công ty có một đầu mối duyệt thay đổi. Đoàn đông nên xác nhận năng lực phục vụ cùng giờ của khách sạn và nhà hàng, không chỉ số phòng có sẵn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch nên thể hiện giờ dự kiến, bữa ăn, nhận phòng, hoạt động chung và khoảng nghỉ. Mỗi xe cần người phụ trách danh sách; phía công ty có một đầu mối duyệt thay đổi. Đoàn đông nên xác nhận năng lực phục vụ cùng giờ của khách sạn và nhà hàng, không chỉ số phòng có sẵn.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt phạm vi tổ chức bằng hạng mục"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phạm vi tổ chức bằng hạng mục</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu có Team Building, đề nghị nội dung phù hợp văn hóa doanh nghiệp và thể lực người tham gia. Với Gala Dinner, xác nhận MC, thiết bị, sân khấu, tiết mục và thời lượng. Báo giá cần nêu phần bao gồm, phần tự chọn, thời hạn giữ dịch vụ và điều kiện thay đổi số khách. Sau tour, phản hồi theo bữa ăn, lưu trú và vận hành sẽ hữu ích hơn chỉ nhận xét chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu có Team Building, đề nghị nội dung phù hợp văn hóa doanh nghiệp và thể lực người tham gia. Với Gala Dinner, xác nhận MC, thiết bị, sân khấu, tiết mục và thời lượng. Báo giá cần nêu phần bao gồm, phần tự chọn, thời hạn giữ dịch vụ và điều kiện thay đổi số khách. Sau tour, phản hồi theo bữa ăn, lưu trú và vận hành sẽ hữu ích hơn chỉ nhận xét chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty cần chuẩn bị gì để nhận báo giá nhanh?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty cần chuẩn bị gì để nhận báo giá nhanh?</span>"
     },
     {
       "type": "p",
-      "text": "Ngày đi, số khách, điểm đón, thời lượng, ngân sách và hoạt động mong muốn. Có thể gửi số khách dự kiến rồi cập nhật theo mốc chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày đi, số khách, điểm đón, thời lượng, ngân sách và hoạt động mong muốn. Có thể gửi số khách dự kiến rồi cập nhật theo mốc chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động",
-        "Team Building Vũng Tàu: chọn bãi và kịch bản cho đoàn công ty",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-vung-tau-so-bao-gia-theo-phong-bua-an-va-hoat-dong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-vung-tau-chon-bai-va-kich-ban-cho-doan-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Vũng Tàu: chọn bãi và kịch bản cho đoàn công ty</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
