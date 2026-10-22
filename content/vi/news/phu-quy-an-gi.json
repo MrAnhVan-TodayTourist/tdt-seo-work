@@ -3,21 +3,21 @@
   "title": "Phú Quý ăn gì: chọn hải sản và thực đơn phù hợp khách đoàn",
   "category": "Tour Phú Quý – Tư vấn đoàn",
   "image": "phu-quy-phu-quy-an-gi.jpg",
-  "summary": "Phú Quý ăn gì. Tư vấn tour cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Phú Quý ăn gì là câu hỏi dễ chuyển thành nhu cầu chọn tour nếu bài viết giúp khách biết bữa nào đã gồm và món nào đặt thêm.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Phú Quý ăn gì là câu hỏi dễ chuyển thành nhu cầu chọn tour nếu bài viết giúp khách biết bữa nào đã gồm và món nào đặt thêm. Với đoàn, cần cân bằng đặc sản, khẩu phần và lựa chọn cho người không ăn hải sản."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Phú Quý ăn gì là câu hỏi dễ chuyển thành nhu cầu chọn tour nếu bài viết giúp khách biết bữa nào đã gồm và món nào đặt thêm. Với đoàn, cần cân bằng đặc sản, khẩu phần và lựa chọn cho người không ăn hải sản.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đặc sản là gợi ý, không phải món luôn sẵn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặc sản là gợi ý, không phải món luôn sẵn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khách có thể hỏi hải sản, bò nóng hoặc mực làm quà. Cua mặt trăng, cua huỳnh đế và những món giá trị cao cần xác nhận nguồn cung, cách tính giá và khẩu phần. Không dùng một ảnh mâm hải sản để suy ra tour cơ bản phục vụ tất cả món trong ảnh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khách có thể hỏi hải sản, bò nóng hoặc mực làm quà. Cua mặt trăng, cua huỳnh đế và những món giá trị cao cần xác nhận nguồn cung, cách tính giá và khẩu phần. Không dùng một ảnh mâm hải sản để suy ra tour cơ bản phục vụ tất cả món trong ảnh.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chốt thực đơn theo cả đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt thực đơn theo cả đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thu thập nhu cầu ăn chay, dị ứng hoặc món không dùng để nhà hàng kiểm tra cách phục vụ. Báo giá cần ghi số bữa, tiêu chuẩn và món thay thế nếu không có nguyên liệu. Đoàn nhiều người cũng nên biết bữa nào ăn chung, bữa nào tự chọn, tránh hiểu khác nhau khi đã đến nơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thu thập nhu cầu ăn chay, dị ứng hoặc món không dùng để nhà hàng kiểm tra cách phục vụ. Báo giá cần ghi số bữa, tiêu chuẩn và món thay thế nếu không có nguyên liệu. Đoàn nhiều người cũng nên biết bữa nào ăn chung, bữa nào tự chọn, tránh hiểu khác nhau khi đã đến nơi.</span>"
     },
     {
       "type": "h2",
-      "text": "Ăn trên bè hoặc BBQ cần hỏi riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ăn trên bè hoặc BBQ cần hỏi riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn trải nghiệm bữa ăn ở vị trí đặc biệt, xác nhận vận chuyển, điều kiện tiếp nhận và phương án thời tiết. Phần thực đơn nâng cấp, nước uống hoặc món gọi thêm nên tách rõ. Với quà mang về, hỏi đóng gói và bảo quản theo thời gian đi tàu, xe; không mua chỉ vì người khác giới thiệu giá rẻ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn trải nghiệm bữa ăn ở vị trí đặc biệt, xác nhận vận chuyển, điều kiện tiếp nhận và phương án thời tiết. Phần thực đơn nâng cấp, nước uống hoặc món gọi thêm nên tách rõ. Với quà mang về, hỏi đóng gói và bảo quản theo thời gian đi tàu, xe; không mua chỉ vì người khác giới thiệu giá rẻ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Tour có bảo đảm được ăn cua mặt trăng không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Tour có bảo đảm được ăn cua mặt trăng không?</span>"
     },
     {
       "type": "p",
-      "text": "Chỉ nên xem là món có thể hỏi đặt thêm. Cần xác nhận nguồn cung, khẩu phần và giá theo ngày; không mặc định nằm trong thực đơn hoặc luôn có sẵn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chỉ nên xem là món có thể hỏi đặt thêm. Cần xác nhận nguồn cung, khẩu phần và giá theo ngày; không mặc định nằm trong thực đơn hoặc luôn có sẵn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn tour Phú Quý cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn tour Phú Quý cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Ở đâu tại Phú Quý: chọn khách sạn và homestay cho đoàn",
-        "Tour Phú Quý ghép đoàn hay đoàn riêng: chọn theo nhu cầu",
-        "Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phu-quy-o-dau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ở đâu tại Phú Quý: chọn khách sạn và homestay cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy-ghep-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý ghép đoàn hay đoàn riêng: chọn theo nhu cầu</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
