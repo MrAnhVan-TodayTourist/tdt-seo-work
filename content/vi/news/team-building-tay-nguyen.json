@@ -3,21 +3,21 @@
   "title": "Team Building Tây Nguyên: chọn sân, hoạt động và phương án mưa",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "team-building-tay-nguyen-v2.jpg",
-  "summary": "Team Building Tây Nguyên. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Team Building tại Tây Nguyên cần chọn theo mặt bằng và mục tiêu của đoàn.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Team Building tại Tây Nguyên cần chọn theo mặt bằng và mục tiêu của đoàn. Ảnh cảnh đẹp không cho biết sân có phẳng, đủ rộng hay được phép dựng thiết bị. Hãy xác nhận địa điểm tổ chức trước rồi mới chốt trò chơi, số đội và phần vận động."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Team Building tại Tây Nguyên cần chọn theo mặt bằng và mục tiêu của đoàn. Ảnh cảnh đẹp không cho biết sân có phẳng, đủ rộng hay được phép dựng thiết bị. Hãy xác nhận địa điểm tổ chức trước rồi mới chốt trò chơi, số đội và phần vận động.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra sân với số khách thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra sân với số khách thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi diện tích sử dụng, bề mặt, độ dốc, lối đi và khu vệ sinh. Đoàn đông cần nơi tập trung, khu để đồ và tuyến xe đón trả rõ ràng. Không lấy sân khách sạn trong ảnh làm cơ sở duy nhất; diện tích có thể đang dành cho khách khác hoặc một sự kiện khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi diện tích sử dụng, bề mặt, độ dốc, lối đi và khu vệ sinh. Đoàn đông cần nơi tập trung, khu để đồ và tuyến xe đón trả rõ ràng. Không lấy sân khách sạn trong ảnh làm cơ sở duy nhất; diện tích có thể đang dành cho khách khác hoặc một sự kiện khác.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chọn trò chơi theo độ tuổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn trò chơi theo độ tuổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trưởng đoàn nên cung cấp cơ cấu khách, mục tiêu gắn kết và thời lượng. Phối hợp trò nhẹ với hoạt động cần nhiều người tham gia; chuẩn bị vai trò cho người không vận động. Tránh để một vài thành viên thi liên tục trong khi phần còn lại chỉ đứng chờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trưởng đoàn nên cung cấp cơ cấu khách, mục tiêu gắn kết và thời lượng. Phối hợp trò nhẹ với hoạt động cần nhiều người tham gia; chuẩn bị vai trò cho người không vận động. Tránh để một vài thành viên thi liên tục trong khi phần còn lại chỉ đứng chờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt cách chuyển sang phương án trong nhà"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt cách chuyển sang phương án trong nhà</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thống nhất trước mốc quyết định nếu trời mưa, địa điểm thay thế và thiết bị phải chuyển. Trò chơi trong phòng có thể khác chương trình ngoài sân. Phần âm thanh, banner, quà, MC và nhân sự hỗ trợ cần nằm trong báo giá hoặc mục bổ sung đã duyệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thống nhất trước mốc quyết định nếu trời mưa, địa điểm thay thế và thiết bị phải chuyển. Trò chơi trong phòng có thể khác chương trình ngoài sân. Phần âm thanh, banner, quà, MC và nhân sự hỗ trợ cần nằm trong báo giá hoặc mục bổ sung đã duyệt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tour mẫu đã có Team Building chưa?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Gửi yêu cầu để TodayTourist xác nhận hạng mục, địa điểm và chi phí theo chương trình của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tour mẫu đã có Team Building chưa?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Gửi yêu cầu để TodayTourist xác nhận hạng mục, địa điểm và chi phí theo chương trình của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Tây Nguyên: lên lịch tiệc, vinh danh và thiết bị</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lua-trai-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lửa trại và BBQ Tây Nguyên: chọn địa điểm và nội dung giao lưu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Gala Dinner Tây Nguyên: lên lịch tiệc, vinh danh và thiết bị",
-        "Lửa trại và BBQ Tây Nguyên: chọn địa điểm và nội dung giao lưu",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
