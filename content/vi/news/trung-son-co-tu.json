@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Trùng Sơn Cổ Tự có thể là điểm văn hóa và chiêm bái trong chuyến Ninh Chữ. Khi đi đoàn, cần dành thời gian cho lối lên và phần nghỉ, không chỉ một lượt chụp ảnh. Người muốn hành hương có nhu cầu khác nhóm tham quan cảnh quan nên cần nói rõ trước khi xây lịch."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trùng Sơn Cổ Tự có thể là điểm văn hóa và chiêm bái trong chuyến Ninh Chữ. Khi đi đoàn, cần dành thời gian cho lối lên và phần nghỉ, không chỉ một lượt chụp ảnh. Người muốn hành hương có nhu cầu khác nhóm tham quan cảnh quan nên cần nói rõ trước khi xây lịch.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xem phần di chuyển của từng thành viên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem phần di chuyển của từng thành viên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi điểm xe dừng, lối vào và khoảng đi bộ hoặc bậc. Nhóm có người lớn tuổi, trẻ nhỏ hay nhu cầu hỗ trợ cần được tư vấn trước. Không mặc định xe tour đến thẳng mọi vị trí; nếu có người nghỉ lại, phải có đầu mối và điểm gặp rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi điểm xe dừng, lối vào và khoảng đi bộ hoặc bậc. Nhóm có người lớn tuổi, trẻ nhỏ hay nhu cầu hỗ trợ cần được tư vấn trước. Không mặc định xe tour đến thẳng mọi vị trí; nếu có người nghỉ lại, phải có đầu mối và điểm gặp rõ.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Giữ cách tham quan phù hợp khu thờ tự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ cách tham quan phù hợp khu thờ tự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuẩn bị trang phục lịch sự, nói vừa tiếng và theo hướng dẫn quay chụp. Sinh hoạt riêng hoặc nghi thức cần trao đổi với nơi tiếp nhận, không tự đưa vào chương trình như dịch vụ mặc định. Thời gian tự do chiêm bái nên được tính vào lịch để đoàn không phải vội về xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuẩn bị trang phục lịch sự, nói vừa tiếng và theo hướng dẫn quay chụp. Sinh hoạt riêng hoặc nghi thức cần trao đổi với nơi tiếp nhận, không tự đưa vào chương trình như dịch vụ mặc định. Thời gian tự do chiêm bái nên được tính vào lịch để đoàn không phải vội về xe.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép với ngày nghỉ hoặc ngày về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép với ngày nghỉ hoặc ngày về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour TodayTourist Ninh Chữ–Vĩnh Hy có điểm này để tham khảo. Khi điều chỉnh chương trình, tính cả trả phòng, bữa ăn và chặng về để không kéo quá muộn. Nếu đoàn muốn nhiều điểm hành hương, cần xây tuyến riêng thay vì thêm tất cả vào lịch nghỉ biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour TodayTourist Ninh Chữ–Vĩnh Hy có điểm này để tham khảo. Khi điều chỉnh chương trình, tính cả trả phòng, bữa ăn và chặng về để không kéo quá muộn. Nếu đoàn muốn nhiều điểm hành hương, cần xây tuyến riêng thay vì thêm tất cả vào lịch nghỉ biển.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đi chùa có bắt buộc ăn chay không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi chùa có bắt buộc ăn chay không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không suy ra thực đơn từ điểm tham quan. Nhóm muốn ăn chay hoặc có chế độ riêng cần báo khi đặt để kiểm tra nhà hàng và dịch vụ phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không suy ra thực đơn từ điểm tham quan. Nhóm muốn ăn chay hoặc có chế độ riêng cần báo khi đặt để kiểm tra nhà hàng và dịch vụ phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/thap-po-klong-garai/\" target=\"_blank\" rel=\"noopener nofollow\">Tháp Pô Klông Garai: chọn phần văn hóa Chăm trong tour Phan Rang</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thap-po-klong-garai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tháp Pô Klông Garai: chọn phần văn hóa Chăm trong tour Phan Rang</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-lang-gom-bau-truc/\" target=\"_blank\" rel=\"noopener nofollow\">Bàu Trúc và Mỹ Nghiệp: chọn trải nghiệm làng nghề Chăm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-lang-gom-bau-truc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bàu Trúc và Mỹ Nghiệp: chọn trải nghiệm làng nghề Chăm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem các tour dưới đây để đối chiếu lịch mẫu. Giá, ngày khởi hành, hoạt động bổ sung và điều kiện biển đảo cần xác nhận cho đoàn thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-ninh-chu-vinh-hy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Ninh Chữ – Vĩnh Hy 3 ngày 2 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-binh-hung-ninh-chu-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bình Hưng – Ninh Chữ 3 ngày 2 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
