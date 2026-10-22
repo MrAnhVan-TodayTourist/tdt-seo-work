@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Hai ngày một đêm giúp chuyến đi Vũng Tàu có thêm thời gian nghỉ và sinh hoạt chung. Điểm quan trọng là dành đủ khoảng trống cho nhận phòng, bữa ăn và chương trình buổi tối."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Hai ngày một đêm giúp chuyến đi Vũng Tàu có thêm thời gian nghỉ và sinh hoạt chung. Điểm quan trọng là dành đủ khoảng trống cho nhận phòng, bữa ăn và chương trình buổi tối.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ngày đầu: không dồn việc trước giờ nhận phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày đầu: không dồn việc trước giờ nhận phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Buổi sáng nên chọn một điểm tham quan và bữa trưa. Khi chưa đến giờ nhận phòng, cần có nơi gửi hành lý và nghỉ phù hợp; nhận phòng sớm chỉ được áp dụng khi cơ sở lưu trú xác nhận. Buổi chiều có thể dành cho biển hoặc Team Building, tùy điều kiện thời tiết và mặt bằng đã đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Buổi sáng nên chọn một điểm tham quan và bữa trưa. Khi chưa đến giờ nhận phòng, cần có nơi gửi hành lý và nghỉ phù hợp; nhận phòng sớm chỉ được áp dụng khi cơ sở lưu trú xác nhận. Buổi chiều có thể dành cho biển hoặc Team Building, tùy điều kiện thời tiết và mặt bằng đã đặt.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Buổi tối: lựa chọn tự do hay Gala Dinner"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Buổi tối: lựa chọn tự do hay Gala Dinner</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn muốn giao lưu nên xác định trước thời lượng tiệc, tiết mục, âm thanh và người điều phối. Đoàn gia đình có thể thích bữa tối nhẹ và thời gian tự do. Không cần đưa Gala Dinner vào mọi lịch trình; nếu có, giá và hạng mục phải được ghi riêng để người đặt hiểu mình đang mua dịch vụ gì."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn muốn giao lưu nên xác định trước thời lượng tiệc, tiết mục, âm thanh và người điều phối. Đoàn gia đình có thể thích bữa tối nhẹ và thời gian tự do. Không cần đưa Gala Dinner vào mọi lịch trình; nếu có, giá và hạng mục phải được ghi riêng để người đặt hiểu mình đang mua dịch vụ gì.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày thứ hai: chọn hoạt động vừa sức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày thứ hai: chọn hoạt động vừa sức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sau ăn sáng, có thể bố trí tham quan nhẹ hoặc tiếp tục nghỉ tại khách sạn. Người không muốn leo lên Tượng Chúa cần có phương án khác cùng khung giờ. Chốt giờ trả phòng, bữa trưa và điểm dừng trên đường về. Báo giá nên ghi rõ số khách mỗi phòng, giường phụ và phụ thu phòng đơn, không chỉ ghi tên hạng sao."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sau ăn sáng, có thể bố trí tham quan nhẹ hoặc tiếp tục nghỉ tại khách sạn. Người không muốn leo lên Tượng Chúa cần có phương án khác cùng khung giờ. Chốt giờ trả phòng, bữa trưa và điểm dừng trên đường về. Báo giá nên ghi rõ số khách mỗi phòng, giường phụ và phụ thu phòng đơn, không chỉ ghi tên hạng sao.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "2N1Đ và 02 ngày 01 đêm có khác nhau không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">2N1Đ và 02 ngày 01 đêm có khác nhau không?</span>"
     },
     {
       "type": "p",
-      "text": "Đây là các cách viết cùng thời lượng. Tuy nhiên cần đọc giờ khởi hành, số đêm lưu trú và lịch thực tế để so sánh hai tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là các cách viết cùng thời lượng. Tuy nhiên cần đọc giờ khởi hành, số đêm lưu trú và lịch thực tế để so sánh hai tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Vũng Tàu 3 ngày 2 đêm: khi nào nên dành thêm một ngày?",
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vung-tau-3-ngay-2-dem-khi-nao-nen-danh-them-mot-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Vũng Tàu 3 ngày 2 đêm: khi nào nên dành thêm một ngày?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
