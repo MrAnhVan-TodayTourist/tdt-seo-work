@@ -8,8 +8,8 @@
   "published_at": "2026-09-21",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST nhận tổ chức các tour khởi hành tháng 4 dành cho nhóm từ 10 khách trở lên:"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST nhận tổ chức các tour khởi hành tháng 4 dành cho nhóm từ 10 khách trở lên:</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Nhóm bạn bè muốn cùng nhau khám phá những vùng đất mới"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm bạn bè muốn cùng nhau khám phá những vùng đất mới</span>"
     },
     {
       "type": "p",
-      "text": "Gia đình nhiều thế hệ cần chuyến nghỉ dưỡng trọn vẹn"
+      "text": "<span style=\"font-size:16px;color:#374151\">Gia đình nhiều thế hệ cần chuyến nghỉ dưỡng trọn vẹn</span>"
     },
     {
       "type": "html",
@@ -29,43 +29,47 @@
     },
     {
       "type": "p",
-      "text": "Công ty, xí nghiệp tổ chức du lịch – teambuilding – gala"
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty, xí nghiệp tổ chức du lịch – teambuilding – gala</span>"
     },
     {
       "type": "p",
-      "text": "Hội nhóm, đoàn thể muốn có hành trình gắn kết"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hội nhóm, đoàn thể muốn có hành trình gắn kết</span>"
     },
     {
       "type": "p",
-      "text": "THÔNG TIN LIÊN HỆ"
+      "text": "<span style=\"font-size:16px;color:#374151\">THÔNG TIN LIÊN HỆ</span>"
     },
     {
       "type": "p",
-      "text": "CÔNG TY DU LỊCH TODAY TOURIST"
+      "text": "<span style=\"font-size:16px;color:#374151\">CÔNG TY DU LỊCH TODAY TOURIST</span>"
     },
     {
       "type": "p",
-      "text": "80 Đặng Nguyên, KP3, P. Long Bình, TP. Biên Hòa, Đồng Nai"
+      "text": "<span style=\"font-size:16px;color:#374151\">80 Đặng Nguyên, KP3, P. Long Bình, TP. Biên Hòa, Đồng Nai</span>"
     },
     {
       "type": "p",
-      "text": "Email: todaytouristt@gmail.com"
+      "text": "<span style=\"font-size:16px;color:#374151\">Email: todaytouristt@gmail.com</span>"
     },
     {
       "type": "p",
-      "text": "Zalo: 0902 898 726 (Today Tourist)"
+      "text": "<span style=\"font-size:16px;color:#374151\">Zalo: 0902 898 726 (Today Tourist)</span>"
     },
     {
       "type": "p",
-      "text": "Website: todaytourist.com"
+      "text": "<span style=\"font-size:16px;color:#374151\">Website: todaytourist.com</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist”."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist”.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">các chương trình tour TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
