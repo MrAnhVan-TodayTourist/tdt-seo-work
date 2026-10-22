@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Gala Dinner là điểm nhấn của nhiều chuyến đi công ty. Để chương trình diễn ra suôn sẻ, doanh nghiệp cần chốt mục tiêu và cấu hình trước khi hỏi giá."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gala Dinner là điểm nhấn của nhiều chuyến đi công ty. Để chương trình diễn ra suôn sẻ, doanh nghiệp cần chốt mục tiêu và cấu hình trước khi hỏi giá.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Trong nhà hay ngoài trời"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trong nhà hay ngoài trời</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không gian trong nhà dễ kiểm soát âm thanh và thời tiết. Ngoài trời tạo cảm giác thoáng, hợp tiệc BBQ nhưng cần phương án mưa, gió và ánh sáng. Hãy hỏi nơi tổ chức về sức chứa, khung giờ và quy định âm lượng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không gian trong nhà dễ kiểm soát âm thanh và thời tiết. Ngoài trời tạo cảm giác thoáng, hợp tiệc BBQ nhưng cần phương án mưa, gió và ánh sáng. Hãy hỏi nơi tổ chức về sức chứa, khung giờ và quy định âm lượng.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222298517-0.jpg",
-      "alt": "Colorful traditional boats in Phan Thiet harbor showcasing Vietnam's v"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222298517-0.jpg\" alt=\"Colorful traditional boats in Phan Thiet harbor showcasing Vietnam's v\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Dùng bữa, vinh danh và tương tác"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dùng bữa, vinh danh và tương tác</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên xác định thứ tự: đón khách, khai mạc, dùng món, vinh danh, giao lưu và kết thúc. Không để các phần chen nhau khiến người dự không kịp ăn hoặc chương trình quá dài. Nội dung nên gắn với chủ đề của công ty."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên xác định thứ tự: đón khách, khai mạc, dùng món, vinh danh, giao lưu và kết thúc. Không để các phần chen nhau khiến người dự không kịp ăn hoặc chương trình quá dài. Nội dung nên gắn với chủ đề của công ty.</span>"
     },
     {
       "type": "h2",
-      "text": "Sân khấu, âm thanh và nhân sự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sân khấu, âm thanh và nhân sự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần xác nhận MC, loa mic, màn hình, ánh sáng và người điều phối. Nếu đoàn có tiết mục của nhân viên, nên chuẩn bị nhạc và thời lượng từ trước. Ghi rõ phần nào do nhà hàng cung cấp và phần nào do đơn vị tổ chức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xác nhận MC, loa mic, màn hình, ánh sáng và người điều phối. Nếu đoàn có tiết mục của nhân viên, nên chuẩn bị nhạc và thời lượng từ trước. Ghi rõ phần nào do nhà hàng cung cấp và phần nào do đơn vị tổ chức.</span>"
     },
     {
       "type": "h2",
-      "text": "Điều kiện dự phòng thời tiết"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điều kiện dự phòng thời tiết</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đặt phương án chuyển chỗ nếu mưa hoặc gió mạnh, đồng thời thống nhất thời điểm quyết định. Báo giá nên ghi rõ nội dung thay đổi để tránh tranh luận phút chót."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặt phương án chuyển chỗ nếu mưa hoặc gió mạnh, đồng thời thống nhất thời điểm quyết định. Báo giá nên ghi rõ nội dung thay đổi để tránh tranh luận phút chót.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gala Dinner cần chuẩn bị trước bao lâu?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Gala Dinner cần chuẩn bị trước bao lâu?</span>"
     },
     {
       "type": "p",
-      "text": "Càng sớm càng tốt, nhất là vào dịp cao điểm. Thời gian cụ thể cần xác nhận với nơi tổ chức."
+      "text": "<span style=\"font-size:16px;color:#374151\">Càng sớm càng tốt, nhất là vào dịp cao điểm. Thời gian cụ thể cần xác nhận với nơi tổ chức.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Chi phí Team Building và Gala Dinner Phan Thiết gồm những hạng mục nào?",
-        "Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp",
-        "Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-team-building-va-gala-dinner-phan-thiet-gom-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí Team Building và Gala Dinner Phan Thiết gồm những hạng mục nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phan-thiet-mui-ne-chon-bai-bien-va-tro-choi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-resort-phan-thiet-mui-ne-cho-doan-cong-ty-nhu-the-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn resort Phan Thiết – Mũi Né cho đoàn công ty như thế nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
