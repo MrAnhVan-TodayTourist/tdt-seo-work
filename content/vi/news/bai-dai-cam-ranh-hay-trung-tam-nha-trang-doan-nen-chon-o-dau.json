@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Ở trung tâm Nha Trang hay khu nghỉ dưỡng Bãi Dài, Cam Ranh là lựa chọn về cách trải nghiệm, không chỉ hạng phòng. Một đoàn muốn dạo phố mỗi tối sẽ có ưu tiên khác đoàn muốn nghỉ trong resort, làm Team Building và dùng tiệc tại chỗ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ở trung tâm Nha Trang hay khu nghỉ dưỡng Bãi Dài, Cam Ranh là lựa chọn về cách trải nghiệm, không chỉ hạng phòng. Một đoàn muốn dạo phố mỗi tối sẽ có ưu tiên khác đoàn muốn nghỉ trong resort, làm Team Building và dùng tiệc tại chỗ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Trung tâm phù hợp khi muốn kết hợp dạo phố"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trung tâm phù hợp khi muốn kết hợp dạo phố</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu chương trình có tham quan văn hóa, ăn uống và thời gian tự do, vị trí trung tâm có thể thuận một số hoạt động. Tuy nhiên, cần kiểm tra lối xe đón, vị trí nhà hàng và khoảng đi bộ thực tế. Ghi gần biển trong quảng bá chưa nói rõ đoàn phải đi qua đường hoặc đi bao xa để đến khu hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu chương trình có tham quan văn hóa, ăn uống và thời gian tự do, vị trí trung tâm có thể thuận một số hoạt động. Tuy nhiên, cần kiểm tra lối xe đón, vị trí nhà hàng và khoảng đi bộ thực tế. Ghi gần biển trong quảng bá chưa nói rõ đoàn phải đi qua đường hoặc đi bao xa để đến khu hoạt động.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Bãi Dài và Cam Ranh phù hợp nhịp nghỉ dưỡng riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bãi Dài và Cam Ranh phù hợp nhịp nghỉ dưỡng riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn chủ yếu sử dụng dịch vụ tại resort có thể dành nhiều thời gian nghỉ, dùng bữa và giao lưu ở cùng nơi. Khi muốn vào trung tâm Nha Trang hoặc đến cảng, phải tính chặng kết nối và chi phí xe. Đừng lấy lịch ở trung tâm rồi áp nguyên cho nơi lưu trú khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn chủ yếu sử dụng dịch vụ tại resort có thể dành nhiều thời gian nghỉ, dùng bữa và giao lưu ở cùng nơi. Khi muốn vào trung tâm Nha Trang hoặc đến cảng, phải tính chặng kết nối và chi phí xe. Đừng lấy lịch ở trung tâm rồi áp nguyên cho nơi lưu trú khác.</span>"
     },
     {
       "type": "h2",
-      "text": "Đoàn công ty cần so không gian hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn công ty cần so không gian hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi sân Team Building, phòng Gala, khu bếp, nhà hàng và phương án mưa. Nếu các hoạt động diễn ra tại nơi lưu trú, có thể giảm một số chặng chuyển tiếp, nhưng tiện ích cần được xác nhận sử dụng. Không mặc định bãi biển của resort là sân riêng miễn phí cho mọi đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi sân Team Building, phòng Gala, khu bếp, nhà hàng và phương án mưa. Nếu các hoạt động diễn ra tại nơi lưu trú, có thể giảm một số chặng chuyển tiếp, nhưng tiện ích cần được xác nhận sử dụng. Không mặc định bãi biển của resort là sân riêng miễn phí cho mọi đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn từ các hoạt động ưu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn từ các hoạt động ưu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Liệt kê ba việc đoàn muốn làm nhất, rồi so hai phương án lưu trú trên cùng tiêu chuẩn. Nếu muốn vừa nghỉ dưỡng vừa đi đảo, cần xem lịch có đủ khoảng nghỉ không. TodayTourist tư vấn vị trí và chương trình theo ngân sách, đối tượng và lịch thực tế, tránh chọn nơi đẹp nhưng không phù hợp nhịp chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Liệt kê ba việc đoàn muốn làm nhất, rồi so hai phương án lưu trú trên cùng tiêu chuẩn. Nếu muốn vừa nghỉ dưỡng vừa đi đảo, cần xem lịch có đủ khoảng nghỉ không. TodayTourist tư vấn vị trí và chương trình theo ngân sách, đối tượng và lịch thực tế, tránh chọn nơi đẹp nhưng không phù hợp nhịp chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ở Cam Ranh có thể đi tham quan Nha Trang không? Có thể đề nghị lịch phù hợp và tính chặng kết nối. Resort có sẵn Gala không? Phải xác nhận phòng tiệc và hạng mục."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ở Cam Ranh có thể đi tham quan Nha Trang không? Có thể đề nghị lịch phù hợp và tính chặng kết nối. Resort có sẵn Gala không? Phải xác nhận phòng tiệc và hạng mục.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Dốc Lết: có nên đưa vào tour Nha Trang?",
-        "Nha Trang đi đâu? Sắp tuyến tham quan văn hóa và check-in",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/doc-let-co-nen-dua-vao-tour-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Dốc Lết: có nên đưa vào tour Nha Trang?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/nha-trang-di-dau-sap-tuyen-tham-quan-van-hoa-va-check-in/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Nha Trang đi đâu? Sắp tuyến tham quan văn hóa và check-in</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
