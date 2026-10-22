@@ -3,21 +3,21 @@
   "title": "Tour Tây Nguyên đi máy bay hay xe: chọn theo giờ đến và tuyến",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tour-tay-nguyen-may-bay-v2.jpg",
-  "summary": "Tour Tây Nguyên đi máy bay hay xe. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Đi máy bay có thể thay đổi chặng đến Tây Nguyên, nhưng chuyến đi vẫn cần xe tại điểm đến và thời gian ở sân bay.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Đi máy bay có thể thay đổi chặng đến Tây Nguyên, nhưng chuyến đi vẫn cần xe tại điểm đến và thời gian ở sân bay. Khi so với xe đường bộ từ Đồng Nai hoặc TP.HCM, bạn nên so toàn bộ hành trình, phần hành lý và lịch tham quan chứ không chỉ một chặng di chuyển."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đi máy bay có thể thay đổi chặng đến Tây Nguyên, nhưng chuyến đi vẫn cần xe tại điểm đến và thời gian ở sân bay. Khi so với xe đường bộ từ Đồng Nai hoặc TP.HCM, bạn nên so toàn bộ hành trình, phần hành lý và lịch tham quan chứ không chỉ một chặng di chuyển.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm đến theo tuyến ưu tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm đến theo tuyến ưu tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn tập trung Ban Mê hoặc Pleiku–Kon Tum, phương án đến và về cần phù hợp các điểm đó. Chuyến bay và giờ hoạt động phải kiểm tra đúng ngày; không mặc định luôn có chuyến thuận giờ. Đừng chốt khách sạn hoặc Gala trước khi biết thời gian đến thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn tập trung Ban Mê hoặc Pleiku–Kon Tum, phương án đến và về cần phù hợp các điểm đó. Chuyến bay và giờ hoạt động phải kiểm tra đúng ngày; không mặc định luôn có chuyến thuận giờ. Đừng chốt khách sạn hoặc Gala trước khi biết thời gian đến thực tế.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Tính đủ các chặng nối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính đủ các chặng nối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn ở Biên Hòa còn cần thời gian tập trung, ra sân bay, làm thủ tục và nhận hành lý. Hỏi xe đón tại điểm đến, chỗ cho đồ và thời gian dùng xe suốt tuyến. Nếu giá chỉ có dịch vụ tại Tây Nguyên, phải cộng vé bay và các chặng nối khi so ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn ở Biên Hòa còn cần thời gian tập trung, ra sân bay, làm thủ tục và nhận hành lý. Hỏi xe đón tại điểm đến, chỗ cho đồ và thời gian dùng xe suốt tuyến. Nếu giá chỉ có dịch vụ tại Tây Nguyên, phải cộng vé bay và các chặng nối khi so ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt với tour xe mẫu TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt với tour xe mẫu TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hai chương trình liên tuyến tham khảo là cơ sở xem điểm và thời lượng, không phải cam kết đã có vé máy bay. Nhu cầu đi bay cần thiết kế và kiểm tra riêng. Với chặng xe đêm, hỏi cấu hình phương tiện và điều kiện nghỉ của khách trước khi chọn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hai chương trình liên tuyến tham khảo là cơ sở xem điểm và thời lượng, không phải cam kết đã có vé máy bay. Nhu cầu đi bay cần thiết kế và kiểm tra riêng. Với chặng xe đêm, hỏi cấu hình phương tiện và điều kiện nghỉ của khách trước khi chọn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi máy bay có luôn rẻ hoặc nhàn hơn không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Phụ thuộc ngày, giờ và tuyến; cần so tổng chi phí, các chặng nối và sức của đoàn theo phương án thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Đi máy bay có luôn rẻ hoặc nhàn hơn không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Phụ thuộc ngày, giờ và tuyến; cần so tổng chi phí, các chặng nối và sức của đoàn theo phương án thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tay-nguyen-can-chuan-bi-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chuẩn bị đi Tây Nguyên: hành lý, danh sách và thông tin cho trưởng đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Chuẩn bị đi Tây Nguyên: hành lý, danh sách và thông tin cho trưởng đoàn",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
