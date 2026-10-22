@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Đà Lạt đi đâu để cả đoàn thấy thú vị mà không phải ngồi xe liên tục? Cách chọn hữu ích là chia điểm tham quan theo hướng và mục tiêu trải nghiệm, rồi đối chiếu với nơi lưu trú. Một lịch trình vừa sức thường dễ tận hưởng hơn danh sách check-in dài."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đà Lạt đi đâu để cả đoàn thấy thú vị mà không phải ngồi xe liên tục? Cách chọn hữu ích là chia điểm tham quan theo hướng và mục tiêu trải nghiệm, rồi đối chiếu với nơi lưu trú. Một lịch trình vừa sức thường dễ tận hưởng hơn danh sách check-in dài.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dành khoảng thời gian cho trung tâm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dành khoảng thời gian cho trung tâm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Quảng trường Lâm Viên, khu vực hồ Xuân Hương và chợ Đà Lạt có thể được sắp trong thời gian dạo phố phù hợp. Với đoàn lớn, cần điểm tập kết và giờ hẹn rõ. Thời gian tự do không có nghĩa khách được bỏ qua thông báo của trưởng đoàn; nên biết cách liên hệ và phương án trở về nơi lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quảng trường Lâm Viên, khu vực hồ Xuân Hương và chợ Đà Lạt có thể được sắp trong thời gian dạo phố phù hợp. Với đoàn lớn, cần điểm tập kết và giờ hẹn rõ. Thời gian tự do không có nghĩa khách được bỏ qua thông báo của trưởng đoàn; nên biết cách liên hệ và phương án trở về nơi lưu trú.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215633032-0.jpg",
-      "alt": "Điểm tham quan Đà Lạt: sắp tuyến để đoàn bớt di chuyển"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215633032-0.jpg\" alt=\"Điểm tham quan Đà Lạt: sắp tuyến để đoàn bớt di chuyển\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn điểm có trải nghiệm phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn điểm có trải nghiệm phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Fresh Garden phù hợp nhu cầu ngắm cảnh và chụp ảnh; Langbiang Land có nội dung cảnh quan, văn hóa; Hoàng Long Ohayo là một lựa chọn tham quan trong chương trình Đà Lạt hiện có của TodayTourist. Khách nên xem điểm nào hợp sở thích, thay vì mặc định phải đi đủ mọi khu. Vé tham quan và hoạt động bổ sung cần được phân biệt rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Fresh Garden phù hợp nhu cầu ngắm cảnh và chụp ảnh; Langbiang Land có nội dung cảnh quan, văn hóa; Hoàng Long Ohayo là một lựa chọn tham quan trong chương trình Đà Lạt hiện có của TodayTourist. Khách nên xem điểm nào hợp sở thích, thay vì mặc định phải đi đủ mọi khu. Vé tham quan và hoạt động bổ sung cần được phân biệt rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Không nối các hướng bằng lịch quá dày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không nối các hướng bằng lịch quá dày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu muốn đi Cầu Đất, hãy dành một buổi theo tuyến thay vì chen thêm giữa nhiều điểm ở hướng khác. Đoàn có Team Building nên giữ một buổi riêng; đoàn có Gala cần về nơi lưu trú đủ sớm để chuẩn bị. Trước khi chốt điểm, xem thời lượng tham quan, quãng đi bộ, khả năng xe tiếp cận và việc phục vụ bữa ăn trên tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu muốn đi Cầu Đất, hãy dành một buổi theo tuyến thay vì chen thêm giữa nhiều điểm ở hướng khác. Đoàn có Team Building nên giữ một buổi riêng; đoàn có Gala cần về nơi lưu trú đủ sớm để chuẩn bị. Trước khi chốt điểm, xem thời lượng tham quan, quãng đi bộ, khả năng xe tiếp cận và việc phục vụ bữa ăn trên tuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp lịch từ sở thích của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp lịch từ sở thích của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy chọn vài ưu tiên: cảnh quan, văn hóa, chụp ảnh, trải nghiệm hoặc nghỉ dưỡng. Từ đó xây lịch có điểm chính và lựa chọn thay thế khi cần. TodayTourist tư vấn tour Đà Lạt theo đối tượng và thời gian, có thể điều chỉnh cho doanh nghiệp, gia đình hoặc trường học. Không cần đưa mọi địa điểm đang được nhắc nhiều vào cùng chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy chọn vài ưu tiên: cảnh quan, văn hóa, chụp ảnh, trải nghiệm hoặc nghỉ dưỡng. Từ đó xây lịch có điểm chính và lựa chọn thay thế khi cần. TodayTourist tư vấn tour Đà Lạt theo đối tượng và thời gian, có thể điều chỉnh cho doanh nghiệp, gia đình hoặc trường học. Không cần đưa mọi địa điểm đang được nhắc nhiều vào cùng chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Điểm check-in nào cũng phù hợp đoàn đông không? Không; cần kiểm tra điều kiện phục vụ. Có thể chọn ít điểm và thêm Gala không? Có thể đề nghị chương trình riêng theo ngân sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm check-in nào cũng phù hợp đoàn đông không? Không; cần kiểm tra điều kiện phục vụ. Có thể chọn ít điểm và thêm Gala không? Có thể đề nghị chương trình riêng theo ngân sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Săn mây Cầu Đất: có nên đưa vào lịch trình khách đoàn?",
-        "Đi Đà Lạt mùa nào? Chuẩn bị phương án khi trời mưa",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/san-may-cau-dat-co-nen-dua-vao-lich-trinh-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Săn mây Cầu Đất: có nên đưa vào lịch trình khách đoàn?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-da-lat-mua-nao-chuan-bi-phuong-an-khi-troi-mua/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Đà Lạt mùa nào? Chuẩn bị phương án khi trời mưa</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
