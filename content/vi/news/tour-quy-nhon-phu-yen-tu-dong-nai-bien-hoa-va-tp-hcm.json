@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đối với tour Quy Nhơn – Phú Yên từ Đồng Nai hoặc TP.HCM, điểm đón và giờ tập trung ảnh hưởng trực tiếp đến thời gian nghỉ của đoàn. Công ty có nhân viên ở nhiều nơi nên chốt phương án đưa đón từ lúc lập chương trình."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đối với tour Quy Nhơn – Phú Yên từ Đồng Nai hoặc TP.HCM, điểm đón và giờ tập trung ảnh hưởng trực tiếp đến thời gian nghỉ của đoàn. Công ty có nhân viên ở nhiều nơi nên chốt phương án đưa đón từ lúc lập chương trình.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đoàn riêng: chọn nơi đón theo thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn riêng: chọn nơi đón theo thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị đón tại công ty, cơ quan hoặc điểm hẹn phù hợp ở Biên Hòa, Đồng Nai và TP.HCM. Trước khi xác nhận cần kiểm tra xe vào được hay không, chỗ dừng tập trung, hành lý và hướng ra tuyến chính. Không nên hứa đón ở mọi địa chỉ khi chưa khảo sát. Với nhiều điểm, nên chọn ít điểm thuận tiện để tránh kéo dài hành trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị đón tại công ty, cơ quan hoặc điểm hẹn phù hợp ở Biên Hòa, Đồng Nai và TP.HCM. Trước khi xác nhận cần kiểm tra xe vào được hay không, chỗ dừng tập trung, hành lý và hướng ra tuyến chính. Không nên hứa đón ở mọi địa chỉ khi chưa khảo sát. Với nhiều điểm, nên chọn ít điểm thuận tiện để tránh kéo dài hành trình.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Xếp giờ theo ca làm và thời gian nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xếp giờ theo ca làm và thời gian nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công nhân vừa kết thúc ca cần khoảng để ăn, chuẩn bị đồ và tập trung. Người phụ trách nên gửi số người theo từng điểm, ca làm và giờ có thể xuất phát. Với chuyến đi đêm, cần cân đối giờ đến nơi và thời gian nghỉ buổi sáng. Nếu có Team Building, không đặt ngay sau một chặng đường dài chỉ để tiết kiệm buổi tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công nhân vừa kết thúc ca cần khoảng để ăn, chuẩn bị đồ và tập trung. Người phụ trách nên gửi số người theo từng điểm, ca làm và giờ có thể xuất phát. Với chuyến đi đêm, cần cân đối giờ đến nơi và thời gian nghỉ buổi sáng. Nếu có Team Building, không đặt ngay sau một chặng đường dài chỉ để tiết kiệm buổi tham quan.</span>"
     },
     {
       "type": "h2",
-      "text": "Đi máy bay hoặc tàu: làm rõ xe nối chặng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đi máy bay hoặc tàu: làm rõ xe nối chặng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đưa đón từ công ty đến sân bay hoặc ga là một hạng mục khác với xe phục vụ tại Quy Nhơn – Phú Yên. Báo giá cần thể hiện các chặng này đã bao gồm chưa, nơi đón trả và phạm vi sử dụng xe. Khách ở nhiều tỉnh có thể cần điểm tập trung chung; cần thống nhất trước khi xuất vé để mọi người phối hợp dễ hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đưa đón từ công ty đến sân bay hoặc ga là một hạng mục khác với xe phục vụ tại Quy Nhơn – Phú Yên. Báo giá cần thể hiện các chặng này đã bao gồm chưa, nơi đón trả và phạm vi sử dụng xe. Khách ở nhiều tỉnh có thể cần điểm tập trung chung; cần thống nhất trước khi xuất vé để mọi người phối hợp dễ hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Đừng quên kế hoạch trở về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đừng quên kế hoạch trở về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo rõ đoàn phải có mặt tại công ty hay nhà vào thời điểm nào. Dự kiến giờ về cần có khoảng đệm cho giao thông và các điểm trả khách. Người phụ trách nên giữ danh sách xe, đầu mối liên hệ và thứ tự trả khách. TodayTourist sẽ tư vấn phương án đón trả theo chương trình và điều kiện từng chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo rõ đoàn phải có mặt tại công ty hay nhà vào thời điểm nào. Dự kiến giờ về cần có khoảng đệm cho giao thông và các điểm trả khách. Người phụ trách nên giữ danh sách xe, đầu mối liên hệ và thứ tự trả khách. TodayTourist sẽ tư vấn phương án đón trả theo chương trình và điều kiện từng chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có đón tại KCN Amata hoặc Biên Hòa 2 không? Có thể đề nghị; vị trí và điều kiện tiếp cận cần được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có đón tại KCN Amata hoặc Biên Hòa 2 không? Có thể đề nghị; vị trí và điều kiện tiếp cận cần được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Tour ghép có đón giống đoàn riêng không? Không nhất thiết; cần kiểm tra điểm đón của lịch ghép cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour ghép có đón giống đoàn riêng không? Không nhất thiết; cần kiểm tra điểm đón của lịch ghép cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?",
-        "Tour Quy Nhơn – Phú Yên bằng máy bay: chọn điểm đến và chiều về",
-        "Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-quy-nhon-phu-yen-bang-xe-giuong-nam-hay-xe-45-cho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-phu-yen-bang-may-bay-chon-diem-den-va-chieu-ve/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn – Phú Yên bằng máy bay: chọn điểm đến và chiều về</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-quy-nhon-phu-yen-cho-cong-ty-xi-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức tour Quy Nhơn – Phú Yên cho công ty, xí nghiệp</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
