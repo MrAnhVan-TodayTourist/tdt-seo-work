@@ -3,21 +3,21 @@
   "title": "Giao lưu cồng chiêng Tây Nguyên: chọn trải nghiệm văn hóa cho đoàn",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "giao-luu-cong-chieng-tay-nguyen-v2.jpg",
-  "summary": "Giao lưu cồng chiêng Tây Nguyên. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Một chương trình giao lưu cồng chiêng có giá trị khi khách được nghe giới thiệu và gặp người thực hành văn hóa.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Một chương trình giao lưu cồng chiêng có giá trị khi khách được nghe giới thiệu và gặp người thực hành văn hóa. Với đoàn đến Tây Nguyên, hãy hỏi chương trình do ai thực hiện, diễn ra ở đâu và có phần trao đổi nào, thay vì chỉ đặt một tiết mục nhạc cho buổi tối."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một chương trình giao lưu cồng chiêng có giá trị khi khách được nghe giới thiệu và gặp người thực hành văn hóa. Với đoàn đến Tây Nguyên, hãy hỏi chương trình do ai thực hiện, diễn ra ở đâu và có phần trao đổi nào, thay vì chỉ đặt một tiết mục nhạc cho buổi tối.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn nội dung phù hợp mục đích chuyến đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn nội dung phù hợp mục đích chuyến đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn học tập cần thời gian nghe giải thích và hỏi đáp; đoàn doanh nghiệp có thể chọn giao lưu ngắn trong lịch buổi tối. Không gộp mọi cộng đồng và phong tục thành một kịch bản giống nhau. Đơn vị thực hiện cần giới thiệu đúng bối cảnh của chương trình mà đoàn tham gia."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn học tập cần thời gian nghe giải thích và hỏi đáp; đoàn doanh nghiệp có thể chọn giao lưu ngắn trong lịch buổi tối. Không gộp mọi cộng đồng và phong tục thành một kịch bản giống nhau. Đơn vị thực hiện cần giới thiệu đúng bối cảnh của chương trình mà đoàn tham gia.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Đặt trước đội thực hiện và không gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt trước đội thực hiện và không gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, độ tuổi, ngôn ngữ và ngày dự kiến. Hỏi chỗ ngồi, khả năng nghe rõ và thời lượng. Tại một điểm du lịch cộng đồng, hoạt động có thể cần đặt riêng; không mặc định đoàn ghé buôn làng là luôn có đội biểu diễn sẵn chờ đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, độ tuổi, ngôn ngữ và ngày dự kiến. Hỏi chỗ ngồi, khả năng nghe rõ và thời lượng. Tại một điểm du lịch cộng đồng, hoạt động có thể cần đặt riêng; không mặc định đoàn ghé buôn làng là luôn có đội biểu diễn sẵn chờ đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham gia với sự tôn trọng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham gia với sự tôn trọng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xin phép trước khi quay cận cảnh, chụp người dân hoặc đăng hình cá nhân. Nghe hướng dẫn về nhạc cụ và phần giao lưu được mời tham gia. Nếu có thức uống trong chương trình, thống nhất phần không cồn và không ép thành viên dùng chỉ để giữ không khí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin phép trước khi quay cận cảnh, chụp người dân hoặc đăng hình cá nhân. Nghe hướng dẫn về nhạc cụ và phần giao lưu được mời tham gia. Nếu có thức uống trong chương trình, thống nhất phần không cồn và không ép thành viên dùng chỉ để giữ không khí.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Giao lưu văn hóa có thay cho Gala được không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy mục tiêu. Nếu doanh nghiệp cần phát biểu và vinh danh, vẫn cần một phần tổ chức riêng; có thể kết hợp hai nội dung với thời lượng rõ.</span>"
     },
     {
       "type": "h2",
-      "text": "Giao lưu văn hóa có thay cho Gala được không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tùy mục tiêu. Nếu doanh nghiệp cần phát biểu và vinh danh, vẫn cần một phần tổ chức riêng; có thể kết hợp hai nội dung với thời lượng rõ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Tây Nguyên: thiết kế trải nghiệm cà phê và văn hóa</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen-gia-dinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên cho gia đình và người lớn tuổi: chọn lịch vừa sức</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tour học sinh Tây Nguyên: thiết kế trải nghiệm cà phê và văn hóa",
-        "Tour Tây Nguyên cho gia đình và người lớn tuổi: chọn lịch vừa sức",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
