@@ -8,97 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Đà Lạt dịp lễ, Tết cần chuẩn bị sớm phần xe, phòng và lịch trình, đặc biệt với đoàn công ty hoặc nhiều gia đình. Cùng một chương trình, dịch vụ ngày thường và ngày cao điểm có thể khác. Khách nên nhận báo giá cho đúng ngày đi thay vì dùng giá tham khảo quanh năm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Đà Lạt dịp lễ, Tết cần chuẩn bị sớm phần xe, phòng và lịch trình, đặc biệt với đoàn công ty hoặc nhiều gia đình. Cùng một chương trình, dịch vụ ngày thường và ngày cao điểm có thể khác. Khách nên nhận báo giá cho đúng ngày đi thay vì dùng giá tham khảo quanh năm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt ngày và số khách theo khả năng tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt ngày và số khách theo khả năng tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác định ngày có thể tập trung, giờ phải trở về và số người dự kiến. Nếu có hai lựa chọn ngày, gửi cả hai để so sánh phương án dịch vụ. Đoàn nhiều xe cần chốt đầu mối và danh sách theo từng xe. Một số người chưa xác định tham gia nên được ghi riêng để tránh giữ quá nhiều hoặc thiếu phòng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác định ngày có thể tập trung, giờ phải trở về và số người dự kiến. Nếu có hai lựa chọn ngày, gửi cả hai để so sánh phương án dịch vụ. Đoàn nhiều xe cần chốt đầu mối và danh sách theo từng xe. Một số người chưa xác định tham gia nên được ghi riêng để tránh giữ quá nhiều hoặc thiếu phòng.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215692020-0.jpg",
-      "alt": "Tour Đà Lạt dịp lễ, Tết: đặt đoàn và dự trù chi phí"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215692020-0.jpg\" alt=\"Tour Đà Lạt dịp lễ, Tết: đặt đoàn và dự trù chi phí\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Không mặc định giá ngày thường áp dụng ngày lễ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không mặc định giá ngày thường áp dụng ngày lễ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi rõ xe, phòng, bữa ăn và vé có thay đổi theo ngày không; báo giá giữ đến khi nào và điều kiện xác nhận dịch vụ. Chỉ chuyển sang kế hoạch đăng ký khi phần gồm và không gồm đã rõ. Giá tour Đà Lạt Tết hoặc 30/4 không nên được suy ra từ một bài cẩm nang không ghi thời điểm áp dụng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi rõ xe, phòng, bữa ăn và vé có thay đổi theo ngày không; báo giá giữ đến khi nào và điều kiện xác nhận dịch vụ. Chỉ chuyển sang kế hoạch đăng ký khi phần gồm và không gồm đã rõ. Giá tour Đà Lạt Tết hoặc 30/4 không nên được suy ra từ một bài cẩm nang không ghi thời điểm áp dụng.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ lịch trình linh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ lịch trình linh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày cao điểm nên cân nhắc thời gian chờ và khả năng phục vụ đoàn. Có thể giảm số điểm, dành thời gian nghỉ và đặt bữa ăn theo lịch phù hợp. Nếu có Gala, phòng tiệc cần được xác nhận cùng ngày lưu trú. Không nên đưa quá nhiều điểm phổ biến vào một buổi chỉ để chương trình nhìn hấp dẫn hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày cao điểm nên cân nhắc thời gian chờ và khả năng phục vụ đoàn. Có thể giảm số điểm, dành thời gian nghỉ và đặt bữa ăn theo lịch phù hợp. Nếu có Gala, phòng tiệc cần được xác nhận cùng ngày lưu trú. Không nên đưa quá nhiều điểm phổ biến vào một buổi chỉ để chương trình nhìn hấp dẫn hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Đọc điều kiện trước khi đăng ký"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc điều kiện trước khi đăng ký</span></strong>"
     },
     {
       "type": "p",
-      "text": "Làm rõ đặt cọc, thời hạn cung cấp danh sách, đổi người, thay đổi số lượng và hủy dịch vụ theo báo giá hoặc hợp đồng. Nếu đoàn có trẻ em, cần ghi độ tuổi và cơ cấu phòng chính xác. TodayTourist tư vấn tour Đà Lạt dịp lễ, Tết theo yêu cầu; ngày đi và dịch vụ chỉ được xem là chốt khi có xác nhận cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Làm rõ đặt cọc, thời hạn cung cấp danh sách, đổi người, thay đổi số lượng và hủy dịch vụ theo báo giá hoặc hợp đồng. Nếu đoàn có trẻ em, cần ghi độ tuổi và cơ cấu phòng chính xác. TodayTourist tư vấn tour Đà Lạt dịp lễ, Tết theo yêu cầu; ngày đi và dịch vụ chỉ được xem là chốt khi có xác nhận cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đăng ký sớm có chắc giá thấp nhất không? Không thể bảo đảm; lợi ích là có thêm lựa chọn dịch vụ. Có nên thêm cả săn mây, Gala và nhiều điểm trong lịch ngắn không? Nên chọn trọng tâm và giữ khoảng nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đăng ký sớm có chắc giá thấp nhất không? Không thể bảo đảm; lợi ích là có thêm lựa chọn dịch vụ. Có nên thêm cả săn mây, Gala và nhiều điểm trong lịch ngắn không? Nên chọn trọng tâm và giữ khoảng nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Kết hợp Đà Lạt với Nha Trang, Bảo Lộc hoặc Tà Đùng",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ket-hop-da-lat-voi-nha-trang-bao-loc-hoac-ta-dung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kết hợp Đà Lạt với Nha Trang, Bảo Lộc hoặc Tà Đùng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
