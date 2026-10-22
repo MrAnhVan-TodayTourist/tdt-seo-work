@@ -8,8 +8,8 @@
   "published_at": "2026-06-06",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng tập thể Cơ Sở May Đồng Phục Hoa Hồng trong chuyến tham quan – nghỉ dưỡng đầy ý nghĩa tại hai tỉnh thành biển xinh đẹp Quy Nhơn – Phú Yên với nhiều trải nghiệm đáng nhớ"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng tập thể Cơ Sở May Đồng Phục Hoa Hồng trong chuyến tham quan – nghỉ dưỡng đầy ý nghĩa tại hai tỉnh thành biển xinh đẹp Quy Nhơn – Phú Yên với nhiều trải nghiệm đáng nhớ</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá thiên đường biển đảo Kỳ Co với làn nước trong xanh và bãi cát trắng tuyệt đẹp"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá thiên đường biển đảo Kỳ Co với làn nước trong xanh và bãi cát trắng tuyệt đẹp</span>"
     },
     {
       "type": "html",
@@ -29,47 +29,51 @@
     },
     {
       "type": "p",
-      "text": "Check-in Eo Gió – một trong những điểm ngắm hoàng hôn đẹp nhất miền Trung với khung cảnh thiên nhiên hùng vĩ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in Eo Gió – một trong những điểm ngắm hoàng hôn đẹp nhất miền Trung với khung cảnh thiên nhiên hùng vĩ</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá Ghềnh Đá Đĩa – thắng cảnh thiên nhiên độc đáo nổi tiếng của Phú Yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá Ghềnh Đá Đĩa – thắng cảnh thiên nhiên độc đáo nổi tiếng của Phú Yên</span>"
     },
     {
       "type": "p",
-      "text": "Tham quan Nhà thờ Mằng Lăng – một trong những nhà thờ cổ nhất Việt Nam với kiến trúc mang đậm dấu ấn lịch sử"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan Nhà thờ Mằng Lăng – một trong những nhà thờ cổ nhất Việt Nam với kiến trúc mang đậm dấu ấn lịch sử</span>"
     },
     {
       "type": "p",
-      "text": "Check-in Tháp Nghinh Phong – biểu tượng du lịch mới của thành phố Tuy Hòa"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in Tháp Nghinh Phong – biểu tượng du lịch mới của thành phố Tuy Hòa</span>"
     },
     {
       "type": "p",
-      "text": "Lưu giữ những khoảnh khắc đẹp cùng tập thể trong suốt hành trình"
+      "text": "<span style=\"font-size:16px;color:#374151\">Lưu giữ những khoảnh khắc đẹp cùng tập thể trong suốt hành trình</span>"
     },
     {
       "type": "p",
-      "text": "Thưởng thức các món đặc sản hấp dẫn của vùng biển Quy Nhơn – Phú Yên"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thưởng thức các món đặc sản hấp dẫn của vùng biển Quy Nhơn – Phú Yên</span>"
     },
     {
       "type": "p",
-      "text": "Mua sắm đặc sản địa phương làm quà cho gia đình và người thân"
+      "text": "<span style=\"font-size:16px;color:#374151\">Mua sắm đặc sản địa phương làm quà cho gia đình và người thân</span>"
     },
     {
       "type": "p",
-      "text": "Tham gia chương trình Gala Dinner ấm cúng, vui tươi với nhiều hoạt động giao lưu, kết nối và những khoảnh khắc đáng nhớ cùng đại gia đình Hoa Hồng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham gia chương trình Gala Dinner ấm cúng, vui tươi với nhiều hoạt động giao lưu, kết nối và những khoảnh khắc đáng nhớ cùng đại gia đình Hoa Hồng</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin kính chúc Ban lãnh đạo cùng toàn thể anh chị em Cơ Sở May Đồng Phục Hoa Hồng thật nhiều sức khỏe, hạnh phúc và luôn gặt hái nhiều thành công trong công việc cũng như cuộc sống. Cảm ơn quý khách đã tin tưởng lựa chọn TODAYTOURIST đồng hành trong hành trình lần này!"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc Ban lãnh đạo cùng toàn thể anh chị em Cơ Sở May Đồng Phục Hoa Hồng thật nhiều sức khỏe, hạnh phúc và luôn gặt hái nhiều thành công trong công việc cũng như cuộc sống. Cảm ơn quý khách đã tin tưởng lựa chọn TODAYTOURIST đồng hành trong hành trình lần này!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-06."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-06.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Quy Nhơn 3 Ngày 3 Đêm</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn 3 Ngày 3 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
