@@ -2,7 +2,7 @@
   "slug": "an-gi-o-nha-trang-chon-nha-hang-va-thuc-don-cho-doan",
   "title": "Ăn gì ở Nha Trang? Chọn nhà hàng và thực đơn cho đoàn",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "an-gi-o-nha-trang-chon-nha-hang-va-thuc-don-cho-doan.jpg",
+  "image": "an-gi-o-nha-trang-chon-nha-hang-va-thuc-don-cho-doan-v2.jpg",
   "summary": "Ăn uống tại Nha Trang có thể kết hợp hải sản, món địa phương và bữa đoàn thuận tiện. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Bún chả cá, nem nướng hoặc bánh căn có thể là lựa chọn trải nghiệm khi phù hợp tuyến và khả năng phục vụ. Một điểm ăn nổi tiếng với khách lẻ chưa chắc tiếp nhận được nhiều xe cùng lúc. Đoàn có thể dành thời gian tự do cho món địa phương, còn bữa chính chọn nhà hàng có phương án rõ."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216089037-0.jpg",
-      "alt": "Ăn gì ở Nha Trang? Chọn nhà hàng và thực đơn cho đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216089037-0.jpg\" alt=\"Ăn gì ở Nha Trang? Chọn nhà hàng và thực đơn cho đoàn\"></figure>"
     },
     {
       "type": "h2",
