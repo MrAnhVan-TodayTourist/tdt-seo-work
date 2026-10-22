@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Một bữa tối có giao lưu không tự động là gói Gala Dinner đầy đủ. Để người đại diện công ty kiểm soát chi phí và chất lượng, từng hạng mục của chương trình cần được mô tả rõ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một bữa tối có giao lưu không tự động là gói Gala Dinner đầy đủ. Để người đại diện công ty kiểm soát chi phí và chất lượng, từng hạng mục của chương trình cần được mô tả rõ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn mục tiêu và thời lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn mục tiêu và thời lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác định tiệc tri ân, tổng kết hay giao lưu. Lập các phần mở đầu, phát biểu, trao thưởng, tiết mục và trò chơi theo thời gian thực tế. Hạn chế phần phát biểu quá dài khi đoàn đã có ngày di chuyển và hoạt động biển. Cần biết giờ phục vụ món để chương trình không ngắt quãng bữa ăn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác định tiệc tri ân, tổng kết hay giao lưu. Lập các phần mở đầu, phát biểu, trao thưởng, tiết mục và trò chơi theo thời gian thực tế. Hạn chế phần phát biểu quá dài khi đoàn đã có ngày di chuyển và hoạt động biển. Cần biết giờ phục vụ món để chương trình không ngắt quãng bữa ăn.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chốt khu tiệc và thiết bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt khu tiệc và thiết bị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Yêu cầu sơ đồ bàn, sân khấu, lối đi, vị trí trình chiếu và điểm điều khiển kỹ thuật. Ghi rõ MC, âm thanh, ánh sáng, màn hình, backdrop và thời gian setup. Với tiệc ngoài trời, hỏi phương án mưa, gió và giới hạn âm thanh. Thiết bị phù hợp quy mô quan trọng hơn việc liệt kê thật nhiều tên thiết bị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Yêu cầu sơ đồ bàn, sân khấu, lối đi, vị trí trình chiếu và điểm điều khiển kỹ thuật. Ghi rõ MC, âm thanh, ánh sáng, màn hình, backdrop và thời gian setup. Với tiệc ngoài trời, hỏi phương án mưa, gió và giới hạn âm thanh. Thiết bị phù hợp quy mô quan trọng hơn việc liệt kê thật nhiều tên thiết bị.</span>"
     },
     {
       "type": "h2",
-      "text": "Phân công nội dung từ phía công ty"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân công nội dung từ phía công ty</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty gửi tên người phát biểu, nội dung trao thưởng, logo và file trình chiếu theo mốc thống nhất. Duyệt cách đọc tên và thứ tự trước ngày đi. Báo giá cần tách thực đơn với phần tổ chức, làm rõ dịch vụ thêm giờ và thay đổi số bàn. TodayTourist tiếp nhận yêu cầu để xây phương án theo địa điểm và quy mô đã kiểm tra."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty gửi tên người phát biểu, nội dung trao thưởng, logo và file trình chiếu theo mốc thống nhất. Duyệt cách đọc tên và thứ tự trước ngày đi. Báo giá cần tách thực đơn với phần tổ chức, làm rõ dịch vụ thêm giờ và thay đổi số bàn. TodayTourist tiếp nhận yêu cầu để xây phương án theo địa điểm và quy mô đã kiểm tra.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể tổ chức gala trong tour một ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể tổ chức gala trong tour một ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị chương trình phù hợp giờ về, nhưng nếu có tiệc tối dài và nhu cầu nghỉ, nên so phương án có lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị chương trình phù hợp giờ về, nhưng nếu có tiệc tối dài và nhu cầu nghỉ, nên so phương án có lưu trú.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Hội nghị kết hợp nghỉ biển: lập chương trình MICE Vũng Tàu – Hồ Tràm"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hoi-nghi-ket-hop-nghi-bien-lap-chuong-trinh-mice-vung-tau-ho-tram/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hội nghị kết hợp nghỉ biển: lập chương trình MICE Vũng Tàu – Hồ Tràm</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
