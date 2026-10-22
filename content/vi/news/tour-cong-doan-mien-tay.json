@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Với đoàn công đoàn và công nhân, tour Miền Tây cần thuận tiện từ khâu tập trung đến lúc trở lại làm việc. Một chương trình hợp lý phải tính lịch ca, người nhà đi cùng và thời gian nghỉ. Giá theo đầu người cũng cần gắn với số lượng chốt, thay vì chỉ số dự kiến ban đầu."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Với đoàn công đoàn và công nhân, tour Miền Tây cần thuận tiện từ khâu tập trung đến lúc trở lại làm việc. Một chương trình hợp lý phải tính lịch ca, người nhà đi cùng và thời gian nghỉ. Giá theo đầu người cũng cần gắn với số lượng chốt, thay vì chỉ số dự kiến ban đầu.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt lịch theo ca và thời gian về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt lịch theo ca và thời gian về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đơn vị nên xác nhận nhân sự có vừa tan ca đêm hay không, thời điểm ra khỏi cổng và ngày làm tiếp theo. Tour một ngày cần dự trù giờ về; tour qua đêm cần tính giờ dậy sớm. Nếu chia nhiều đợt, mỗi đợt phải có chương trình và dịch vụ rõ, không mặc định cùng giá cho mọi ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đơn vị nên xác nhận nhân sự có vừa tan ca đêm hay không, thời điểm ra khỏi cổng và ngày làm tiếp theo. Tour một ngày cần dự trù giờ về; tour qua đêm cần tính giờ dậy sớm. Nếu chia nhiều đợt, mỗi đợt phải có chương trình và dịch vụ rõ, không mặc định cùng giá cho mọi ngày.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Quản lý xe, nhóm và người nhà"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quản lý xe, nhóm và người nhà</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lập danh sách theo xe, trưởng nhóm cùng số điện thoại liên hệ. Trẻ em cần ghi độ tuổi và nhu cầu chỗ ngồi–phòng để báo giá đúng. Khi đoàn xuống thuyền hoặc xuồng, chia nhóm theo khả năng phục vụ của bến, có người kiểm đếm và hẹn điểm gặp; không chỉ quản lý bằng danh sách xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lập danh sách theo xe, trưởng nhóm cùng số điện thoại liên hệ. Trẻ em cần ghi độ tuổi và nhu cầu chỗ ngồi–phòng để báo giá đúng. Khi đoàn xuống thuyền hoặc xuồng, chia nhóm theo khả năng phục vụ của bến, có người kiểm đếm và hẹn điểm gặp; không chỉ quản lý bằng danh sách xe.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ ngân sách cho những phần thiết yếu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ ngân sách cho những phần thiết yếu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ưu tiên xe, bữa ăn đủ chất lượng, khoảng nghỉ và một trải nghiệm chung. Có thể thiết kế giao lưu vừa sức thay cho chương trình thiết bị lớn. Hãy hỏi cách tính phần người nhà tự chi, các phụ thu và hạn chốt khách để công đoàn chủ động thông báo trước khi nhận đăng ký."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ưu tiên xe, bữa ăn đủ chất lượng, khoảng nghỉ và một trải nghiệm chung. Có thể thiết kế giao lưu vừa sức thay cho chương trình thiết bị lớn. Hãy hỏi cách tính phần người nhà tự chi, các phụ thu và hạn chốt khách để công đoàn chủ động thông báo trước khi nhận đăng ký.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đoàn vài trăm người có đi miệt vườn được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đoàn vài trăm người có đi miệt vườn được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần kiểm tra sức phục vụ tại bến, thuyền, khu ăn và hoạt động. Có thể chia lượt, nhưng phải có lịch rõ; không cam kết một điểm nhỏ đón cả đoàn cùng lúc khi chưa xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần kiểm tra sức phục vụ tại bến, thuyền, khu ăn và hoạt động. Có thể chia lượt, nhưng phải có lịch rõ; không cam kết một điểm nhỏ đón cả đoàn cùng lúc khi chưa xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour công đoàn miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour công đoàn miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe đi tour Miền Tây: chọn 45 chỗ, giường nằm, 29 hoặc 16 chỗ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
