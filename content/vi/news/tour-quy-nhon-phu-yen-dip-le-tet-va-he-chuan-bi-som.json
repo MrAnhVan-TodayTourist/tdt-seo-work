@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn – Phú Yên dịp lễ, Tết hoặc hè cần được chuẩn bị theo ngày cụ thể. Mức giá, khả năng đặt phòng và phương tiện có thể khác ngày thường, nên người phụ trách đoàn cần quản lý cả lịch trình lẫn thời hạn chốt dịch vụ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn – Phú Yên dịp lễ, Tết hoặc hè cần được chuẩn bị theo ngày cụ thể. Mức giá, khả năng đặt phòng và phương tiện có thể khác ngày thường, nên người phụ trách đoàn cần quản lý cả lịch trình lẫn thời hạn chốt dịch vụ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn ngày dự kiến và ngày có thể linh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ngày dự kiến và ngày có thể linh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày muốn đi, số ngày nghỉ và một vài lựa chọn khác nếu có. Công ty cần đối chiếu kế hoạch sản xuất và lịch nhân sự trước khi giữ dịch vụ. Đoàn trường học nên xem thời điểm phù hợp mục tiêu chuyến đi. Không sử dụng lịch hoặc giá năm trước như điều kiện đang có cho chuyến mới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày muốn đi, số ngày nghỉ và một vài lựa chọn khác nếu có. Công ty cần đối chiếu kế hoạch sản xuất và lịch nhân sự trước khi giữ dịch vụ. Đoàn trường học nên xem thời điểm phù hợp mục tiêu chuyến đi. Không sử dụng lịch hoặc giá năm trước như điều kiện đang có cho chuyến mới.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Giữ dịch vụ trọng yếu theo điều kiện rõ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ dịch vụ trọng yếu theo điều kiện rõ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng, phương tiện và không gian sự kiện cần được kiểm tra cho số khách thực tế. Việc 'giữ chỗ' phải có thời hạn, mức đặt cọc nếu cần và điều kiện được xác nhận. Vé bay, tàu và dịch vụ đoàn có các thời điểm chốt khác nhau; người phụ trách nên ghi mốc để tránh một phần đã đặt nhưng phần còn lại không đáp ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng, phương tiện và không gian sự kiện cần được kiểm tra cho số khách thực tế. Việc 'giữ chỗ' phải có thời hạn, mức đặt cọc nếu cần và điều kiện được xác nhận. Vé bay, tàu và dịch vụ đoàn có các thời điểm chốt khác nhau; người phụ trách nên ghi mốc để tránh một phần đã đặt nhưng phần còn lại không đáp ứng.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt ngân sách có phạm vi cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt ngân sách có phạm vi cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra phụ thu ngày, phòng đơn, bữa tiệc, hoạt động lựa chọn và đồ uống. Nếu phải thay cơ sở lưu trú hoặc phương tiện, yêu cầu so tiêu chuẩn trước khi đồng ý. Có thể giảm điểm hoặc đổi ngày để cân đối chi phí, nhưng vẫn giữ các phần cốt lõi như nghỉ, bữa ăn và hoạt động chính của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra phụ thu ngày, phòng đơn, bữa tiệc, hoạt động lựa chọn và đồ uống. Nếu phải thay cơ sở lưu trú hoặc phương tiện, yêu cầu so tiêu chuẩn trước khi đồng ý. Có thể giảm điểm hoặc đổi ngày để cân đối chi phí, nhưng vẫn giữ các phần cốt lõi như nghỉ, bữa ăn và hoạt động chính của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhịp tham quan cần linh hoạt hơn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhịp tham quan cần linh hoạt hơn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Dành khoảng cho tập trung, bữa ăn và chờ phục vụ nếu điều kiện đông khách. Không gom nhiều điểm có giờ phục vụ cứng vào cùng một buổi. Kế hoạch biển và chương trình tối nên có lựa chọn thay thế. TodayTourist kiểm tra dịch vụ theo ngày đoàn mong muốn và báo điều kiện cụ thể trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Dành khoảng cho tập trung, bữa ăn và chờ phục vụ nếu điều kiện đông khách. Không gom nhiều điểm có giờ phục vụ cứng vào cùng một buổi. Kế hoạch biển và chương trình tối nên có lựa chọn thay thế. TodayTourist kiểm tra dịch vụ theo ngày đoàn mong muốn và báo điều kiện cụ thể trước khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần đặt trước bao lâu? Phụ thuộc quy mô, ngày và dịch vụ; nên hỏi sớm để biết khả năng đáp ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần đặt trước bao lâu? Phụ thuộc quy mô, ngày và dịch vụ; nên hỏi sớm để biết khả năng đáp ứng.</span>"
     },
     {
       "type": "p",
-      "text": "Giá quảng cáo lễ có áp dụng mọi ngày không? Không; cần xem ngày và điều kiện của báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giá quảng cáo lễ có áp dụng mọi ngày không? Không; cần xem ngày và điều kiện của báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn",
-        "Tour Quy Nhơn – Phú Yên từ Đồng Nai, Biên Hòa và TP.HCM",
-        "Đặt tour Quy Nhơn – Phú Yên: chốt khách, đặt cọc và thay đổi"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-quy-nhon-phu-yen-tinh-ngan-sach-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Quy Nhơn – Phú Yên: tính ngân sách khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-phu-yen-tu-dong-nai-bien-hoa-va-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn – Phú Yên từ Đồng Nai, Biên Hòa và TP.HCM</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-quy-nhon-phu-yen-chot-khach-dat-coc-va-thay-doi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Quy Nhơn – Phú Yên: chốt khách, đặt cọc và thay đổi</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
