@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "VinWonders nên được xem như một hoạt động chính của ngày, thay vì điểm ghé ngắn. Khách cần biết vé bao gồm gì và thời gian dành cho trải nghiệm nào."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">VinWonders nên được xem như một hoạt động chính của ngày, thay vì điểm ghé ngắn. Khách cần biết vé bao gồm gì và thời gian dành cho trải nghiệm nào.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo sở thích và điều kiện tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo sở thích và điều kiện tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công viên có nhiều nhóm trải nghiệm; gia đình nên xem phần phù hợp độ tuổi và yêu cầu của từng hoạt động. Đoàn cần nghỉ có thể chọn lịch nhẹ, không phải chơi mọi trò. Hướng dẫn tại điểm là căn cứ khi tham gia, không suy điều kiện từ ảnh hoặc quảng cáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công viên có nhiều nhóm trải nghiệm; gia đình nên xem phần phù hợp độ tuổi và yêu cầu của từng hoạt động. Đoàn cần nghỉ có thể chọn lịch nhẹ, không phải chơi mọi trò. Hướng dẫn tại điểm là căn cứ khi tham gia, không suy điều kiện từ ảnh hoặc quảng cáo.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Làm rõ vé, bữa ăn và dịch vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ vé, bữa ăn và dịch vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tên gói có thể đi kèm quyền lợi khác nhau. Hỏi ngày sử dụng, phần gồm, phần thêm, điều kiện trẻ em và có bữa ăn hay không. Nếu kết hợp Safari, kiểm tra combo cụ thể. Không dùng giá vé trên một bài cũ để báo chắc cho ngày đi mới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tên gói có thể đi kèm quyền lợi khác nhau. Hỏi ngày sử dụng, phần gồm, phần thêm, điều kiện trẻ em và có bữa ăn hay không. Nếu kết hợp Safari, kiểm tra combo cụ thể. Không dùng giá vé trên một bài cũ để báo chắc cho ngày đi mới.</span>"
     },
     {
       "type": "h2",
-      "text": "Tổ chức điểm hẹn cho nhóm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tổ chức điểm hẹn cho nhóm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn lớn cần thống nhất nơi tập trung và giờ xe đón. Có lựa chọn cho người muốn nghỉ hoặc không tham gia hoạt động mạnh. Nếu còn xem show, hỏi lịch theo ngày trước khi chốt giờ về. Bố trí nước uống, bữa ăn và thời gian đi lại để chuyến vui chơi không trở thành chạy đua từ khu này sang khu khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn lớn cần thống nhất nơi tập trung và giờ xe đón. Có lựa chọn cho người muốn nghỉ hoặc không tham gia hoạt động mạnh. Nếu còn xem show, hỏi lịch theo ngày trước khi chốt giờ về. Bố trí nước uống, bữa ăn và thời gian đi lại để chuyến vui chơi không trở thành chạy đua từ khu này sang khu khác.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có nên ghé VinWonders chỉ vài giờ rồi đi Nam đảo không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có nên ghé VinWonders chỉ vài giờ rồi đi Nam đảo không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần xem trải nghiệm mong muốn và chặng di chuyển. Thường nên dành thời gian đủ cho một hoạt động chính thay vì ghép quá gấp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem trải nghiệm mong muốn và chặng di chuyển. Thường nên dành thời gian đủ cho một hoạt động chính thay vì ghép quá gấp.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World",
-        "Vinpearl Safari Phú Quốc: chuẩn bị lịch tham quan cho gia đình, đoàn",
-        "Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-dao-phu-quoc-sap-vinwonders-safari-va-grand-world/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vinpearl-safari-phu-quoc-chuan-bi-lich-tham-quan-cho-gia-dinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Vinpearl Safari Phú Quốc: chuẩn bị lịch tham quan cho gia đình, đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-cho-gia-dinh-co-tre-nho-chon-lich-va-tien-ich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc cho gia đình có trẻ nhỏ: chọn lịch và tiện ích</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
