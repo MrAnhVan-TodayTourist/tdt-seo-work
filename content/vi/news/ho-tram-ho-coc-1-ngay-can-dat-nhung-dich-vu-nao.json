@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Không ngủ lại không có nghĩa là không cần đặt dịch vụ tại điểm đến. Tour Hồ Tràm–Hồ Cốc một ngày vẫn cần nơi nghỉ, nhà hàng và điều kiện sử dụng khu biển hoặc hồ bơi phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Không ngủ lại không có nghĩa là không cần đặt dịch vụ tại điểm đến. Tour Hồ Tràm–Hồ Cốc một ngày vẫn cần nơi nghỉ, nhà hàng và điều kiện sử dụng khu biển hoặc hồ bơi phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận gói dùng trong ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận gói dùng trong ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Yêu cầu mô tả khu vực đoàn được sử dụng: chỗ nghỉ, tủ đồ, nhà vệ sinh, tắm tráng, hồ bơi hoặc bãi hoạt động. Không mặc định đặt bữa trưa đồng nghĩa được dùng toàn bộ resort. Nếu cần phòng nghỉ riêng, hỏi số phòng, thời gian sử dụng và phụ phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Yêu cầu mô tả khu vực đoàn được sử dụng: chỗ nghỉ, tủ đồ, nhà vệ sinh, tắm tráng, hồ bơi hoặc bãi hoạt động. Không mặc định đặt bữa trưa đồng nghĩa được dùng toàn bộ resort. Nếu cần phòng nghỉ riêng, hỏi số phòng, thời gian sử dụng và phụ phí.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chọn một nội dung chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một nội dung chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công ty có thể dành một buổi cho Team Building và một bữa giao lưu. Nhóm gia đình có thể ưu tiên biển và ăn trưa. Nếu ghé đồi cừu hoặc cầu ngắm biển, cần giảm hoạt động khác để tránh quá tải. Một lịch trình tốt phải để mọi người có thời gian thay đồ, nghỉ và tập trung lại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công ty có thể dành một buổi cho Team Building và một bữa giao lưu. Nhóm gia đình có thể ưu tiên biển và ăn trưa. Nếu ghé đồi cừu hoặc cầu ngắm biển, cần giảm hoạt động khác để tránh quá tải. Một lịch trình tốt phải để mọi người có thời gian thay đồ, nghỉ và tập trung lại.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính cả phần quay về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính cả phần quay về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chốt điểm đón, số người, giờ tập trung cuối buổi và bữa ăn trước khi lên xe nếu cần. Đoàn đông nên có danh sách theo xe và người phụ trách. Báo giá cần phân biệt gói cơ bản với âm thanh, trò chơi và nhân sự hoạt náo. Khi thời tiết không phù hợp biển, phương án thay thế phải được thống nhất về nội dung và chi phí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chốt điểm đón, số người, giờ tập trung cuối buổi và bữa ăn trước khi lên xe nếu cần. Đoàn đông nên có danh sách theo xe và người phụ trách. Báo giá cần phân biệt gói cơ bản với âm thanh, trò chơi và nhân sự hoạt náo. Khi thời tiết không phù hợp biển, phương án thay thế phải được thống nhất về nội dung và chi phí.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể sử dụng hồ bơi resort trong tour một ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể sử dụng hồ bơi resort trong tour một ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể nếu gói dịch vụ cho phép và đã xác nhận trước. Không nên hứa quyền sử dụng chỉ từ việc ghé ăn trưa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể nếu gói dịch vụ cho phép và đã xác nhận trước. Không nên hứa quyền sử dụng chỉ từ việc ghé ăn trưa.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt",
-        "BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-ho-tram-ho-coc-kiem-tra-mat-bang-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Hồ Tràm – Hồ Cốc: kiểm tra mặt bằng trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bbq-va-lua-trai-trong-tour-bien-to-chuc-dung-dieu-kien-dia-diem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 1 ngày",
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
