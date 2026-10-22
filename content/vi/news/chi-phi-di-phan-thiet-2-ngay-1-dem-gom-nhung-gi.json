@@ -8,103 +8,110 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Ngân sách đi Phan Thiết 2 ngày 1 đêm dễ lệch nếu chỉ nhìn một con số mỗi người. Cách lập đúng là tách theo hạng mục, rồi phân biệt khoản tính cho cả đoàn với khoản tính theo đầu người."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ngân sách đi Phan Thiết 2 ngày 1 đêm dễ lệch nếu chỉ nhìn một con số mỗi người. Cách lập đúng là tách theo hạng mục, rồi phân biệt khoản tính cho cả đoàn với khoản tính theo đầu người.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xe và di chuyển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe và di chuyển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe thường là khoản tính theo cả chuyến, sau đó chia cho số khách. Vì vậy cùng một chương trình, đoàn đông thường có chi phí xe trên mỗi người thấp hơn đoàn ít người. Cần hỏi rõ loại xe, điểm đón, số điểm dừng và các khoản như phí cầu đường, bến bãi nếu có."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe thường là khoản tính theo cả chuyến, sau đó chia cho số khách. Vì vậy cùng một chương trình, đoàn đông thường có chi phí xe trên mỗi người thấp hơn đoàn ít người. Cần hỏi rõ loại xe, điểm đón, số điểm dừng và các khoản như phí cầu đường, bến bãi nếu có.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222155725-0.jpg",
-      "alt": "A picturesque road in Phan Thiet, Vietnam, bordered by trees and leadi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222155725-0.jpg\" alt=\"A picturesque road in Phan Thiet, Vietnam, bordered by trees and leadi\"></figure>"
     },
     {
       "type": "p",
-      "text": "Đoàn đón ở Biên Hòa, Đồng Nai hoặc TP.HCM nên nói sớm. Nhiều điểm đón có thể làm thời gian và chi phí khác một điểm tập trung chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đón ở Biên Hòa, Đồng Nai hoặc TP.HCM nên nói sớm. Nhiều điểm đón có thể làm thời gian và chi phí khác một điểm tập trung chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Phòng, ăn uống và tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phòng, ăn uống và tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng tính theo đêm và theo cơ cấu giường; bữa ăn tính theo suất hoặc theo bàn; vé tham quan tính theo người. Hãy ghi rõ số bữa, mức thực đơn, đồ uống, ăn sáng và các điểm vé đã gồm. Trẻ em, người đi cùng và khách ở phòng đơn thường làm chi phí khác với phép chia đều."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng tính theo đêm và theo cơ cấu giường; bữa ăn tính theo suất hoặc theo bàn; vé tham quan tính theo người. Hãy ghi rõ số bữa, mức thực đơn, đồ uống, ăn sáng và các điểm vé đã gồm. Trẻ em, người đi cùng và khách ở phòng đơn thường làm chi phí khác với phép chia đều.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngân sách hoạt động tập thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngân sách hoạt động tập thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Team Building, Gala Dinner, BBQ hay lửa trại nên là các dòng riêng. Mỗi hoạt động cần xác định nhân sự, đạo cụ, âm thanh, mặt bằng và thời lượng. Nếu báo giá chỉ ghi chung chung là có hoạt động, doanh nghiệp rất khó so sánh các đơn vị với nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Team Building, Gala Dinner, BBQ hay lửa trại nên là các dòng riêng. Mỗi hoạt động cần xác định nhân sự, đạo cụ, âm thanh, mặt bằng và thời lượng. Nếu báo giá chỉ ghi chung chung là có hoạt động, doanh nghiệp rất khó so sánh các đơn vị với nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Khoản dự phòng và cách tránh phát sinh"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khoản dự phòng và cách tránh phát sinh</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên có một khoản dự phòng cho thay đổi số khách, thời tiết và nhu cầu bổ sung. Trước khi đặt cọc, yêu cầu danh sách dịch vụ đã bao gồm và chưa bao gồm, thời hạn chốt số người và cách tính khi tăng hoặc giảm khách. Đây là cách đơn giản để cuối chuyến không có khoản bất ngờ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên có một khoản dự phòng cho thay đổi số khách, thời tiết và nhu cầu bổ sung. Trước khi đặt cọc, yêu cầu danh sách dịch vụ đã bao gồm và chưa bao gồm, thời hạn chốt số người và cách tính khi tăng hoặc giảm khách. Đây là cách đơn giản để cuối chuyến không có khoản bất ngờ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chi phí đi Phan Thiết 2 ngày 1 đêm là bao nhiêu mỗi người?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Chi phí đi Phan Thiết 2 ngày 1 đêm là bao nhiêu mỗi người?</span>"
     },
     {
       "type": "p",
-      "text": "Không có một con số chung cho mọi đoàn. Mức giá phụ thuộc số khách, ngày đi, nơi ở, bữa ăn và hoạt động; cần có báo giá theo nhu cầu cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không có một con số chung cho mọi đoàn. Mức giá phụ thuộc số khách, ngày đi, nơi ở, bữa ăn và hoạt động; cần có báo giá theo nhu cầu cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?",
-        "Chi phí Team Building và Gala Dinner Phan Thiết gồm những hạng mục nào?",
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phan-thiet-mui-ne-cho-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-team-building-va-gala-dinner-phan-thiet-gom-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí Team Building và Gala Dinner Phan Thiết gồm những hạng mục nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
