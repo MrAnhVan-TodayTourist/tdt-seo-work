@@ -3,21 +3,21 @@
   "title": "Khách sạn Tây Nguyên cho đoàn: chọn phòng, bãi xe và khu sự kiện",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "khach-san-tay-nguyen-cho-doan-v2.jpg",
-  "summary": "Khách sạn Tây Nguyên cho đoàn. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Khách sạn phù hợp đoàn Tây Nguyên cần đáp ứng số phòng, nơi xe dừng và khả năng phục vụ bữa ăn hoặc sự kiện.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Khách sạn phù hợp đoàn Tây Nguyên cần đáp ứng số phòng, nơi xe dừng và khả năng phục vụ bữa ăn hoặc sự kiện. Một phòng đẹp trong ảnh chưa cho biết cả đoàn có ở cùng hạng hay không. Hãy kiểm tra cơ cấu phòng cùng lịch sinh hoạt của đơn vị."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách sạn phù hợp đoàn Tây Nguyên cần đáp ứng số phòng, nơi xe dừng và khả năng phục vụ bữa ăn hoặc sự kiện. Một phòng đẹp trong ảnh chưa cho biết cả đoàn có ở cùng hạng hay không. Hãy kiểm tra cơ cấu phòng cùng lịch sinh hoạt của đơn vị.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt danh sách phòng theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt danh sách phòng theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi số phòng đôi, phòng nhiều người và phòng riêng; hỏi loại giường, ăn sáng và thời gian nhận trả. Đoàn có gia đình hoặc người cần hỗ trợ nên báo yêu cầu từ đầu. Không mặc định ghép thêm người vào một phòng sẽ luôn có giường phụ phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi số phòng đôi, phòng nhiều người và phòng riêng; hỏi loại giường, ăn sáng và thời gian nhận trả. Đoàn có gia đình hoặc người cần hỗ trợ nên báo yêu cầu từ đầu. Không mặc định ghép thêm người vào một phòng sẽ luôn có giường phụ phù hợp.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Xem lối xe và thời gian nhận phòng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xem lối xe và thời gian nhận phòng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe 45 chỗ cần nơi đỗ, lên xuống và quay đầu phù hợp. Đoàn nhiều xe nên phân lượt hành lý, nhận phòng và thông báo trưởng xe. Nếu đến trước giờ nhận phòng, hỏi nơi nghỉ tạm và gửi đồ; không bảo đảm nhận sớm chỉ vì hành trình đi qua đêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe 45 chỗ cần nơi đỗ, lên xuống và quay đầu phù hợp. Đoàn nhiều xe nên phân lượt hành lý, nhận phòng và thông báo trưởng xe. Nếu đến trước giờ nhận phòng, hỏi nơi nghỉ tạm và gửi đồ; không bảo đảm nhận sớm chỉ vì hành trình đi qua đêm.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận khu sự kiện như một hạng mục"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận khu sự kiện như một hạng mục</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu Gala hoặc sân Team Building cần đặt theo quy mô đoàn, thời gian và thiết bị. Kiểm tra phí không gian, thực đơn, giới hạn sử dụng và phương án mưa. Phòng khách sạn đã đặt không tự đồng nghĩa đoàn được dùng riêng mọi sân hay hội trường."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu Gala hoặc sân Team Building cần đặt theo quy mô đoàn, thời gian và thiết bị. Kiểm tra phí không gian, thực đơn, giới hạn sử dụng và phương án mưa. Phòng khách sạn đã đặt không tự đồng nghĩa đoàn được dùng riêng mọi sân hay hội trường.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Khách sạn cùng hạng sao có thể so trực tiếp không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem tên, cơ cấu phòng và dịch vụ thực tế. Cùng hạng sao vẫn có thể khác vị trí, bữa sáng và khả năng phục vụ sự kiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Khách sạn cùng hạng sao có thể so trực tiếp không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần xem tên, cơ cấu phòng và dịch vụ thực tế. Cùng hạng sao vẫn có thể khác vị trí, bữa sáng và khả năng phục vụ sự kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tay-nguyen-an-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tây Nguyên ăn gì: chọn đặc sản và thực đơn phù hợp khách đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xe-di-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe đi Tây Nguyên: chọn 45 chỗ, giường nằm, 29 và 16 chỗ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Tây Nguyên ăn gì: chọn đặc sản và thực đơn phù hợp khách đoàn",
-        "Xe đi Tây Nguyên: chọn 45 chỗ, giường nằm, 29 và 16 chỗ",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
