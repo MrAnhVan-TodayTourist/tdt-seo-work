@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đoàn chọn Hồ Tràm–Hồ Cốc thường muốn kết hợp trò chơi với nghỉ dưỡng. Để chương trình chạy thuận lợi, cần kiểm tra quyền sử dụng mặt bằng và thời gian phục vụ của khu nghỉ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đoàn chọn Hồ Tràm–Hồ Cốc thường muốn kết hợp trò chơi với nghỉ dưỡng. Để chương trình chạy thuận lợi, cần kiểm tra quyền sử dụng mặt bằng và thời gian phục vụ của khu nghỉ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt bãi, sân cỏ và phòng trong nhà"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt bãi, sân cỏ và phòng trong nhà</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi mặt bằng phù hợp một kiểu hoạt động. Bãi biển có nắng, gió và điều kiện mặt nước; sân cỏ có giới hạn diện tích; phòng trong nhà có giới hạn tiếng ồn và cách bố trí. Không lấy ảnh một khu lớn để cam kết cho đoàn nếu chưa xác nhận diện tích thực tế được đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi mặt bằng phù hợp một kiểu hoạt động. Bãi biển có nắng, gió và điều kiện mặt nước; sân cỏ có giới hạn diện tích; phòng trong nhà có giới hạn tiếng ồn và cách bố trí. Không lấy ảnh một khu lớn để cam kết cho đoàn nếu chưa xác nhận diện tích thực tế được đặt.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Chia nhóm theo số người và khả năng vận động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia nhóm theo số người và khả năng vận động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông cần đủ nhân sự điều phối và điểm tập trung. Người lớn tuổi hoặc khách có nhu cầu nghỉ nên có vai trò phù hợp như cổ vũ, ghi nhận kết quả hoặc hoạt động nhẹ. Kịch bản có thể gắn thông điệp công ty nhưng cần tránh đưa quá nhiều nội dung họp vào phần chơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông cần đủ nhân sự điều phối và điểm tập trung. Người lớn tuổi hoặc khách có nhu cầu nghỉ nên có vai trò phù hợp như cổ vũ, ghi nhận kết quả hoặc hoạt động nhẹ. Kịch bản có thể gắn thông điệp công ty nhưng cần tránh đưa quá nhiều nội dung họp vào phần chơi.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép lịch với dịch vụ resort"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép lịch với dịch vụ resort</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác nhận nơi thay đồ, nước uống, thời gian nhận phòng và giờ gala. Khi mưa, phòng thay thế phải được đặt hoặc có phương án khả thi; không chỉ ghi 'linh hoạt theo thời tiết'. Báo giá cần dụng cụ, nhân sự, thiết bị và điều kiện dùng địa điểm. Phần nghỉ dưỡng vẫn nên có khoảng tự do để đoàn tận hưởng chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác nhận nơi thay đồ, nước uống, thời gian nhận phòng và giờ gala. Khi mưa, phòng thay thế phải được đặt hoặc có phương án khả thi; không chỉ ghi 'linh hoạt theo thời tiết'. Báo giá cần dụng cụ, nhân sự, thiết bị và điều kiện dùng địa điểm. Phần nghỉ dưỡng vẫn nên có khoảng tự do để đoàn tận hưởng chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Resort nào cũng cho tổ chức Team Building không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Resort nào cũng cho tổ chức Team Building không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần xác nhận khu được dùng, quy mô, khung giờ và điều kiện âm thanh hoặc thiết bị của từng cơ sở."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần xác nhận khu được dùng, quy mô, khung giờ và điều kiện âm thanh hoặc thiết bị của từng cơ sở.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?",
-        "Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện",
-        "BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-1-ngay-can-dat-nhung-dich-vu-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 1 ngày: cần đặt những dịch vụ nào?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-doanh-nghiep-ho-tram-chon-resort-dap-ung-ca-nghi-va-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bbq-va-lua-trai-trong-tour-bien-to-chuc-dung-dieu-kien-dia-diem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
