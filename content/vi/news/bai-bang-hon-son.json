@@ -3,21 +3,21 @@
   "title": "Bãi Bàng và Bãi Xếp Hòn Sơn: chọn nghỉ biển hay chụp ảnh",
   "category": "Tour Nam Du – Hòn Sơn – Tư vấn đoàn",
   "image": "nam-du-bai-bang-hon-son.jpg",
-  "summary": "Bãi Bàng và Bãi Xếp Hòn Sơn. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Khách tìm Bãi Bàng hoặc Bãi Xếp Hòn Sơn có thể muốn nghỉ biển hay tìm một góc ảnh.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Khách tìm Bãi Bàng hoặc Bãi Xếp Hòn Sơn có thể muốn nghỉ biển hay tìm một góc ảnh. Đoàn nên phân biệt mục đích từng điểm và kiểm tra khả năng tiếp cận, để có thời gian trải nghiệm thay vì chỉ chạy theo hình trên mạng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách tìm Bãi Bàng hoặc Bãi Xếp Hòn Sơn có thể muốn nghỉ biển hay tìm một góc ảnh. Đoàn nên phân biệt mục đích từng điểm và kiểm tra khả năng tiếp cận, để có thời gian trải nghiệm thay vì chỉ chạy theo hình trên mạng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bãi Bàng cần thời gian nghỉ thật sự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bãi Bàng cần thời gian nghỉ thật sự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn khoảng dừng đủ cho ngắm cảnh, nghỉ và chụp ảnh. Nếu muốn xuống nước, hỏi điều kiện và hướng dẫn của ngày đi. Một bãi biển được giới thiệu đẹp không có nghĩa luôn phù hợp tắm; đoàn nên có lựa chọn cho người chỉ nghỉ hoặc tham quan."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn khoảng dừng đủ cho ngắm cảnh, nghỉ và chụp ảnh. Nếu muốn xuống nước, hỏi điều kiện và hướng dẫn của ngày đi. Một bãi biển được giới thiệu đẹp không có nghĩa luôn phù hợp tắm; đoàn nên có lựa chọn cho người chỉ nghỉ hoặc tham quan.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Bãi Xếp và góc cây dừa phải xem thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bãi Xếp và góc cây dừa phải xem thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ảnh cũ không bảo đảm cảnh quan và lối vào hiện tại giống nhau. Không trèo hoặc đứng ở vị trí có cảnh báo chỉ để tái hiện góc ảnh. Nếu nơi chụp có giới hạn tiếp nhận, chia lượt theo hướng dẫn, không để cả đoàn tập trung quá đông tại một điểm nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ảnh cũ không bảo đảm cảnh quan và lối vào hiện tại giống nhau. Không trèo hoặc đứng ở vị trí có cảnh báo chỉ để tái hiện góc ảnh. Nếu nơi chụp có giới hạn tiếp nhận, chia lượt theo hướng dẫn, không để cả đoàn tập trung quá đông tại một điểm nhỏ.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép tuyến theo phương tiện được bố trí"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép tuyến theo phương tiện được bố trí</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi cách di chuyển, nơi dừng và điểm hẹn trở về. Nhóm nhiều độ tuổi nên giảm việc lên xuống phương tiện liên tục. Giữ khoảng dự phòng trước giờ trả phòng hoặc tàu; nếu một điểm không phù hợp, chọn trải nghiệm khác thay vì cố đi cho đủ danh sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi cách di chuyển, nơi dừng và điểm hẹn trở về. Nhóm nhiều độ tuổi nên giảm việc lên xuống phương tiện liên tục. Giữ khoảng dự phòng trước giờ trả phòng hoặc tàu; nếu một điểm không phù hợp, chọn trải nghiệm khác thay vì cố đi cho đủ danh sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Nên dành thời gian tắm biển hay chụp ảnh ở Hòn Sơn?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Nên dành thời gian tắm biển hay chụp ảnh ở Hòn Sơn?</span>"
     },
     {
       "type": "p",
-      "text": "Tùy mục tiêu của nhóm và điều kiện ngày đi. Hãy chọn thời lượng nghỉ biển riêng nếu muốn thư giãn, thay vì xếp nhiều điểm ảnh rồi không còn thời gian trải nghiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy mục tiêu của nhóm và điều kiện ngày đi. Hãy chọn thời lượng nghỉ biển riêng nếu muốn thư giãn, thay vì xếp nhiều điểm ảnh rồi không còn thời gian trải nghiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu cho công ty, cơ quan, xí nghiệp, đoàn thể, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống, hoạt động chung. TodayTourist tư vấn lựa chọn và kiểm tra dịch vụ để báo giá theo đoàn; việc giữ chỗ chỉ xác nhận theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Ma Thiên Lãnh hay Đỉnh Ông Rồng: chọn đi bộ khám phá Hòn Sơn",
-        "Tour Nam Du–Hòn Sơn ghép đoàn hay riêng: chọn hình thức đặt",
-        "Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ma-thien-lanh-hon-son/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ma Thiên Lãnh hay Đỉnh Ông Rồng: chọn đi bộ khám phá Hòn Sơn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-du-ghep-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du–Hòn Sơn ghép đoàn hay riêng: chọn hình thức đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-du/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam Du: chọn hành trình biển đảo theo nhu cầu của đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch và phần dịch vụ tại trang tour dưới đây. Giá, chỗ, ngày khởi hành và phần bổ sung cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-hon-son-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Hòn Sơn 2 ngày 2 đêm — TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
