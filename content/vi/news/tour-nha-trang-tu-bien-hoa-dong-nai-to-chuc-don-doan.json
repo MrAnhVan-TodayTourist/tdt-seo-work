@@ -2,7 +2,7 @@
   "slug": "tour-nha-trang-tu-bien-hoa-dong-nai-to-chuc-don-doan",
   "title": "Tour Nha Trang từ Biên Hòa, Đồng Nai: tổ chức đón đoàn",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "tour-nha-trang-tu-bien-hoa-dong-nai-to-chuc-don-doan.jpg",
+  "image": "tour-nha-trang-tu-bien-hoa-dong-nai-to-chuc-don-doan-v2.jpg",
   "summary": "Với đoàn tại Biên Hòa và Đồng Nai, điểm đón ảnh hưởng trực tiếp giờ xuất phát và cách điều xe. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Nhà máy, trụ sở hoặc một địa điểm đủ chỗ cho xe dừng có thể là điểm đón nếu điều kiện cho phép. Đoàn ở khu vực Amata, Biên Hòa 2 hoặc nhiều chi nhánh nên gửi vị trí cụ thể, giờ tan ca và số khách từng nơi. Cần kiểm tra cổng ra vào, khoảng quay đầu và quy định của đơn vị quản lý."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215839753-0.jpg",
-      "alt": "Tour Nha Trang từ Biên Hòa, Đồng Nai: tổ chức đón đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215839753-0.jpg\" alt=\"Tour Nha Trang từ Biên Hòa, Đồng Nai: tổ chức đón đoàn\"></figure>"
     },
     {
       "type": "h2",
