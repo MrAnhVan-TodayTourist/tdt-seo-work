@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tuyến Trà Vinh–Cồn Chim kết hợp văn hóa Khmer với trải nghiệm cộng đồng bên sông Cổ Chiên. Cồn Chim hiện thuộc tỉnh Vĩnh Long nhưng tên Trà Vinh vẫn quen trong cách gọi tuyến du lịch. Khi chọn lịch, hãy giữ đủ thời gian tại cộng đồng và kiểm tra phần qua sông cùng bữa ăn đã đặt."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tuyến Trà Vinh–Cồn Chim kết hợp văn hóa Khmer với trải nghiệm cộng đồng bên sông Cổ Chiên. Cồn Chim hiện thuộc tỉnh Vĩnh Long nhưng tên Trà Vinh vẫn quen trong cách gọi tuyến du lịch. Khi chọn lịch, hãy giữ đủ thời gian tại cộng đồng và kiểm tra phần qua sông cùng bữa ăn đã đặt.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn phần văn hóa với thời lượng vừa đủ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phần văn hóa với thời lượng vừa đủ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chùa Âng và Ao Bà Om có thể là cụm tham quan trước hoặc sau phần Cồn Chim, tùy tuyến thực tế. Đoàn nên có thời gian đi bộ, tìm hiểu và nghỉ, không ghé quá nhanh chỉ để lấy ảnh. Trang phục và quay chụp tại khu thờ tự cần theo hướng dẫn nơi tiếp nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chùa Âng và Ao Bà Om có thể là cụm tham quan trước hoặc sau phần Cồn Chim, tùy tuyến thực tế. Đoàn nên có thời gian đi bộ, tìm hiểu và nghỉ, không ghé quá nhanh chỉ để lấy ảnh. Trang phục và quay chụp tại khu thờ tự cần theo hướng dẫn nơi tiếp nhận.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Đặt trải nghiệm tại cồn theo số khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt trải nghiệm tại cồn theo số khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi hoạt động nào đang phục vụ, các hộ tham gia, thực đơn và số người mỗi lượt. Làm bánh, đi vườn hoặc trò chơi dân gian không phải lúc nào cũng nằm trong cùng một vé. Đoàn đông cần kế hoạch chia nhóm và thời gian ăn để không tạo áp lực cho cơ sở cộng đồng nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi hoạt động nào đang phục vụ, các hộ tham gia, thực đơn và số người mỗi lượt. Làm bánh, đi vườn hoặc trò chơi dân gian không phải lúc nào cũng nằm trong cùng một vé. Đoàn đông cần kế hoạch chia nhóm và thời gian ăn để không tạo áp lực cho cơ sở cộng đồng nhỏ.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính cả bến thuyền và chặng đường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính cả bến thuyền và chặng đường</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày từ Biên Hòa có thể phải đi sớm, nên chốt điểm đón và giờ về dự kiến. Nếu đoàn muốn nhịp nhẹ hơn, có thể trao đổi chương trình qua đêm, chưa mặc định có lịch ghép sẵn. TodayTourist có tour Trà Vinh tham khảo; dịch vụ tại cồn cần xác nhận theo ngày, con nước và khả năng phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày từ Biên Hòa có thể phải đi sớm, nên chốt điểm đón và giờ về dự kiến. Nếu đoàn muốn nhịp nhẹ hơn, có thể trao đổi chương trình qua đêm, chưa mặc định có lịch ghép sẵn. TodayTourist có tour Trà Vinh tham khảo; dịch vụ tại cồn cần xác nhận theo ngày, con nước và khả năng phục vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Cồn Chim có thích hợp cho Team Building đông người không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Cồn Chim có thích hợp cho Team Building đông người không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần kiểm tra mặt bằng, sức phục vụ và mục tiêu chương trình. Trải nghiệm cộng đồng theo nhóm nhỏ có thể phù hợp hơn một sự kiện lớn; không nên cam kết khi chưa trao đổi với điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần kiểm tra mặt bằng, sức phục vụ và mục tiêu chương trình. Trải nghiệm cộng đồng theo nhóm nhỏ có thể phù hợp hơn một sự kiện lớn; không nên cam kết khi chưa trao đổi với điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Trà Vinh? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Trà Vinh? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-son/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Sơn Cần Thơ: chọn trải nghiệm cộng đồng và bữa ăn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-son/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Sơn Cần Thơ: chọn trải nghiệm cộng đồng và bữa ăn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hoc-sinh-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour học sinh Miền Tây: chọn miệt vườn, văn hóa và về nguồn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tra-vinh-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Trà Vinh – Cồn Chim 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tra-vinh-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Trà Vinh – Cồn Chim 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
