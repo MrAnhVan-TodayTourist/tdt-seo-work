@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn – Phú Yên 3 ngày 2 đêm có thể đáp ứng một kỳ nghỉ ngắn nếu đoàn chọn điểm có trọng tâm. Thời gian thực tế phụ thuộc phương tiện và giờ đến, vì ngày đầu và ngày cuối thường còn dành cho di chuyển."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn – Phú Yên 3 ngày 2 đêm có thể đáp ứng một kỳ nghỉ ngắn nếu đoàn chọn điểm có trọng tâm. Thời gian thực tế phụ thuộc phương tiện và giờ đến, vì ngày đầu và ngày cuối thường còn dành cho di chuyển.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt giờ đến trước khi chốt điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt giờ đến trước khi chốt điểm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phương án máy bay cần dựa vào chuyến cụ thể; không mặc định bay sáng sớm và về tối muộn. Sau khi hạ cánh còn thời gian lấy hành lý, tập trung và đi đến nơi lưu trú. Nếu đến muộn, hãy giữ ngày đầu cho nghỉ ngơi và trải nghiệm nhẹ. Đừng đặt một hoạt động có giờ bắt đầu cứng sát thời điểm dự kiến đến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phương án máy bay cần dựa vào chuyến cụ thể; không mặc định bay sáng sớm và về tối muộn. Sau khi hạ cánh còn thời gian lấy hành lý, tập trung và đi đến nơi lưu trú. Nếu đến muộn, hãy giữ ngày đầu cho nghỉ ngơi và trải nghiệm nhẹ. Đừng đặt một hoạt động có giờ bắt đầu cứng sát thời điểm dự kiến đến.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Hai hướng bố trí chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hai hướng bố trí chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu ưu tiên Quy Nhơn, có thể dành ngày giữa cho biển hoặc Tây Sơn và chọn một tuyến Phú Yên rút gọn theo đường đi. Nếu ưu tiên Phú Yên, giữ đủ thời gian khám phá khu vực này và chỉ thêm những điểm Quy Nhơn thực sự cần. Khi cả hai vùng đều có nhiều điểm bắt buộc, nên so thêm phương án bốn ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu ưu tiên Quy Nhơn, có thể dành ngày giữa cho biển hoặc Tây Sơn và chọn một tuyến Phú Yên rút gọn theo đường đi. Nếu ưu tiên Phú Yên, giữ đủ thời gian khám phá khu vực này và chỉ thêm những điểm Quy Nhơn thực sự cần. Khi cả hai vùng đều có nhiều điểm bắt buộc, nên so thêm phương án bốn ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ khoảng riêng cho hoạt động công ty"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ khoảng riêng cho hoạt động công ty</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chương trình 3N2Đ có Team Building, Gala và tham quan vẫn có thể thiết kế, nhưng phải cân đối lịch. Nên chọn một hoạt động gắn kết chính, giảm điểm lặp trải nghiệm và giữ thời gian nghỉ trước tiệc. Nếu có hội nghị, cần xem đây là hạng mục chiếm thời lượng riêng, thay vì ép vào khoảng trống giữa các điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chương trình 3N2Đ có Team Building, Gala và tham quan vẫn có thể thiết kế, nhưng phải cân đối lịch. Nên chọn một hoạt động gắn kết chính, giảm điểm lặp trải nghiệm và giữ thời gian nghỉ trước tiệc. Nếu có hội nghị, cần xem đây là hạng mục chiếm thời lượng riêng, thay vì ép vào khoảng trống giữa các điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Đọc gói dịch vụ thay vì chỉ đọc thời lượng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc gói dịch vụ thay vì chỉ đọc thời lượng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi rõ hai đêm nghỉ ở đâu, có đổi khách sạn không, bao nhiêu bữa ăn, vé nào đã bao gồm và xe phục vụ đến lúc nào. Tour ba ngày bằng máy bay có cấu trúc chi phí khác chương trình đi xe đêm. So sánh trên cùng tiêu chuẩn để lựa chọn không bị lệch bởi giá vé, phụ thu phòng và các hoạt động tự trả."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi rõ hai đêm nghỉ ở đâu, có đổi khách sạn không, bao nhiêu bữa ăn, vé nào đã bao gồm và xe phục vụ đến lúc nào. Tour ba ngày bằng máy bay có cấu trúc chi phí khác chương trình đi xe đêm. So sánh trên cùng tiêu chuẩn để lựa chọn không bị lệch bởi giá vé, phụ thu phòng và các hoạt động tự trả.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "3N2Đ và 3N3Đ có thể gộp thành một tour không? Không nên, vì cơ cấu đêm và phương tiện có thể khác."
+      "text": "<span style=\"font-size:16px;color:#374151\">3N2Đ và 3N3Đ có thể gộp thành một tour không? Không nên, vì cơ cấu đêm và phương tiện có thể khác.</span>"
     },
     {
       "type": "p",
-      "text": "Ba ngày có đi cả Kỳ Co và Mũi Điện được không? Cần xét giờ đến, nơi lưu trú và các hoạt động còn lại trước khi xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ba ngày có đi cả Kỳ Co và Mũi Điện được không? Cần xét giờ đến, nơi lưu trú và các hoạt động còn lại trước khi xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Quy Nhơn – Phú Yên 3 ngày 3 đêm: đọc lịch trình đúng",
-        "Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?",
-        "Tour Quy Nhơn – Phú Yên bằng máy bay: chọn điểm đến và chiều về"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-phu-yen-3-ngay-3-dem-doc-lich-trinh-dung/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn – Phú Yên 3 ngày 3 đêm: đọc lịch trình đúng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/quy-nhon-phu-yen-4-ngay-chon-4n3d-hay-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-phu-yen-bang-may-bay-chon-diem-den-va-chieu-ve/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn – Phú Yên bằng máy bay: chọn điểm đến và chiều về</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
