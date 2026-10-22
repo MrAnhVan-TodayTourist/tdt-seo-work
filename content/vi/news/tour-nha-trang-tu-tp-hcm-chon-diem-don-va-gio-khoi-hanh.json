@@ -2,7 +2,7 @@
   "slug": "tour-nha-trang-tu-tp-hcm-chon-diem-don-va-gio-khoi-hanh",
   "title": "Tour Nha Trang từ TP.HCM: chọn điểm đón và giờ khởi hành",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "tour-nha-trang-tu-tp-hcm-chon-diem-don-va-gio-khoi-hanh.jpg",
+  "image": "tour-nha-trang-tu-tp-hcm-chon-diem-don-va-gio-khoi-hanh-v2.jpg",
   "summary": "Đoàn đi Nha Trang từ TP.HCM cần cân đối nơi tập kết, lịch làm việc và thời gian nghỉ sau khi đến. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Gửi địa chỉ thực tế của văn phòng hoặc điểm tập kết, không chỉ tên quận. Kiểm tra chỗ dừng, lối tiếp cận, hành lý và việc tập trung nhiều xe. Nếu đoàn đông, nên chia danh sách theo xe và có người phụ trách tại điểm đón. Việc xe vào được địa điểm phải được điều hành xác nhận."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215856296-0.jpg",
-      "alt": "Tour Nha Trang từ TP.HCM: chọn điểm đón và giờ khởi hành"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215856296-0.jpg\" alt=\"Tour Nha Trang từ TP.HCM: chọn điểm đón và giờ khởi hành\"></figure>"
     },
     {
       "type": "h2",
