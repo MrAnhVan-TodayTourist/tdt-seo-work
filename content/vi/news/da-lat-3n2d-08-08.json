@@ -8,8 +8,8 @@
   "published_at": "2026-08-08",
   "content": [
     {
-      "type": "p",
-      "text": "Một chuyến đi của Gia đình Anh Ngọc – nhẹ nhàng, vui vẻ và đầy ắp những khoảnh khắc đáng nhớ giữa thành phố ngàn hoa."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một chuyến đi của Gia đình Anh Ngọc – nhẹ nhàng, vui vẻ và đầy ắp những khoảnh khắc đáng nhớ giữa thành phố ngàn hoa.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Từ Làng Hoa Vạn Thành, Quảng trường Lâm Viên, Hoàng Long Ohayo, LangBiang, Puppy Farm đến LangBiang Land – mỗi điểm đến là một trải nghiệm riêng, góp thêm màu sắc cho hành trình Đà Lạt 3N2Đ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Từ Làng Hoa Vạn Thành, Quảng trường Lâm Viên, Hoàng Long Ohayo, LangBiang, Puppy Farm đến LangBiang Land – mỗi điểm đến là một trải nghiệm riêng, góp thêm màu sắc cho hành trình Đà Lạt 3N2Đ.</span>"
     },
     {
       "type": "p",
-      "text": "Cảm ơn Gia đình Anh Ngọc đã tin tưởng lựa chọn TodayTourist."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cảm ơn Gia đình Anh Ngọc đã tin tưởng lựa chọn TodayTourist.</span>"
     },
     {
       "type": "html",
@@ -29,19 +29,23 @@
     },
     {
       "type": "p",
-      "text": "Đặc biệt cảm ơn HDV Mr. Thành đã tận tình đồng hành, chăm sóc đoàn trong suốt hành trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặc biệt cảm ơn HDV Mr. Thành đã tận tình đồng hành, chăm sóc đoàn trong suốt hành trình.</span>"
     },
     {
       "type": "p",
-      "text": "TodayTourist – Đồng hành mọi hành trình, trao trọn niềm tin."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist – Đồng hành mọi hành trình, trao trọn niềm tin.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-08."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-08.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt</a>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt</span></u></strong></a>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
