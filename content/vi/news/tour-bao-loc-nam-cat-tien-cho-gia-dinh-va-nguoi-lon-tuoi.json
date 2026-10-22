@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Gia đình có trẻ nhỏ hoặc người lớn tuổi vẫn có thể cân nhắc Bảo Lộc và Nam Cát Tiên, nhưng nên chọn lịch theo khả năng tham gia thực tế. Một chương trình nghỉ dưỡng không cần có cùng tuyến vận động với nhóm thích trekking."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Gia đình có trẻ nhỏ hoặc người lớn tuổi vẫn có thể cân nhắc Bảo Lộc và Nam Cát Tiên, nhưng nên chọn lịch theo khả năng tham gia thực tế. Một chương trình nghỉ dưỡng không cần có cùng tuyến vận động với nhóm thích trekking.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắt đầu bằng khoảng nghỉ và nơi ở"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắt đầu bằng khoảng nghỉ và nơi ở</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên hỏi vị trí phòng, đoạn đi bộ từ phòng tới nhà hàng, cầu thang và khả năng bố trí phòng thuận tiện. Sau chặng xe, ưu tiên nhận phòng hoặc có chỗ nghỉ trước khi tham quan nếu lịch cho phép. Gia đình có trẻ cần biết bữa ăn, cách kê giường và phần chi phí áp dụng theo loại phòng. Đừng chọn một lịch nhiều điểm rồi chỉ rút ngắn giờ nghỉ để kịp, vì chính khoảng nghỉ quyết định mức thoải mái của chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên hỏi vị trí phòng, đoạn đi bộ từ phòng tới nhà hàng, cầu thang và khả năng bố trí phòng thuận tiện. Sau chặng xe, ưu tiên nhận phòng hoặc có chỗ nghỉ trước khi tham quan nếu lịch cho phép. Gia đình có trẻ cần biết bữa ăn, cách kê giường và phần chi phí áp dụng theo loại phòng. Đừng chọn một lịch nhiều điểm rồi chỉ rút ngắn giờ nghỉ để kịp, vì chính khoảng nghỉ quyết định mức thoải mái của chuyến đi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214972015-0.jpg",
-      "alt": "Tour Bảo Lộc, Nam Cát Tiên cho gia đình và người lớn tuổi"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214972015-0.jpg\" alt=\"Tour Bảo Lộc, Nam Cát Tiên cho gia đình và người lớn tuổi\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn trải nghiệm chung và lựa chọn thay thế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn trải nghiệm chung và lựa chọn thay thế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ở Bảo Lộc có thể chọn tham quan ngắm cảnh, thưởng trà hoặc điểm văn hóa phù hợp đường tiếp cận. Ở Nam Cát Tiên, cần hỏi tuyến gần, phương tiện nội khu và đoạn vẫn phải đi bộ. Không mặc định Bàu Sấu phù hợp tất cả thành viên. Gia đình có thể chia hai nhóm theo nhu cầu nhưng cần biết ai đi cùng, nơi đợi và thời điểm gặp lại. Hoạt động tối cũng nên chọn theo giờ nghỉ của trẻ và khả năng di chuyển của người lớn tuổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ở Bảo Lộc có thể chọn tham quan ngắm cảnh, thưởng trà hoặc điểm văn hóa phù hợp đường tiếp cận. Ở Nam Cát Tiên, cần hỏi tuyến gần, phương tiện nội khu và đoạn vẫn phải đi bộ. Không mặc định Bàu Sấu phù hợp tất cả thành viên. Gia đình có thể chia hai nhóm theo nhu cầu nhưng cần biết ai đi cùng, nơi đợi và thời điểm gặp lại. Hoạt động tối cũng nên chọn theo giờ nghỉ của trẻ và khả năng di chuyển của người lớn tuổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Thông tin cá nhân chỉ gửi để sắp dịch vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thông tin cá nhân chỉ gửi để sắp dịch vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người đặt nên báo nhu cầu hỗ trợ, thực đơn và hạn chế vận động trong phạm vi cần thiết để xây chương trình. Điều kiện bảo hiểm, hành lý, chỗ ngồi và suất trẻ em cần được xác nhận theo dịch vụ thực tế. TodayTourist tư vấn tour riêng hoặc kiểm tra lựa chọn ghép phù hợp; chưa xác nhận lịch ghép thì không coi như có chuyến hàng tuần. Sức tham gia cần do khách và gia đình cân nhắc, không chỉ dựa vào lời quảng cáo “tour nhẹ”."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người đặt nên báo nhu cầu hỗ trợ, thực đơn và hạn chế vận động trong phạm vi cần thiết để xây chương trình. Điều kiện bảo hiểm, hành lý, chỗ ngồi và suất trẻ em cần được xác nhận theo dịch vụ thực tế. TodayTourist tư vấn tour riêng hoặc kiểm tra lựa chọn ghép phù hợp; chưa xác nhận lịch ghép thì không coi như có chuyến hàng tuần. Sức tham gia cần do khách và gia đình cân nhắc, không chỉ dựa vào lời quảng cáo “tour nhẹ”.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không đi trekking thì có bị bỏ ngoài chương trình không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Không đi trekking thì có bị bỏ ngoài chương trình không?</span>"
     },
     {
       "type": "p",
-      "text": "Nên yêu cầu phương án nghỉ hoặc tham quan khác có người phụ trách. Chi phí và dịch vụ dành cho nhóm không trekking cần được xác nhận trước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên yêu cầu phương án nghỉ hoặc tham quan khác có người phụ trách. Chi phí và dịch vụ dành cho nhóm không trekking cần được xác nhận trước.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Tour Bảo Lộc hay Nam Cát Tiên: chọn hành trình cho đoàn",
-        "Giá tour Bảo Lộc, Nam Cát Tiên: so đúng dịch vụ cho đoàn",
-        "Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bao-loc-hay-nam-cat-tien-chon-hanh-trinh-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bảo Lộc hay Nam Cát Tiên: chọn hành trình cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-bao-loc-nam-cat-tien-so-dung-dich-vu-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Bảo Lộc, Nam Cát Tiên: so đúng dịch vụ cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-45-cho-bien-hoa-dong-nai-tphcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe 45 chỗ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
