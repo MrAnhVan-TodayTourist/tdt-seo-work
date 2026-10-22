@@ -8,97 +8,100 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Trước khi đặt tour Côn Đảo, khách cần có chương trình và báo giá đủ rõ để biết mình mua những gì. Với đoàn công ty, các mốc danh sách, vé và thanh toán ảnh hưởng nhiều người, nên cần thống nhất bằng văn bản. Không nên lấy điều kiện đặt cọc hoặc hủy của một tour khác làm mặc định cho chuyến đang chọn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trước khi đặt tour Côn Đảo, khách cần có chương trình và báo giá đủ rõ để biết mình mua những gì. Với đoàn công ty, các mốc danh sách, vé và thanh toán ảnh hưởng nhiều người, nên cần thống nhất bằng văn bản. Không nên lấy điều kiện đặt cọc hoặc hủy của một tour khác làm mặc định cho chuyến đang chọn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận sản phẩm và phạm vi phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận sản phẩm và phạm vi phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra ngày, giờ dự kiến, điểm đón, tuyến vận chuyển, số đêm khách sạn, cơ cấu phòng và bữa ăn. Làm rõ vé, hành lý, tham quan, hướng dẫn và chương trình đoàn đã bao gồm. Nếu có dịch vụ theo yêu cầu, cần xác nhận tên hạng mục và giá riêng. Người đại diện nên lưu phiên bản chương trình cuối để tránh sử dụng nhiều bản khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra ngày, giờ dự kiến, điểm đón, tuyến vận chuyển, số đêm khách sạn, cơ cấu phòng và bữa ăn. Làm rõ vé, hành lý, tham quan, hướng dẫn và chương trình đoàn đã bao gồm. Nếu có dịch vụ theo yêu cầu, cần xác nhận tên hạng mục và giá riêng. Người đại diện nên lưu phiên bản chương trình cuối để tránh sử dụng nhiều bản khác nhau.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218537107-0.jpg",
-      "alt": "Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218537107-0.jpg\" alt=\"Đặt tour Côn Đảo: cần hỏi gì về vé, đặt cọc, đổi ngày và hủy chuyến?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Hỏi thời hạn giữ chỗ và thanh toán"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi thời hạn giữ chỗ và thanh toán</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần biết khoản thanh toán nào dùng để giữ dịch vụ, mốc tiếp theo và thời điểm có xác nhận vé hoặc phòng. Không áp một tỷ lệ đặt cọc cho mọi chương trình. Với doanh nghiệp, kiểm tra thông tin nhận thanh toán, hợp đồng và hóa đơn cần thiết phù hợp trước khi chuyển. Các mốc cần được nêu rõ để người đại diện có thể trình và phối hợp nội bộ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần biết khoản thanh toán nào dùng để giữ dịch vụ, mốc tiếp theo và thời điểm có xác nhận vé hoặc phòng. Không áp một tỷ lệ đặt cọc cho mọi chương trình. Với doanh nghiệp, kiểm tra thông tin nhận thanh toán, hợp đồng và hóa đơn cần thiết phù hợp trước khi chuyển. Các mốc cần được nêu rõ để người đại diện có thể trình và phối hợp nội bộ.</span>"
     },
     {
       "type": "h2",
-      "text": "Phân biệt đổi ngày, đổi tên và giảm khách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt đổi ngày, đổi tên và giảm khách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi thay đổi có thể chịu điều kiện khác theo vé, phòng hoặc dịch vụ. Hỏi thời hạn báo thay đổi, chi phí nếu có và cách xác nhận lại. Với đoàn riêng, giảm số người còn có thể ảnh hưởng phần chi phí chung chia trên mỗi khách. Không tự hiểu một điều kiện linh hoạt của khách sạn là quyền đổi toàn bộ chuyến đi mà không phát sinh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi thay đổi có thể chịu điều kiện khác theo vé, phòng hoặc dịch vụ. Hỏi thời hạn báo thay đổi, chi phí nếu có và cách xác nhận lại. Với đoàn riêng, giảm số người còn có thể ảnh hưởng phần chi phí chung chia trên mỗi khách. Không tự hiểu một điều kiện linh hoạt của khách sạn là quyền đổi toàn bộ chuyến đi mà không phát sinh.</span>"
     },
     {
       "type": "h2",
-      "text": "Thống nhất cách phối hợp khi vận chuyển thay đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống nhất cách phối hợp khi vận chuyển thay đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần biết ai cập nhật tình hình, ai quyết định phương án và những khoản xử lý theo điều kiện nhà cung cấp. Nếu khách tự hủy và nếu hãng thay đổi chuyến, cách xử lý có thể khác nhau; nên xem xác nhận cụ thể thay vì phỏng đoán. TodayTourist tư vấn và làm rõ chương trình trước khi đặt, để người đại diện có thông tin đầy đủ cho đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần biết ai cập nhật tình hình, ai quyết định phương án và những khoản xử lý theo điều kiện nhà cung cấp. Nếu khách tự hủy và nếu hãng thay đổi chuyến, cách xử lý có thể khác nhau; nên xem xác nhận cụ thể thay vì phỏng đoán. TodayTourist tư vấn và làm rõ chương trình trước khi đặt, để người đại diện có thông tin đầy đủ cho đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mọi tour Côn Đảo có cùng điều kiện hủy không? Không; cần xem chương trình và dịch vụ được đặt cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mọi tour Côn Đảo có cùng điều kiện hủy không? Không; cần xem chương trình và dịch vụ được đặt cụ thể.</span>"
     },
     {
       "type": "p",
-      "text": "Giảm số người có giữ nguyên giá không? Phải kiểm tra điều kiện vé, phòng và phần chi phí dùng chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giảm số người có giữ nguyên giá không? Phải kiểm tra điều kiện vé, phòng và phần chi phí dùng chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh",
-        "Tour ghép hay đoàn riêng Côn Đảo: chọn theo số người và mục đích",
-        "Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-con-dao-cach-so-sanh-bao-gia-va-chi-phi-phat-sinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Côn Đảo: cách so sánh báo giá và chi phí phát sinh</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ghep-hay-doan-rieng-con-dao-chon-theo-so-nguoi-va-muc-dich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour ghép hay đoàn riêng Côn Đảo: chọn theo số người và mục đích</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-doan-dong-di-con-dao-chia-chuyen-phong-va-lich-tham-quan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức đoàn đông đi Côn Đảo: chia chuyến, phòng và lịch tham quan</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
