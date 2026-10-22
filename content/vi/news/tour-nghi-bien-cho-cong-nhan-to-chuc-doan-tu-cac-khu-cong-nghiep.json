@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour công nhân hoặc công đoàn cần quan tâm giờ ca, điểm tập trung và quy mô nhiều xe. Một chuyến nghỉ biển ngắn có thể thuận lợi khi công tác đón đoàn và phân nhóm được chuẩn bị trước."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour công nhân hoặc công đoàn cần quan tâm giờ ca, điểm tập trung và quy mô nhiều xe. Một chuyến nghỉ biển ngắn có thể thuận lợi khi công tác đón đoàn và phân nhóm được chuẩn bị trước.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn thời gian phù hợp lịch làm việc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thời gian phù hợp lịch làm việc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất ngày đi với doanh nghiệp, thời gian kết thúc ca và giờ phải có mặt khi quay lại. Nếu chia nhiều đợt, cần giữ tiêu chuẩn dịch vụ giữa các đợt và kiểm tra sự khác biệt ngày thường, cuối tuần. Không nên áp dụng giờ xuất phát của khách gia đình cho đoàn có nhiều ca làm việc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất ngày đi với doanh nghiệp, thời gian kết thúc ca và giờ phải có mặt khi quay lại. Nếu chia nhiều đợt, cần giữ tiêu chuẩn dịch vụ giữa các đợt và kiểm tra sự khác biệt ngày thường, cuối tuần. Không nên áp dụng giờ xuất phát của khách gia đình cho đoàn có nhiều ca làm việc.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Tổ chức đón tại khu công nghiệp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tổ chức đón tại khu công nghiệp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với đoàn ở Biên Hòa 2, Amata hoặc các khu khác, xác nhận cổng đón, chỗ xe dừng và thời gian tập trung. Lập danh sách theo xe, có người liên hệ tại từng điểm và mốc báo vắng khách. Xe 45 chỗ có thể phù hợp đoàn đông; số xe phải tính trên toàn bộ người đi và chỗ dành cho nhân sự phục vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với đoàn ở Biên Hòa 2, Amata hoặc các khu khác, xác nhận cổng đón, chỗ xe dừng và thời gian tập trung. Lập danh sách theo xe, có người liên hệ tại từng điểm và mốc báo vắng khách. Xe 45 chỗ có thể phù hợp đoàn đông; số xe phải tính trên toàn bộ người đi và chỗ dành cho nhân sự phục vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Ưu tiên bữa ăn và hoạt động dễ tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ưu tiên bữa ăn và hoạt động dễ tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đặt thực đơn rõ, nước uống đủ và khoảng nghỉ trước sinh hoạt. Trò chơi nên có mức vận động phù hợp, không yêu cầu tất cả thành viên tham gia cùng cách. Nếu có gia đình đi cùng, tách nhu cầu trẻ em, phòng ngủ và suất ăn. Báo giá cần thống nhất tiêu chuẩn và phần phát sinh để người đại diện công đoàn dễ tổng hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặt thực đơn rõ, nước uống đủ và khoảng nghỉ trước sinh hoạt. Trò chơi nên có mức vận động phù hợp, không yêu cầu tất cả thành viên tham gia cùng cách. Nếu có gia đình đi cùng, tách nhu cầu trẻ em, phòng ngủ và suất ăn. Báo giá cần thống nhất tiêu chuẩn và phần phát sinh để người đại diện công đoàn dễ tổng hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chia đoàn thành nhiều chuyến không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chia đoàn thành nhiều chuyến không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị theo lịch ca và quy mô. Cần xác nhận dịch vụ từng ngày, không mặc định mọi đợt có cùng tình trạng phòng và giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị theo lịch ca và quy mô. Cần xác nhận dịch vụ từng ngày, không mặc định mọi đợt có cùng tình trạng phòng và giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn",
-        "Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe",
-        "Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-bien-tu-bien-hoa-dong-nai-va-tp-hcm-bo-tri-diem-don-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-vung-tau-long-hai-ho-tram-checklist-truoc-khi-coc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Vũng Tàu – Long Hải – Hồ Tràm: checklist trước khi cọc</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
