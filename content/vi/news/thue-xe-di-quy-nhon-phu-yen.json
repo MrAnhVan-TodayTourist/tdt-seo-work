@@ -8,29 +8,28 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Quy Nhơn và Phú Yên nằm gần nhau ở duyên hải Nam Trung Bộ, thường được ghép thành chuyến 4 ngày 4 đêm. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Quy Nhơn và Phú Yên nằm gần nhau ở duyên hải Nam Trung Bộ, thường được ghép thành chuyến 4 ngày 4 đêm. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi Quy Nhơn – Phú Yên?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi Quy Nhơn – Phú Yên?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Quy Nhơn, Phú Yên cách TP.HCM bao xa?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quy Nhơn, Phú Yên cách TP.HCM bao xa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phú Yên cách TP.HCM khoảng 500 km, Quy Nhơn khoảng 650 km. Hai điểm cách nhau hơn 100 km (khoảng 2 giờ đi xe). Sau sáp nhập hành chính 2025, tên Tuy Hòa không còn là đơn vị hành chính nhưng vẫn quen dùng trong đời sống. Đoàn từ Biên Hòa, Đồng Nai, TP.HCM nên đi 4 ngày 3 đêm (hoặc 4 ngày 4 đêm nếu muốn thong thả); không nên ép dưới 3 ngày (thời gian ước tính)."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phú Yên cách TP.HCM khoảng 500 km, Quy Nhơn khoảng 650 km. Hai điểm cách nhau hơn 100 km (khoảng 2 giờ đi xe). Sau sáp nhập hành chính 2025, tên Tuy Hòa không còn là đơn vị hành chính nhưng vẫn quen dùng trong đời sống. Đoàn từ Biên Hòa, Đồng Nai, TP.HCM nên đi 4 ngày 3 đêm (hoặc 4 ngày 4 đêm nếu muốn thong thả); không nên ép dưới 3 ngày (thời gian ước tính).</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203755856-0.jpg",
-      "alt": "Thuê xe đi Quy Nhơn – Phú Yên từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203755856-0.jpg\" alt=\"Thuê xe đi Quy Nhơn – Phú Yên từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Điểm đến nổi bật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm đến nổi bật</span></strong>"
     },
     {
       "type": "list",
@@ -41,111 +40,111 @@
     },
     {
       "type": "h2",
-      "text": "Lịch trình 4 ngày 3 đêm gợi ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình 4 ngày 3 đêm gợi ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 1:</strong> Khởi hành sớm từ Biên Hòa/TP.HCM, đi đường dài, nghỉ ở Phú Yên."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 1:</strong> Khởi hành sớm từ Biên Hòa/TP.HCM, đi đường dài, nghỉ ở Phú Yên.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 2:</strong> Gành Đá Đĩa, Mũi Điện buổi sáng; chiều vịnh Vũng Rô, ăn hải sản."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 2:</strong> Gành Đá Đĩa, Mũi Điện buổi sáng; chiều vịnh Vũng Rô, ăn hải sản.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 3:</strong> Di chuyển ra Quy Nhơn, chiều Eo Gió."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 3:</strong> Di chuyển ra Quy Nhơn, chiều Eo Gió.</span>"
     },
     {
       "type": "p",
-      "text": "<strong>Ngày 4:</strong> Kỳ Co buổi sáng, trưa trở về hoặc nghỉ thêm một đêm nếu đoàn muốn thong thả."
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>Ngày 4:</strong> Kỳ Co buổi sáng, trưa trở về hoặc nghỉ thêm một đêm nếu đoàn muốn thong thả.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe và lưu ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và lưu ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Quãng đường dài, đi xe 29 hoặc 45 chỗ cho đoàn đông; nhóm nhỏ dùng 16 chỗ; nên có 2 tài xế hoặc chia ca. Mùa khô (tháng 3–9) thích hợp biển; mùa mưa (tháng 10–2) mát nhưng cần theo dõi bão. Kỳ Co cần ca nô, nên đi buổi sáng khi biển êm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Quãng đường dài, đi xe 29 hoặc 45 chỗ cho đoàn đông; nhóm nhỏ dùng 16 chỗ; nên có 2 tài xế hoặc chia ca. Mùa khô (tháng 3–9) thích hợp biển; mùa mưa (tháng 10–2) mát nhưng cần theo dõi bão. Kỳ Co cần ca nô, nên đi buổi sáng khi biển êm.</span>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý lịch ăn uống và nghỉ ngơi trên hành trình Quy Nhơn – Phú Yên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý lịch ăn uống và nghỉ ngơi trên hành trình Quy Nhơn – Phú Yên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là tuyến dài, nhiều điểm đẹp, nên đoàn cần phân bổ thời gian hợp lý giữa tham quan và nghỉ ngơi. Mỗi ngày nên có 1 buổi nhẹ nhàng để đoàn lấy lại sức. Ưu tiên ăn các món địa phương như hải sản, bánh xèo, bún chả cá, bánh ít lá gai ở các quán đã được nhà xe hoặc hướng dẫn viên giới thiệu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là tuyến dài, nhiều điểm đẹp, nên đoàn cần phân bổ thời gian hợp lý giữa tham quan và nghỉ ngơi. Mỗi ngày nên có 1 buổi nhẹ nhàng để đoàn lấy lại sức. Ưu tiên ăn các món địa phương như hải sản, bánh xèo, bún chả cá, bánh ít lá gai ở các quán đã được nhà xe hoặc hướng dẫn viên giới thiệu.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe và tài xế cho hành trình 4 ngày 3 đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và tài xế cho hành trình 4 ngày 3 đêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với hành trình dài, nhà xe nên bố trí tài xế quen tuyến, nghỉ đủ giữa các chặng. Xe cần được kiểm tra kỹ trước khi đi, có máy lạnh tốt, ghế ngả êm và khoang hành lý đủ rộng. Đoàn đông nên chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ để linh hoạt vào đường nhỏ ven biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với hành trình dài, nhà xe nên bố trí tài xế quen tuyến, nghỉ đủ giữa các chặng. Xe cần được kiểm tra kỹ trước khi đi, có máy lạnh tốt, ghế ngả êm và khoang hành lý đủ rộng. Đoàn đông nên chọn xe 29 hoặc 45 chỗ, đoàn nhỏ chọn xe 16 chỗ để linh hoạt vào đường nhỏ ven biển.</span>"
     },
     {
       "type": "h2",
-      "text": "Thời điểm đẹp để đi Quy Nhơn – Phú Yên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thời điểm đẹp để đi Quy Nhơn – Phú Yên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa khô từ khoảng tháng 3 đến tháng 8 thường thuận lợi cho tham quan biển và đảo. Mùa mưa bão cuối năm đoàn nên theo dõi dự báo thời tiết và chừa phương án thay thế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa khô từ khoảng tháng 3 đến tháng 8 thường thuận lợi cho tham quan biển và đảo. Mùa mưa bão cuối năm đoàn nên theo dõi dự báo thời tiết và chừa phương án thay thế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Từ Biên Hòa đi Quy Nhơn – Phú Yên bao nhiêu km?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Từ Biên Hòa đi Quy Nhơn – Phú Yên bao nhiêu km?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phú Yên khoảng 500 km, Quy Nhơn khoảng 650 km tính từ TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phú Yên khoảng 500 km, Quy Nhơn khoảng 650 km tính từ TP.HCM.</span>"
     },
     {
       "type": "h3",
-      "text": "Nên đi mấy ngày?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nên đi mấy ngày?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên đi 4 ngày 3 đêm để có thời gian cho cả hai điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên đi 4 ngày 3 đêm để có thời gian cho cả hai điểm.</span>"
     },
     {
       "type": "h3",
-      "text": "Mùa nào đẹp?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Mùa nào đẹp?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tháng 3 đến tháng 9 nắng đẹp; tháng 10 đến tháng 2 mưa, mát hơn và giá thường rẻ hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tháng 3 đến tháng 9 nắng đẹp; tháng 10 đến tháng 2 mưa, mát hơn và giá thường rẻ hơn.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi Kỳ Co thế nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi Kỳ Co thế nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi ca nô từ bờ, nên đi buổi sáng khi biển êm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi ca nô từ bờ, nên đi buổi sáng khi biển êm.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist hỗ trợ gì?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist hỗ trợ gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist (Biên Hòa, Đồng Nai) tư vấn xe và lịch trình cho đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist (Biên Hòa, Đồng Nai) tư vấn xe và lịch trình cho đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Nha Trang</a> · <a href=\"/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Đà Lạt</a> · <a href=\"/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -154,6 +153,10 @@
         "Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức",
         "Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
