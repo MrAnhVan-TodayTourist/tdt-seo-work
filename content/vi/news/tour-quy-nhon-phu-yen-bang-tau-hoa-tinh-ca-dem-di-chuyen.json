@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Quy Nhơn – Phú Yên bằng tàu hỏa phù hợp với khách muốn trải nghiệm đường sắt và không chọn hành trình đường dài bằng xe. Tên tour nhiều đêm có thể gồm đêm trên tàu, vì vậy cần xem số đêm khách sạn và ngày tham quan thực tế."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Quy Nhơn – Phú Yên bằng tàu hỏa phù hợp với khách muốn trải nghiệm đường sắt và không chọn hành trình đường dài bằng xe. Tên tour nhiều đêm có thể gồm đêm trên tàu, vì vậy cần xem số đêm khách sạn và ngày tham quan thực tế.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt ga và giờ theo chuyến cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt ga và giờ theo chuyến cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hành trình Quy Nhơn có thể xem xét ga Diêu Trì và xe nối chặng; Phú Yên có ga Tuy Hòa để tham khảo. Ga lên tại khu vực xuất phát cũng cần phù hợp lịch tàu đã xác nhận. Không mặc định chuyến nào cũng dừng ở mọi ga mong muốn. Khi tư vấn từ Đồng Nai hoặc TP.HCM, cần tính thời gian đến ga, tập trung và chuyển hành lý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hành trình Quy Nhơn có thể xem xét ga Diêu Trì và xe nối chặng; Phú Yên có ga Tuy Hòa để tham khảo. Ga lên tại khu vực xuất phát cũng cần phù hợp lịch tàu đã xác nhận. Không mặc định chuyến nào cũng dừng ở mọi ga mong muốn. Khi tư vấn từ Đồng Nai hoặc TP.HCM, cần tính thời gian đến ga, tập trung và chuyển hành lý.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Loại chỗ ảnh hưởng trải nghiệm nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Loại chỗ ảnh hưởng trải nghiệm nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi rõ ghế hay giường nằm, điều hòa, số người trong khoang và cách bố trí thành viên. Gia đình hoặc đoàn muốn ở gần nhau nên gửi yêu cầu sớm, nhưng chỉ xác nhận sau khi có chỗ. Không suy ra tiêu chuẩn chỗ ngủ từ tên 'tour tàu hỏa'. Với hành trình nhiều đêm, vị trí và khả năng nghỉ có thể quan trọng hơn chênh lệch giá nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi rõ ghế hay giường nằm, điều hòa, số người trong khoang và cách bố trí thành viên. Gia đình hoặc đoàn muốn ở gần nhau nên gửi yêu cầu sớm, nhưng chỉ xác nhận sau khi có chỗ. Không suy ra tiêu chuẩn chỗ ngủ từ tên 'tour tàu hỏa'. Với hành trình nhiều đêm, vị trí và khả năng nghỉ có thể quan trọng hơn chênh lệch giá nhỏ.</span>"
     },
     {
       "type": "h2",
-      "text": "Xe phục vụ ở điểm đến vẫn cần dự toán"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xe phục vụ ở điểm đến vẫn cần dự toán</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tàu đưa khách đến ga, còn các điểm tham quan và nơi lưu trú thường cần xe nối chặng. Kiểm tra các lượt đón ga, xe trong chương trình, bữa ăn khi đi tàu và cách xử lý nếu giờ đến thay đổi. Đoàn đông cần kế hoạch tập trung riêng theo toa, đầu mối liên hệ và kiểm đếm hành lý trước khi rời ga."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tàu đưa khách đến ga, còn các điểm tham quan và nơi lưu trú thường cần xe nối chặng. Kiểm tra các lượt đón ga, xe trong chương trình, bữa ăn khi đi tàu và cách xử lý nếu giờ đến thay đổi. Đoàn đông cần kế hoạch tập trung riêng theo toa, đầu mối liên hệ và kiểm đếm hành lý trước khi rời ga.</span>"
     },
     {
       "type": "h2",
-      "text": "Không lấy tên 3N4Đ làm lịch trình mặc định"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không lấy tên 3N4Đ làm lịch trình mặc định</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chương trình có thể gồm ba ngày tham quan, hai đêm khách sạn và hai đêm trên tàu; chương trình khác có thể bố trí khác. Hãy đọc từng đêm và so giờ về với lịch làm việc. Nếu cần hội nghị hoặc Gala đúng giờ, chừa khoảng đệm để việc đến ga muộn không làm ảnh hưởng phần chương trình chính."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chương trình có thể gồm ba ngày tham quan, hai đêm khách sạn và hai đêm trên tàu; chương trình khác có thể bố trí khác. Hãy đọc từng đêm và so giờ về với lịch làm việc. Nếu cần hội nghị hoặc Gala đúng giờ, chừa khoảng đệm để việc đến ga muộn không làm ảnh hưởng phần chương trình chính.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "3N4Đ có nghĩa bốn đêm khách sạn không? Không, cần phân biệt đêm tàu và đêm lưu trú."
+      "text": "<span style=\"font-size:16px;color:#374151\">3N4Đ có nghĩa bốn đêm khách sạn không? Không, cần phân biệt đêm tàu và đêm lưu trú.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể tự mua vé tàu và đặt dịch vụ tại nơi đến không? Có thể tư vấn, cần xác nhận ga, giờ và phạm vi dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể tự mua vé tàu và đặt dịch vụ tại nơi đến không? Có thể tư vấn, cần xác nhận ga, giờ và phạm vi dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?",
-        "Tour Quy Nhơn – Phú Yên từ Đồng Nai, Biên Hòa và TP.HCM",
-        "Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/quy-nhon-phu-yen-4-ngay-chon-4n3d-hay-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Quy Nhơn – Phú Yên 4 ngày: chọn 4N3Đ hay 4N4Đ?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-phu-yen-tu-dong-nai-bien-hoa-va-tp-hcm/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn – Phú Yên từ Đồng Nai, Biên Hòa và TP.HCM</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-quy-nhon-phu-yen-bang-xe-giuong-nam-hay-xe-45-cho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Quy Nhơn – Phú Yên bằng xe giường nằm hay xe 45 chỗ?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
