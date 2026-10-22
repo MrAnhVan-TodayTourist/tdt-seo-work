@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Đà Lạt 4 ngày 3 đêm phù hợp khi đoàn muốn nghỉ dưỡng thong thả hoặc dành thời gian riêng cho chương trình tập thể. Lợi thế của bốn ngày là có thể giảm việc chạy điểm, nhưng chỉ đạt được khi lịch trình có khoảng nghỉ thật sự. Dưới đây là khung tham khảo cho đoàn khởi hành ban ngày."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Đà Lạt 4 ngày 3 đêm phù hợp khi đoàn muốn nghỉ dưỡng thong thả hoặc dành thời gian riêng cho chương trình tập thể. Lợi thế của bốn ngày là có thể giảm việc chạy điểm, nhưng chỉ đạt được khi lịch trình có khoảng nghỉ thật sự. Dưới đây là khung tham khảo cho đoàn khởi hành ban ngày.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ngày 1: di chuyển và làm quen nhịp nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày 1: di chuyển và làm quen nhịp nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đón đoàn tại điểm đã thống nhất ở Đồng Nai hoặc TP.HCM, bố trí dừng nghỉ và bữa ăn trên đường. Sau khi đến, ưu tiên nhận phòng, nghỉ ngơi và tham quan nhẹ nếu thời gian cho phép. Không cần đưa hoạt động vận động vào ngay chiều đầu. Bữa tối có thể dành để phổ biến chương trình và làm quen giữa các nhóm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đón đoàn tại điểm đã thống nhất ở Đồng Nai hoặc TP.HCM, bố trí dừng nghỉ và bữa ăn trên đường. Sau khi đến, ưu tiên nhận phòng, nghỉ ngơi và tham quan nhẹ nếu thời gian cho phép. Không cần đưa hoạt động vận động vào ngay chiều đầu. Bữa tối có thể dành để phổ biến chương trình và làm quen giữa các nhóm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215163059-0.jpg",
-      "alt": "Lịch trình Đà Lạt 4 ngày 3 đêm cho đoàn muốn đi thong thả"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215163059-0.jpg\" alt=\"Lịch trình Đà Lạt 4 ngày 3 đêm cho đoàn muốn đi thong thả\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Ngày 2: tham quan theo một tuyến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày 2: tham quan theo một tuyến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn các điểm cùng hướng, dành thời gian chụp ảnh và trải nghiệm thay vì chỉ dừng ngắn để điểm danh. Đoàn có thể kết hợp cảnh quan, văn hóa hoặc nông trại theo sở thích. Buổi tối nên linh hoạt: dạo phố, nghỉ tại khách sạn hoặc giao lưu phù hợp đối tượng. Điểm cụ thể được chọn theo thời gian mở cửa và khả năng phục vụ đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn các điểm cùng hướng, dành thời gian chụp ảnh và trải nghiệm thay vì chỉ dừng ngắn để điểm danh. Đoàn có thể kết hợp cảnh quan, văn hóa hoặc nông trại theo sở thích. Buổi tối nên linh hoạt: dạo phố, nghỉ tại khách sạn hoặc giao lưu phù hợp đối tượng. Điểm cụ thể được chọn theo thời gian mở cửa và khả năng phục vụ đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày 3: dành chỗ cho hoạt động tập thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày 3: dành chỗ cho hoạt động tập thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn công ty có thể dành một buổi cho Team Building, một buổi nghỉ và một tối Gala Dinner. Gia đình có thể thay bằng nghỉ dưỡng hoặc tham quan nhẹ. Nếu muốn BBQ, cồng chiêng hay lửa trại, chọn hoạt động phù hợp địa điểm và thời tiết; không cần đưa tất cả vào cùng tối. Các khoản thiết bị, sân bãi và thực đơn phải được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn công ty có thể dành một buổi cho Team Building, một buổi nghỉ và một tối Gala Dinner. Gia đình có thể thay bằng nghỉ dưỡng hoặc tham quan nhẹ. Nếu muốn BBQ, cồng chiêng hay lửa trại, chọn hoạt động phù hợp địa điểm và thời tiết; không cần đưa tất cả vào cùng tối. Các khoản thiết bị, sân bãi và thực đơn phải được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày 4: trở về có đủ thời gian"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày 4: trở về có đủ thời gian</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bố trí ăn sáng, trả phòng và mua đặc sản nếu thuận tiện trước khi về. Không nên bổ sung một điểm xa chỉ vì thấy còn trống lịch. Khung này có ba đêm khách sạn theo cách khởi hành ban ngày; nếu đổi sang đi đêm, cần ghi lại chính xác số đêm trên xe và lưu trú. TodayTourist thiết kế chương trình theo lịch thực tế của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bố trí ăn sáng, trả phòng và mua đặc sản nếu thuận tiện trước khi về. Không nên bổ sung một điểm xa chỉ vì thấy còn trống lịch. Khung này có ba đêm khách sạn theo cách khởi hành ban ngày; nếu đổi sang đi đêm, cần ghi lại chính xác số đêm trên xe và lưu trú. TodayTourist thiết kế chương trình theo lịch thực tế của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bốn ngày có phải đi nhiều điểm hơn? Không bắt buộc; có thể dùng thời gian để nghỉ. Có thể nối thêm tuyến khác không? Có, nhưng cần tính lại hành trình thay vì chỉ thêm tên điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bốn ngày có phải đi nhiều điểm hơn? Không bắt buộc; có thể dùng thời gian để nghỉ. Có thể nối thêm tuyến khác không? Có, nhưng cần tính lại hành trình thay vì chỉ thêm tên điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi tour Đà Lạt từ Biên Hòa, Đồng Nai: phương án đón đoàn",
-        "Đi tour Đà Lạt từ TP.HCM: chọn giờ khởi hành và điểm đón",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-da-lat-tu-bien-hoa-dong-nai-phuong-an-don-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour Đà Lạt từ Biên Hòa, Đồng Nai: phương án đón đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-da-lat-tu-tp-hcm-chon-gio-khoi-hanh-va-diem-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour Đà Lạt từ TP.HCM: chọn giờ khởi hành và điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
