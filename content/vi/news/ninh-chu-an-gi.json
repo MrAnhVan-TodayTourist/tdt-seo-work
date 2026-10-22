@@ -3,7 +3,7 @@
   "title": "Ninh Chữ–Bình Hưng ăn gì: chọn hải sản và BBQ cho đoàn",
   "category": "Tour Ninh Chữ – Tư vấn đoàn",
   "image": "thue-xe-di-ninh-chu-vinh-hy.jpg",
-  "summary": "Ninh Chữ–Bình Hưng ăn gì. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Ăn uống là phần khách thường quan tâm khi đi Ninh Chữ hoặc Bình Hưng, nhất là bữa trên bè và BBQ hải sản.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -20,9 +20,8 @@
       "text": "Hỏi số người mỗi bàn, thực đơn, nước uống và phần tôm hùm nếu có. Không hiểu chữ BBQ tôm hùm là mỗi người mặc định một con. Khẩu phần cùng hình thức phục vụ phải theo báo giá xác nhận; sản phẩm theo mùa có thể cần thay thế nhưng phải được thông báo."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792412171941-0.jpg",
-      "alt": "Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792412171941-0.jpg\" alt=\"Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
@@ -45,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Đi Bình Hưng có bắt buộc ăn tôm hùm không?"
     },
     {
@@ -58,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
     },
     {
       "type": "p",
@@ -81,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Resort Ninh Chữ hay phòng trên Bình Hưng: chọn nơi ở cho đoàn",
-        "Ninh Chữ–Vĩnh Hy–Bình Hưng mùa nào: chọn lịch và phương án biển",
-        "Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/resort-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Resort Ninh Chữ hay phòng trên Bình Hưng: chọn nơi ở cho đoàn</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/vinh-hy-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Ninh Chữ–Vĩnh Hy–Bình Hưng mùa nào: chọn lịch và phương án biển</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
     },
     {
       "type": "h2",
