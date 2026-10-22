@@ -3,21 +3,21 @@
   "title": "Chư Đăng Ya và mùa hoa dã quỳ: chuẩn bị phần check-in Pleiku",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tay-nguyen-chu-dang-ya.jpg",
-  "summary": "Chư Đăng Ya và mùa hoa dã quỳ. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Khách muốn đến Chư Đăng Ya thường quan tâm cảnh quan và hoa dã quỳ, nhưng thời điểm hoa thực tế cần kiểm tra gần ngày đi.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Khách muốn đến Chư Đăng Ya thường quan tâm cảnh quan và hoa dã quỳ, nhưng thời điểm hoa thực tế cần kiểm tra gần ngày đi. Khi thêm điểm này vào tour Pleiku, hãy hỏi phần đường vào, mức đi bộ và thời gian thay vì chỉ đặt theo một ảnh mùa hoa đã qua."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách muốn đến Chư Đăng Ya thường quan tâm cảnh quan và hoa dã quỳ, nhưng thời điểm hoa thực tế cần kiểm tra gần ngày đi. Khi thêm điểm này vào tour Pleiku, hãy hỏi phần đường vào, mức đi bộ và thời gian thay vì chỉ đặt theo một ảnh mùa hoa đã qua.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận cảnh theo ngày của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận cảnh theo ngày của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi tình trạng hoa và khu vực được tham quan hiện tại. Cảnh từng đẹp trong một mùa không phải cam kết cho năm hoặc tuần khác. Nếu mục tiêu chính là chụp hoa, giữ phương án trải nghiệm Pleiku khác khi điều kiện không đáp ứng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi tình trạng hoa và khu vực được tham quan hiện tại. Cảnh từng đẹp trong một mùa không phải cam kết cho năm hoặc tuần khác. Nếu mục tiêu chính là chụp hoa, giữ phương án trải nghiệm Pleiku khác khi điều kiện không đáp ứng.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Phân biệt ngắm cảnh với chặng leo đi bộ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt ngắm cảnh với chặng leo đi bộ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chuyến dừng chụp tại khu vực chân núi khác phần đi xa hoặc lên cao. Hỏi xe dừng ở đâu, có trung chuyển không và người không đi bộ sẽ chờ tại đâu. Không dùng cách mô tả chung 'dễ đi' để áp dụng cho mọi thành viên."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chuyến dừng chụp tại khu vực chân núi khác phần đi xa hoặc lên cao. Hỏi xe dừng ở đâu, có trung chuyển không và người không đi bộ sẽ chờ tại đâu. Không dùng cách mô tả chung 'dễ đi' để áp dụng cho mọi thành viên.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép điểm theo tuyến có thể phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép điểm theo tuyến có thể phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu còn Biển Hồ, chùa hoặc chặng về nơi ngủ khác, phải cân lại thời lượng. Chư Đăng Ya là yêu cầu bổ sung cần xác nhận trong chương trình TodayTourist, không mặc định có trong cả hai tour liên tuyến tham khảo. Gửi ưu tiên chụp ảnh cùng cơ cấu khách để tư vấn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu còn Biển Hồ, chùa hoặc chặng về nơi ngủ khác, phải cân lại thời lượng. Chư Đăng Ya là yêu cầu bổ sung cần xác nhận trong chương trình TodayTourist, không mặc định có trong cả hai tour liên tuyến tham khảo. Gửi ưu tiên chụp ảnh cùng cơ cấu khách để tư vấn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có bảo đảm nhìn thấy hoa dã quỳ khi đặt tour không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không thể bảo đảm cảnh tự nhiên. Cần cập nhật tình trạng thực tế và chọn ngày theo khả năng của đoàn, cùng phương án thay thế.</span>"
     },
     {
       "type": "h2",
-      "text": "Có bảo đảm nhìn thấy hoa dã quỳ khi đặt tour không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không thể bảo đảm cảnh tự nhiên. Cần cập nhật tình trạng thực tế và chọn ngày theo khả năng của đoàn, cùng phương án thay thế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hành hương Tây Nguyên: chọn Đức Mẹ Măng Đen, Kon Tum và điểm chiêm bái</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên đi máy bay hay xe: chọn theo giờ đến và tuyến</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Hành hương Tây Nguyên: chọn Đức Mẹ Măng Đen, Kon Tum và điểm chiêm bái",
-        "Tour Tây Nguyên đi máy bay hay xe: chọn theo giờ đến và tuyến",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
