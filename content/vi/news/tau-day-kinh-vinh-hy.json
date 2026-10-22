@@ -3,7 +3,7 @@
   "title": "Tàu đáy kính Vĩnh Hy: hỏi rõ vé, thời lượng và phần trải nghiệm",
   "category": "Tour Ninh Chữ – Tư vấn đoàn",
   "image": "thue-xe-di-ninh-chu-vinh-hy.jpg",
-  "summary": "Tàu đáy kính Vĩnh Hy. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Tàu đáy kính là một hình thức tham quan trong các tour Vĩnh Hy, nhưng tên dịch vụ chưa cho biết mọi hoạt động trên chuyến.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
@@ -20,9 +20,8 @@
       "text": "Hỏi điểm lên xuống, thời lượng, tàu riêng hay chia sẻ và số khách thực tế. Đoàn công ty cần kế hoạch chia lượt nếu dùng nhiều tàu. Một giá vé tham khảo có thể không bao gồm xe, hướng dẫn hoặc điểm nối, nên so dịch vụ cùng cấu hình trước khi đánh giá giá tour."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792412097129-0.jpg",
-      "alt": "Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792412097129-0.jpg\" alt=\"Ninh Chữ – Vĩnh Hy – Bình Hưng – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
@@ -45,7 +44,7 @@
       "text": "Câu hỏi thường gặp"
     },
     {
-      "type": "h2",
+      "type": "h3",
       "text": "Có chắc nhìn thấy san hô rõ không?"
     },
     {
@@ -58,15 +57,15 @@
     },
     {
       "type": "p",
-      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
+      "text": "Để nhận phương án phù hợp, bạn hãy gửi ngày dự kiến, số khách, điểm đón và nhu cầu nghỉ biển, tham quan, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn lịch đi và phần dịch vụ cần xác nhận trước khi báo giá. Chương trình có thể điều chỉnh theo thời gian và ngân sách của đoàn."
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
     },
     {
       "type": "p",
@@ -81,12 +80,16 @@
       "text": "Bài viết liên quan"
     },
     {
-      "type": "list",
-      "items": [
-        "Hang Rái trong tour Vĩnh Hy: chọn thời gian và điểm chụp phù hợp",
-        "Ninh Chữ, Bình Tiên hay biển Bình Hưng: chọn nơi nghỉ và tắm biển",
-        "Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/hang-rai/\" target=\"_blank\" rel=\"noopener nofollow\">Hang Rái trong tour Vĩnh Hy: chọn thời gian và điểm chụp phù hợp</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/bien-ninh-chu/\" target=\"_blank\" rel=\"noopener nofollow\">Ninh Chữ, Bình Tiên hay biển Bình Hưng: chọn nơi nghỉ và tắm biển</a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ninh-chu-vinh-hy/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Ninh Chữ–Vĩnh Hy–Bình Hưng: chọn tuyến theo mục đích chuyến đi</a>"
     },
     {
       "type": "h2",
