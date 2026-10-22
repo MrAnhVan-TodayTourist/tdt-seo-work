@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khách tới Bảo Lộc có thể muốn ghé điểm văn hóa tâm linh trong chuyến nghỉ dưỡng hoặc dành thời gian riêng cho chiêm bái. Hai nhu cầu này cần được tư vấn khác nhau để đoàn có trải nghiệm phù hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách tới Bảo Lộc có thể muốn ghé điểm văn hóa tâm linh trong chuyến nghỉ dưỡng hoặc dành thời gian riêng cho chiêm bái. Hai nhu cầu này cần được tư vấn khác nhau để đoàn có trải nghiệm phù hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ghé trong tour nghỉ dưỡng: ưu tiên thời lượng vừa đủ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghé trong tour nghỉ dưỡng: ưu tiên thời lượng vừa đủ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chùa Trà và Tu viện Bát Nhã là những tên thường gặp trong chương trình tham khảo Bảo Lộc. Trước khi đưa vào tour, cần kiểm tra nơi đón khách, thời gian phù hợp và phạm vi tham quan được hướng dẫn. Nếu đoàn chỉ muốn tìm hiểu không gian và chụp ảnh, hãy ghi đúng mục tiêu này; không tự thêm nghi thức tôn giáo. Đoàn công ty có nhiều tín ngưỡng cần cách tham gia linh hoạt và một điểm hẹn thuận tiện cho người muốn nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chùa Trà và Tu viện Bát Nhã là những tên thường gặp trong chương trình tham khảo Bảo Lộc. Trước khi đưa vào tour, cần kiểm tra nơi đón khách, thời gian phù hợp và phạm vi tham quan được hướng dẫn. Nếu đoàn chỉ muốn tìm hiểu không gian và chụp ảnh, hãy ghi đúng mục tiêu này; không tự thêm nghi thức tôn giáo. Đoàn công ty có nhiều tín ngưỡng cần cách tham gia linh hoạt và một điểm hẹn thuận tiện cho người muốn nghỉ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214882034-0.jpg",
-      "alt": "Chùa Trà, Tu viện Bát Nhã Bảo Lộc: ghép tham quan hay hành hương"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214882034-0.jpg\" alt=\"Chùa Trà, Tu viện Bát Nhã Bảo Lộc: ghép tham quan hay hành hương\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chuyến hành hương cần lịch riêng và sự chuẩn bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuyến hành hương cần lịch riêng và sự chuẩn bị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu mục tiêu là chiêm bái, cần dành thời gian lắng lại thay vì ghé nhanh giữa nhiều điểm vui chơi. Người phụ trách nên gửi số người, mong muốn cụ thể và nhu cầu ăn chay để xác nhận khả năng tổ chức. Hoạt động có liên quan đến nhà chùa phải trao đổi trước, không quảng cáo rằng đoàn chắc chắn được dự một nghi thức hoặc được tiếp riêng. Trang phục và cách chụp ảnh cần theo hướng dẫn tại điểm đến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu mục tiêu là chiêm bái, cần dành thời gian lắng lại thay vì ghé nhanh giữa nhiều điểm vui chơi. Người phụ trách nên gửi số người, mong muốn cụ thể và nhu cầu ăn chay để xác nhận khả năng tổ chức. Hoạt động có liên quan đến nhà chùa phải trao đổi trước, không quảng cáo rằng đoàn chắc chắn được dự một nghi thức hoặc được tiếp riêng. Trang phục và cách chụp ảnh cần theo hướng dẫn tại điểm đến.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghép tuyến với Bảo Lộc hoặc Nam Cát Tiên"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghép tuyến với Bảo Lộc hoặc Nam Cát Tiên</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có thể chọn một điểm tâm linh trong lịch Bảo Lộc, còn hành trình kết hợp Nam Cát Tiên phải tính thêm thời gian chuyển tuyến. Không nên thêm nhiều chùa chỉ để danh sách điểm dài hơn. Với người lớn tuổi, cần hỏi đoạn đi bộ, chỗ nghỉ và cách tiếp cận trước khi chốt. TodayTourist tư vấn chương trình theo nhu cầu thực tế; nội dung chiêm bái, bữa ăn và dịch vụ đi kèm được thống nhất riêng, không mặc định theo tên tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có thể chọn một điểm tâm linh trong lịch Bảo Lộc, còn hành trình kết hợp Nam Cát Tiên phải tính thêm thời gian chuyển tuyến. Không nên thêm nhiều chùa chỉ để danh sách điểm dài hơn. Với người lớn tuổi, cần hỏi đoạn đi bộ, chỗ nghỉ và cách tiếp cận trước khi chốt. TodayTourist tư vấn chương trình theo nhu cầu thực tế; nội dung chiêm bái, bữa ăn và dịch vụ đi kèm được thống nhất riêng, không mặc định theo tên tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bữa ăn chay có tự động được bao gồm không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Bữa ăn chay có tự động được bao gồm không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Cần báo số người và số bữa ăn chay để đặt đúng thực đơn; đoàn có thể dùng thực đơn linh hoạt theo nhu cầu đã xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Cần báo số người và số bữa ăn chay để đặt đúng thực đơn; đoàn có thể dùng thực đơn linh hoạt theo nhu cầu đã xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn hỗ trợ khách đoàn công ty, cơ quan, xí nghiệp, trường học và nhóm gia đình từ Đồng Nai, TP.HCM. Gửi ngày đi, số người, điểm đón và hoạt động mong muốn để nhận phương án cùng báo giá theo nhu cầu.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Bảo Lộc, Nam Cát Tiên ăn gì: đặt thực đơn hợp khách đoàn",
-        "Tour Bảo Lộc 2 ngày 1 đêm: tham quan và giao lưu cho đoàn",
-        "Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt",
-        "Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bao-loc-nam-cat-tien-an-gi-dat-thuc-don-hop-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bảo Lộc, Nam Cát Tiên ăn gì: đặt thực đơn hợp khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bao-loc-2-ngay-1-dem-tham-quan-va-giao-luu-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bảo Lộc 2 ngày 1 đêm: tham quan và giao lưu cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-bao-loc-nam-cat-tien-xe-bao-gia-va-dieu-kien-chot/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Bảo Lộc – Nam Cát Tiên: xe, báo giá và điều kiện chốt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-bao-loc-ket-hop-da-lat-theo-yeu-cau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Bảo Lộc, kết hợp Đà Lạt theo yêu cầu từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">Xem các chương trình tour TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem các chương trình tour TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế tour đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế tour đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
