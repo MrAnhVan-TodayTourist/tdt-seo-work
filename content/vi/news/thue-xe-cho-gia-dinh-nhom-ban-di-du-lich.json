@@ -8,61 +8,60 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Gia đình hoặc nhóm bạn đi chung thường chỉ cần một chiếc xe nhỏ gọn, nhưng lịch đi phải linh hoạt vì có trẻ em và người lớn tuổi. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Gia đình hoặc nhóm bạn đi chung thường chỉ cần một chiếc xe nhỏ gọn, nhưng lịch đi phải linh hoạt vì có trẻ em và người lớn tuổi. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe cho gia đình, nhóm bạn đi du lịch?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe cho gia đình, nhóm bạn đi du lịch?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Gia đình và nhóm bạn: chọn xe thế nào"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gia đình và nhóm bạn: chọn xe thế nào</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gia đình hoặc nhóm bạn thường từ 7–15 người, có trẻ nhỏ và người lớn tuổi. Xe 16 chỗ thường đủ cho nhóm đến khoảng 12 người; nhóm đông hơn nên cân nhắc xe 29 chỗ để có thêm chỗ để đồ và nghỉ ngơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gia đình hoặc nhóm bạn thường từ 7–15 người, có trẻ nhỏ và người lớn tuổi. Xe 16 chỗ thường đủ cho nhóm đến khoảng 12 người; nhóm đông hơn nên cân nhắc xe 29 chỗ để có thêm chỗ để đồ và nghỉ ngơi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792203460963-0.jpg",
-      "alt": "Thuê xe cho gia đình, nhóm bạn đi du lịch tại Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792203460963-0.jpg\" alt=\"Thuê xe cho gia đình, nhóm bạn đi du lịch tại Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thời gian xuất phát và nghỉ chân"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thời gian xuất phát và nghỉ chân</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm có trẻ nhỏ nên xuất phát sau khi các bé ăn sáng, dừng nghỉ khoảng 1,5–2 tiếng một lần, mang theo nước, khăn, thuốc cơ bản. Nhóm có người lớn tuổi nên tránh đi quá sớm hoặc quá khuya."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm có trẻ nhỏ nên xuất phát sau khi các bé ăn sáng, dừng nghỉ khoảng 1,5–2 tiếng một lần, mang theo nước, khăn, thuốc cơ bản. Nhóm có người lớn tuổi nên tránh đi quá sớm hoặc quá khuya.</span>"
     },
     {
       "type": "h2",
-      "text": "Điểm đến hay chọn từ Biên Hòa, TP.HCM"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Điểm đến hay chọn từ Biên Hòa, TP.HCM</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các điểm gần như Vũng Tàu, Long Hải, Hồ Tràm, Mũi Né phù hợp đi 1–2 ngày. Điểm xa như Đà Lạt, Nha Trang, miền Tây nên đi 3 ngày trở lên."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các điểm gần như Vũng Tàu, Long Hải, Hồ Tràm, Mũi Né phù hợp đi 1–2 ngày. Điểm xa như Đà Lạt, Nha Trang, miền Tây nên đi 3 ngày trở lên.</span>"
     },
     {
       "type": "h2",
-      "text": "Mẹo chia hành lý và chỗ ngồi cho nhóm bạn, gia đình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mẹo chia hành lý và chỗ ngồi cho nhóm bạn, gia đình</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm 8–14 người đi xe 16 chỗ thường vướng khoang hành lý, nên chia bớt vali lớn lên cốp, mang balo nhỏ lên xe. Xếp người dễ say xe và người lớn tuổi ở hàng ghế gần phía trước; nhóm trẻ con ngồi gần người lớn. Thống nhất sớm giờ đón, giờ nghỉ và điểm ăn trưa để cả nhóm không phải cãi nhau giữa chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm 8–14 người đi xe 16 chỗ thường vướng khoang hành lý, nên chia bớt vali lớn lên cốp, mang balo nhỏ lên xe. Xếp người dễ say xe và người lớn tuổi ở hàng ghế gần phía trước; nhóm trẻ con ngồi gần người lớn. Thống nhất sớm giờ đón, giờ nghỉ và điểm ăn trưa để cả nhóm không phải cãi nhau giữa chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Chia chi phí và hợp đồng đơn giản"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chia chi phí và hợp đồng đơn giản</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm bạn nên cử một người đại diện thương lượng với nhà xe, ghi lại các thỏa thuận về giờ, điểm đón, phí cầu đường, bến bãi để tránh hiểu nhầm khi chia tiền."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm bạn nên cử một người đại diện thương lượng với nhà xe, ghi lại các thỏa thuận về giờ, điểm đón, phí cầu đường, bến bãi để tránh hiểu nhầm khi chia tiền.</span>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình gợi ý cho nhóm bạn đi 2 ngày 1 đêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình gợi ý cho nhóm bạn đi 2 ngày 1 đêm</span></strong>"
     },
     {
       "type": "list",
@@ -73,59 +72,63 @@
     },
     {
       "type": "p",
-      "text": "Nhóm bạn đi chung nên thống nhất ngân sách trước, chia đều vào quỹ chung, một người giữ vai trò thủ quỹ và một người làm đầu mối liên hệ tài xế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm bạn đi chung nên thống nhất ngân sách trước, chia đều vào quỹ chung, một người giữ vai trò thủ quỹ và một người làm đầu mối liên hệ tài xế.</span>"
     },
     {
       "type": "h2",
-      "text": "Những tiện ích nên hỏi khi đặt xe cho gia đình, nhóm bạn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những tiện ích nên hỏi khi đặt xe cho gia đình, nhóm bạn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi trước xe có máy lạnh mạnh, ghế ngả êm, loa, micro, cổng sạc điện thoại và khoang hành lý đủ rộng. Nếu đi cùng trẻ nhỏ hoặc người lớn tuổi, nên chọn xe bậc lên xuống thấp và tài xế lái êm. Các tiện ích như nước uống, khăn lạnh nên hỏi trước để không phải mua thêm giữa đường."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi trước xe có máy lạnh mạnh, ghế ngả êm, loa, micro, cổng sạc điện thoại và khoang hành lý đủ rộng. Nếu đi cùng trẻ nhỏ hoặc người lớn tuổi, nên chọn xe bậc lên xuống thấp và tài xế lái êm. Các tiện ích như nước uống, khăn lạnh nên hỏi trước để không phải mua thêm giữa đường.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có thể đón từng nhà không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có thể đón từng nhà không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đón ở nhiều điểm gần nhau, nên báo trước từng địa chỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đón ở nhiều điểm gần nhau, nên báo trước từng địa chỉ.</span>"
     },
     {
       "type": "h3",
-      "text": "Xe có ghế cho trẻ em không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Xe có ghế cho trẻ em không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thường không có ghế trẻ em chuyên dụng; nên mang theo nếu cần và hỏi nhà xe."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thường không có ghế trẻ em chuyên dụng; nên mang theo nếu cần và hỏi nhà xe.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi trong ngày hay ở lại một đêm?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi trong ngày hay ở lại một đêm?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Điểm gần dưới 3 tiếng đi trong ngày được; xa hơn nên ở lại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm gần dưới 3 tiếng đi trong ngày được; xa hơn nên ở lại.</span>"
     },
     {
       "type": "h3",
-      "text": "Có xe nhỏ 7 chỗ không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có xe nhỏ 7 chỗ không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên hỏi trực tiếp, phụ thuộc vào nhà xe còn xe hay không."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên hỏi trực tiếp, phụ thuộc vào nhà xe còn xe hay không.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-29-cho-co-tai-xe-theo-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe 29 chỗ có tài xế theo lịch trình riêng</a> · <a href=\"/vi/tin-tuc/thue-xe-16-cho-co-tai-xe-cho-doan-nho/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe 16 chỗ có tài xế cho đoàn nhỏ</a> · <a href=\"/vi/tin-tuc/xe-ghe-ngoi-hay-giuong-nam-di-duong-dai-nen-chon/\" target=\"_blank\" rel=\"noopener nofollow\">Xe ghế ngồi hay giường nằm: đi đường dài nên chọn loại nào?</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-29-cho-co-tai-xe-theo-lich-trinh-rieng/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe 29 chỗ có tài xế theo lịch trình riêng</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-16-cho-co-tai-xe-cho-doan-nho/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe 16 chỗ có tài xế cho đoàn nhỏ</span></u></strong></a> · <a href=\"/vi/tin-tuc/xe-ghe-ngoi-hay-giuong-nam-di-duong-dai-nen-chon/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xe ghế ngồi hay giường nằm: đi đường dài nên chọn loại nào?</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
