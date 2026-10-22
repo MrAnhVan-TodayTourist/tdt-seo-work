@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Du xuân của công ty, cơ quan hoặc đoàn thể có thể kết hợp viếng điểm tâm linh, tham quan và dùng bữa chung. Để chuyến đi dễ tham gia, nên xác định mục tiêu, đối tượng và thời gian của đoàn thay vì chọn lịch chỉ có thật nhiều điểm lễ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Du xuân của công ty, cơ quan hoặc đoàn thể có thể kết hợp viếng điểm tâm linh, tham quan và dùng bữa chung. Để chuyến đi dễ tham gia, nên xác định mục tiêu, đối tượng và thời gian của đoàn thay vì chọn lịch chỉ có thật nhiều điểm lễ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tôn trọng mong muốn của người tham dự"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tôn trọng mong muốn của người tham dự</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một đoàn doanh nghiệp có thể gồm nhiều niềm tin và sở thích. Nên thông báo trước nội dung chuyến đi, để thành viên hiểu phần tham quan văn hóa và phần sinh hoạt theo tín ngưỡng. Không nên yêu cầu mọi người thực hiện cùng nghi thức. Nếu có phần giao lưu, hãy bố trí tại không gian phù hợp thay vì làm ảnh hưởng nơi chiêm bái."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một đoàn doanh nghiệp có thể gồm nhiều niềm tin và sở thích. Nên thông báo trước nội dung chuyến đi, để thành viên hiểu phần tham quan văn hóa và phần sinh hoạt theo tín ngưỡng. Không nên yêu cầu mọi người thực hiện cùng nghi thức. Nếu có phần giao lưu, hãy bố trí tại không gian phù hợp thay vì làm ảnh hưởng nơi chiêm bái.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214092273-0.jpg",
-      "alt": "Tour du xuân đầu năm cho công ty và đoàn thể"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214092273-0.jpg\" alt=\"Tour du xuân đầu năm cho công ty và đoàn thể\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn tuyến theo số ngày được nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn tuyến theo số ngày được nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuyến trong ngày có thể trao đổi hướng gần Đồng Nai, Vũng Tàu hoặc Tây Ninh theo điểm đón. Hành trình dài hơn cần tính nghỉ đêm và lịch trở lại công việc. Dịp đầu năm nên dự kiến khoảng linh hoạt cho di chuyển và tập trung đoàn; không hứa giờ về tuyệt đối. Nếu doanh nghiệp làm ca, cần thống nhất nhóm đi, nhóm đón và đầu mối xác nhận danh sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyến trong ngày có thể trao đổi hướng gần Đồng Nai, Vũng Tàu hoặc Tây Ninh theo điểm đón. Hành trình dài hơn cần tính nghỉ đêm và lịch trở lại công việc. Dịp đầu năm nên dự kiến khoảng linh hoạt cho di chuyển và tập trung đoàn; không hứa giờ về tuyệt đối. Nếu doanh nghiệp làm ca, cần thống nhất nhóm đi, nhóm đón và đầu mối xác nhận danh sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt ngân sách và các phần kết hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt ngân sách và các phần kết hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá cần rõ xe, bữa ăn, vé hoặc dịch vụ tham quan và phần giao lưu nếu có. Nếu muốn Gala hoặc hoạt động gắn kết, hãy xem thời lượng và điều kiện địa điểm trước khi thêm vào chương trình. TodayTourist ưu tiên trao đổi phương án xe 45 chỗ cho đoàn đông, đồng thời có thể xem xét xe 16 hoặc 29 chỗ cho nhóm nhỏ. Ngày khởi hành và giá cụ thể được xác nhận theo yêu cầu, không dùng lịch Tết của năm cũ để quảng bá chuyến mới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá cần rõ xe, bữa ăn, vé hoặc dịch vụ tham quan và phần giao lưu nếu có. Nếu muốn Gala hoặc hoạt động gắn kết, hãy xem thời lượng và điều kiện địa điểm trước khi thêm vào chương trình. TodayTourist ưu tiên trao đổi phương án xe 45 chỗ cho đoàn đông, đồng thời có thể xem xét xe 16 hoặc 29 chỗ cho nhóm nhỏ. Ngày khởi hành và giá cụ thể được xác nhận theo yêu cầu, không dùng lịch Tết của năm cũ để quảng bá chuyến mới.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Du xuân doanh nghiệp có bắt buộc là tour hành hương không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Du xuân doanh nghiệp có bắt buộc là tour hành hương không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Có thể chọn chuyến tham quan văn hóa, nghỉ ngơi và gặp mặt. Nếu có điểm tâm linh, chương trình nên ghi rõ để người tham gia chủ động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Có thể chọn chuyến tham quan văn hóa, nghỉ ngơi và gặp mặt. Nếu có điểm tâm linh, chương trình nên ghi rõ để người tham gia chủ động.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý",
-        "Tour Núi Bà Đen: chọn phần viếng chùa và tham quan",
-        "Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai",
-        "Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-1-ngay-chon-tuyen-gan-va-lich-hop-ly/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương 1 ngày: chọn tuyến gần và lịch hợp lý</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nui-ba-den-chon-phan-vieng-chua-va-tham-quan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Núi Bà Đen: chọn phần viếng chùa và tham quan</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/vieng-chua-huong-quoc-lo-51-chon-lich-gan-dong-nai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Viếng chùa hướng Quốc lộ 51: chọn lịch gần Đồng Nai</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi hành hương, lễ chùa và du xuân theo đoàn</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
