@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Địa điểm đẹp chưa chắc phù hợp với số người, hoạt động và lịch di chuyển của doanh nghiệp. Khi chọn nơi tổ chức Team Building và Gala Dinner gần Đồng Nai hoặc TP.HCM, nên kiểm tra khả năng sử dụng thực tế trước khi quyết định."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Địa điểm đẹp chưa chắc phù hợp với số người, hoạt động và lịch di chuyển của doanh nghiệp. Khi chọn nơi tổ chức Team Building và Gala Dinner gần Đồng Nai hoặc TP.HCM, nên kiểm tra khả năng sử dụng thực tế trước khi quyết định.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắt đầu từ số người và loại hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắt đầu từ số người và loại hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần tách sức chứa bàn tiệc với diện tích dùng cho hoạt động. Một hội trường đủ ghế không có nghĩa đủ chỗ chia nhiều đội vận động. Nếu chương trình có sân ngoài trời và Gala trong nhà, hãy xem khoảng cách di chuyển, nơi thay trang phục và lịch sử dụng từng khu vực. Thông tin trên hình quảng cáo nên được đối chiếu bằng khảo sát hoặc xác nhận cụ thể từ địa điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần tách sức chứa bàn tiệc với diện tích dùng cho hoạt động. Một hội trường đủ ghế không có nghĩa đủ chỗ chia nhiều đội vận động. Nếu chương trình có sân ngoài trời và Gala trong nhà, hãy xem khoảng cách di chuyển, nơi thay trang phục và lịch sử dụng từng khu vực. Thông tin trên hình quảng cáo nên được đối chiếu bằng khảo sát hoặc xác nhận cụ thể từ địa điểm.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213351433-0.jpg",
-      "alt": "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213351433-0.jpg\" alt=\"Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra điểm đón và điều kiện đoàn xe"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra điểm đón và điều kiện đoàn xe</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn khởi hành từ Biên Hòa, các khu công nghiệp ở Đồng Nai hoặc nhiều điểm tại TP.HCM cần tính thời gian tập trung thực tế. Đường vào, nơi đỗ và khu vực xuống khách ảnh hưởng đến việc điều phối. Với đoàn đông, xe 45 chỗ là phương án cần xem xét theo tuyến và số khách; không nên chia xe chỉ dựa trên danh sách đăng ký chưa chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn khởi hành từ Biên Hòa, các khu công nghiệp ở Đồng Nai hoặc nhiều điểm tại TP.HCM cần tính thời gian tập trung thực tế. Đường vào, nơi đỗ và khu vực xuống khách ảnh hưởng đến việc điều phối. Với đoàn đông, xe 45 chỗ là phương án cần xem xét theo tuyến và số khách; không nên chia xe chỉ dựa trên danh sách đăng ký chưa chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "So sánh trên cùng một phạm vi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So sánh trên cùng một phạm vi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi hỏi giá địa điểm, nên làm rõ phần ăn uống, thiết bị, khu vực hoạt động, thời gian sử dụng và các dịch vụ bổ sung. Hỏi phương án chuyển vào trong nhà nếu mưa và sức chứa của phương án đó. Với tour biển như Phan Thiết hoặc Vũng Tàu, cần kiểm tra riêng việc sử dụng bãi hoạt động và phòng Gala, không mặc định resort nào cũng đáp ứng. TodayTourist có thể trao đổi phương án dựa trên yêu cầu cụ thể của đoàn, sau khi điều kiện và dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi hỏi giá địa điểm, nên làm rõ phần ăn uống, thiết bị, khu vực hoạt động, thời gian sử dụng và các dịch vụ bổ sung. Hỏi phương án chuyển vào trong nhà nếu mưa và sức chứa của phương án đó. Với tour biển như Phan Thiết hoặc Vũng Tàu, cần kiểm tra riêng việc sử dụng bãi hoạt động và phòng Gala, không mặc định resort nào cũng đáp ứng. TodayTourist có thể trao đổi phương án dựa trên yêu cầu cụ thể của đoàn, sau khi điều kiện và dịch vụ được xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tiêu chí chọn địa điểm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tiêu chí chọn địa điểm</span></strong>"
     },
     {
       "type": "list",
@@ -55,59 +54,63 @@
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên chọn địa điểm gần hay kết hợp đi tour xa hơn?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên chọn địa điểm gần hay kết hợp đi tour xa hơn?</span>"
     },
     {
       "type": "p",
-      "text": "Chương trình ngắn thường cần kiểm soát thời gian di chuyển chặt hơn. Nếu kết hợp tour, nên cân đối nghỉ ngơi, hoạt động và tiệc. Không có một địa điểm phù hợp cho mọi đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chương trình ngắn thường cần kiểm soát thời gian di chuyển chặt hơn. Nếu kết hợp tour, nên cân đối nghỉ ngơi, hoạt động và tiệc. Không có một địa điểm phù hợp cho mọi đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức",
-        "Team Building trong nhà: chọn hoạt động phù hợp hội trường",
-        "Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cong-ty-ket-hop-team-building-gala-dinner-chon-lich-vua-suc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour công ty kết hợp Team Building – Gala Dinner: chọn lịch vừa sức</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-trong-nha-chon-hoat-dong-phu-hop-hoi-truong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building trong nhà: chọn hoạt động phù hợp hội trường</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-gap-mua-chuan-bi-phuong-an-thay-doi-chuong-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building gặp mưa: chuẩn bị phương án thay đổi chương trình</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
