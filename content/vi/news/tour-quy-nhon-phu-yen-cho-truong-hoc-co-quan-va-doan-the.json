@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Trường học, cơ quan và đoàn thể có thể cùng quan tâm tour Quy Nhơn – Phú Yên nhưng khác mục đích và cách tổ chức. Cần xác định đoàn học sinh, sinh viên, tập thể giáo viên hay cán bộ trước khi chọn điểm, hoạt động và tiêu chuẩn dịch vụ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trường học, cơ quan và đoàn thể có thể cùng quan tâm tour Quy Nhơn – Phú Yên nhưng khác mục đích và cách tổ chức. Cần xác định đoàn học sinh, sinh viên, tập thể giáo viên hay cán bộ trước khi chọn điểm, hoạt động và tiêu chuẩn dịch vụ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đoàn học sinh: gắn trải nghiệm với mục tiêu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đoàn học sinh: gắn trải nghiệm với mục tiêu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể cân nhắc nội dung văn hóa ở Tây Sơn, di sản Chăm, cảnh quan ven biển hoặc hoạt động nhóm theo độ tuổi. Bài thuyết minh, nhiệm vụ quan sát và thời gian nghỉ cần phù hợp học sinh. Không coi việc thêm nhiều điểm là tăng giá trị học tập. Những hoạt động biển hoặc đi bộ nhiều cần được nhà trường và đơn vị tổ chức xem xét theo điều kiện thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cân nhắc nội dung văn hóa ở Tây Sơn, di sản Chăm, cảnh quan ven biển hoặc hoạt động nhóm theo độ tuổi. Bài thuyết minh, nhiệm vụ quan sát và thời gian nghỉ cần phù hợp học sinh. Không coi việc thêm nhiều điểm là tăng giá trị học tập. Những hoạt động biển hoặc đi bộ nhiều cần được nhà trường và đơn vị tổ chức xem xét theo điều kiện thực tế.</span>"
     },
     {
       "type": "html",
@@ -25,91 +25,95 @@
     },
     {
       "type": "h2",
-      "text": "Giáo viên, cơ quan: nhịp đi và giao lưu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giáo viên, cơ quan: nhịp đi và giao lưu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tập thể giáo viên hoặc cán bộ có thể ưu tiên nghỉ dưỡng, tham quan văn hóa và một buổi giao lưu. Danh sách đoàn nên nêu nhu cầu vận động, ăn uống và phòng. Nếu tổ chức tri ân hay tổng kết, chốt nội dung và thời lượng riêng; tránh dùng nguyên kịch bản học sinh cho người lớn hoặc nguyên chương trình doanh nghiệp cho đoàn thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tập thể giáo viên hoặc cán bộ có thể ưu tiên nghỉ dưỡng, tham quan văn hóa và một buổi giao lưu. Danh sách đoàn nên nêu nhu cầu vận động, ăn uống và phòng. Nếu tổ chức tri ân hay tổng kết, chốt nội dung và thời lượng riêng; tránh dùng nguyên kịch bản học sinh cho người lớn hoặc nguyên chương trình doanh nghiệp cho đoàn thể.</span>"
     },
     {
       "type": "h2",
-      "text": "Quản lý theo xe, nhóm và đầu mối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Quản lý theo xe, nhóm và đầu mối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phân công người phụ trách từng nhóm, thống nhất cách kiểm đếm khi lên xuống xe và chuyển điểm. Lập cơ cấu phòng và danh sách liên hệ cần thiết theo quy trình của đơn vị. Số chỗ xe phải tính cả giáo viên, hướng dẫn và nhân sự đi cùng. Với đoàn học sinh, yêu cầu giám sát và xử lý tình huống cần chốt trước chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phân công người phụ trách từng nhóm, thống nhất cách kiểm đếm khi lên xuống xe và chuyển điểm. Lập cơ cấu phòng và danh sách liên hệ cần thiết theo quy trình của đơn vị. Số chỗ xe phải tính cả giáo viên, hướng dẫn và nhân sự đi cùng. Với đoàn học sinh, yêu cầu giám sát và xử lý tình huống cần chốt trước chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn dịch vụ và hoạt động rõ ràng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn dịch vụ và hoạt động rõ ràng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bữa ăn nên có thực đơn cụ thể và phương án cho nhu cầu đặc biệt. Lưu trú cần kiểm tra cơ cấu giường, phân khu và khả năng tập trung. Nếu chọn đảo, cân nhắc phương tiện, cách chia nhóm và lựa chọn cho người không tham gia. TodayTourist tư vấn chương trình theo đối tượng, quỹ thời gian và mục tiêu của từng đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bữa ăn nên có thực đơn cụ thể và phương án cho nhu cầu đặc biệt. Lưu trú cần kiểm tra cơ cấu giường, phân khu và khả năng tập trung. Nếu chọn đảo, cân nhắc phương tiện, cách chia nhóm và lựa chọn cho người không tham gia. TodayTourist tư vấn chương trình theo đối tượng, quỹ thời gian và mục tiêu của từng đơn vị.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo hành trình tập thể giáo chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo hành trình tập thể giáo chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist đã ghi nhận chuyến Quy Nhơn – Phú Yên ngày 24–27/05/2026 của Hội Cựu Giáo Chức phường Tân Triều, Trị An và xã Tân An. Nội dung công khai có tham quan và Gala giao lưu. Đoàn mới có thể tham khảo hình thức kết hợp này, rồi điều chỉnh nhịp đi, hoạt động và tiêu chuẩn phục vụ theo thành viên thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist đã ghi nhận chuyến Quy Nhơn – Phú Yên ngày 24–27/05/2026 của Hội Cựu Giáo Chức phường Tân Triều, Trị An và xã Tân An. Nội dung công khai có tham quan và Gala giao lưu. Đoàn mới có thể tham khảo hình thức kết hợp này, rồi điều chỉnh nhịp đi, hoạt động và tiêu chuẩn phục vụ theo thành viên thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn giáo viên có cần đi cùng lịch trình học sinh không? Không; nên thiết kế theo mục tiêu riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn giáo viên có cần đi cùng lịch trình học sinh không? Không; nên thiết kế theo mục tiêu riêng.</span>"
     },
     {
       "type": "p",
-      "text": "Có thể ưu tiên văn hóa thay vì đảo không? Có, nếu phù hợp nhu cầu và tuyến di chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể ưu tiên văn hóa thay vì đảo không? Có, nếu phù hợp nhu cầu và tuyến di chuyển.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tây Sơn – Bảo tàng Quang Trung – Hầm Hô trong tour Quy Nhơn",
-        "Quy Nhơn đi đâu ngoài biển? Ghềnh Ráng, Tháp Đôi và Làng Sông",
-        "Đoàn đông đi Quy Nhơn – Phú Yên: chia xe, phòng và nhóm đảo"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tay-son-bao-tang-quang-trung-ham-ho-trong-tour-quy-nhon/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tây Sơn – Bảo tàng Quang Trung – Hầm Hô trong tour Quy Nhơn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/quy-nhon-di-dau-ngoai-bien-ghenh-rang-thap-doi-va-lang-song/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Quy Nhơn đi đâu ngoài biển? Ghềnh Ráng, Tháp Đôi và Làng Sông</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/doan-dong-di-quy-nhon-phu-yen-chia-xe-phong-va-nhom-dao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đoàn đông đi Quy Nhơn – Phú Yên: chia xe, phòng và nhóm đảo</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-quy-nhon-3-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Phú Yên – Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-quy-nhon-phu-yen-4n3d-05-27/\" target=\"_blank\" rel=\"noopener nofollow\">Xem hành trình Hội Cựu Giáo Chức cùng TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/hanh-trinh-quy-nhon-phu-yen-4n3d-05-27/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem hành trình Hội Cựu Giáo Chức cùng TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
