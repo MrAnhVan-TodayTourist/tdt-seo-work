@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Phương án đường bộ tới Trần Đề rồi đi tàu ra Côn Đảo cần được tổ chức như một hành trình liền mạch. Khách không chỉ chọn vé tàu mà còn cần biết xe đưa tới đâu, ăn nghỉ thế nào và ai đón khi về. Với đoàn doanh nghiệp, khớp các chặng giúp hạn chế thời gian chờ và thuận tiện quản lý danh sách."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Phương án đường bộ tới Trần Đề rồi đi tàu ra Côn Đảo cần được tổ chức như một hành trình liền mạch. Khách không chỉ chọn vé tàu mà còn cần biết xe đưa tới đâu, ăn nghỉ thế nào và ai đón khi về. Với đoàn doanh nghiệp, khớp các chặng giúp hạn chế thời gian chờ và thuận tiện quản lý danh sách.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn xe theo số người và nhu cầu nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe theo số người và nhu cầu nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nên trao đổi phương án xe giường nằm hoặc xe 45 chỗ khi cần chặng đường bộ dài, tùy điều kiện phục vụ. Nhóm nhỏ có thể cân nhắc 16 hoặc 29 chỗ phù hợp số người và hành lý. Báo giá cần ghi rõ loại xe, số chỗ sử dụng và tuyến; không mặc định tên tour có đêm xe đồng nghĩa đã bao gồm xe giường nằm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nên trao đổi phương án xe giường nằm hoặc xe 45 chỗ khi cần chặng đường bộ dài, tùy điều kiện phục vụ. Nhóm nhỏ có thể cân nhắc 16 hoặc 29 chỗ phù hợp số người và hành lý. Báo giá cần ghi rõ loại xe, số chỗ sử dụng và tuyến; không mặc định tên tour có đêm xe đồng nghĩa đã bao gồm xe giường nằm.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Khớp danh sách với vé tàu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khớp danh sách với vé tàu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trước khi chốt, kiểm tra ngày đi, ngày về, hạng ghế, thông tin khách và yêu cầu giấy tờ của hãng. Đoàn đông cần xác nhận số chỗ trên cùng chuyến hoặc phương án chia chuyến. Người phụ trách nên giữ một danh sách thống nhất giữa bộ phận xe, tàu và hướng dẫn viên, đồng thời làm rõ cách xử lý khi có khách đổi thông tin hoặc không đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trước khi chốt, kiểm tra ngày đi, ngày về, hạng ghế, thông tin khách và yêu cầu giấy tờ của hãng. Đoàn đông cần xác nhận số chỗ trên cùng chuyến hoặc phương án chia chuyến. Người phụ trách nên giữ một danh sách thống nhất giữa bộ phận xe, tàu và hướng dẫn viên, đồng thời làm rõ cách xử lý khi có khách đổi thông tin hoặc không đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Bố trí ăn nghỉ quanh giờ tàu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bố trí ăn nghỉ quanh giờ tàu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chặng xe có thể được sắp vào đêm để tới cảng trước chuyến đã đặt. Cần có khoảng nghỉ, ăn sáng và làm thủ tục phù hợp; không tính lịch dựa trên việc xe luôn tới đúng một giờ. Khi đến đảo, bố trí ăn và gửi hành lý hoặc nhận phòng theo thực tế. Người cần nghỉ nhiều nên báo trước để giảm hoạt động ngay sau hành trình nối tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chặng xe có thể được sắp vào đêm để tới cảng trước chuyến đã đặt. Cần có khoảng nghỉ, ăn sáng và làm thủ tục phù hợp; không tính lịch dựa trên việc xe luôn tới đúng một giờ. Khi đến đảo, bố trí ăn và gửi hành lý hoặc nhận phòng theo thực tế. Người cần nghỉ nhiều nên báo trước để giảm hoạt động ngay sau hành trình nối tuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ người đón và điểm trả ở chiều về"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ người đón và điểm trả ở chiều về</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khi tàu về đất liền, xe đón tại điểm nào và tiếp tục tới Biên Hòa hay TP.HCM phải được ghi trong chương trình. Hành lý, số khách từng xe và liên hệ của người đại diện cần thống nhất trước khi rời đảo. TodayTourist tư vấn cả chặng đường bộ và dịch vụ tại đảo theo yêu cầu; lịch tàu và loại xe được xác nhận khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khi tàu về đất liền, xe đón tại điểm nào và tiếp tục tới Biên Hòa hay TP.HCM phải được ghi trong chương trình. Hành lý, số khách từng xe và liên hệ của người đại diện cần thống nhất trước khi rời đảo. TodayTourist tư vấn cả chặng đường bộ và dịch vụ tại đảo theo yêu cầu; lịch tàu và loại xe được xác nhận khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour có xe đêm chắc chắn dùng xe giường nằm không? Không; cần xem loại xe trong xác nhận dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour có xe đêm chắc chắn dùng xe giường nằm không? Không; cần xem loại xe trong xác nhận dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Đoàn đông có thể ngồi cùng chuyến tàu không? Phải kiểm tra số chỗ và thời điểm đặt, không thể mặc định."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn đông có thể ngồi cùng chuyến tàu không? Phải kiểm tra số chỗ và thời điểm đặt, không thể mặc định.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Côn Đảo 2 ngày 2 đêm: lịch trình và cách tính số đêm",
-        "Đi Côn Đảo từ Biên Hòa, Đồng Nai và TP.HCM: chọn điểm đón",
-        "Đi Côn Đảo bằng máy bay hay tàu cao tốc?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-dao-2-ngay-2-dem-lich-trinh-va-cach-tinh-so-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Côn Đảo 2 ngày 2 đêm: lịch trình và cách tính số đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-tu-bien-hoa-dong-nai-va-tp-hcm-chon-diem-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo từ Biên Hòa, Đồng Nai và TP.HCM: chọn điểm đón</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-hay-tau-cao-toc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo bằng máy bay hay tàu cao tốc?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
