@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Doanh nghiệp có thể cân nhắc Team Building ngay tại công ty khi không muốn bố trí chuyến đi xa. Phương án này cần khảo sát khu vực sử dụng, thời gian và mức độ ảnh hưởng tới công việc, thay vì chỉ chuyển các trò chơi ngoài trời vào sân hoặc phòng họp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Doanh nghiệp có thể cân nhắc Team Building ngay tại công ty khi không muốn bố trí chuyến đi xa. Phương án này cần khảo sát khu vực sử dụng, thời gian và mức độ ảnh hưởng tới công việc, thay vì chỉ chuyển các trò chơi ngoài trời vào sân hoặc phòng họp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn khu vực và khung giờ được sử dụng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn khu vực và khung giờ được sử dụng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty nên xác định sân, hội trường hoặc khu vực có thể dành cho chương trình. Cần xem lối đi, bố trí bàn ghế và những hoạt động thường diễn ra ở đó. Với nhà máy, phải thống nhất khu vực được phép tổ chức và thời gian không ảnh hưởng vận hành. Việc tận dụng một khoảng trống không tự động có nghĩa phù hợp mọi trò chơi. Đề xuất nên dựa trên không gian thực tế, không chỉ số mét vuông hoặc ảnh chụp từ xa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty nên xác định sân, hội trường hoặc khu vực có thể dành cho chương trình. Cần xem lối đi, bố trí bàn ghế và những hoạt động thường diễn ra ở đó. Với nhà máy, phải thống nhất khu vực được phép tổ chức và thời gian không ảnh hưởng vận hành. Việc tận dụng một khoảng trống không tự động có nghĩa phù hợp mọi trò chơi. Đề xuất nên dựa trên không gian thực tế, không chỉ số mét vuông hoặc ảnh chụp từ xa.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213159513-0.jpg",
-      "alt": "Team Building tại công ty: tổ chức trong khuôn viên cần chuẩn bị gì?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213159513-0.jpg\" alt=\"Team Building tại công ty: tổ chức trong khuôn viên cần chuẩn bị gì?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thiết kế hoạt động phù hợp nơi làm việc"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thiết kế hoạt động phù hợp nơi làm việc</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi các nhiệm vụ hợp tác, trao đổi nhóm hoặc thử thách ít di chuyển. Dụng cụ, âm thanh và cách chia đội cần tương thích khu vực sử dụng. Nếu chương trình có nhiều nhóm luân phiên, nên tính vị trí chờ và thời gian bàn giao giữa các lượt. Người không tham gia vận động vẫn có thể nhận vai trò trình bày hoặc phối hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi các nhiệm vụ hợp tác, trao đổi nhóm hoặc thử thách ít di chuyển. Dụng cụ, âm thanh và cách chia đội cần tương thích khu vực sử dụng. Nếu chương trình có nhiều nhóm luân phiên, nên tính vị trí chờ và thời gian bàn giao giữa các lượt. Người không tham gia vận động vẫn có thể nhận vai trò trình bày hoặc phối hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Hai trò chơi gợi ý cho sân công ty"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hai trò chơi gợi ý cho sân công ty</span></strong>"
     },
     {
       "type": "list",
@@ -45,39 +44,39 @@
     },
     {
       "type": "p",
-      "text": "Mỗi trò nên có thông điệp gắn với công việc (phối hợp, kiên nhẫn, chia vai) để buổi chơi không chỉ là giải trí."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi trò nên có thông điệp gắn với công việc (phối hợp, kiên nhẫn, chia vai) để buổi chơi không chỉ là giải trí.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt phần công ty và đơn vị tổ chức phối hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phần công ty và đơn vị tổ chức phối hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp có thể tự chuẩn bị chỗ ngồi, nước hoặc phần quà; đơn vị tổ chức nhận kịch bản và phần vận hành đã thỏa thuận. Cần nêu rõ thời gian lắp đặt, thử thiết bị và thu dọn để tránh trùng giờ làm việc. Báo giá nên ghi nhân sự, dụng cụ và điều kiện sử dụng địa điểm. TodayTourist tư vấn theo yêu cầu và kết quả kiểm tra thực tế, không hứa chương trình nào cũng có thể đặt vào một phòng hoặc sân bất kỳ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp có thể tự chuẩn bị chỗ ngồi, nước hoặc phần quà; đơn vị tổ chức nhận kịch bản và phần vận hành đã thỏa thuận. Cần nêu rõ thời gian lắp đặt, thử thiết bị và thu dọn để tránh trùng giờ làm việc. Báo giá nên ghi nhân sự, dụng cụ và điều kiện sử dụng địa điểm. TodayTourist tư vấn theo yêu cầu và kết quả kiểm tra thực tế, không hứa chương trình nào cũng có thể đặt vào một phòng hoặc sân bất kỳ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Tổ chức tại công ty có chắc rẻ hơn đi ra ngoài không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tổ chức tại công ty có chắc rẻ hơn đi ra ngoài không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không chắc. Cần tính thiết bị, nhân sự, thời gian lắp đặt và điều kiện khu vực. Tiết kiệm vận chuyển không đồng nghĩa mọi khoản tổ chức đều thấp hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không chắc. Cần tính thiết bị, nhân sự, thời gian lắp đặt và điều kiện khu vực. Tiết kiệm vận chuyển không đồng nghĩa mọi khoản tổ chức đều thấp hơn.</span>"
     },
     {
       "type": "h3",
-      "text": "Có cần xin phép khu vực trước khi tổ chức không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có cần xin phép khu vực trước khi tổ chức không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên thống nhất trước với bộ phận quản lý khuôn viên về khu vực, giờ vào chuẩn bị và an toàn, nhất là ở nhà máy hoặc khu công nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên thống nhất trước với bộ phận quản lý khuôn viên về khu vực, giờ vào chuẩn bị và an toàn, nhất là ở nhà máy hoặc khu công nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -89,23 +88,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
