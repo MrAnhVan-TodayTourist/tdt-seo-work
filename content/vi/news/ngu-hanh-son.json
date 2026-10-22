@@ -3,106 +3,113 @@
   "title": "Ngũ Hành Sơn: chọn tuyến tham quan phù hợp khách đoàn",
   "category": "Tour Đà Nẵng – Hội An – Huế – Tư vấn đoàn",
   "image": "da-nang-ngu-hanh-son.jpg",
-  "summary": "Ngũ Hành Sơn. Tư vấn đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Ngũ Hành Sơn giúp chuyến Đà Nẵng có thêm cảnh quan và không gian văn hóa.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Ngũ Hành Sơn giúp chuyến Đà Nẵng có thêm cảnh quan và không gian văn hóa. Đoàn nên hỏi rõ tuyến đi, các đoạn bậc và điểm tham quan, để chọn phần phù hợp thay vì xem toàn khu như một điểm dừng ngắn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ngũ Hành Sơn giúp chuyến Đà Nẵng có thêm cảnh quan và không gian văn hóa. Đoàn nên hỏi rõ tuyến đi, các đoạn bậc và điểm tham quan, để chọn phần phù hợp thay vì xem toàn khu như một điểm dừng ngắn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định khu và tuyến được tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định khu và tuyến được tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi những điểm nào trong chương trình, cách vào và thời lượng dự kiến. Tham quan động, viếng chùa và ghé làng nghề là các phần khác nhau. Tên Ngũ Hành Sơn trên lịch chưa đủ cho khách biết sẽ đi hết khu nào hoặc mọi dịch vụ hỗ trợ đã nằm trong vé."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi những điểm nào trong chương trình, cách vào và thời lượng dự kiến. Tham quan động, viếng chùa và ghé làng nghề là các phần khác nhau. Tên Ngũ Hành Sơn trên lịch chưa đủ cho khách biết sẽ đi hết khu nào hoặc mọi dịch vụ hỗ trợ đã nằm trong vé.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792465672870-0.jpg",
-      "alt": "Đà Nẵng – Hội An – Huế – TodayTourist"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792465672870-0.jpg\" alt=\"Đà Nẵng – Hội An – Huế – TodayTourist\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tính nhu cầu đi bộ của nhóm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính nhu cầu đi bộ của nhóm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu có thang máy trong phương án, vẫn cần xem các đoạn sau đó. Người lớn tuổi hoặc khách khó đi bậc nên có lựa chọn nghỉ và nơi hẹn rõ. Chuẩn bị đồ gọn theo hướng dẫn tuyến; không dùng thời gian của nhóm trẻ làm chuẩn cho đoàn nhiều độ tuổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu có thang máy trong phương án, vẫn cần xem các đoạn sau đó. Người lớn tuổi hoặc khách khó đi bậc nên có lựa chọn nghỉ và nơi hẹn rõ. Chuẩn bị đồ gọn theo hướng dẫn tuyến; không dùng thời gian của nhóm trẻ làm chuẩn cho đoàn nhiều độ tuổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ nếp tham quan tại không gian văn hóa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ nếp tham quan tại không gian văn hóa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trang phục, lời nói và việc chụp ảnh cần phù hợp nơi thờ tự. Phần giới thiệu nên chọn vài câu chuyện có nguồn rõ, không thêm truyền thuyết như sự thật lịch sử. Giữ khoảng nghỉ để còn nối Hội An hoặc nhận phòng mà không khiến lịch ngày đầu quá căng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trang phục, lời nói và việc chụp ảnh cần phù hợp nơi thờ tự. Phần giới thiệu nên chọn vài câu chuyện có nguồn rõ, không thêm truyền thuyết như sự thật lịch sử. Giữ khoảng nghỉ để còn nối Hội An hoặc nhận phòng mà không khiến lịch ngày đầu quá căng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Ngũ Hành Sơn có thể phù hợp người đi bộ hạn chế không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Ngũ Hành Sơn có thể phù hợp người đi bộ hạn chế không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần kiểm tra tuyến và lối tiếp cận cụ thể. Có thể chọn phần nhẹ hơn; không kết luận toàn bộ khu đều thuận tiện chỉ vì có dịch vụ hỗ trợ ở một đoạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần kiểm tra tuyến và lối tiếp cận cụ thể. Có thể chọn phần nhẹ hơn; không kết luận toàn bộ khu đều thuận tiện chỉ vì có dịch vụ hỗ trợ ở một đoạn.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist nhận tư vấn đoàn công ty, cơ quan, xí nghiệp và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Anh/chị gửi ngày đi, số người, điểm đón, ngân sách dự kiến và nhu cầu riêng như Team Building, Gala Dinner. Chương trình, giá và khả năng phục vụ được xác nhận theo chuyến thực tế trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo Anh Văn: 0902 898 726</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo Mr Anh Văn: 0902 898 726</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Sơn Trà và chùa Linh Ứng: chọn đúng điểm trong tour Đà Nẵng",
-        "Biển Mỹ Khê: dành thời gian nghỉ biển trong tour Đà Nẵng",
-        "Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ban-dao-son-tra/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Sơn Trà và chùa Linh Ứng: chọn đúng điểm trong tour Đà Nẵng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bien-my-khe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Biển Mỹ Khê: dành thời gian nghỉ biển trong tour Đà Nẵng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-nang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng–Hội An–Huế: chọn hành trình miền Trung cho đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình để trao đổi với Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình để trao đổi với Mr Anh Văn. Giá, giờ bay, lịch trình và phần dịch vụ cần kiểm tra lại theo ngày đi; các yêu cầu bổ sung chưa mặc nhiên nằm trong tour.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-4n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế 4 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-da-nang-hoi-an-hue-phong-nha-5n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Nẵng – Hội An – Huế – Phong Nha 5 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
