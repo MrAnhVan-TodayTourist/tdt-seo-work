@@ -8,8 +8,8 @@
   "published_at": "2026-06-07",
   "content": [
     {
-      "type": "p",
-      "text": "TODAYTOURIST hân hạnh đồng hành cùng đoàn công tác Đảng Uỷ - HĐND - UBND - UB MTTQ Việt Nam Xã Hy Cương, Tỉnh Phú Thọ trong hành trình khám phá miền Tây Nam Bộ đầy ý nghĩa với những trải nghiệm đặc sắc tại Cần Thơ, Sóc Trăng, Bạc Liêu và Cà Mau"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng đoàn công tác Đảng Uỷ - HĐND - UBND - UB MTTQ Việt Nam Xã Hy Cương, Tỉnh Phú Thọ trong hành trình khám phá miền Tây Nam Bộ đầy ý nghĩa với những trải nghiệm đặc sắc tại Cần Thơ, Sóc Trăng, Bạc Liêu và Cà Mau</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Điểm nổi bật trong hành trình:"
+      "text": "<span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span>"
     },
     {
       "type": "p",
-      "text": "Khám phá vẻ đẹp sông nước miền Tây và nét văn hóa đặc trưng Nam Bộ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Khám phá vẻ đẹp sông nước miền Tây và nét văn hóa đặc trưng Nam Bộ</span>"
     },
     {
       "type": "html",
@@ -29,43 +29,47 @@
     },
     {
       "type": "p",
-      "text": "Tham quan các địa danh nổi tiếng tại Cần Thơ, Sóc Trăng, Bạc Liêu và Cà Mau"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tham quan các địa danh nổi tiếng tại Cần Thơ, Sóc Trăng, Bạc Liêu và Cà Mau</span>"
     },
     {
       "type": "p",
-      "text": "Check-in những công trình kiến trúc độc đáo cùng các điểm đến mang đậm dấu ấn lịch sử - văn hóa"
+      "text": "<span style=\"font-size:16px;color:#374151\">Check-in những công trình kiến trúc độc đáo cùng các điểm đến mang đậm dấu ấn lịch sử - văn hóa</span>"
     },
     {
       "type": "p",
-      "text": "Trải nghiệm vùng đất cực Nam của Tổ quốc với nhiều cảm xúc đáng nhớ"
+      "text": "<span style=\"font-size:16px;color:#374151\">Trải nghiệm vùng đất cực Nam của Tổ quốc với nhiều cảm xúc đáng nhớ</span>"
     },
     {
       "type": "p",
-      "text": "Gắn kết tình đồng chí, đồng nghiệp qua những chặng đường đầy ý nghĩa"
+      "text": "<span style=\"font-size:16px;color:#374151\">Gắn kết tình đồng chí, đồng nghiệp qua những chặng đường đầy ý nghĩa</span>"
     },
     {
       "type": "p",
-      "text": "Thưởng thức các món đặc sản miền Tây hấp dẫn và hương vị địa phương đặc trưng"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thưởng thức các món đặc sản miền Tây hấp dẫn và hương vị địa phương đặc trưng</span>"
     },
     {
       "type": "p",
-      "text": "Mua sắm đặc sản làm quà cho gia đình và người thân"
+      "text": "<span style=\"font-size:16px;color:#374151\">Mua sắm đặc sản làm quà cho gia đình và người thân</span>"
     },
     {
       "type": "p",
-      "text": "Lưu giữ những khoảnh khắc đẹp trên hành trình khám phá miền đất phương Nam"
+      "text": "<span style=\"font-size:16px;color:#374151\">Lưu giữ những khoảnh khắc đẹp trên hành trình khám phá miền đất phương Nam</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST xin kính chúc quý lãnh đạo cùng các thành viên trong đoàn thật nhiều sức khỏe, niềm vui và có thêm thật nhiều kỷ niệm đẹp trong chuyến hành trình về với miền Tây thân thương!"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc quý lãnh đạo cùng các thành viên trong đoàn thật nhiều sức khỏe, niềm vui và có thêm thật nhiều kỷ niệm đẹp trong chuyến hành trình về với miền Tây thân thương!</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-07."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-07.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem chương trình <a href=\"/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
