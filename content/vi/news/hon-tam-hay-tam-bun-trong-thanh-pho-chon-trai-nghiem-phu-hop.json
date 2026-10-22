@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khách muốn tắm bùn ở Nha Trang có thể cân nhắc trải nghiệm trên Hòn Tằm hoặc tại khu dịch vụ trên đất liền như I-Resort. Lựa chọn nên dựa vào thời gian, khả năng đi biển và những hoạt động đoàn muốn kết hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách muốn tắm bùn ở Nha Trang có thể cân nhắc trải nghiệm trên Hòn Tằm hoặc tại khu dịch vụ trên đất liền như I-Resort. Lựa chọn nên dựa vào thời gian, khả năng đi biển và những hoạt động đoàn muốn kết hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Hòn Tằm đi cùng chặng ra đảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hòn Tằm đi cùng chặng ra đảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hòn Tằm có dịch vụ tắm bùn và không gian nghỉ dưỡng trên đảo. Khi so gói, cần xem phần vận chuyển, khu sử dụng, bữa ăn và thời gian trải nghiệm. Đoàn phải tính tập kết tại bến và điều kiện di chuyển, không chỉ thời gian ngâm bùn. Gói tham quan trong ngày khác với lưu trú tại resort."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hòn Tằm có dịch vụ tắm bùn và không gian nghỉ dưỡng trên đảo. Khi so gói, cần xem phần vận chuyển, khu sử dụng, bữa ăn và thời gian trải nghiệm. Đoàn phải tính tập kết tại bến và điều kiện di chuyển, không chỉ thời gian ngâm bùn. Gói tham quan trong ngày khác với lưu trú tại resort.</span>"
     },
     {
       "type": "html",
@@ -25,80 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "I-Resort là lựa chọn trên đất liền"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">I-Resort là lựa chọn trên đất liền</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu dịch vụ có các sản phẩm tắm bùn và khoáng để khách lựa chọn. Từng gói có phần sử dụng khác nhau, nên hỏi bồn chung hay riêng, hồ khoáng, khu vui chơi và đồ dùng được cung cấp. Với đoàn không muốn đi tàu, phương án trên đất liền có thể thuận cách sắp lịch hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu dịch vụ có các sản phẩm tắm bùn và khoáng để khách lựa chọn. Từng gói có phần sử dụng khác nhau, nên hỏi bồn chung hay riêng, hồ khoáng, khu vui chơi và đồ dùng được cung cấp. Với đoàn không muốn đi tàu, phương án trên đất liền có thể thuận cách sắp lịch hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "So gói bằng dịch vụ và thời gian thật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So gói bằng dịch vụ và thời gian thật</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một gói gồm bữa ăn và vận chuyển không nên so trực tiếp với vé dịch vụ đơn lẻ. Đoàn đông cần hỏi cách chia lượt, nơi thay đồ, giữ hành lý và khoảng chờ. Nếu có thành viên không tắm bùn, cần xem hoạt động khác và mức vé phù hợp thay vì mua cùng một gói cho mọi người."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một gói gồm bữa ăn và vận chuyển không nên so trực tiếp với vé dịch vụ đơn lẻ. Đoàn đông cần hỏi cách chia lượt, nơi thay đồ, giữ hành lý và khoảng chờ. Nếu có thành viên không tắm bùn, cần xem hoạt động khác và mức vé phù hợp thay vì mua cùng một gói cho mọi người.</span>"
     },
     {
       "type": "h2",
-      "text": "Tắm bùn là trải nghiệm thư giãn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tắm bùn là trải nghiệm thư giãn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không nên chọn dịch vụ từ lời hứa chữa bệnh. Người có nhu cầu sức khỏe riêng nên hỏi hướng dẫn của đơn vị phục vụ và tư vấn phù hợp trước khi tham gia. TodayTourist hỗ trợ cân đối hoạt động tắm bùn với tour Nha Trang, xác nhận gói và phương án vận chuyển theo yêu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên chọn dịch vụ từ lời hứa chữa bệnh. Người có nhu cầu sức khỏe riêng nên hỏi hướng dẫn của đơn vị phục vụ và tư vấn phù hợp trước khi tham gia. TodayTourist hỗ trợ cân đối hoạt động tắm bùn với tour Nha Trang, xác nhận gói và phương án vận chuyển theo yêu cầu.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Hòn Tằm có luôn gồm tắm bùn không? Phải đọc gói được đặt. Đi I-Resort có cần ra đảo? Đây là lựa chọn trên đất liền; vẫn cần bố trí xe và thời gian di chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Hòn Tằm có luôn gồm tắm bùn không? Phải đọc gói được đặt. Đi I-Resort có cần ra đảo? Đây là lựa chọn trên đất liền; vẫn cần bố trí xe và thời gian di chuyển.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đảo Khỉ và Suối Hoa Lan: có phù hợp lịch trình khách đoàn?",
-        "Bãi Dài, Cam Ranh hay trung tâm Nha Trang: đoàn nên chọn ở đâu?",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dao-khi-va-suoi-hoa-lan-co-phu-hop-lich-trinh-khach-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đảo Khỉ và Suối Hoa Lan: có phù hợp lịch trình khách đoàn?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bai-dai-cam-ranh-hay-trung-tam-nha-trang-doan-nen-chon-o-dau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bãi Dài, Cam Ranh hay trung tâm Nha Trang: đoàn nên chọn ở đâu?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
