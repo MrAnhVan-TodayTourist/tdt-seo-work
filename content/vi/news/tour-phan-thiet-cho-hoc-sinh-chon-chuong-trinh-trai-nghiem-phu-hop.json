@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour học sinh khác tour công ty ở mục tiêu và trách nhiệm quản lý. Nhà trường nên bắt đầu từ lứa tuổi, mục tiêu học tập và cách phối hợp giữa các bên."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour học sinh khác tour công ty ở mục tiêu và trách nhiệm quản lý. Nhà trường nên bắt đầu từ lứa tuổi, mục tiêu học tập và cách phối hợp giữa các bên.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Mục tiêu trải nghiệm theo lứa tuổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mục tiêu trải nghiệm theo lứa tuổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Học sinh nhỏ cần hoạt động ngắn, an toàn và có người quản lý sát; học sinh lớn có thể tham gia trải nghiệm tìm hiểu văn hóa, địa phương hoặc kỹ năng. Mục tiêu rõ giúp chương trình có nội dung thay vì chỉ đi chơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Học sinh nhỏ cần hoạt động ngắn, an toàn và có người quản lý sát; học sinh lớn có thể tham gia trải nghiệm tìm hiểu văn hóa, địa phương hoặc kỹ năng. Mục tiêu rõ giúp chương trình có nội dung thay vì chỉ đi chơi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222592438-0.jpg",
-      "alt": "A lighthouse stands tall on a lush, rocky island surrounded by the ser"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222592438-0.jpg\" alt=\"A lighthouse stands tall on a lush, rocky island surrounded by the ser\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Lịch trình và hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lịch trình và hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch cần cân đối giữa học và nghỉ, tránh quá dày. Hoạt động nên phù hợp độ tuổi và có phương án khi trời mưa. Bữa ăn và giờ nghỉ cần được tính kỹ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch cần cân đối giữa học và nghỉ, tránh quá dày. Hoạt động nên phù hợp độ tuổi và có phương án khi trời mưa. Bữa ăn và giờ nghỉ cần được tính kỹ.</span>"
     },
     {
       "type": "h2",
-      "text": "Phối hợp giáo viên, phụ huynh và đơn vị tổ chức"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phối hợp giáo viên, phụ huynh và đơn vị tổ chức</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống nhất người phụ trách, quy tắc ứng xử và kênh liên lạc với phụ huynh. Nhà trường duyệt chương trình và danh sách học sinh. Đơn vị tổ chức cần cung cấp lịch cụ thể."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống nhất người phụ trách, quy tắc ứng xử và kênh liên lạc với phụ huynh. Nhà trường duyệt chương trình và danh sách học sinh. Đơn vị tổ chức cần cung cấp lịch cụ thể.</span>"
     },
     {
       "type": "h2",
-      "text": "An toàn biển, bảo hiểm và yêu cầu riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">An toàn biển, bảo hiểm và yêu cầu riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hoạt động gần nước cần quy định rõ khu vực, người giám sát và thời gian. Hỏi bảo hiểm cho học sinh và yêu cầu về sức khỏe, ăn uống. Chỉ đưa hoạt động vào lịch khi có người chịu trách nhiệm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hoạt động gần nước cần quy định rõ khu vực, người giám sát và thời gian. Hỏi bảo hiểm cho học sinh và yêu cầu về sức khỏe, ăn uống. Chỉ đưa hoạt động vào lịch khi có người chịu trách nhiệm.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour học sinh cần thông tin gì để báo giá?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour học sinh cần thông tin gì để báo giá?</span>"
     },
     {
       "type": "p",
-      "text": "Số học sinh, khối lớp, ngày đi, mục tiêu học tập, điểm đón và ngân sách dự kiến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Số học sinh, khối lớp, ngày đi, mục tiêu học tập, điểm đón và ngân sách dự kiến.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?",
-        "Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp",
-        "Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-phan-thiet-1-ngay-2-ngay-1-dem-hay-3-ngay-2-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Phan Thiết 1 ngày, 2 ngày 1 đêm hay 3 ngày 2 đêm?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phan-thiet-mui-ne-chon-bai-bien-va-tro-choi-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phan Thiết – Mũi Né: chọn bãi biển và trò chơi phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phan-thiet-mui-ne-co-gi-choi-goi-y-diem-tham-quan-theo-lich-trinh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phan Thiết – Mũi Né có gì chơi? Gợi ý điểm tham quan theo lịch trình</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
