@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Giá tour Vũng Tàu không thể so công bằng nếu một chương trình ngủ lại còn chương trình khác đi trong ngày, hoặc hai báo giá dùng tiêu chuẩn phòng và bữa ăn khác nhau."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Giá tour Vũng Tàu không thể so công bằng nếu một chương trình ngủ lại còn chương trình khác đi trong ngày, hoặc hai báo giá dùng tiêu chuẩn phòng và bữa ăn khác nhau.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắt đầu từ một yêu cầu thống nhất"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắt đầu từ một yêu cầu thống nhất</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày đi, điểm đón, số khách, số đêm, loại xe và tiêu chuẩn lưu trú. Đoàn có trẻ em cần danh sách tuổi hoặc thông tin mà nhà cung cấp yêu cầu. Nếu số người chưa chốt, đề nghị báo giá theo vài mức quy mô để thấy phần nào thay đổi. Không dùng giá quảng cáo dành cho đoàn đông để dự toán nhóm nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày đi, điểm đón, số khách, số đêm, loại xe và tiêu chuẩn lưu trú. Đoàn có trẻ em cần danh sách tuổi hoặc thông tin mà nhà cung cấp yêu cầu. Nếu số người chưa chốt, đề nghị báo giá theo vài mức quy mô để thấy phần nào thay đổi. Không dùng giá quảng cáo dành cho đoàn đông để dự toán nhóm nhỏ.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Tách giá tour với giá sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách giá tour với giá sự kiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe, phòng, bữa ăn và vé là phần nền tảng. Team Building, sân khấu, MC, âm thanh, quà trò chơi hoặc quay chụp cần được liệt kê riêng. Cùng tên Gala Dinner nhưng hạng mục và thời lượng có thể khác nhau. Yêu cầu ghi rõ các khoản đã gồm, chưa gồm, thuế và điều kiện xuất hóa đơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe, phòng, bữa ăn và vé là phần nền tảng. Team Building, sân khấu, MC, âm thanh, quà trò chơi hoặc quay chụp cần được liệt kê riêng. Cùng tên Gala Dinner nhưng hạng mục và thời lượng có thể khác nhau. Yêu cầu ghi rõ các khoản đã gồm, chưa gồm, thuế và điều kiện xuất hóa đơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tìm cách tiết kiệm đúng chỗ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tìm cách tiết kiệm đúng chỗ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể giảm điểm tham quan, chọn loại phòng phù hợp hoặc chuyển từ tiệc sân khấu sang giao lưu đơn giản. Không nên tiết kiệm bằng cách bỏ thời gian nghỉ, bố trí xe thiếu chỗ hoặc giấu phụ phí. Trước khi đặt cọc, kiểm tra thời hạn báo giá, dịch vụ được giữ và điều kiện giảm khách. Một mức giá rõ ràng giúp người đại diện đoàn trình duyệt dễ hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể giảm điểm tham quan, chọn loại phòng phù hợp hoặc chuyển từ tiệc sân khấu sang giao lưu đơn giản. Không nên tiết kiệm bằng cách bỏ thời gian nghỉ, bố trí xe thiếu chỗ hoặc giấu phụ phí. Trước khi đặt cọc, kiểm tra thời hạn báo giá, dịch vụ được giữ và điều kiện giảm khách. Một mức giá rõ ràng giúp người đại diện đoàn trình duyệt dễ hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tại sao cùng tour 2N1Đ nhưng giá chênh nhau?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tại sao cùng tour 2N1Đ nhưng giá chênh nhau?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể khác ngày đi, quy mô đoàn, khách sạn, cơ cấu phòng, bữa ăn và dịch vụ sự kiện. Cần so cùng hạng mục trước khi kết luận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể khác ngày đi, quy mô đoàn, khách sạn, cơ cấu phòng, bữa ăn và dịch vụ sự kiện. Cần so cùng hạng mục trước khi kết luận.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển",
-        "Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn",
-        "Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-1-ngay-lich-gon-de-vua-tham-quan-vua-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 1 ngày: lịch gọn để vừa tham quan vừa nghỉ biển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-2-ngay-1-dem-sap-lich-nghi-bien-va-sinh-hoat-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 ngày 1 đêm: sắp lịch nghỉ biển và sinh hoạt đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-vung-tau-cho-cong-ty-tu-yeu-cau-den-chuong-trinh-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu cho công ty: từ yêu cầu đến chương trình đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
