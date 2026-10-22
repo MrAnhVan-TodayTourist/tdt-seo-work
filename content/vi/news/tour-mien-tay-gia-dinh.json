@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Miền Tây có nhiều trải nghiệm để gia đình cùng tham gia, nhưng lịch cần có thời gian ăn, ngủ và nghỉ cho trẻ. Khi chọn tour, đừng chỉ xem ảnh trò chơi. Hãy hỏi độ tuổi phù hợp, dịch vụ tính cho trẻ và điều kiện lên thuyền để cả nhà chủ động trước ngày đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Miền Tây có nhiều trải nghiệm để gia đình cùng tham gia, nhưng lịch cần có thời gian ăn, ngủ và nghỉ cho trẻ. Khi chọn tour, đừng chỉ xem ảnh trò chơi. Hãy hỏi độ tuổi phù hợp, dịch vụ tính cho trẻ và điều kiện lên thuyền để cả nhà chủ động trước ngày đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một trải nghiệm nổi bật cho mỗi buổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một trải nghiệm nổi bật cho mỗi buổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể dành buổi sáng cho thuyền và vườn, buổi chiều cho nghỉ hoặc một điểm nhẹ. Với chuyến hai ngày, chọn hoạt động thật sự muốn làm rồi giữ khoảng trống cho sinh hoạt gia đình. Trẻ nhỏ thường khó theo lịch nhiều điểm liên tục, nhất là sau khi phải dậy sớm di chuyển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể dành buổi sáng cho thuyền và vườn, buổi chiều cho nghỉ hoặc một điểm nhẹ. Với chuyến hai ngày, chọn hoạt động thật sự muốn làm rồi giữ khoảng trống cho sinh hoạt gia đình. Trẻ nhỏ thường khó theo lịch nhiều điểm liên tục, nhất là sau khi phải dậy sớm di chuyển.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Báo đủ thông tin của trẻ khi hỏi giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo đủ thông tin của trẻ khi hỏi giá</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần cung cấp tuổi, nhu cầu ghế trên xe, suất ăn và việc ngủ chung hoặc riêng. Giá trẻ em không chỉ là một tỷ lệ cố định của giá người lớn; phải theo điều kiện tour và dịch vụ. Khi tham gia trải nghiệm sông nước, hỏi trước yêu cầu và trang bị phù hợp, luôn giữ người lớn phụ trách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần cung cấp tuổi, nhu cầu ghế trên xe, suất ăn và việc ngủ chung hoặc riêng. Giá trẻ em không chỉ là một tỷ lệ cố định của giá người lớn; phải theo điều kiện tour và dịch vụ. Khi tham gia trải nghiệm sông nước, hỏi trước yêu cầu và trang bị phù hợp, luôn giữ người lớn phụ trách.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị đồ dùng vừa đủ và phương án nghỉ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị đồ dùng vừa đủ và phương án nghỉ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mang đồ thay, nón, áo mưa và vật dụng sinh hoạt cần thiết theo thời gian đi. Với trò dễ ướt hoặc làm bánh, hỏi khu vệ sinh và thay đồ. Không mặc định mọi vườn đều có trái để hái hoặc mọi vé đã bao gồm trò chơi; xác nhận hoạt động theo ngày để tránh trẻ kỳ vọng sai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mang đồ thay, nón, áo mưa và vật dụng sinh hoạt cần thiết theo thời gian đi. Với trò dễ ướt hoặc làm bánh, hỏi khu vệ sinh và thay đồ. Không mặc định mọi vườn đều có trái để hái hoặc mọi vé đã bao gồm trò chơi; xác nhận hoạt động theo ngày để tránh trẻ kỳ vọng sai.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Đi một ngày hay hai ngày phù hợp hơn cho gia đình?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi một ngày hay hai ngày phù hợp hơn cho gia đình?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày ít thủ tục lưu trú nhưng có thể phải đi sớm và về muộn. Hai ngày có thời gian nghỉ nếu tuyến gọn. Lựa chọn nên dựa trên tuổi trẻ, điểm xuất phát và nhịp sinh hoạt của nhà mình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày ít thủ tục lưu trú nhưng có thể phải đi sớm và về muộn. Hai ngày có thời gian nghỉ nếu tuyến gọn. Lựa chọn nên dựa trên tuổi trẻ, điểm xuất phát và nhịp sinh hoạt của nhà mình.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây gia đình? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour miền Tây gia đình? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 1 ngày: chọn tuyến phù hợp để đi về trong ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-son/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Sơn Cần Thơ: chọn trải nghiệm cộng đồng và bữa ăn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-con-son/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Sơn Cần Thơ: chọn trải nghiệm cộng đồng và bữa ăn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
