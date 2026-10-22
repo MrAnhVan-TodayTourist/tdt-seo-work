@@ -8,98 +8,108 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Tour Đà Lạt kết hợp hội nghị khách hàng, tổng kết hoặc tri ân cần bảo đảm hai mục tiêu: nội dung công việc diễn ra chỉn chu và khách có thời gian nghỉ dưỡng. Vì vậy, chương trình nên được thiết kế quanh phiên họp chính, sau đó mới bố trí tham quan và Gala."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour Đà Lạt kết hợp hội nghị khách hàng, tổng kết hoặc tri ân cần bảo đảm hai mục tiêu: nội dung công việc diễn ra chỉn chu và khách có thời gian nghỉ dưỡng. Vì vậy, chương trình nên được thiết kế quanh phiên họp chính, sau đó mới bố trí tham quan và Gala.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chốt nội dung hội nghị trước lịch tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt nội dung hội nghị trước lịch tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác định số đại biểu, thời lượng, hình thức ngồi, số diễn giả và các phần trình chiếu. Hội nghị khách hàng có thể cần khu vực đón tiếp, trưng bày hoặc trao quà; tổng kết nội bộ có thể cần thảo luận nhóm. Đây là những yêu cầu khác nhau, cần gửi cùng đề bài thay vì chỉ ghi chung là có hội nghị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác định số đại biểu, thời lượng, hình thức ngồi, số diễn giả và các phần trình chiếu. Hội nghị khách hàng có thể cần khu vực đón tiếp, trưng bày hoặc trao quà; tổng kết nội bộ có thể cần thảo luận nhóm. Đây là những yêu cầu khác nhau, cần gửi cùng đề bài thay vì chỉ ghi chung là có hội nghị.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215449152-0.jpg",
-      "alt": "Tour Đà Lạt kết hợp hội nghị, tổng kết và tri ân khách hàng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215449152-0.jpg\" alt=\"Tour Đà Lạt kết hợp hội nghị, tổng kết và tri ân khách hàng\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn nơi lưu trú có không gian đáp ứng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn nơi lưu trú có không gian đáp ứng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Kiểm tra phòng họp, âm thanh, màn hình, ánh sáng, nguồn điện và khả năng bố trí đúng sơ đồ. Nếu phòng họp và khách sạn khác địa điểm, phải tính giờ đưa đón. Với đoàn có phiên làm việc buổi sáng, hạn chế xếp săn mây ngay trước đó. Địa điểm phải được xác nhận cho đúng ngày và quy mô, không chỉ chọn qua ảnh giới thiệu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kiểm tra phòng họp, âm thanh, màn hình, ánh sáng, nguồn điện và khả năng bố trí đúng sơ đồ. Nếu phòng họp và khách sạn khác địa điểm, phải tính giờ đưa đón. Với đoàn có phiên làm việc buổi sáng, hạn chế xếp săn mây ngay trước đó. Địa điểm phải được xác nhận cho đúng ngày và quy mô, không chỉ chọn qua ảnh giới thiệu.</span>"
     },
     {
       "type": "h2",
-      "text": "Tách phiên họp và đêm Gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách phiên họp và đêm Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phát biểu, báo cáo và thảo luận nên có không gian tập trung. Gala có thể dùng cho tri ân, vinh danh và giao lưu sau khi kết thúc phần công việc. Phân tách vai trò giúp kịch bản dễ theo dõi và tránh bữa ăn làm gián đoạn nội dung hội nghị. Thời gian nghỉ giữa hai phần cũng cần đủ để khách thay trang phục và chuẩn bị."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phát biểu, báo cáo và thảo luận nên có không gian tập trung. Gala có thể dùng cho tri ân, vinh danh và giao lưu sau khi kết thúc phần công việc. Phân tách vai trò giúp kịch bản dễ theo dõi và tránh bữa ăn làm gián đoạn nội dung hội nghị. Thời gian nghỉ giữa hai phần cũng cần đủ để khách thay trang phục và chuẩn bị.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị đầu mối và yêu cầu kỹ thuật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị đầu mối và yêu cầu kỹ thuật</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp cần một người duyệt nội dung, một người cung cấp danh sách và tài liệu trình chiếu. Gửi trước logo được phép sử dụng, tên chương trình, chức danh và yêu cầu thiết bị. TodayTourist tư vấn lịch trình Đà Lạt kết hợp hội nghị, tham quan và Gala theo đề bài; báo giá cần nêu rõ phần du lịch và phần tổ chức sự kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp cần một người duyệt nội dung, một người cung cấp danh sách và tài liệu trình chiếu. Gửi trước logo được phép sử dụng, tên chương trình, chức danh và yêu cầu thiết bị. TodayTourist tư vấn lịch trình Đà Lạt kết hợp hội nghị, tham quan và Gala theo đề bài; báo giá cần nêu rõ phần du lịch và phần tổ chức sự kiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có phải mọi khách sạn đều có phòng họp phù hợp không? Không; cần kiểm tra cấu hình và dịch vụ. Có thể thêm Team Building không? Có thể, nếu quỹ thời gian và người tham gia phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có phải mọi khách sạn đều có phòng họp phù hợp không? Không; cần kiểm tra cấu hình và dịch vụ. Có thể thêm Team Building không? Có thể, nếu quỹ thời gian và người tham gia phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình Đà Lạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình Đà Lạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, thời lượng và các hoạt động mong muốn để TodayTourist tư vấn phương án phù hợp với đoàn của bạn.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Đà Lạt cho học sinh, sinh viên: lịch trình trải nghiệm",
-        "Tour Đà Lạt cho cơ quan, đoàn thể và tập thể giáo viên",
-        "Giá tour Đà Lạt: khách đoàn cần so sánh những gì?",
-        "Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-cho-hoc-sinh-sinh-vien-lich-trinh-trai-nghiem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt cho học sinh, sinh viên: lịch trình trải nghiệm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-cho-co-quan-doan-the-va-tap-the-giao-vien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt cho cơ quan, đoàn thể và tập thể giáo viên</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-da-lat-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Đà Lạt: khách đoàn cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-da-lat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Lạt từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-du-xuan-cao-nguyen-da-lat-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đà Lạt 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
