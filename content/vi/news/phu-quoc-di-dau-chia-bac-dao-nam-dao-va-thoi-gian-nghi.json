@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Muốn sắp lịch Phú Quốc dễ theo dõi, hãy chia theo khu vực và mục tiêu. Một bản đồ nhu cầu hữu ích hơn danh sách dài điểm nổi tiếng mà không tính chặng xe."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Muốn sắp lịch Phú Quốc dễ theo dõi, hãy chia theo khu vực và mục tiêu. Một bản đồ nhu cầu hữu ích hơn danh sách dài điểm nổi tiếng mà không tính chặng xe.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Bắc đảo cho nhóm vui chơi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bắc đảo cho nhóm vui chơi</span></strong>"
     },
     {
       "type": "p",
-      "text": "VinWonders, Safari và Grand World là những lựa chọn thường được xem trong phần Bắc đảo. Mỗi nơi có cách sử dụng vé và thời gian trải nghiệm riêng. Không nên mặc định đi hết trong một buổi. Gia đình chọn theo độ tuổi; đoàn công ty chọn theo thời gian còn lại ngoài hoạt động chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">VinWonders, Safari và Grand World là những lựa chọn thường được xem trong phần Bắc đảo. Mỗi nơi có cách sử dụng vé và thời gian trải nghiệm riêng. Không nên mặc định đi hết trong một buổi. Gia đình chọn theo độ tuổi; đoàn công ty chọn theo thời gian còn lại ngoài hoạt động chung.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Nam đảo cho biển, trải nghiệm và tham quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nam đảo cho biển, trải nghiệm và tham quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể cân nhắc Bãi Sao, di tích Nhà tù, Hòn Thơm và Sunset Town theo mục tiêu. Hoạt động canô cần điều kiện riêng và thời tiết phù hợp. Đừng xếp chương trình trên biển, công viên nước và show tối quá sát nhau mà bỏ qua giờ nghỉ hoặc bữa ăn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cân nhắc Bãi Sao, di tích Nhà tù, Hòn Thơm và Sunset Town theo mục tiêu. Hoạt động canô cần điều kiện riêng và thời tiết phù hợp. Đừng xếp chương trình trên biển, công viên nước và show tối quá sát nhau mà bỏ qua giờ nghỉ hoặc bữa ăn.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ một phần nghỉ và sinh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ một phần nghỉ và sinh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu lưu trú nên phục vụ lịch, không bắt đoàn đi qua đảo nhiều lần. Ngày đến và ngày về được bố trí theo giờ vận chuyển. Ghi rõ điểm chính, tự chọn và phương tiện buổi tối. Đoàn nghỉ dưỡng có thể bỏ bớt điểm để dùng tiện ích; tour tốt là lịch phù hợp người đi, không phải lịch có nhiều tên nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu lưu trú nên phục vụ lịch, không bắt đoàn đi qua đảo nhiều lần. Ngày đến và ngày về được bố trí theo giờ vận chuyển. Ghi rõ điểm chính, tự chọn và phương tiện buổi tối. Đoàn nghỉ dưỡng có thể bỏ bớt điểm để dùng tiện ích; tour tốt là lịch phù hợp người đi, không phải lịch có nhiều tên nhất.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ba ngày có tham quan đủ Bắc và Nam đảo không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Ba ngày có tham quan đủ Bắc và Nam đảo không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn một số điểm mỗi khu, nhưng phải theo giờ đến, giờ về và mức trải nghiệm mong muốn. Không nên hứa đi hết mọi nơi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn một số điểm mỗi khu, nhưng phải theo giờ đến, giờ về và mức trải nghiệm mong muốn. Không nên hứa đi hết mọi nơi.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc",
-        "Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm",
-        "Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/o-duong-dong-bac-dao-hay-nam-dao-chon-khu-luu-tru-phu-quoc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Ở Dương Đông, Bắc đảo hay Nam đảo: chọn khu lưu trú Phú Quốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nam-dao-phu-quoc-chon-bien-di-tich-va-trai-nghiem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nam đảo Phú Quốc: chọn biển, di tích và trải nghiệm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bac-dao-phu-quoc-sap-vinwonders-safari-va-grand-world/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Bắc đảo Phú Quốc: sắp VinWonders, Safari và Grand World</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
