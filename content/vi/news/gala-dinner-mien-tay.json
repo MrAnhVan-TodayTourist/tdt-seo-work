@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Một bữa ăn trên du thuyền và Gala Dinner riêng là hai cách tổ chức khác nhau. Với tour Miền Tây cho doanh nghiệp, hãy xác định cần ăn tối ngắm cảnh hay có sân khấu, vinh danh và giao lưu. Chọn đúng hình thức giúp tránh thiếu thiết bị hoặc không đủ thời gian cho nội dung của công ty."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một bữa ăn trên du thuyền và Gala Dinner riêng là hai cách tổ chức khác nhau. Với tour Miền Tây cho doanh nghiệp, hãy xác định cần ăn tối ngắm cảnh hay có sân khấu, vinh danh và giao lưu. Chọn đúng hình thức giúp tránh thiếu thiết bị hoặc không đủ thời gian cho nội dung của công ty.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Tiệc nhà hàng và du thuyền phục vụ khác nhau"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tiệc nhà hàng và du thuyền phục vụ khác nhau</span></strong>"
     },
     {
       "type": "p",
-      "text": "Khu tiệc riêng thuận tiện kiểm soát sân khấu, chỗ ngồi và kịch bản. Du thuyền có trải nghiệm cảnh sông nhưng cần hỏi khu riêng, lịch chạy, thời lượng và điều kiện âm thanh. Không mặc định vé bữa tối thông thường cho phép tổ chức mọi hoạt động hoặc độc quyền toàn bộ không gian."
+      "text": "<span style=\"font-size:16px;color:#374151\">Khu tiệc riêng thuận tiện kiểm soát sân khấu, chỗ ngồi và kịch bản. Du thuyền có trải nghiệm cảnh sông nhưng cần hỏi khu riêng, lịch chạy, thời lượng và điều kiện âm thanh. Không mặc định vé bữa tối thông thường cho phép tổ chức mọi hoạt động hoặc độc quyền toàn bộ không gian.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Ghi rõ từng hạng mục sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghi rõ từng hạng mục sự kiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nên gửi số khách, chủ đề, phần vinh danh, tiết mục và yêu cầu MC. Báo giá cần tách tiệc, thiết bị, màn hình, sân khấu, trang trí và nhân sự nếu có. Khi đưa tiết mục công ty vào lịch, xác nhận khâu tập dượt, nhạc và thời gian dùng thiết bị trước giờ đón khách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nên gửi số khách, chủ đề, phần vinh danh, tiết mục và yêu cầu MC. Báo giá cần tách tiệc, thiết bị, màn hình, sân khấu, trang trí và nhân sự nếu có. Khi đưa tiết mục công ty vào lịch, xác nhận khâu tập dượt, nhạc và thời gian dùng thiết bị trước giờ đón khách.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp lịch nghỉ sau buổi Gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp lịch nghỉ sau buổi Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu sáng hôm sau đi chợ nổi, cân nhắc kết thúc sớm hoặc điều chỉnh điểm sáng. Chương trình quá muộn khiến đoàn mệt và ảnh hưởng giờ trả phòng. Có nhu cầu lửa trại cũng cần hỏi khu được phép tổ chức, nhân sự, phương án mưa và báo giá riêng; không mặc định khách sạn có dịch vụ này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu sáng hôm sau đi chợ nổi, cân nhắc kết thúc sớm hoặc điều chỉnh điểm sáng. Chương trình quá muộn khiến đoàn mệt và ảnh hưởng giờ trả phòng. Có nhu cầu lửa trại cũng cần hỏi khu được phép tổ chức, nhân sự, phương án mưa và báo giá riêng; không mặc định khách sạn có dịch vụ này.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Tour Cần Thơ có sẵn bữa tối thì đã gồm Gala chưa?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Tour Cần Thơ có sẵn bữa tối thì đã gồm Gala chưa?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chưa chắc. Phải đọc phần bao gồm và kịch bản. Bữa tối có thể chỉ là dịch vụ ăn uống; Gala riêng cần xác nhận khu tổ chức, thiết bị và nhân sự."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chưa chắc. Phải đọc phần bao gồm và kịch bản. Bữa tối có thể chỉ là dịch vụ ăn uống; Gala riêng cần xác nhận khu tổ chức, thiết bị và nhân sự.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc gala dinner miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc gala dinner miền Tây? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho công ty: chuẩn bị yêu cầu để nhận báo giá đúng</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-mien-tay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Miền Tây: chọn khu chơi và kịch bản phù hợp đoàn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/ben-ninh-kieu/\" target=\"_blank\" rel=\"noopener nofollow\">Bến Ninh Kiều và du thuyền Cần Thơ: chọn trải nghiệm buổi tối</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ben-ninh-kieu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bến Ninh Kiều và du thuyền Cần Thơ: chọn trải nghiệm buổi tối</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     }
   ],
   "hidden": false
