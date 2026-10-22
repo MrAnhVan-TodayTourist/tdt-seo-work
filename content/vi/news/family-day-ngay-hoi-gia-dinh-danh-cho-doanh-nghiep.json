@@ -8,33 +8,32 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Ngày hội gia đình có người lớn và trẻ em cùng tham dự nên cách tổ chức cần khác Team Building chỉ dành cho nhân viên. Doanh nghiệp nên ưu tiên lịch dễ tham gia, khu vực phù hợp và thông tin rõ cho gia đình trước khi chọn hoạt động."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Ngày hội gia đình có người lớn và trẻ em cùng tham dự nên cách tổ chức cần khác Team Building chỉ dành cho nhân viên. Doanh nghiệp nên ưu tiên lịch dễ tham gia, khu vực phù hợp và thông tin rõ cho gia đình trước khi chọn hoạt động.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Thống kê thành viên theo nhóm tuổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thống kê thành viên theo nhóm tuổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Danh sách cần tách nhân viên, người thân và trẻ em theo nhóm tuổi để dự kiến suất ăn, chỗ ngồi và hoạt động. Tổng số người đăng ký chưa phản ánh hết nhu cầu của đoàn. Gia đình có trẻ nhỏ có thể cần thời gian nghỉ khác nhóm người lớn. Doanh nghiệp nên thu thập những nhu cầu liên quan đến việc tham gia qua đầu mối phù hợp, tránh công khai thông tin cá nhân không cần thiết."
+      "text": "<span style=\"font-size:16px;color:#374151\">Danh sách cần tách nhân viên, người thân và trẻ em theo nhóm tuổi để dự kiến suất ăn, chỗ ngồi và hoạt động. Tổng số người đăng ký chưa phản ánh hết nhu cầu của đoàn. Gia đình có trẻ nhỏ có thể cần thời gian nghỉ khác nhóm người lớn. Doanh nghiệp nên thu thập những nhu cầu liên quan đến việc tham gia qua đầu mối phù hợp, tránh công khai thông tin cá nhân không cần thiết.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213137067-0.jpg",
-      "alt": "Family Day: ngày hội gia đình dành cho doanh nghiệp"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213137067-0.jpg\" alt=\"Family Day: ngày hội gia đình dành cho doanh nghiệp\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chọn hoạt động có nhiều cách tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn hoạt động có nhiều cách tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể xây dựng phần giao lưu gia đình, hoạt động nhẹ hoặc thử thách theo nhóm nếu địa điểm đáp ứng. Không nên dùng nguyên chương trình vận động của người lớn cho toàn bộ đoàn. Các hoạt động dành cho trẻ cần làm rõ người phụ trách, điều kiện tham gia và vai trò của phụ huynh. Việc có nhân sự tổ chức không thay thế trách nhiệm chăm sóc trẻ của gia đình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể xây dựng phần giao lưu gia đình, hoạt động nhẹ hoặc thử thách theo nhóm nếu địa điểm đáp ứng. Không nên dùng nguyên chương trình vận động của người lớn cho toàn bộ đoàn. Các hoạt động dành cho trẻ cần làm rõ người phụ trách, điều kiện tham gia và vai trò của phụ huynh. Việc có nhân sự tổ chức không thay thế trách nhiệm chăm sóc trẻ của gia đình.</span>"
     },
     {
       "type": "h2",
-      "text": "Ba trò chơi gợi ý cho cả gia đình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ba trò chơi gợi ý cho cả gia đình</span></strong>"
     },
     {
       "type": "list",
@@ -46,35 +45,35 @@
     },
     {
       "type": "h2",
-      "text": "Lên lịch và phạm vi phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lên lịch và phạm vi phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch nên có khoảng nghỉ, thời gian dùng bữa và hướng dẫn điểm tập trung. Địa điểm cần được xem xét theo không gian sinh hoạt, khu vực nghỉ và cách di chuyển. Báo giá nên tách phần hoạt động, ăn uống, vận chuyển và các khoản tính theo độ tuổi nếu áp dụng. Chương trình kết hợp tour cần xác nhận lịch đón, danh sách từng xe và đầu mối xử lý thay đổi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch nên có khoảng nghỉ, thời gian dùng bữa và hướng dẫn điểm tập trung. Địa điểm cần được xem xét theo không gian sinh hoạt, khu vực nghỉ và cách di chuyển. Báo giá nên tách phần hoạt động, ăn uống, vận chuyển và các khoản tính theo độ tuổi nếu áp dụng. Chương trình kết hợp tour cần xác nhận lịch đón, danh sách từng xe và đầu mối xử lý thay đổi.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Family Day có cần tách riêng trò chơi cho trẻ em không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Family Day có cần tách riêng trò chơi cho trẻ em không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên có phần riêng hoặc cách tham gia riêng cho trẻ nhỏ, với người lớn đi kèm. Các phần dành cho cả nhà vẫn giữ để mọi người có kỷ niệm chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên có phần riêng hoặc cách tham gia riêng cho trẻ nhỏ, với người lớn đi kèm. Các phần dành cho cả nhà vẫn giữ để mọi người có kỷ niệm chung.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi bằng xe nào cho gia đình đông người?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi bằng xe nào cho gia đình đông người?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tùy số lượng. Nhóm nhỏ có thể cân nhắc xe 16 hoặc 29 chỗ; đoàn đông ưu tiên xe 45 chỗ. TodayTourist tư vấn theo danh sách điểm đón thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tùy số lượng. Nhóm nhỏ có thể cân nhắc xe 16 hoặc 29 chỗ; đoàn đông ưu tiên xe 45 chỗ. TodayTourist tư vấn theo danh sách điểm đón thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -86,23 +85,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
