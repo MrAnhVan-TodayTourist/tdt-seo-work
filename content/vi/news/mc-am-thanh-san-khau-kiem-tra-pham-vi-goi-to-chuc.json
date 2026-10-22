@@ -8,41 +8,40 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Một báo giá ghi có MC hoặc âm thanh chưa cho biết toàn bộ chương trình được vận hành như thế nào. Khi thuê tổ chức Team Building, Gala Dinner hoặc sự kiện, doanh nghiệp nên đọc từng hạng mục và làm rõ người chịu trách nhiệm tại hiện trường."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một báo giá ghi có MC hoặc âm thanh chưa cho biết toàn bộ chương trình được vận hành như thế nào. Khi thuê tổ chức Team Building, Gala Dinner hoặc sự kiện, doanh nghiệp nên đọc từng hạng mục và làm rõ người chịu trách nhiệm tại hiện trường.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "MC và đội điều phối có nhiệm vụ khác nhau"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">MC và đội điều phối có nhiệm vụ khác nhau</span></strong>"
     },
     {
       "type": "p",
-      "text": "MC dẫn chương trình, giới thiệu và kết nối các phần theo kịch bản. Việc chia đội, phát đạo cụ, đón khách hoặc kiểm tra người lên sân khấu cần có người phụ trách riêng theo quy mô. Thuê một MC không mặc định đã có cả đội vận hành. Doanh nghiệp nên hỏi số lượng nhân sự, nhiệm vụ và thời gian có mặt để so sánh các gói trên cùng phạm vi."
+      "text": "<span style=\"font-size:16px;color:#374151\">MC dẫn chương trình, giới thiệu và kết nối các phần theo kịch bản. Việc chia đội, phát đạo cụ, đón khách hoặc kiểm tra người lên sân khấu cần có người phụ trách riêng theo quy mô. Thuê một MC không mặc định đã có cả đội vận hành. Doanh nghiệp nên hỏi số lượng nhân sự, nhiệm vụ và thời gian có mặt để so sánh các gói trên cùng phạm vi.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213242421-0.jpg",
-      "alt": "MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213242421-0.jpg\" alt=\"MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Thiết bị phải phù hợp không gian thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thiết bị phải phù hợp không gian thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Âm thanh cho hội trường nhỏ khác không gian ngoài trời. Sân khấu, màn hình và ánh sáng cần được đối chiếu với khu vực lắp đặt, nội dung chương trình và điều kiện của địa điểm. Cần xác nhận thiết bị nào do địa điểm cung cấp, thiết bị nào bổ sung và ai vận hành. Không nên chọn gói chỉ theo tên thiết bị hoặc mặc định mọi điểm tổ chức đều có cùng điều kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Âm thanh cho hội trường nhỏ khác không gian ngoài trời. Sân khấu, màn hình và ánh sáng cần được đối chiếu với khu vực lắp đặt, nội dung chương trình và điều kiện của địa điểm. Cần xác nhận thiết bị nào do địa điểm cung cấp, thiết bị nào bổ sung và ai vận hành. Không nên chọn gói chỉ theo tên thiết bị hoặc mặc định mọi điểm tổ chức đều có cùng điều kiện.</span>"
     },
     {
       "type": "h2",
-      "text": "Ghi rõ thời gian và sản phẩm bàn giao"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ghi rõ thời gian và sản phẩm bàn giao</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá nên thể hiện thời gian lắp đặt, thử thiết bị, phục vụ và tháo dỡ theo lịch đã thống nhất. Nếu có ghi hình hoặc chụp ảnh, cần xác nhận số lượng, hình thức bàn giao và thời hạn dự kiến trong thỏa thuận. Video tổng kết, tệp ảnh và thiết kế sân khấu không tự động nằm trong gói MC. Với TodayTourist, hãy gửi kịch bản dự kiến, số khách và địa điểm để trao đổi những phần cần thiết thay vì chọn thêm hạng mục chỉ để đủ danh sách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá nên thể hiện thời gian lắp đặt, thử thiết bị, phục vụ và tháo dỡ theo lịch đã thống nhất. Nếu có ghi hình hoặc chụp ảnh, cần xác nhận số lượng, hình thức bàn giao và thời hạn dự kiến trong thỏa thuận. Video tổng kết, tệp ảnh và thiết kế sân khấu không tự động nằm trong gói MC. Với TodayTourist, hãy gửi kịch bản dự kiến, số khách và địa điểm để trao đổi những phần cần thiết thay vì chọn thêm hạng mục chỉ để đủ danh sách.</span>"
     },
     {
       "type": "h2",
-      "text": "Danh mục cần kiểm tra trước ngày diễn ra"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Danh mục cần kiểm tra trước ngày diễn ra</span></strong>"
     },
     {
       "type": "list",
@@ -55,59 +54,63 @@
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Doanh nghiệp đã có âm thanh thì có thể thuê phần còn lại không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Doanh nghiệp đã có âm thanh thì có thể thuê phần còn lại không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể gửi thông tin thiết bị và điều kiện sử dụng để trao đổi phạm vi. Cần kiểm tra khả năng đáp ứng thực tế, người vận hành và trách nhiệm phối hợp trước khi chốt gói."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể gửi thông tin thiết bị và điều kiện sử dụng để trao đổi phạm vi. Cần kiểm tra khả năng đáp ứng thực tế, người vận hành và trách nhiệm phối hợp trước khi chốt gói.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu",
-        "Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp",
-        "Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/kich-ban-gala-dinner-sap-xep-phat-bieu-dung-tiec-va-giao-luu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Kịch bản Gala Dinner: sắp xếp phát biểu, dùng tiệc và giao lưu</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-gala-dinner-chon-tiec-va-noi-dung-cho-doanh-nghiep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức Gala Dinner: chọn tiệc và nội dung cho doanh nghiệp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-su-kien-doanh-nghiep-chon-dung-pham-vi-dich-vu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và các dịch vụ du lịch, sự kiện</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
