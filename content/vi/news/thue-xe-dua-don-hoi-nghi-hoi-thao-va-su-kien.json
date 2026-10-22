@@ -136,12 +136,16 @@
       "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ",
-        "Hội nghị khách hàng kết hợp Gala Dinner: lên kế hoạch ra sao?",
-        "MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-su-kien-doanh-nghiep-chon-dung-pham-vi-dich-vu/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c;font-size:16px\">Tổ chức sự kiện doanh nghiệp: chọn đúng phạm vi dịch vụ</span></u></strong></a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/hoi-nghi-khach-hang-ket-hop-gala-dinner-len-ke-hoach-ra-sao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c;font-size:16px\">Hội nghị khách hàng kết hợp Gala Dinner: lên kế hoạch ra sao?</span></u></strong></a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/mc-am-thanh-san-khau-kiem-tra-pham-vi-goi-to-chuc/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c;font-size:16px\">MC, âm thanh, sân khấu: kiểm tra phạm vi gói tổ chức</span></u></strong></a>"
     },
     {
       "type": "p",
