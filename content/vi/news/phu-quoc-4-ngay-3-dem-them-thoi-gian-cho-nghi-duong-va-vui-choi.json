@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Bốn ngày ba đêm có giá trị khi khách muốn nghỉ, chơi và sinh hoạt đoàn ở các buổi khác nhau. Ngày tăng thêm không cần biến thành một danh sách điểm tham quan dài."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Bốn ngày ba đêm có giá trị khi khách muốn nghỉ, chơi và sinh hoạt đoàn ở các buổi khác nhau. Ngày tăng thêm không cần biến thành một danh sách điểm tham quan dài.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định nhu cầu của ngày thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định nhu cầu của ngày thêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gia đình có thể muốn một ngày vui chơi Bắc đảo và một ngày Nam đảo. Đoàn công ty có thể cần hội nghị, Team Building và gala riêng. Khách nghỉ dưỡng nên giữ một buổi tự do ở resort. Nếu không có nhu cầu thêm rõ ràng, hãy so lại phương án ba ngày để tránh chi phí không cần thiết."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gia đình có thể muốn một ngày vui chơi Bắc đảo và một ngày Nam đảo. Đoàn công ty có thể cần hội nghị, Team Building và gala riêng. Khách nghỉ dưỡng nên giữ một buổi tự do ở resort. Nếu không có nhu cầu thêm rõ ràng, hãy so lại phương án ba ngày để tránh chi phí không cần thiết.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Gợi ý chia bốn ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý chia bốn ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ngày đầu dành cho đến đảo và ổn định phòng. Hai ngày giữa chia theo khu vực hoặc hoạt động chính, với thời gian nghỉ giữa các phần. Ngày cuối bố trí theo chuyến bay hoặc tàu về. Đây là phương án thiết kế theo yêu cầu; chưa nên hiểu là lịch ghép cố định đang mở bán tại TodayTourist."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ngày đầu dành cho đến đảo và ổn định phòng. Hai ngày giữa chia theo khu vực hoặc hoạt động chính, với thời gian nghỉ giữa các phần. Ngày cuối bố trí theo chuyến bay hoặc tàu về. Đây là phương án thiết kế theo yêu cầu; chưa nên hiểu là lịch ghép cố định đang mở bán tại TodayTourist.</span>"
     },
     {
       "type": "h2",
-      "text": "Tính dịch vụ tăng thêm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tính dịch vụ tăng thêm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đêm phòng, bữa ăn, xe, nhân sự và vé phải được báo rõ. Nếu đổi khách sạn giữa chuyến, tính thời gian thu xếp hành lý và giờ nhận phòng mới. Đoàn cần sự kiện nên kiểm tra khu tổ chức cùng ngày giữ phòng. Hỏi điều kiện vé và lịch vận chuyển trước khi duyệt kế hoạch cuối cùng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đêm phòng, bữa ăn, xe, nhân sự và vé phải được báo rõ. Nếu đổi khách sạn giữa chuyến, tính thời gian thu xếp hành lý và giờ nhận phòng mới. Đoàn cần sự kiện nên kiểm tra khu tổ chức cùng ngày giữ phòng. Hỏi điều kiện vé và lịch vận chuyển trước khi duyệt kế hoạch cuối cùng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có cần đổi khách sạn Bắc và Nam đảo trong bốn ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có cần đổi khách sạn Bắc và Nam đảo trong bốn ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Không bắt buộc. Chỉ nên đổi khi lợi ích về trải nghiệm hoặc di chuyển lớn hơn việc thu xếp hành lý và thời gian chờ phòng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không bắt buộc. Chỉ nên đổi khi lợi ích về trải nghiệm hoặc di chuyển lớn hơn việc thu xếp hành lý và thời gian chờ phòng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện",
-        "Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ",
-        "MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/resort-phu-quoc-cho-doan-kiem-tra-phong-bien-va-khu-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Resort Phú Quốc cho đoàn: kiểm tra phòng, biển và khu sự kiện</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phu-quoc-di-dau-chia-bac-dao-nam-dao-va-thoi-gian-nghi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phú Quốc đi đâu: chia Bắc đảo, Nam đảo và thời gian nghỉ</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mice-phu-quoc-ket-hop-hoi-nghi-nghi-duong-va-su-kien-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">MICE Phú Quốc: kết hợp hội nghị, nghỉ dưỡng và sự kiện công ty</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
