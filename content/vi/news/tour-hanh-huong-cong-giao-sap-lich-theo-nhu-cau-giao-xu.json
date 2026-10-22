@@ -8,94 +8,104 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Chuyến hành hương Công giáo nên được xây quanh mục đích của đoàn: cầu nguyện, dự lễ, gặp gỡ hoặc tham quan những điểm đã chọn. Với đoàn từ Đồng Nai và TP.HCM, cần phối hợp đầu mối giáo xứ và nơi đến để chương trình du lịch hỗ trợ đúng lịch sinh hoạt tôn giáo."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chuyến hành hương Công giáo nên được xây quanh mục đích của đoàn: cầu nguyện, dự lễ, gặp gỡ hoặc tham quan những điểm đã chọn. Với đoàn từ Đồng Nai và TP.HCM, cần phối hợp đầu mối giáo xứ và nơi đến để chương trình du lịch hỗ trợ đúng lịch sinh hoạt tôn giáo.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn tuyến gần hoặc hành trình xa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn tuyến gần hoặc hành trình xa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Núi Cúi và Tà Pao là các hướng để trao đổi khi đoàn muốn lịch ngắn hơn. Cha Diệp, Măng Đen hoặc La Vang cần xem xét thời gian di chuyển và số đêm nghỉ theo hành trình. Không nên ghép mọi điểm vào một chuyến chỉ vì cùng tên hành hương. Hãy bắt đầu từ nơi đoàn muốn dành nhiều thời gian nhất, rồi cân nhắc những điểm kết hợp trên tuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Núi Cúi và Tà Pao là các hướng để trao đổi khi đoàn muốn lịch ngắn hơn. Cha Diệp, Măng Đen hoặc La Vang cần xem xét thời gian di chuyển và số đêm nghỉ theo hành trình. Không nên ghép mọi điểm vào một chuyến chỉ vì cùng tên hành hương. Hãy bắt đầu từ nơi đoàn muốn dành nhiều thời gian nhất, rồi cân nhắc những điểm kết hợp trên tuyến.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792214074392-0.jpg",
-      "alt": "Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792214074392-0.jpg\" alt=\"Tour hành hương Công giáo: sắp lịch theo nhu cầu giáo xứ\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận lịch với nơi đến"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận lịch với nơi đến</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giờ lễ và chương trình đặc biệt có thể thay đổi theo ngày hoặc dịp. Thông báo cũ trên mạng là tư liệu tham khảo, không phải xác nhận cho ngày đoàn đi. Nếu đoàn cần sinh hoạt riêng hoặc có linh mục đồng hành, đầu mối giáo xứ cần phối hợp nội dung và điều kiện tiếp nhận. Phần phục vụ của công ty du lịch như xe, ăn và phòng phải được tách khỏi phần sinh hoạt tôn giáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giờ lễ và chương trình đặc biệt có thể thay đổi theo ngày hoặc dịp. Thông báo cũ trên mạng là tư liệu tham khảo, không phải xác nhận cho ngày đoàn đi. Nếu đoàn cần sinh hoạt riêng hoặc có linh mục đồng hành, đầu mối giáo xứ cần phối hợp nội dung và điều kiện tiếp nhận. Phần phục vụ của công ty du lịch như xe, ăn và phòng phải được tách khỏi phần sinh hoạt tôn giáo.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt thông tin cho cả đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt thông tin cho cả đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bản lịch cuối cùng nên rõ điểm tập trung, thời gian dự kiến, trang phục, hành lý và người phụ trách từng nhóm. Với nhiều xe, cần thống nhất giờ và cách kiểm đếm. Khách có nhu cầu đi ít bộ hoặc cần thời gian nghỉ nên báo sớm để xem khả năng bố trí. TodayTourist tiếp nhận yêu cầu tour theo đoàn; lịch ghép và các dịch vụ riêng chỉ được công bố sau khi xác nhận, không tự mặc định có lịch định kỳ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bản lịch cuối cùng nên rõ điểm tập trung, thời gian dự kiến, trang phục, hành lý và người phụ trách từng nhóm. Với nhiều xe, cần thống nhất giờ và cách kiểm đếm. Khách có nhu cầu đi ít bộ hoặc cần thời gian nghỉ nên báo sớm để xem khả năng bố trí. TodayTourist tiếp nhận yêu cầu tour theo đoàn; lịch ghép và các dịch vụ riêng chỉ được công bố sau khi xác nhận, không tự mặc định có lịch định kỳ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty du lịch có thể tự cam kết đoàn được dự lễ riêng không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty du lịch có thể tự cam kết đoàn được dự lễ riêng không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần phối hợp với nơi đến và đầu mối tôn giáo, được xác nhận nội dung và điều kiện cụ thể trước khi đưa vào chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần phối hợp với nơi đến và đầu mối tôn giáo, được xác nhận nội dung và điều kiện cụ thể trước khi đưa vào chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Trao đổi hành trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi hành trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đại diện công ty, cơ quan, giáo xứ, đạo tràng hoặc nhóm gia đình? Hãy gửi ngày dự kiến, số người, điểm đón và những nơi muốn đến. TodayTourist sẽ trao đổi tuyến và dịch vụ theo nhu cầu; chương trình, giá và điều kiện phục vụ được chốt sau khi xác nhận thực tế.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Anh Văn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour hành hương cho đoàn giáo xứ: chuẩn bị trước khi đặt",
-        "Tour Đức Mẹ Tà Pao: chọn lịch hành hương theo đoàn",
-        "Tour Đức Mẹ Măng Đen: chọn hành trình cho đoàn Công giáo",
-        "Thuê xe đi Đức Mẹ Tà Pao"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-cho-doan-giao-xu-chuan-bi-truoc-khi-dat/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour hành hương cho đoàn giáo xứ: chuẩn bị trước khi đặt</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-duc-me-ta-pao-chon-lich-hanh-huong-theo-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đức Mẹ Tà Pao: chọn lịch hành hương theo đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-duc-me-mang-den-chon-hanh-trinh-cho-doan-cong-giao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đức Mẹ Măng Đen: chọn hành trình cho đoàn Công giáo</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Thuê xe đi Đức Mẹ Tà Pao</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tìm hiểu TodayTourist và dịch vụ thiết kế tour theo yêu cầu</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn tour hành hương</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn tour hành hương</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
