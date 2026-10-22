@@ -3,21 +3,21 @@
   "title": "Tour Phú Quý cho công ty: kế hoạch cho cơ quan và xí nghiệp",
   "category": "Tour Phú Quý – Tư vấn đoàn",
   "image": "phu-quy-tour-phu-quy-cho-cong-ty.jpg",
-  "summary": "Tour Phú Quý cho công ty. Tư vấn tour cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn: 0902 898 726\\.",
+  "summary": "Tổ chức tour Phú Quý cho công ty cần giải quyết việc đi lại, chia phòng và sinh hoạt tập thể cùng lúc.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tổ chức tour Phú Quý cho công ty cần giải quyết việc đi lại, chia phòng và sinh hoạt tập thể cùng lúc. Với cơ quan hoặc xí nghiệp, bản kế hoạch nên giúp một người đại diện kiểm soát toàn đoàn mà vẫn đáp ứng các nhóm nhu cầu khác nhau."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tổ chức tour Phú Quý cho công ty cần giải quyết việc đi lại, chia phòng và sinh hoạt tập thể cùng lúc. Với cơ quan hoặc xí nghiệp, bản kế hoạch nên giúp một người đại diện kiểm soát toàn đoàn mà vẫn đáp ứng các nhóm nhu cầu khác nhau.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Lấy nhu cầu nhân sự trước khi lên lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lấy nhu cầu nhân sự trước khi lên lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thu thập số người dự kiến, ca làm việc, người đi kèm, trẻ em và những khách cần nhịp nhẹ. Chọn ngày được nghỉ rồi mới xây chương trình. Một đoàn muốn gắn kết nhân viên sẽ cần thời gian chung khác đoàn chủ yếu nghỉ dưỡng; thống nhất mục tiêu giúp tránh thêm hạng mục không phục vụ kết quả mong muốn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thu thập số người dự kiến, ca làm việc, người đi kèm, trẻ em và những khách cần nhịp nhẹ. Chọn ngày được nghỉ rồi mới xây chương trình. Một đoàn muốn gắn kết nhân viên sẽ cần thời gian chung khác đoàn chủ yếu nghỉ dưỡng; thống nhất mục tiêu giúp tránh thêm hạng mục không phục vụ kết quả mong muốn.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chốt ba danh sách phục vụ điều hành"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt ba danh sách phục vụ điều hành</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tách danh sách đi tàu, phân xe và phân phòng để kiểm tra từng dịch vụ. Cử đầu mối từng nhóm cùng một người quyết định chung. Danh sách cá nhân phục vụ đặt dịch vụ cần được gửi qua kênh phù hợp, không công khai trong nhóm lớn hoặc trên bài quảng bá của doanh nghiệp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tách danh sách đi tàu, phân xe và phân phòng để kiểm tra từng dịch vụ. Cử đầu mối từng nhóm cùng một người quyết định chung. Danh sách cá nhân phục vụ đặt dịch vụ cần được gửi qua kênh phù hợp, không công khai trong nhóm lớn hoặc trên bài quảng bá của doanh nghiệp.</span>"
     },
     {
       "type": "h2",
-      "text": "Báo giá theo phương án có thể thực hiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Báo giá theo phương án có thể thực hiện</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn nên nhận lịch trình, tiêu chuẩn phòng, bữa ăn, hoạt động tập thể và phương án khi biển không thuận lợi. Với Team Building hoặc Gala, ghi rõ địa điểm, thiết bị và phần chi phí thêm. Người đại diện có thể gửi yêu cầu cho TodayTourist để xây phương án trước khi trình ngân sách nội bộ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn nên nhận lịch trình, tiêu chuẩn phòng, bữa ăn, hoạt động tập thể và phương án khi biển không thuận lợi. Với Team Building hoặc Gala, ghi rõ địa điểm, thiết bị và phần chi phí thêm. Người đại diện có thể gửi yêu cầu cho TodayTourist để xây phương án trước khi trình ngân sách nội bộ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "### Đoàn đông có cần chia nhiều nhóm trên đảo?"
+      "text": "<span style=\"font-size:16px;color:#374151\">### Đoàn đông có cần chia nhiều nhóm trên đảo?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể cần, tùy phương tiện và nơi phục vụ. Chia nhóm phải giữ cùng lịch chung, đầu mối và điểm tập trung; không chỉ dựa vào số chỗ trên xe đất liền."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cần, tùy phương tiện và nơi phục vụ. Chia nhóm phải giữ cùng lịch chung, đầu mối và điểm tập trung; không chỉ dựa vào số chỗ trên xe đất liền.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn tour Phú Quý cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn tour Phú Quý cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn tiếp nhận yêu cầu tour cho công ty, cơ quan, xí nghiệp, nhóm và gia đình từ Biên Hòa, Đồng Nai, TP.HCM. Hãy gửi ngày đi, số người, điểm đón, ngân sách và nhu cầu phòng, ăn uống hoặc hoạt động chung. TodayTourist sẽ tư vấn phương án để kiểm tra dịch vụ và báo giá theo đoàn; chỉ xác nhận giữ chỗ theo điều kiện được thống nhất.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building Phú Quý: chọn địa điểm và kịch bản cho đoàn",
-        "Gala Dinner Phú Quý: chuẩn bị bữa tiệc cho khách đoàn",
-        "Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phú Quý: chọn địa điểm và kịch bản cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Phú Quý: chuẩn bị bữa tiệc cho khách đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quý: chọn lịch trình biển đảo phù hợp với đoàn</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem chương trình dưới đây để đối chiếu lịch và phần dịch vụ. Giá, chỗ, ngày khởi hành và hoạt động lựa chọn thêm cần xác nhận theo chuyến.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-dao-phu-quy-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Đảo Phú Quý 3 ngày 2 đêm — chương trình tham khảo TodayTourist</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
