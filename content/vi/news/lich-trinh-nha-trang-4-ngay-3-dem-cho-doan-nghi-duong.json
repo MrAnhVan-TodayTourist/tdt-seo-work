@@ -8,106 +8,112 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Bốn ngày giúp đoàn có thêm khoảng nghỉ và tách hoạt động biển đảo khỏi Team Building, Gala hoặc hội nghị. Một lịch trình tốt không cần lấp kín từng buổi; nên giữ thời gian tự do và phương án thay thế khi điều kiện thay đổi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Bốn ngày giúp đoàn có thêm khoảng nghỉ và tách hoạt động biển đảo khỏi Team Building, Gala hoặc hội nghị. Một lịch trình tốt không cần lấp kín từng buổi; nên giữ thời gian tự do và phương án thay thế khi điều kiện thay đổi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Dùng ngày đầu để ổn định đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dùng ngày đầu để ổn định đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với phương án khởi hành ban ngày, ngày đầu có thể dành cho di chuyển, nhận phòng và sinh hoạt nhẹ. Đoàn nên dùng bữa phù hợp giờ đến, nghỉ trước khi ra biển hoặc dạo phố. Nếu xuất phát bằng phương tiện khác, lịch sẽ thay đổi; khung bốn ngày không mặc định cùng giờ đón hay giờ nhận phòng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với phương án khởi hành ban ngày, ngày đầu có thể dành cho di chuyển, nhận phòng và sinh hoạt nhẹ. Đoàn nên dùng bữa phù hợp giờ đến, nghỉ trước khi ra biển hoặc dạo phố. Nếu xuất phát bằng phương tiện khác, lịch sẽ thay đổi; khung bốn ngày không mặc định cùng giờ đón hay giờ nhận phòng.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216362063-0.jpg",
-      "alt": "Lịch trình Nha Trang 4 ngày 3 đêm cho đoàn nghỉ dưỡng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216362063-0.jpg\" alt=\"Lịch trình Nha Trang 4 ngày 3 đêm cho đoàn nghỉ dưỡng\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Tách ngày trải nghiệm và ngày tập thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách ngày trải nghiệm và ngày tập thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể dành một ngày cho đảo hoặc VinWonders, một ngày cho Team Building và Gala. Đoàn chủ yếu nghỉ dưỡng có thể thay hoạt động tập thể bằng khoảng tự do tại resort. Đây là gợi ý phân bổ, không phải chương trình cố định; chọn trải nghiệm theo độ tuổi, mục tiêu và ngân sách thực tế."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể dành một ngày cho đảo hoặc VinWonders, một ngày cho Team Building và Gala. Đoàn chủ yếu nghỉ dưỡng có thể thay hoạt động tập thể bằng khoảng tự do tại resort. Đây là gợi ý phân bổ, không phải chương trình cố định; chọn trải nghiệm theo độ tuổi, mục tiêu và ngân sách thực tế.</span>"
     },
     {
       "type": "h2",
-      "text": "Bố trí Gala khi đoàn có thời gian chuẩn bị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bố trí Gala khi đoàn có thời gian chuẩn bị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không nên xếp Gala ngay sau một hành trình đảo kết thúc muộn. Khách cần thời gian về phòng, tắm và thay trang phục; ban tổ chức cần kiểm tra sân khấu và thiết bị. Đoàn có hội nghị nên tách nội dung họp khỏi trò chơi và vinh danh để mỗi phần có thời lượng hợp lý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên xếp Gala ngay sau một hành trình đảo kết thúc muộn. Khách cần thời gian về phòng, tắm và thay trang phục; ban tổ chức cần kiểm tra sân khấu và thiết bị. Đoàn có hội nghị nên tách nội dung họp khỏi trò chơi và vinh danh để mỗi phần có thời lượng hợp lý.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày về cần lịch gọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày về cần lịch gọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn ít điểm dừng và ưu tiên tuyến thuận đường. Việc trả phòng, kiểm tra hành lý, tập kết nhiều xe và dùng bữa cũng cần được tính vào lịch. Nếu có trẻ nhỏ hoặc người lớn tuổi, nên giữ điểm nghỉ phù hợp thay vì cố thêm điểm mua sắm khiến hành trình về kéo dài."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn ít điểm dừng và ưu tiên tuyến thuận đường. Việc trả phòng, kiểm tra hành lý, tập kết nhiều xe và dùng bữa cũng cần được tính vào lịch. Nếu có trẻ nhỏ hoặc người lớn tuổi, nên giữ điểm nghỉ phù hợp thay vì cố thêm điểm mua sắm khiến hành trình về kéo dài.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận ba đêm phòng và phần bao gồm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận ba đêm phòng và phần bao gồm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tên 4N3Đ cần được đối chiếu với số đêm lưu trú thật. Ghi rõ tiêu chuẩn phòng, bữa sáng, vé vui chơi, hoạt động đoàn và các khoản tự túc. TodayTourist tư vấn lịch trình Nha Trang bốn ngày theo nhu cầu công ty, cơ quan hoặc gia đình và xác nhận dịch vụ trước khi chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tên 4N3Đ cần được đối chiếu với số đêm lưu trú thật. Ghi rõ tiêu chuẩn phòng, bữa sáng, vé vui chơi, hoạt động đoàn và các khoản tự túc. TodayTourist tư vấn lịch trình Nha Trang bốn ngày theo nhu cầu công ty, cơ quan hoặc gia đình và xác nhận dịch vụ trước khi chốt.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bốn ngày có cần đi nhiều đảo hơn không? Không; có thể dành thời gian thêm để nghỉ. Có thể kết hợp hội nghị và Gala? Đoàn cần gửi yêu cầu thiết bị và nội dung để bố trí riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bốn ngày có cần đi nhiều đảo hơn không? Không; có thể dành thời gian thêm để nghỉ. Có thể kết hợp hội nghị và Gala? Đoàn cần gửi yêu cầu thiết bị và nội dung để bố trí riêng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn tour Nha Trang"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn tour Nha Trang</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày nghỉ, ngân sách dự kiến và trải nghiệm mong muốn để TodayTourist tư vấn phương án phù hợp.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Nha Trang từ Biên Hòa, Đồng Nai: tổ chức đón đoàn",
-        "Tour Nha Trang từ TP.HCM: chọn điểm đón và giờ khởi hành",
-        "Chọn tour Nha Trang phù hợp với nhu cầu của đoàn",
-        "Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-tu-bien-hoa-dong-nai-to-chuc-don-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang từ Biên Hòa, Đồng Nai: tổ chức đón đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-nha-trang-tu-tp-hcm-chon-diem-don-va-gio-khoi-hanh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Nha Trang từ TP.HCM: chọn điểm đón và giờ khởi hành</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chon-tour-nha-trang-phu-hop-voi-nhu-cau-cua-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chọn tour Nha Trang phù hợp với nhu cầu của đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-nha-trang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Nha Trang từ Biên Hòa, Đồng Nai, TP.HCM</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo chương trình"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo chương trình</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-nha-trang-bien-dao-3n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Nha Trang 3 ngày 2 đêm của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ TodayTourist để thiết kế chương trình phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
