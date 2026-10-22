@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Kỳ Co – Eo Gió thường được tìm cùng nhau khi khách lên kế hoạch Quy Nhơn. Hai điểm đem lại trải nghiệm khác nhau: Kỳ Co gắn với cảnh biển và hoạt động bãi biển, còn Eo Gió thường được chọn để đi bộ ngắm cảnh và chụp ảnh."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Kỳ Co – Eo Gió thường được tìm cùng nhau khi khách lên kế hoạch Quy Nhơn. Hai điểm đem lại trải nghiệm khác nhau: Kỳ Co gắn với cảnh biển và hoạt động bãi biển, còn Eo Gió thường được chọn để đi bộ ngắm cảnh và chụp ảnh.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đừng mặc định hai điểm có cùng hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đừng mặc định hai điểm có cùng hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thời gian ở Kỳ Co cần tính cả di chuyển, thay đồ, tắm biển nếu phù hợp và nghỉ. Eo Gió cần xét đường đi bộ, bậc thang, nắng và gió. Với đoàn nhiều thế hệ, nên xác định người tham gia toàn bộ và người muốn phần nhẹ hơn. Không dùng ảnh một nơi để minh họa dịch vụ ở nơi còn lại."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thời gian ở Kỳ Co cần tính cả di chuyển, thay đồ, tắm biển nếu phù hợp và nghỉ. Eo Gió cần xét đường đi bộ, bậc thang, nắng và gió. Với đoàn nhiều thế hệ, nên xác định người tham gia toàn bộ và người muốn phần nhẹ hơn. Không dùng ảnh một nơi để minh họa dịch vụ ở nơi còn lại.</span>"
     },
     {
       "type": "html",
@@ -25,79 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Hỏi phương án đến Kỳ Co cụ thể"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hỏi phương án đến Kỳ Co cụ thể</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể cần xem xét đường biển hoặc phương án đường bộ phù hợp với dịch vụ đang vận hành. Mỗi phương án khác về trung chuyển, thời lượng và phạm vi vé. Đường bộ không có nghĩa xe lớn đưa khách đến mọi vị trí; canô cũng không hoạt động được trong mọi điều kiện. Phải xác nhận lộ trình, điểm tập trung và dịch vụ trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể cần xem xét đường biển hoặc phương án đường bộ phù hợp với dịch vụ đang vận hành. Mỗi phương án khác về trung chuyển, thời lượng và phạm vi vé. Đường bộ không có nghĩa xe lớn đưa khách đến mọi vị trí; canô cũng không hoạt động được trong mọi điều kiện. Phải xác nhận lộ trình, điểm tập trung và dịch vụ trước khi đặt.</span>"
     },
     {
       "type": "h2",
-      "text": "So gói vé và trải nghiệm biển"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">So gói vé và trải nghiệm biển</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi vé vào, canô, trung chuyển, bữa ăn, tắm tráng và các hoạt động có hoặc không bao gồm. Lặn ngắm san hô, chụp ảnh hoặc trò chơi biển không nên được suy ra từ tên 'tour Kỳ Co'. Đoàn cần hỏi cách bố trí nhóm, áo phao, đầu mối và phương án cho người không tham gia hoạt động nước."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi vé vào, canô, trung chuyển, bữa ăn, tắm tráng và các hoạt động có hoặc không bao gồm. Lặn ngắm san hô, chụp ảnh hoặc trò chơi biển không nên được suy ra từ tên 'tour Kỳ Co'. Đoàn cần hỏi cách bố trí nhóm, áo phao, đầu mối và phương án cho người không tham gia hoạt động nước.</span>"
     },
     {
       "type": "h2",
-      "text": "Giữ thời gian đủ cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Giữ thời gian đủ cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên chọn khung tham quan vừa sức và chừa khoảng về nơi lưu trú trước Team Building hoặc Gala. Nếu muốn đi thêm Hòn Khô hoặc Cù Lao Xanh, cân nhắc tách thành lựa chọn hoặc ngày riêng. Một lịch nhiều tên đảo chưa chắc đem lại trải nghiệm tốt hơn. TodayTourist tư vấn cách đưa Kỳ Co – Eo Gió vào chương trình theo đối tượng và điều kiện từng chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên chọn khung tham quan vừa sức và chừa khoảng về nơi lưu trú trước Team Building hoặc Gala. Nếu muốn đi thêm Hòn Khô hoặc Cù Lao Xanh, cân nhắc tách thành lựa chọn hoặc ngày riêng. Một lịch nhiều tên đảo chưa chắc đem lại trải nghiệm tốt hơn. TodayTourist tư vấn cách đưa Kỳ Co – Eo Gió vào chương trình theo đối tượng và điều kiện từng chuyến.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không muốn đi canô có thể tham quan không? Có thể hỏi phương án khác; cần xác nhận dịch vụ đang vận hành."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không muốn đi canô có thể tham quan không? Có thể hỏi phương án khác; cần xác nhận dịch vụ đang vận hành.</span>"
     },
     {
       "type": "p",
-      "text": "Kỳ Co – Eo Gió có luôn bao gồm trong tour Quy Nhơn không? Không; kiểm tra lịch và phần bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Kỳ Co – Eo Gió có luôn bao gồm trong tour Quy Nhơn không? Không; kiểm tra lịch và phần bao gồm.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chương trình phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chương trình phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày dự kiến, số khách, điểm đón, số ngày nghỉ, ngân sách và trải nghiệm ưu tiên. Với đoàn công ty, cơ quan hoặc trường học, hãy nêu thêm nhu cầu Team Building, Gala Dinner, hội nghị hoặc giao lưu để TodayTourist tư vấn phương án.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Quy Nhơn: đi riêng hay kết hợp Phú Yên?",
-        "Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi",
-        "Đoàn đông đi Quy Nhơn – Phú Yên: chia xe, phòng và nhóm đảo"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-quy-nhon-di-rieng-hay-ket-hop-phu-yen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn: đi riêng hay kết hợp Phú Yên?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-quy-nhon-phu-yen-cung-tre-nho-va-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Quy Nhơn – Phú Yên cùng trẻ nhỏ và người lớn tuổi</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/doan-dong-di-quy-nhon-phu-yen-chia-xe-phong-va-nhom-dao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đoàn đông đi Quy Nhơn – Phú Yên: chia xe, phòng và nhóm đảo</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tham khảo tour Quy Nhơn 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tham khảo tour Quy Nhơn 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
