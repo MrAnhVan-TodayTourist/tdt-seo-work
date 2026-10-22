@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chương trình hội nghị kết hợp nghỉ biển cần đáp ứng việc họp trước, rồi mới bố trí nghỉ dưỡng và giao lưu. Địa điểm phải được chọn theo nhu cầu sử dụng phòng họp, không chỉ dựa trên ảnh phòng ngủ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chương trình hội nghị kết hợp nghỉ biển cần đáp ứng việc họp trước, rồi mới bố trí nghỉ dưỡng và giao lưu. Địa điểm phải được chọn theo nhu cầu sử dụng phòng họp, không chỉ dựa trên ảnh phòng ngủ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định quy mô và cách bố trí"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định quy mô và cách bố trí</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số người dự họp, hình thức bàn ghế, số phiên và nhu cầu thảo luận nhóm. Sức chứa phòng phụ thuộc cách kê bàn, sân khấu, lối đi và thiết bị. Hỏi hệ thống trình chiếu, micro, internet và nơi tiếp đón. Nếu có phiên trực tuyến, cần thử đường truyền và thiết bị trước, không chỉ dựa vào thông tin có wifi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số người dự họp, hình thức bàn ghế, số phiên và nhu cầu thảo luận nhóm. Sức chứa phòng phụ thuộc cách kê bàn, sân khấu, lối đi và thiết bị. Hỏi hệ thống trình chiếu, micro, internet và nơi tiếp đón. Nếu có phiên trực tuyến, cần thử đường truyền và thiết bị trước, không chỉ dựa vào thông tin có wifi.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Tách khung họp, nghỉ và gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách khung họp, nghỉ và gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Lịch hai ngày có thể dành một buổi họp và một tiệc tối; lịch ba ngày cho thêm khoảng nghỉ và hoạt động tập thể. Không để chương trình biển trễ giờ làm ảnh hưởng phiên họp. Cần thời gian setup, kiểm tra file và đón người tham dự trước mỗi phiên."
+      "text": "<span style=\"font-size:16px;color:#374151\">Lịch hai ngày có thể dành một buổi họp và một tiệc tối; lịch ba ngày cho thêm khoảng nghỉ và hoạt động tập thể. Không để chương trình biển trễ giờ làm ảnh hưởng phiên họp. Cần thời gian setup, kiểm tra file và đón người tham dự trước mỗi phiên.</span>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ dịch vụ hội nghị trong báo giá"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ dịch vụ hội nghị trong báo giá</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ghi phòng họp, thời lượng, thiết bị, nước uống, tea break, bữa ăn và nhân sự. Phần tour, lưu trú và Gala Dinner nên được phân biệt để doanh nghiệp trình duyệt dễ hơn. Hỏi điều kiện gia hạn giờ, đổi phòng và thay đổi số khách. TodayTourist tư vấn địa điểm sau khi kiểm tra khả năng phục vụ, không mặc định mọi resort đều đáp ứng cùng tiêu chuẩn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ghi phòng họp, thời lượng, thiết bị, nước uống, tea break, bữa ăn và nhân sự. Phần tour, lưu trú và Gala Dinner nên được phân biệt để doanh nghiệp trình duyệt dễ hơn. Hỏi điều kiện gia hạn giờ, đổi phòng và thay đổi số khách. TodayTourist tư vấn địa điểm sau khi kiểm tra khả năng phục vụ, không mặc định mọi resort đều đáp ứng cùng tiêu chuẩn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng gala có dùng làm phòng họp được không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng gala có dùng làm phòng họp được không?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể nếu cách bố trí, âm thanh, trình chiếu và thời gian setup đáp ứng yêu cầu. Cần kiểm tra từng địa điểm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể nếu cách bố trí, âm thanh, trình chiếu và thời gian setup đáp ứng yêu cầu. Cần kiểm tra từng địa điểm.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Hồ Tràm 3 ngày 2 đêm: dành thời gian cho nghỉ dưỡng và hội nghị",
-        "Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-3-ngay-2-dem-danh-thoi-gian-cho-nghi-duong-va-hoi-nghi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm 3 ngày 2 đêm: dành thời gian cho nghỉ dưỡng và hội nghị</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-doanh-nghiep-ho-tram-chon-resort-dap-ung-ca-nghi-va-su-kien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour doanh nghiệp Hồ Tràm: chọn resort đáp ứng cả nghỉ và sự kiện</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
