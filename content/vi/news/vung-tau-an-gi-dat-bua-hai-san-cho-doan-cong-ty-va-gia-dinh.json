@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Với đoàn đông, bữa ăn cần ngon, đủ và phục vụ đúng giờ. Tìm món nổi tiếng chỉ là bước đầu; thực đơn, lượng phục vụ và nhu cầu riêng của khách nên được thống nhất trước chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Với đoàn đông, bữa ăn cần ngon, đủ và phục vụ đúng giờ. Tìm món nổi tiếng chỉ là bước đầu; thực đơn, lượng phục vụ và nhu cầu riêng của khách nên được thống nhất trước chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn thực đơn phù hợp cả đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thực đơn phù hợp cả đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị bữa hải sản kết hợp món thịt, rau và canh để người không ăn hải sản vẫn dùng được. Đừng chỉ gửi tên 'thực đơn hải sản'; cần ghi món, số người mỗi bàn và phần thay thế. Trẻ em hoặc khách có yêu cầu ăn riêng nên được thống kê từ đầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị bữa hải sản kết hợp món thịt, rau và canh để người không ăn hải sản vẫn dùng được. Đừng chỉ gửi tên 'thực đơn hải sản'; cần ghi món, số người mỗi bàn và phần thay thế. Trẻ em hoặc khách có yêu cầu ăn riêng nên được thống kê từ đầu.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Phân biệt set menu với món gọi theo cân"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân biệt set menu với món gọi theo cân</span></strong>"
     },
     {
       "type": "p",
-      "text": "Set menu giúp dự toán rõ hơn nhưng vẫn cần kiểm tra định lượng và đồ uống. Hải sản gọi theo cân cần xác nhận đơn giá, trọng lượng tính tiền, phí chế biến và món thêm. Nếu đoàn muốn tự chọn món, người đại diện nên thống nhất ngân sách và người duyệt khoản phát sinh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Set menu giúp dự toán rõ hơn nhưng vẫn cần kiểm tra định lượng và đồ uống. Hải sản gọi theo cân cần xác nhận đơn giá, trọng lượng tính tiền, phí chế biến và món thêm. Nếu đoàn muốn tự chọn món, người đại diện nên thống nhất ngân sách và người duyệt khoản phát sinh.</span>"
     },
     {
       "type": "h2",
-      "text": "Sắp giờ ăn theo hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Sắp giờ ăn theo hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không dồn bữa ăn quá sát thời gian trò chơi hoặc chặng về. Nhà hàng cần biết giờ đến, số bàn và thời gian phục vụ dự kiến. Với gala, món ăn và kịch bản nên được phối hợp để khách không phải đứng chơi khi món nóng đang lên. Lưu lại thực đơn đã xác nhận để kiểm tra sau tour."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không dồn bữa ăn quá sát thời gian trò chơi hoặc chặng về. Nhà hàng cần biết giờ đến, số bàn và thời gian phục vụ dự kiến. Với gala, món ăn và kịch bản nên được phối hợp để khách không phải đứng chơi khi món nóng đang lên. Lưu lại thực đơn đã xác nhận để kiểm tra sau tour.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour trọn gói có bao gồm mọi đồ uống không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour trọn gói có bao gồm mọi đồ uống không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần xem nước uống, bia hoặc đồ uống khác có nằm trong báo giá và quy định gọi thêm hay không."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần xem nước uống, bia hoặc đồ uống khác có nằm trong báo giá và quy định gọi thêm hay không.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Phước Hải ăn gì, chơi gì: kết hợp làng chài trong chuyến nghỉ biển",
-        "Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động",
-        "Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/phuoc-hai-an-gi-choi-gi-ket-hop-lang-chai-trong-chuyen-nghi-bien/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Phước Hải ăn gì, chơi gì: kết hợp làng chài trong chuyến nghỉ biển</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-vung-tau-so-bao-gia-theo-phong-bua-an-va-hoat-dong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Vũng Tàu: so báo giá theo phòng, bữa ăn và hoạt động</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gala-dinner-vung-tau-ho-tram-can-chot-nhung-hang-muc-nao/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gala Dinner Vũng Tàu – Hồ Tràm: cần chốt những hạng mục nào?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Vũng Tàu 2 ngày 1 đêm",
         "Tour Vũng Tàu 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
