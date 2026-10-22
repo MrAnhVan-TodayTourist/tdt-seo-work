@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Cái Bè–Vĩnh Long là hướng để tìm hiểu đời sống miệt vườn và làng nghề theo chương trình riêng. Khi chọn tuyến, nên quyết định muốn đi vườn, qua cù lao hay tìm hiểu nghề địa phương. Không mặc định tên tour này luôn có chợ nổi đông ghe hoặc được hái trái tại mọi thời điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Cái Bè–Vĩnh Long là hướng để tìm hiểu đời sống miệt vườn và làng nghề theo chương trình riêng. Khi chọn tuyến, nên quyết định muốn đi vườn, qua cù lao hay tìm hiểu nghề địa phương. Không mặc định tên tour này luôn có chợ nổi đông ghe hoặc được hái trái tại mọi thời điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một cụm trải nghiệm chính"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một cụm trải nghiệm chính</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm có thể trao đổi hướng vườn cây–cù lao hoặc làng nghề–nhà cổ, tùy điểm đang phục vụ ngày đi. Nếu muốn sang cù lao An Bình, cần xác nhận bến, chặng thuyền và khu ăn. Những tên điểm trong quảng bá là cơ sở tìm hiểu, không thay cho danh sách dịch vụ chốt cho đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm có thể trao đổi hướng vườn cây–cù lao hoặc làng nghề–nhà cổ, tùy điểm đang phục vụ ngày đi. Nếu muốn sang cù lao An Bình, cần xác nhận bến, chặng thuyền và khu ăn. Những tên điểm trong quảng bá là cơ sở tìm hiểu, không thay cho danh sách dịch vụ chốt cho đoàn.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Kiểm tra mùa trái và hình thức trải nghiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra mùa trái và hình thức trải nghiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi vườn nào, loại trái thực tế, phần thưởng thức và hoạt động được làm. Vé tham quan vườn không tự động gồm trái mang về. Với mục tiêu học nghề hoặc trải nghiệm cho học sinh, nên chốt người hướng dẫn, số nhóm và thời lượng để không chỉ ghé xem một cơ sở bán sản phẩm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi vườn nào, loại trái thực tế, phần thưởng thức và hoạt động được làm. Vé tham quan vườn không tự động gồm trái mang về. Với mục tiêu học nghề hoặc trải nghiệm cho học sinh, nên chốt người hướng dẫn, số nhóm và thời lượng để không chỉ ghé xem một cơ sở bán sản phẩm.</span>"
     },
     {
       "type": "h2",
-      "text": "Thiết kế từ thời gian và điểm đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Thiết kế từ thời gian và điểm đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi một ngày cần chọn ít điểm và tính thời gian qua sông. Nếu nối Cần Thơ, có thể cân nhắc qua đêm để không vội. TodayTourist tiếp nhận yêu cầu tuyến này để kiểm tra và báo giá riêng; các tour sông Tiền trên website là ví dụ tham khảo, không được hiểu là lịch Cái Bè–Vĩnh Long đã mở sẵn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi một ngày cần chọn ít điểm và tính thời gian qua sông. Nếu nối Cần Thơ, có thể cân nhắc qua đêm để không vội. TodayTourist tiếp nhận yêu cầu tuyến này để kiểm tra và báo giá riêng; các tour sông Tiền trên website là ví dụ tham khảo, không được hiểu là lịch Cái Bè–Vĩnh Long đã mở sẵn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có cần viết riêng tour Cái Bè và tour Vĩnh Long không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có cần viết riêng tour Cái Bè và tour Vĩnh Long không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với khách chọn một tuyến kết hợp, có thể xem chung bài này. Khi đã xác định muốn chỉ một điểm, chương trình được điều chỉnh theo thời gian và dịch vụ yêu cầu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với khách chọn một tuyến kết hợp, có thể xem chung bài này. Khi đã xác định muốn chỉ một điểm, chương trình được điều chỉnh theo thời gian và dịch vụ yêu cầu.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour Cái Bè Vĩnh Long? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour Cái Bè Vĩnh Long? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-my-tho-ben-tre/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Mỹ Tho–Bến Tre: chọn trải nghiệm sông Tiền cho chuyến ngắn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-2-ngay-1-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 2 ngày 1 đêm: chọn Tiền Giang–Bến Tre–Cần Thơ</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/mien-tay-mua-nao-dep/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Miền Tây mùa nào: chọn theo trái cây, hoa và cảnh sông nước</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cồn Phụng – Bến Tre 1 ngày</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cồn Phụng – Bến Tre 1 ngày</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
