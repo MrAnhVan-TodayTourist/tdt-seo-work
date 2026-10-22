@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Một đêm lưu trú giúp chuyến Long Hải–Phước Hải có thời gian nghỉ biển và tham quan nhẹ. Hãy chọn nơi ở phù hợp trước, sau đó mới sắp các hoạt động xung quanh."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một đêm lưu trú giúp chuyến Long Hải–Phước Hải có thời gian nghỉ biển và tham quan nhẹ. Hãy chọn nơi ở phù hợp trước, sau đó mới sắp các hoạt động xung quanh.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Ngày một: tham quan vừa đủ, nhận phòng đúng giờ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày một: tham quan vừa đủ, nhận phòng đúng giờ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể chọn Song Vĩnh hoặc Minh Đạm làm phần tham quan buổi sáng, tùy sức khỏe và tuyến đường. Sau ăn trưa, nhận phòng theo điều kiện cơ sở lưu trú. Không nên đưa quá nhiều điểm vào sáng đầu tiên rồi bắt đoàn tham gia trò chơi ngay khi vừa tới. Đoàn cần nghỉ nên giữ buổi chiều tự do."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể chọn Song Vĩnh hoặc Minh Đạm làm phần tham quan buổi sáng, tùy sức khỏe và tuyến đường. Sau ăn trưa, nhận phòng theo điều kiện cơ sở lưu trú. Không nên đưa quá nhiều điểm vào sáng đầu tiên rồi bắt đoàn tham gia trò chơi ngay khi vừa tới. Đoàn cần nghỉ nên giữ buổi chiều tự do.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Buổi tối: ghi rõ nội dung sinh hoạt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Buổi tối: ghi rõ nội dung sinh hoạt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu đoàn muốn Gala Dinner, cần xác nhận khu tiệc, thời lượng âm thanh, thực đơn và thiết bị. Nếu chỉ ăn tối thông thường, không nên gọi đó là chương trình gala đầy đủ. BBQ và lửa trại cũng là hạng mục riêng, phụ thuộc điều kiện địa điểm, không tự động bao gồm trong tour nghỉ biển."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu đoàn muốn Gala Dinner, cần xác nhận khu tiệc, thời lượng âm thanh, thực đơn và thiết bị. Nếu chỉ ăn tối thông thường, không nên gọi đó là chương trình gala đầy đủ. BBQ và lửa trại cũng là hạng mục riêng, phụ thuộc điều kiện địa điểm, không tự động bao gồm trong tour nghỉ biển.</span>"
     },
     {
       "type": "h2",
-      "text": "Ngày hai: viếng hoặc trải nghiệm địa phương"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ngày hai: viếng hoặc trải nghiệm địa phương</span></strong>"
     },
     {
       "type": "p",
-      "text": "Sau bữa sáng, có thể chọn Dinh Cô hoặc một phần trải nghiệm Phước Hải phù hợp rồi trả phòng. Giữ giờ nghỉ và vệ sinh trước chặng về. Báo giá cần ghi số đêm, cơ cấu phòng, số bữa, điểm được đặt và phần tự chọn. Nhờ vậy người đại diện đoàn dễ trao đổi với các thành viên trước khi đăng ký."
+      "text": "<span style=\"font-size:16px;color:#374151\">Sau bữa sáng, có thể chọn Dinh Cô hoặc một phần trải nghiệm Phước Hải phù hợp rồi trả phòng. Giữ giờ nghỉ và vệ sinh trước chặng về. Báo giá cần ghi số đêm, cơ cấu phòng, số bữa, điểm được đặt và phần tự chọn. Nhờ vậy người đại diện đoàn dễ trao đổi với các thành viên trước khi đăng ký.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có bắt buộc leo Minh Đạm trong tour hai ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có bắt buộc leo Minh Đạm trong tour hai ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Đoàn riêng có thể đề nghị lịch nhẹ và phương án khác; nội dung cuối cùng cần được xác nhận trong chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Đoàn riêng có thể đề nghị lịch nhẹ và phương án khác; nội dung cuối cùng cần được xác nhận trong chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Long Hải – Phước Hải: chọn biển, nghỉ dưỡng và tham quan",
-        "BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm",
-        "Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-long-hai-phuoc-hai-chon-bien-nghi-duong-va-tham-quan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Long Hải – Phước Hải: chọn biển, nghỉ dưỡng và tham quan</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bbq-va-lua-trai-trong-tour-bien-to-chuc-dung-dieu-kien-dia-diem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">BBQ và lửa trại trong tour biển: tổ chức đúng điều kiện địa điểm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dinh-co-va-minh-dam-ket-hop-tham-quan-trong-tour-long-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm",
         "Tour Long Hải – Phước Hải 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
