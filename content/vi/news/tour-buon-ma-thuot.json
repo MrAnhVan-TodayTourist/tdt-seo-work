@@ -3,21 +3,21 @@
   "title": "Tour Buôn Ma Thuột: chọn cà phê, buôn làng, hồ hay thác",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "tour-buon-ma-thuot-v2.jpg",
-  "summary": "Tour Buôn Ma Thuột. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Tìm tour Buôn Ma Thuột, bạn có thể gặp cách gọi Buôn Mê Thuột hoặc Ban Mê.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Tìm tour Buôn Ma Thuột, bạn có thể gặp cách gọi Buôn Mê Thuột hoặc Ban Mê. Điều cần chọn là trải nghiệm chính: cà phê trong phố, tìm hiểu buôn làng, ngắm hồ hay đi thác. Các điểm này có nhịp đi khác nhau và không nên gom chỉ vì cùng gắn với một tên tuyến."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tìm tour Buôn Ma Thuột, bạn có thể gặp cách gọi Buôn Mê Thuột hoặc Ban Mê. Điều cần chọn là trải nghiệm chính: cà phê trong phố, tìm hiểu buôn làng, ngắm hồ hay đi thác. Các điểm này có nhịp đi khác nhau và không nên gom chỉ vì cùng gắn với một tên tuyến.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn ngày dành cho thành phố"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ngày dành cho thành phố</span></strong>"
     },
     {
       "type": "p",
-      "text": "Buổi tham quan trong phố có thể ưu tiên cà phê và một điểm văn hóa theo lịch được xác nhận. Giữ khoảng nghỉ để khách cảm nhận không gian thay vì liên tục di chuyển. Với đoàn công ty có Gala, ngày này có thể bố trí thuận hơn nếu khách sạn và khu tiệc phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Buổi tham quan trong phố có thể ưu tiên cà phê và một điểm văn hóa theo lịch được xác nhận. Giữ khoảng nghỉ để khách cảm nhận không gian thay vì liên tục di chuyển. Với đoàn công ty có Gala, ngày này có thể bố trí thuận hơn nếu khách sạn và khu tiệc phù hợp.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Chọn chuyến ra ngoài theo sức đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn chuyến ra ngoài theo sức đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hồ Lắk, Buôn Đôn và các thác cần được xem là những chặng riêng trong kế hoạch. Hỏi quỹ thời gian và phần đi bộ của điểm mình muốn đến. Đừng mặc định ba nhóm trải nghiệm đều có thể hoàn thành thoải mái trong một ngày chỉ dựa vào ảnh hoặc lời giới thiệu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hồ Lắk, Buôn Đôn và các thác cần được xem là những chặng riêng trong kế hoạch. Hỏi quỹ thời gian và phần đi bộ của điểm mình muốn đến. Đừng mặc định ba nhóm trải nghiệm đều có thể hoàn thành thoải mái trong một ngày chỉ dựa vào ảnh hoặc lời giới thiệu.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận tuyến chỉ đi Ban Mê"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận tuyến chỉ đi Ban Mê</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Tây Nguyên liên tuyến có thể ghé Buôn Ma Thuột nhưng không phải chuyến chỉ tập trung tại đây. Nếu muốn nhiều thời gian cà phê, buôn làng hoặc nghỉ tại một nơi, nêu rõ để TodayTourist thiết kế và kiểm tra dịch vụ. Các link tour dưới bài là lịch tham khảo để so sánh."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Tây Nguyên liên tuyến có thể ghé Buôn Ma Thuột nhưng không phải chuyến chỉ tập trung tại đây. Nếu muốn nhiều thời gian cà phê, buôn làng hoặc nghỉ tại một nơi, nêu rõ để TodayTourist thiết kế và kiểm tra dịch vụ. Các link tour dưới bài là lịch tham khảo để so sánh.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Ban Mê có phải một tour khác Buôn Ma Thuột không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là cách gọi quen thuộc khi tìm tuyến. Hãy đối chiếu địa điểm và lịch trình cụ thể thay vì coi khác cách viết là khác chương trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Ban Mê có phải một tour khác Buôn Ma Thuột không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là cách gọi quen thuộc khi tìm tuyến. Hãy đối chiếu địa điểm và lịch trình cụ thể thay vì coi khác cách viết là khác chương trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/bao-tang-the-gioi-ca-phe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Bảo tàng Thế giới Cà phê và Làng Cà phê: chọn trải nghiệm Ban Mê</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-buon-don/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Buôn Đôn: chọn tham quan, văn hóa và trải nghiệm thân thiện với voi</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Bảo tàng Thế giới Cà phê và Làng Cà phê: chọn trải nghiệm Ban Mê",
-        "Tour Buôn Đôn: chọn tham quan, văn hóa và trải nghiệm thân thiện với voi",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
