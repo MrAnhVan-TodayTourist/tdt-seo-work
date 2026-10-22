@@ -8,8 +8,8 @@
   "published_at": "2026-07-24",
   "content": [
     {
-      "type": "p",
-      "text": "TodayTourist hân hạnh đồng hành cùng các bạn học sinh Tiền Tiểu học Trường Song ngữ Lạc Hồng trong chuyến tham quan, học tập và trải nghiệm tại Vietopia – Thành phố Hướng nghiệp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist hân hạnh đồng hành cùng các bạn học sinh Tiền Tiểu học Trường Song ngữ Lạc Hồng trong chuyến tham quan, học tập và trải nghiệm tại Vietopia – Thành phố Hướng nghiệp.</span></p></blockquote>"
     },
     {
       "type": "html",
@@ -17,11 +17,11 @@
     },
     {
       "type": "p",
-      "text": "Một ngày để các em thỏa sức khám phá, hóa thân vào nhiều ngành nghề, rèn luyện kỹ năng và nuôi dưỡng những ước mơ đầu đời."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày để các em thỏa sức khám phá, hóa thân vào nhiều ngành nghề, rèn luyện kỹ năng và nuôi dưỡng những ước mơ đầu đời.</span>"
     },
     {
       "type": "p",
-      "text": "Xin chân thành cảm ơn Trường Song ngữ Lạc Hồng đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình ý nghĩa này."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn Trường Song ngữ Lạc Hồng đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình ý nghĩa này.</span>"
     },
     {
       "type": "html",
@@ -29,55 +29,55 @@
     },
     {
       "type": "p",
-      "text": "CÔNG TY DU LỊCH TODAYTOURIST"
+      "text": "<span style=\"font-size:16px;color:#374151\">CÔNG TY DU LỊCH TODAYTOURIST</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu Phố 29, Phường Long Bình, TP. Đồng Nai"
+      "text": "<span style=\"font-size:16px;color:#374151\">Hotline: 0913 78 76 47 (Lê Sang)</span>"
     },
     {
       "type": "p",
-      "text": "Hotline: 0913 78 76 47 (Lê Sang)"
+      "text": "<span style=\"font-size:16px;color:#374151\">Email: todaytouristt@gmail.com</span>"
     },
     {
       "type": "p",
-      "text": "Email: todaytouristt@gmail.com"
+      "text": "<span style=\"font-size:16px;color:#374151\">Website: todaytourist.com</span>"
     },
     {
       "type": "p",
-      "text": "Website: todaytourist.com"
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuyên tổ chức tour du lịch trong nước & quốc tế</span>"
     },
     {
       "type": "p",
-      "text": "Chuyên tổ chức tour du lịch trong nước & quốc tế"
+      "text": "<span style=\"font-size:16px;color:#374151\">Tổ chức Teambuilding – Gala Dinner – Sự kiện trọn gói</span>"
     },
     {
       "type": "p",
-      "text": "Tổ chức Teambuilding – Gala Dinner – Sự kiện trọn gói"
+      "text": "<span style=\"font-size:16px;color:#374151\">Thiết kế tour theo yêu cầu doanh nghiệp – đoàn thể – trường học</span>"
     },
     {
       "type": "p",
-      "text": "Thiết kế tour theo yêu cầu doanh nghiệp – đoàn thể – trường học"
+      "text": "<span style=\"font-size:16px;color:#374151\">Đặt vé máy bay, khách sạn, resort, villa toàn quốc</span>"
     },
     {
       "type": "p",
-      "text": "Đặt vé máy bay, khách sạn, resort, villa toàn quốc"
+      "text": "<span style=\"font-size:16px;color:#374151\">Cho thuê xe du lịch 4–45 chỗ, Limousine cao cấp</span>"
     },
     {
       "type": "p",
-      "text": "Cho thuê xe du lịch 4–45 chỗ, Limousine cao cấp"
+      "text": "<span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-24.</span>"
     },
     {
       "type": "p",
-      "text": "Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-24."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">các chương trình tour TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "p",
-      "text": "👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\">các chương trình tour TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
