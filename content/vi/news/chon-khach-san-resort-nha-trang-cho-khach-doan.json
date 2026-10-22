@@ -2,7 +2,7 @@
   "slug": "chon-khach-san-resort-nha-trang-cho-khach-doan",
   "title": "Chọn khách sạn, resort Nha Trang cho khách đoàn",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "chon-khach-san-resort-nha-trang-cho-khach-doan.jpg",
+  "image": "chon-khach-san-resort-nha-trang-cho-khach-doan-v2.jpg",
   "summary": "Khách sạn hoặc resort cho đoàn cần đáp ứng cả phòng nghỉ lẫn cách phục vụ tập thể. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Gửi số người, phòng hai hoặc ba khách, loại giường và nhu cầu ở gần nhau. Hỏi hạng phòng cụ thể, phần có ban công hoặc hướng biển, không mặc định mọi phòng đều giống ảnh giới thiệu. Nếu có người lớn tuổi, trẻ nhỏ hoặc nhu cầu di chuyển đặc biệt, cần báo sớm để kiểm tra khả năng bố trí."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792216077795-0.jpg",
-      "alt": "Chọn khách sạn, resort Nha Trang cho khách đoàn"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792216077795-0.jpg\" alt=\"Chọn khách sạn, resort Nha Trang cho khách đoàn\"></figure>"
     },
     {
       "type": "h2",
