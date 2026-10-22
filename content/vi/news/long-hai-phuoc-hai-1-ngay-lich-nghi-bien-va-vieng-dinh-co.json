@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đi Long Hải–Phước Hải trong ngày cần lựa chọn rõ giữa nghỉ biển, tham quan và hoạt động tập thể. Một lịch vừa sức sẽ giữ được thời gian thư giãn, thay vì để đoàn chạy liên tục giữa các điểm."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đi Long Hải–Phước Hải trong ngày cần lựa chọn rõ giữa nghỉ biển, tham quan và hoạt động tập thể. Một lịch vừa sức sẽ giữ được thời gian thư giãn, thay vì để đoàn chạy liên tục giữa các điểm.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một điểm ghé trên đường"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một điểm ghé trên đường</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể đề nghị dừng Song Vĩnh hoặc một điểm phù hợp với tuyến đón thực tế, sau đó đi về khu biển. Mỗi điểm dừng cần có chỗ xe đỗ và thời gian tập trung lại. Đoàn đông không nên thêm điểm chỉ vì tiện trên bản đồ; phải tính việc xuống xe, vệ sinh và di chuyển của cả nhóm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể đề nghị dừng Song Vĩnh hoặc một điểm phù hợp với tuyến đón thực tế, sau đó đi về khu biển. Mỗi điểm dừng cần có chỗ xe đỗ và thời gian tập trung lại. Đoàn đông không nên thêm điểm chỉ vì tiện trên bản đồ; phải tính việc xuống xe, vệ sinh và di chuyển của cả nhóm.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Bố trí phần biển quanh bữa trưa"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bố trí phần biển quanh bữa trưa</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy đặt nơi nghỉ, ăn trưa và thay đồ trước. Nếu có Team Building, dành một khung hoạt động riêng và có lựa chọn nghỉ cho người không tham gia. Gia đình cần người trông trẻ và quy định tập trung; đoàn công ty cần người phụ trách từng nhóm. Chỉ xuống biển ở khu vực được phép, theo hướng dẫn tại chỗ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy đặt nơi nghỉ, ăn trưa và thay đồ trước. Nếu có Team Building, dành một khung hoạt động riêng và có lựa chọn nghỉ cho người không tham gia. Gia đình cần người trông trẻ và quy định tập trung; đoàn công ty cần người phụ trách từng nhóm. Chỉ xuống biển ở khu vực được phép, theo hướng dẫn tại chỗ.</span>"
     },
     {
       "type": "h2",
-      "text": "Viếng Dinh Cô và về đúng kế hoạch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Viếng Dinh Cô và về đúng kế hoạch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể bố trí phần viếng vào thời điểm phù hợp của ngày, không bắt buộc sau khi tắm biển. Chuẩn bị trang phục kín đáo và tránh gây ồn trong khu thờ tự. Trước khi chốt tour, hỏi rõ bữa ăn, vé nếu có, tắm tráng và thời gian về dự kiến. Giờ di chuyển phải được cập nhật theo ngày đi và điểm đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể bố trí phần viếng vào thời điểm phù hợp của ngày, không bắt buộc sau khi tắm biển. Chuẩn bị trang phục kín đáo và tránh gây ồn trong khu thờ tự. Trước khi chốt tour, hỏi rõ bữa ăn, vé nếu có, tắm tráng và thời gian về dự kiến. Giờ di chuyển phải được cập nhật theo ngày đi và điểm đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một ngày có đủ đi thêm Minh Đạm không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Một ngày có đủ đi thêm Minh Đạm không?</span>"
     },
     {
       "type": "p",
-      "text": "Cần xem mục tiêu đoàn và thời gian còn lại. Nếu nghỉ biển là ưu tiên, có thể bỏ bớt một điểm hoặc chuyển sang chương trình hai ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần xem mục tiêu đoàn và thời gian còn lại. Nếu nghỉ biển là ưu tiên, có thể bỏ bớt một điểm hoặc chuyển sang chương trình hai ngày.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng",
-        "Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải",
-        "Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/long-hai-phuoc-hai-2-ngay-1-dem-lich-tham-quan-va-nghi-duong/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Long Hải – Phước Hải 2 ngày 1 đêm: lịch tham quan và nghỉ dưỡng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dinh-co-va-minh-dam-ket-hop-tham-quan-trong-tour-long-hai/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Dinh Cô và Minh Đạm: kết hợp tham quan trong tour Long Hải</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-tour-bien-tu-bien-hoa-dong-nai-va-tp-hcm-bo-tri-diem-don-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi tour biển từ Biên Hòa, Đồng Nai và TP.HCM: bố trí điểm đón, xe</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Long Hải – Phước Hải 1 ngày",
         "Tour Long Hải – Phước Hải 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
