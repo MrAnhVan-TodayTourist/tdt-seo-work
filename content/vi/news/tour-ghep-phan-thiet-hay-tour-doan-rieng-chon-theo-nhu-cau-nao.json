@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Tour ghép và tour đoàn riêng đều có chỗ đứng riêng. Chọn đúng dựa vào số người, ngân sách và mức độ chủ động mà bạn mong muốn."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Tour ghép và tour đoàn riêng đều có chỗ đứng riêng. Chọn đúng dựa vào số người, ngân sách và mức độ chủ động mà bạn mong muốn.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Khác biệt lịch trình và điểm đón"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khác biệt lịch trình và điểm đón</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour ghép chạy theo lịch chung và điểm tập trung đã định, nhiều khách cùng đi. Tour đoàn riêng được thiết kế theo yêu cầu: ngày đi, điểm đón và hoạt động. TodayTourist chỉ xác nhận lịch ghép khi có chuyến thực tế, không công bố lịch chưa chốt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour ghép chạy theo lịch chung và điểm tập trung đã định, nhiều khách cùng đi. Tour đoàn riêng được thiết kế theo yêu cầu: ngày đi, điểm đón và hoạt động. TodayTourist chỉ xác nhận lịch ghép khi có chuyến thực tế, không công bố lịch chưa chốt.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222518910-0.jpg",
-      "alt": "Elevated view of a historic lighthouse amidst lush greenery in Phu Yen"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222518910-0.jpg\" alt=\"Elevated view of a historic lighthouse amidst lush greenery in Phu Yen\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Số người và ngân sách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Số người và ngân sách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhóm ít người, muốn tiết kiệm có thể quan tâm tour ghép nếu có chuyến phù hợp. Công ty hoặc nhóm đông thường hợp tour riêng vì tiện chia xe, phòng và hoạt động. Hãy so cùng tiêu chuẩn dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhóm ít người, muốn tiết kiệm có thể quan tâm tour ghép nếu có chuyến phù hợp. Công ty hoặc nhóm đông thường hợp tour riêng vì tiện chia xe, phòng và hoạt động. Hãy so cùng tiêu chuẩn dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Mức linh hoạt của đoàn riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Mức linh hoạt của đoàn riêng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn riêng cho phép điều chỉnh giờ khởi hành, thêm Team Building, Gala hay lịch theo ca làm việc. Khách ghép chấp nhận lịch chung, ít điều chỉnh hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn riêng cho phép điều chỉnh giờ khởi hành, thêm Team Building, Gala hay lịch theo ca làm việc. Khách ghép chấp nhận lịch chung, ít điều chỉnh hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Xác nhận lịch, số chỗ và điều kiện ghép"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác nhận lịch, số chỗ và điều kiện ghép</span></strong>"
     },
     {
       "type": "p",
-      "text": "Với tour ghép, hỏi ngày khởi hành, số chỗ còn, điểm đón và điều kiện hủy. Với tour riêng, gửi nhu cầu để nhận phương án. Đừng đặt cọc khi chưa có xác nhận bằng văn bản."
+      "text": "<span style=\"font-size:16px;color:#374151\">Với tour ghép, hỏi ngày khởi hành, số chỗ còn, điểm đón và điều kiện hủy. Với tour riêng, gửi nhu cầu để nhận phương án. Đừng đặt cọc khi chưa có xác nhận bằng văn bản.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có tour ghép Phan Thiết mỗi ngày không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có tour ghép Phan Thiết mỗi ngày không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần liên hệ để biết chuyến thực tế và số chỗ còn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần liên hệ để biết chuyến thực tế và số chỗ còn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Thuê xe đi Phan Thiết hay đặt tour trọn gói: cách chọn cho đoàn riêng",
-        "Du lịch Phan Thiết tự túc hay đặt tour: phương án nào phù hợp?",
-        "Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-di-phan-thiet-hay-dat-tour-tron-goi-cach-chon-cho-doan-rieng/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Phan Thiết hay đặt tour trọn gói: cách chọn cho đoàn riêng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/du-lich-phan-thiet-tu-tuc-hay-dat-tour-phuong-an-nao-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Du lịch Phan Thiết tự túc hay đặt tour: phương án nào phù hợp?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phan-thiet-mui-ne-cho-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
