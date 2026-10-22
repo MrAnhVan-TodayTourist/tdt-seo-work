@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khi chọn đơn vị tổ chức tour đoàn, câu chuyện thực tế có sức thuyết phục hơn lời quảng cáo. Nhưng chỉ nên tin những câu chuyện có đoàn thật, ảnh thật và được phép chia sẻ."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khi chọn đơn vị tổ chức tour đoàn, câu chuyện thực tế có sức thuyết phục hơn lời quảng cáo. Nhưng chỉ nên tin những câu chuyện có đoàn thật, ảnh thật và được phép chia sẻ.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn một đoàn được phép giới thiệu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn một đoàn được phép giới thiệu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mỗi chuyến đoàn đều thuộc về khách hàng, vì vậy TodayTourist chỉ giới thiệu thông tin, tên đơn vị và hình ảnh khi có sự đồng ý. Điều này bảo vệ khách và giữ cho nội dung đáng tin."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mỗi chuyến đoàn đều thuộc về khách hàng, vì vậy TodayTourist chỉ giới thiệu thông tin, tên đơn vị và hình ảnh khi có sự đồng ý. Điều này bảo vệ khách và giữ cho nội dung đáng tin.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222458441-0.jpg",
-      "alt": "Vibrant fishing boats and locals by the seashore in Phan Thiet, Vietna"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222458441-0.jpg\" alt=\"Vibrant fishing boats and locals by the seashore in Phan Thiet, Vietna\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Bài toán và quy mô thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài toán và quy mô thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một câu chuyện đoàn tốt nên nêu số người, mục tiêu chuyến đi, ngày đi và yêu cầu riêng như Team Building, Gala hay lịch theo ca. Khi đọc, doanh nghiệp khác có thể đối chiếu với nhu cầu của mình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một câu chuyện đoàn tốt nên nêu số người, mục tiêu chuyến đi, ngày đi và yêu cầu riêng như Team Building, Gala hay lịch theo ca. Khi đọc, doanh nghiệp khác có thể đối chiếu với nhu cầu của mình.</span>"
     },
     {
       "type": "h2",
-      "text": "Cách triển khai lịch trình và hoạt động"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cách triển khai lịch trình và hoạt động</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy tìm trong câu chuyện những chi tiết cụ thể: cách đón đoàn, sắp xếp phòng, giờ ăn, thời gian hoạt động và cách xử lý thay đổi thời tiết. Mô tả chung chung ít giá trị hơn mô tả quy trình."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy tìm trong câu chuyện những chi tiết cụ thể: cách đón đoàn, sắp xếp phòng, giờ ăn, thời gian hoạt động và cách xử lý thay đổi thời tiết. Mô tả chung chung ít giá trị hơn mô tả quy trình.</span>"
     },
     {
       "type": "h2",
-      "text": "Kết quả, phản hồi có nguồn và lời mời tư vấn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kết quả, phản hồi có nguồn và lời mời tư vấn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phản hồi nên đến từ đại diện đoàn và được ghi nhận đúng. Anh/chị muốn xem hình ảnh các đoàn đã được phép chia sẻ hoặc cần tư vấn cho chuyến sắp tới có thể liên hệ trực tiếp để TodayTourist gửi tư liệu phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phản hồi nên đến từ đại diện đoàn và được ghi nhận đúng. Anh/chị muốn xem hình ảnh các đoàn đã được phép chia sẻ hoặc cần tư vấn cho chuyến sắp tới có thể liên hệ trực tiếp để TodayTourist gửi tư liệu phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể xem ảnh đoàn thật của TodayTourist ở đâu?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể xem ảnh đoàn thật của TodayTourist ở đâu?</span>"
     },
     {
       "type": "p",
-      "text": "Fanpage Du Lịch TodayTourist và mục Hành trình khách đoàn trên website có các chuyến đã được phép giới thiệu."
+      "text": "<span style=\"font-size:16px;color:#374151\">Fanpage Du Lịch TodayTourist và mục Hành trình khách đoàn trên website có các chuyến đã được phép giới thiệu.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tổ chức tour Phan Thiết cho công ty: chuẩn bị từ đâu?",
-        "Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?",
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-phan-thiet-cho-cong-ty-chuan-bi-tu-dau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tổ chức tour Phan Thiết cho công ty: chuẩn bị từ đâu?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phan-thiet-mui-ne-cho-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
