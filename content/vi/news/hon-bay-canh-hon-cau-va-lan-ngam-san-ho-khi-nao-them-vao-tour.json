@@ -8,97 +8,100 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Đi hòn hoặc ngắm san hô có thể bổ sung trải nghiệm thiên nhiên cho chuyến Côn Đảo. Đây là phần cần kiểm tra riêng về tuyến, thời tiết, phương tiện và người tham gia. Không nên thêm như một điểm dừng ngắn vào lịch đã đầy, hoặc hiểu rằng mọi tour Côn Đảo đều có hoạt động biển đảo ngoài đảo chính."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Đi hòn hoặc ngắm san hô có thể bổ sung trải nghiệm thiên nhiên cho chuyến Côn Đảo. Đây là phần cần kiểm tra riêng về tuyến, thời tiết, phương tiện và người tham gia. Không nên thêm như một điểm dừng ngắn vào lịch đã đầy, hoặc hiểu rằng mọi tour Côn Đảo đều có hoạt động biển đảo ngoài đảo chính.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ trải nghiệm khách muốn tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ trải nghiệm khách muốn tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi hòn để ngắm cảnh, tham quan sinh thái, ngắm san hô và lặn có thể cần dịch vụ khác nhau. Hỏi tên hoạt động, địa điểm dự kiến, thời lượng, thiết bị và hướng dẫn đi kèm. Không dùng chữ lặn như mô tả chung cho mọi cách xuống nước. Khách cần biết mức vận động và điều kiện tham gia trước khi quyết định, nhất là gia đình có trẻ nhỏ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi hòn để ngắm cảnh, tham quan sinh thái, ngắm san hô và lặn có thể cần dịch vụ khác nhau. Hỏi tên hoạt động, địa điểm dự kiến, thời lượng, thiết bị và hướng dẫn đi kèm. Không dùng chữ lặn như mô tả chung cho mọi cách xuống nước. Khách cần biết mức vận động và điều kiện tham gia trước khi quyết định, nhất là gia đình có trẻ nhỏ.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792218427256-0.jpg",
-      "alt": "Hòn Bảy Cạnh, Hòn Cau và lặn ngắm san hô: khi nào thêm vào tour?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792218427256-0.jpg\" alt=\"Hòn Bảy Cạnh, Hòn Cau và lặn ngắm san hô: khi nào thêm vào tour?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra thời gian và điều kiện phục vụ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra thời gian và điều kiện phục vụ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chuyến hòn cần thời gian tập trung, đi về và sinh hoạt tại điểm. Nếu cùng ngày có tàu hoặc chuyến bay về đất liền, cần giữ khoảng dự phòng phù hợp. Tuyến được thực hiện phụ thuộc điều kiện biển và khả năng cung cấp dịch vụ. Không hứa mặc định sẽ tới đủ Hòn Bảy Cạnh, Hòn Cau hoặc mọi điểm khách nhìn thấy trong một quảng cáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chuyến hòn cần thời gian tập trung, đi về và sinh hoạt tại điểm. Nếu cùng ngày có tàu hoặc chuyến bay về đất liền, cần giữ khoảng dự phòng phù hợp. Tuyến được thực hiện phụ thuộc điều kiện biển và khả năng cung cấp dịch vụ. Không hứa mặc định sẽ tới đủ Hòn Bảy Cạnh, Hòn Cau hoặc mọi điểm khách nhìn thấy trong một quảng cáo.</span>"
     },
     {
       "type": "h2",
-      "text": "Chuẩn bị phương án cho khách không tham gia"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chuẩn bị phương án cho khách không tham gia</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trong đoàn có thể có người không muốn xuống nước, không phù hợp vận động hoặc thích ở đảo chính nghỉ. Người đại diện nên hỏi lựa chọn thay thế và chi phí của từng nhóm. Hành lý dùng cho chặng biển cần gọn, có đồ cá nhân phù hợp; thiết bị và hướng dẫn an toàn phải được đơn vị phục vụ xác nhận. Không tự xem biết bơi là đủ điều kiện cho mọi hoạt động."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trong đoàn có thể có người không muốn xuống nước, không phù hợp vận động hoặc thích ở đảo chính nghỉ. Người đại diện nên hỏi lựa chọn thay thế và chi phí của từng nhóm. Hành lý dùng cho chặng biển cần gọn, có đồ cá nhân phù hợp; thiết bị và hướng dẫn an toàn phải được đơn vị phục vụ xác nhận. Không tự xem biết bơi là đủ điều kiện cho mọi hoạt động.</span>"
     },
     {
       "type": "h2",
-      "text": "Tách giá và điều kiện thay đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách giá và điều kiện thay đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Báo giá cần cho biết chuyến hòn có nằm trong gói, bao gồm gì và xử lý thế nào khi không thể thực hiện. Nếu có trải nghiệm rùa, phải kiểm tra điều kiện bảo tồn riêng chứ không mặc định đi hòn sẽ được thả rùa. TodayTourist tư vấn bổ sung hoạt động theo nhu cầu; chỉ chốt sau khi dịch vụ, tuyến và điều kiện tham gia phù hợp."
+      "text": "<span style=\"font-size:16px;color:#374151\">Báo giá cần cho biết chuyến hòn có nằm trong gói, bao gồm gì và xử lý thế nào khi không thể thực hiện. Nếu có trải nghiệm rùa, phải kiểm tra điều kiện bảo tồn riêng chứ không mặc định đi hòn sẽ được thả rùa. TodayTourist tư vấn bổ sung hoạt động theo nhu cầu; chỉ chốt sau khi dịch vụ, tuyến và điều kiện tham gia phù hợp.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tour Côn Đảo có tự bao gồm đi hòn? Không; xem danh sách hoạt động và phần bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tour Côn Đảo có tự bao gồm đi hòn? Không; xem danh sách hoạt động và phần bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "Không tham gia hoạt động biển có đi cùng đoàn được không? Cần bố trí lựa chọn riêng và làm rõ giá, người phụ trách."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không tham gia hoạt động biển có đi cùng đoàn được không? Cần bố trí lựa chọn riêng và làm rõ giá, người phụ trách.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn chuyến Côn Đảo phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn chuyến Côn Đảo phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày dự kiến, điểm đón tại Biên Hòa, Đồng Nai hoặc TP.HCM, số ngày nghỉ và ngân sách. Với công ty, cơ quan hoặc đoàn thể, nêu thêm mục tiêu về nguồn, viếng, nghỉ dưỡng hay giao lưu để TodayTourist tư vấn phương án và kiểm tra dịch vụ.</span>"
     },
     {
       "type": "p",
-      "text": "Anh Văn – TodayTourist: 0902 898 726."
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mr Anh Văn – TodayTourist: 0902 898 726.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách",
-        "Xem rùa đẻ, thả rùa con tại Côn Đảo: cách đăng ký và điều kiện tham gia",
-        "Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/con-dao-di-dau-chon-diem-theo-thoi-gian-va-doi-tuong-khach/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Côn Đảo đi đâu: chọn điểm theo thời gian và đối tượng khách</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/xem-rua-de-tha-rua-con-tai-con-dao-cach-dang-ky-va-dieu-kien-tham-gia/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem rùa đẻ, thả rùa con tại Côn Đảo: cách đăng ký và điều kiện tham gia</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-mua-nao-chon-ngay-va-chuan-bi-phuong-an-thoi-tiet/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đi Côn Đảo mùa nào: chọn ngày và chuẩn bị phương án thời tiết</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n2d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Xem chương trình Côn Đảo 2 ngày 2 đêm hiện có của TodayTourist</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Trao đổi với Anh Văn qua Zalo để nhận phương án phù hợp</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Trao đổi với Mr Anh Văn qua Zalo để nhận phương án phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
