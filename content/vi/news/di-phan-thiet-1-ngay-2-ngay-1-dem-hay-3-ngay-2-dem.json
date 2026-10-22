@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Chọn số ngày là quyết định đầu tiên khi lên kế hoạch đi Phan Thiết. Nó ảnh hưởng đến ngân sách, sức khỏe của khách và việc đoàn có đủ thời gian cho hoạt động chính hay không."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Chọn số ngày là quyết định đầu tiên khi lên kế hoạch đi Phan Thiết. Nó ảnh hưởng đến ngân sách, sức khỏe của khách và việc đoàn có đủ thời gian cho hoạt động chính hay không.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Khi nào chọn đi trong ngày"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khi nào chọn đi trong ngày</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đi trong ngày chỉ hợp khi đoàn ít thời gian và chấp nhận thời gian trên đường chiếm phần lớn. Với điểm đến cách xa như Phan Thiết, lịch trong ngày cần xuất phát sớm, ít điểm dừng và không nên nhồi nhiều hoạt động. Nó phù hợp nhóm nhỏ muốn đổi gió hơn là đoàn muốn nghỉ dưỡng hay tổ chức sự kiện."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đi trong ngày chỉ hợp khi đoàn ít thời gian và chấp nhận thời gian trên đường chiếm phần lớn. Với điểm đến cách xa như Phan Thiết, lịch trong ngày cần xuất phát sớm, ít điểm dừng và không nên nhồi nhiều hoạt động. Nó phù hợp nhóm nhỏ muốn đổi gió hơn là đoàn muốn nghỉ dưỡng hay tổ chức sự kiện.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222168455-0.jpg",
-      "alt": "A vibrant tropical beach scene featuring colorful boats and a clear bl"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222168455-0.jpg\" alt=\"A vibrant tropical beach scene featuring colorful boats and a clear bl\"></figure>"
     },
     {
       "type": "h2",
-      "text": "2 ngày 1 đêm phù hợp mục tiêu nào"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">2 ngày 1 đêm phù hợp mục tiêu nào</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đây là lựa chọn cân bằng cho nhiều công ty: có một đêm nghỉ, một buổi tham quan và có thể thêm Team Building hoặc Gala Dinner. Tuy vậy, lịch cần được sắp theo giờ đón và giờ về thực tế, để hoạt động không bị dồn vào thời gian khách còn mệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là lựa chọn cân bằng cho nhiều công ty: có một đêm nghỉ, một buổi tham quan và có thể thêm Team Building hoặc Gala Dinner. Tuy vậy, lịch cần được sắp theo giờ đón và giờ về thực tế, để hoạt động không bị dồn vào thời gian khách còn mệt.</span>"
     },
     {
       "type": "h2",
-      "text": "3 ngày 2 đêm có thêm thời gian cho gì"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">3 ngày 2 đêm có thêm thời gian cho gì</span></strong>"
     },
     {
       "type": "p",
-      "text": "Ba ngày hai đêm cho phép giãn nhịp hơn: có thêm thời gian nghỉ, tách riêng ngày hoạt động tập thể và ngày tham quan. Phù hợp đoàn gia đình, đoàn có hội nghị hoặc đoàn muốn chương trình ít vội. Cái giá là chi phí lưu trú và thời gian nghỉ việc dài hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Ba ngày hai đêm cho phép giãn nhịp hơn: có thêm thời gian nghỉ, tách riêng ngày hoạt động tập thể và ngày tham quan. Phù hợp đoàn gia đình, đoàn có hội nghị hoặc đoàn muốn chương trình ít vội. Cái giá là chi phí lưu trú và thời gian nghỉ việc dài hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn theo điểm đón và ngân sách"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn theo điểm đón và ngân sách</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hãy bắt đầu từ ba câu hỏi: đoàn có bao nhiêu thời gian, cần hoạt động gì, và ngân sách trần là bao nhiêu. Sau đó mới so sánh lịch trình. Chọn chương trình dài hơn nhưng không đủ ngân sách để làm tốt sẽ kém hiệu quả hơn một chuyến gọn, được tổ chức chu đáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hãy bắt đầu từ ba câu hỏi: đoàn có bao nhiêu thời gian, cần hoạt động gì, và ngân sách trần là bao nhiêu. Sau đó mới so sánh lịch trình. Chọn chương trình dài hơn nhưng không đủ ngân sách để làm tốt sẽ kém hiệu quả hơn một chuyến gọn, được tổ chức chu đáo.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Công ty đông người nên đi 2 ngày hay 3 ngày?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Công ty đông người nên đi 2 ngày hay 3 ngày?</span>"
     },
     {
       "type": "p",
-      "text": "Phụ thuộc mục tiêu. Nếu chỉ nghỉ và gắn kết, 2 ngày 1 đêm thường đủ; nếu thêm hội nghị hoặc nhiều hoạt động, 3 ngày 2 đêm có thể thoải mái hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phụ thuộc mục tiêu. Nếu chỉ nghỉ và gắn kết, 2 ngày 1 đêm thường đủ; nếu thêm hội nghị hoặc nhiều hoạt động, 3 ngày 2 đêm có thể thoải mái hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner",
-        "Lịch trình Phan Thiết 3 ngày 2 đêm cho đoàn công ty",
-        "Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-3-ngay-2-dem-cho-doan-cong-ty/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 3 ngày 2 đêm cho đoàn công ty</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chi-phi-di-phan-thiet-2-ngay-1-dem-gom-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chi phí đi Phan Thiết 2 ngày 1 đêm gồm những gì?</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
