@@ -8,16 +8,16 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Khoáng nóng Bình Châu có thể trở thành hoạt động chính hoặc phần tự chọn trong chuyến nghỉ Hồ Tràm–Hồ Cốc. Trước khi đặt, hãy phân biệt vé tham quan với vé sử dụng dịch vụ khoáng và các gói kết hợp."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khoáng nóng Bình Châu có thể trở thành hoạt động chính hoặc phần tự chọn trong chuyến nghỉ Hồ Tràm–Hồ Cốc. Trước khi đặt, hãy phân biệt vé tham quan với vé sử dụng dịch vụ khoáng và các gói kết hợp.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn gói theo điều khách muốn trải nghiệm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn gói theo điều khách muốn trải nghiệm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nhà vận hành Minera công bố nhiều loại vé và gói dịch vụ, gồm tham quan, tắm khoáng và tắm bùn. Vì quyền sử dụng khác nhau, báo giá tour cần nêu tên gói cụ thể. Không nên dùng câu 'vé Bình Châu' để đại diện cho mọi trải nghiệm; hãy hỏi phạm vi, thời gian dùng và hạng mục trả thêm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nhà vận hành Minera công bố nhiều loại vé và gói dịch vụ, gồm tham quan, tắm khoáng và tắm bùn. Vì quyền sử dụng khác nhau, báo giá tour cần nêu tên gói cụ thể. Không nên dùng câu 'vé Bình Châu' để đại diện cho mọi trải nghiệm; hãy hỏi phạm vi, thời gian dùng và hạng mục trả thêm.</span>"
     },
     {
       "type": "html",
@@ -25,67 +25,71 @@
     },
     {
       "type": "h2",
-      "text": "Không ghép quá nhiều hoạt động trong một buổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Không ghép quá nhiều hoạt động trong một buổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần thời gian làm thủ tục, thay đồ, sử dụng dịch vụ và nghỉ. Nếu tour còn có tắm biển hoặc sự kiện, hãy bố trí phần khoáng vào một buổi riêng. Người không tham gia cần có nơi chờ phù hợp. Không dùng những lời hứa chữa bệnh để bán tour; nhu cầu sức khỏe riêng nên hỏi chuyên môn và hướng dẫn của cơ sở."
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần thời gian làm thủ tục, thay đồ, sử dụng dịch vụ và nghỉ. Nếu tour còn có tắm biển hoặc sự kiện, hãy bố trí phần khoáng vào một buổi riêng. Người không tham gia cần có nơi chờ phù hợp. Không dùng những lời hứa chữa bệnh để bán tour; nhu cầu sức khỏe riêng nên hỏi chuyên môn và hướng dẫn của cơ sở.</span>"
     },
     {
       "type": "h2",
-      "text": "Đặt đoàn theo danh sách thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đặt đoàn theo danh sách thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Thống kê người lớn, trẻ em và người chỉ muốn tham quan. Xác nhận giá và quy định theo ngày đi, thay vì dùng giá của một gói cũ cho cả đoàn. Cần hỏi đồ dùng, bữa ăn, tủ gửi đồ và điều kiện đổi lịch. TodayTourist có thể tư vấn phương án kết hợp với chương trình Hồ Cốc–Hồ Tràm sau khi kiểm tra dịch vụ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Thống kê người lớn, trẻ em và người chỉ muốn tham quan. Xác nhận giá và quy định theo ngày đi, thay vì dùng giá của một gói cũ cho cả đoàn. Cần hỏi đồ dùng, bữa ăn, tủ gửi đồ và điều kiện đổi lịch. TodayTourist có thể tư vấn phương án kết hợp với chương trình Hồ Cốc–Hồ Tràm sau khi kiểm tra dịch vụ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Vé tham quan có đồng nghĩa được tắm khoáng không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Vé tham quan có đồng nghĩa được tắm khoáng không?</span>"
     },
     {
       "type": "p",
-      "text": "Không nên mặc định. Cần xem quyền lợi của loại vé và gói đã được ghi trong báo giá."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không nên mặc định. Cần xem quyền lợi của loại vé và gói đã được ghi trong báo giá.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Hồ Tràm – Hồ Cốc: chọn khu nghỉ và trải nghiệm phù hợp",
-        "Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn",
-        "Tour biển cho gia đình và người lớn tuổi: chọn lịch nhẹ"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ho-tram-ho-coc-chon-khu-nghi-va-trai-nghiem-phu-hop/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Hồ Tràm – Hồ Cốc: chọn khu nghỉ và trải nghiệm phù hợp</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/ho-tram-ho-coc-2-ngay-1-dem-nghi-resort-va-to-chuc-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hồ Tràm – Hồ Cốc 2 ngày 1 đêm: nghỉ resort và tổ chức đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-bien-cho-gia-dinh-va-nguoi-lon-tuoi-chon-lich-nhe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour biển cho gia đình và người lớn tuổi: chọn lịch nhẹ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
@@ -93,6 +97,10 @@
         "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
         "Tour Hồ Cốc – Hồ Tràm 1 ngày"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
