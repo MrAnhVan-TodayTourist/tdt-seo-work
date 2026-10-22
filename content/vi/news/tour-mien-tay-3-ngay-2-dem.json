@@ -8,16 +8,16 @@
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Cùng gọi là tour Miền Tây ba ngày, nhưng 3 ngày 2 đêm và 3 ngày 3 đêm có thể khác giờ xuất phát và số đêm trên xe. Khi xem chương trình, hãy đọc cách tính từng đêm. Điều này ảnh hưởng ngày xin nghỉ, sức khỏe chuyến đi và số đêm khách sạn thực sự được sử dụng."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Cùng gọi là tour Miền Tây ba ngày, nhưng 3 ngày 2 đêm và 3 ngày 3 đêm có thể khác giờ xuất phát và số đêm trên xe. Khi xem chương trình, hãy đọc cách tính từng đêm. Điều này ảnh hưởng ngày xin nghỉ, sức khỏe chuyến đi và số đêm khách sạn thực sự được sử dụng.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Đọc rõ đêm trên xe và đêm tại khách sạn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc rõ đêm trên xe và đêm tại khách sạn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một chương trình 3N3Đ có thể gồm đêm đầu di chuyển và hai đêm khách sạn. Trong khi đó, 3N2Đ thường bắt đầu vào ngày thứ nhất, nhưng vẫn phải đọc lịch cụ thể. Đừng hiểu ba đêm đều là phòng ngủ, hoặc mặc định mọi tour ba ngày có cùng thời gian đi và về."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một chương trình 3N3Đ có thể gồm đêm đầu di chuyển và hai đêm khách sạn. Trong khi đó, 3N2Đ thường bắt đầu vào ngày thứ nhất, nhưng vẫn phải đọc lịch cụ thể. Đừng hiểu ba đêm đều là phòng ngủ, hoặc mặc định mọi tour ba ngày có cùng thời gian đi và về.</span>"
     },
     {
       "type": "html",
@@ -25,87 +25,87 @@
     },
     {
       "type": "h2",
-      "text": "Chọn phạm vi tuyến phù hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phạm vi tuyến phù hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hướng Cần Thơ–Sóc Trăng–Bạc Liêu–Cà Mau có nhiều chặng hơn tuyến miệt vườn gần. Nếu mục tiêu là Đất Mũi, nên dành thời gian cho chặng đi về tại Cà Mau. Những chương trình quảng bá số tỉnh cần được so bằng điểm tham quan thật và thời lượng, không dùng số địa danh để đánh giá chất lượng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hướng Cần Thơ–Sóc Trăng–Bạc Liêu–Cà Mau có nhiều chặng hơn tuyến miệt vườn gần. Nếu mục tiêu là Đất Mũi, nên dành thời gian cho chặng đi về tại Cà Mau. Những chương trình quảng bá số tỉnh cần được so bằng điểm tham quan thật và thời lượng, không dùng số địa danh để đánh giá chất lượng.</span>"
     },
     {
       "type": "h2",
-      "text": "Cân nhắc xe và nhịp nghỉ của đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Cân nhắc xe và nhịp nghỉ của đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn có thể hỏi phương án xe giường nằm khi đi đêm, hoặc xe 45 chỗ nếu lịch di chuyển phù hợp. Loại xe, chỗ nằm và điểm đón cần được xác nhận trước. Nhóm lớn tuổi, trẻ em hoặc nhân sự vừa kết thúc ca nên ưu tiên lịch ít chặng và có đủ khoảng nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn có thể hỏi phương án xe giường nằm khi đi đêm, hoặc xe 45 chỗ nếu lịch di chuyển phù hợp. Loại xe, chỗ nằm và điểm đón cần được xác nhận trước. Nhóm lớn tuổi, trẻ em hoặc nhân sự vừa kết thúc ca nên ưu tiên lịch ít chặng và có đủ khoảng nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist có chương trình nào để tham khảo?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist có chương trình nào để tham khảo?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Có thể xem tour Lục tỉnh Miền Tây 3N3Đ đang trên website. Nếu muốn đổi sang 3N2Đ, cần đề nghị thiết kế và xác nhận lại tuyến, dịch vụ, giá cùng lịch khởi hành."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể xem tour Lục tỉnh Miền Tây 3N3Đ đang trên website. Nếu muốn đổi sang 3N2Đ, cần đề nghị thiết kế và xác nhận lại tuyến, dịch vụ, giá cùng lịch khởi hành.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn đang cân nhắc tour miền Tây 3 ngày 2 đêm? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn đang cân nhắc tour miền Tây 3 ngày 2 đêm? Gửi Mr Anh Văn ngày đi, số người, điểm đón và những dịch vụ muốn có. TodayTourist tư vấn tuyến, phương tiện, bữa ăn, lưu trú và hoạt động theo mục tiêu đoàn; lịch và giá cần được xác nhận trước khi đặt.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo: 0902.898.726 (Today Tourist)</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Địa chỉ công ty: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-4-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây 4–6 ngày: chọn một trục tuyến thay vì chạy nhiều điểm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-4-ngay-3-dem/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây 4–6 ngày: chọn một trục tuyến thay vì chạy nhiều điểm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-ca-mau/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Cà Mau–Đất Mũi: tính chặng đường và chọn lịch đủ thời gian</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-mien-tay-cho-nguoi-lon-tuoi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Miền Tây cho người lớn tuổi: chọn lịch ít chặng và dễ nghỉ</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Các chương trình dưới đây là lựa chọn tham khảo. Nếu tuyến hoặc dịch vụ mong muốn khác chương trình mẫu, liên hệ để thiết kế và xác nhận riêng.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Lục tỉnh Miền Tây 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tiền Giang – Cần Thơ 2 ngày 1 đêm</span></u></strong></a></span>"
     }
   ],
   "hidden": false
