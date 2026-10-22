@@ -8,99 +8,106 @@
   "published_at": "2026-10-17",
   "content": [
     {
-      "type": "p",
-      "text": "Người phụ trách hành chính hoặc nhân sự thường là người đứng ra tổ chức chuyến đi. Chuẩn bị đúng thứ tự giúp bạn nhận được báo giá chính xác và hạn chế sửa đổi về sau."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Người phụ trách hành chính hoặc nhân sự thường là người đứng ra tổ chức chuyến đi. Chuẩn bị đúng thứ tự giúp bạn nhận được báo giá chính xác và hạn chế sửa đổi về sau.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Xác định mục tiêu và quy mô"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xác định mục tiêu và quy mô</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trước hết hãy trả lời: chuyến đi để nghỉ dưỡng, khen thưởng, gắn kết hay kết hợp hội nghị? Có bao nhiêu người, gồm nhân viên và người thân hay không? Mục tiêu quyết định số ngày, loại hoạt động và mức dịch vụ cần có."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trước hết hãy trả lời: chuyến đi để nghỉ dưỡng, khen thưởng, gắn kết hay kết hợp hội nghị? Có bao nhiêu người, gồm nhân viên và người thân hay không? Mục tiêu quyết định số ngày, loại hoạt động và mức dịch vụ cần có.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792222192433-0.jpg",
-      "alt": "A vibrant scene of traditional fishing boats in a bustling harbor at s"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792222192433-0.jpg\" alt=\"A vibrant scene of traditional fishing boats in a bustling harbor at s\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Chốt ngân sách và ngày đi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt ngân sách và ngày đi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên có ngân sách tổng và mức chi tối đa cho mỗi người. Chuẩn bị 2–3 ngày đi dự phòng để dễ giữ phòng và xe. Đoàn công ty cần lưu ý ngày cao điểm như cuối tuần, lễ vì dịch vụ có thể giới hạn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên có ngân sách tổng và mức chi tối đa cho mỗi người. Chuẩn bị 2–3 ngày đi dự phòng để dễ giữ phòng và xe. Đoàn công ty cần lưu ý ngày cao điểm như cuối tuần, lễ vì dịch vụ có thể giới hạn.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn lịch trình, Team Building và Gala"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn lịch trình, Team Building và Gala</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xác định rõ hoạt động nào là cốt lõi: Team Building, Gala Dinner, BBQ hay tham quan. Nếu có vinh danh hoặc chương trình văn nghệ, cần báo sớm để chuẩn bị sân khấu, âm thanh và kịch bản. Không nên thêm quá nhiều hoạt động vào một lịch ngắn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xác định rõ hoạt động nào là cốt lõi: Team Building, Gala Dinner, BBQ hay tham quan. Nếu có vinh danh hoặc chương trình văn nghệ, cần báo sớm để chuẩn bị sân khấu, âm thanh và kịch bản. Không nên thêm quá nhiều hoạt động vào một lịch ngắn.</span>"
     },
     {
       "type": "h2",
-      "text": "Hồ sơ, đầu mối và tiến độ phối hợp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Hồ sơ, đầu mối và tiến độ phối hợp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chuẩn bị danh sách khách, nhu cầu ăn uống đặc biệt, điểm đón và một đầu mối liên hệ ở công ty. Hỏi trước về hóa đơn, mốc thanh toán và thời hạn chốt số người. Việc thống nhất sớm giúp chuyến đi tổ chức nhẹ nhàng hơn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chuẩn bị danh sách khách, nhu cầu ăn uống đặc biệt, điểm đón và một đầu mối liên hệ ở công ty. Hỏi trước về hóa đơn, mốc thanh toán và thời hạn chốt số người. Việc thống nhất sớm giúp chuyến đi tổ chức nhẹ nhàng hơn.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Cần gửi thông tin gì để nhận báo giá tour công ty?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Cần gửi thông tin gì để nhận báo giá tour công ty?</span>"
     },
     {
       "type": "p",
-      "text": "Gửi số khách, ngày đi, điểm đón, số ngày, ngân sách dự kiến và hoạt động mong muốn như Team Building, Gala Dinner, BBQ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi số khách, ngày đi, điểm đón, số ngày, ngân sách dự kiến và hoạt động mong muốn như Team Building, Gala Dinner, BBQ.</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình phù hợp cho đoàn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình phù hợp cho đoàn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, ngân sách dự kiến và hoạt động mong muốn. TodayTourist sẽ tư vấn lịch trình và báo giá theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?",
-        "Tour Phan Thiết đón tại Biên Hòa – Đồng Nai: đặt điểm đón cho đoàn",
-        "Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phan-thiet-mui-ne-cho-khach-doan-can-so-sanh-nhung-gi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Giá tour Phan Thiết – Mũi Né cho khách đoàn: cần so sánh những gì?</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phan-thiet-don-tai-bien-hoa-dong-nai-dat-diem-don-cho-doan/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phan Thiết đón tại Biên Hòa – Đồng Nai: đặt điểm đón cho đoàn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/lich-trinh-phan-thiet-2-ngay-1-dem-ket-hop-team-building-va-gala-dinner/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Lịch trình Phan Thiết 2 ngày 1 đêm kết hợp Team Building và Gala Dinner</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "list",
       "items": [
         "Tour Phan Thiết 2 ngày 1 đêm"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
