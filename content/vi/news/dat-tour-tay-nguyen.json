@@ -3,21 +3,21 @@
   "title": "Đặt tour Tây Nguyên: kiểm tra chương trình, cọc và điều kiện thay đổi",
   "category": "Tour Tây Nguyên – Tư vấn đoàn",
   "image": "dat-tour-tay-nguyen-v2.jpg",
-  "summary": "Đặt tour Tây Nguyên. Tư vấn chương trình cho đoàn từ Đồng Nai, TP.HCM. Liên hệ Anh Văn.",
+  "summary": "Trước khi đặt cọc tour Tây Nguyên, khách nên có một phiên bản chương trình và báo giá đã thống nhất.",
   "body": "",
   "published_at": "2026-10-19",
   "content": [
     {
-      "type": "p",
-      "text": "Trước khi đặt cọc tour Tây Nguyên, khách nên có một phiên bản chương trình và báo giá đã thống nhất. Với doanh nghiệp, đây là cơ sở duyệt ngân sách, thông báo nhân viên và làm hồ sơ. Một tin nhắn giá ngắn chưa đủ để biết toàn bộ dịch vụ của chuyến đi."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Trước khi đặt cọc tour Tây Nguyên, khách nên có một phiên bản chương trình và báo giá đã thống nhất. Với doanh nghiệp, đây là cơ sở duyệt ngân sách, thông báo nhân viên và làm hồ sơ. Một tin nhắn giá ngắn chưa đủ để biết toàn bộ dịch vụ của chuyến đi.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Kiểm tra bản chương trình cuối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Kiểm tra bản chương trình cuối</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đối chiếu ngày, điểm đón, nơi ngủ, loại xe, bữa ăn và vé. Phần Gala, Team Building hay giao lưu văn hóa cần ghi tên hạng mục rõ. Nếu sửa tuyến hoặc thời lượng, xin bản cập nhật cuối thay vì mỗi người trong đoàn giữ một ảnh lịch khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đối chiếu ngày, điểm đón, nơi ngủ, loại xe, bữa ăn và vé. Phần Gala, Team Building hay giao lưu văn hóa cần ghi tên hạng mục rõ. Nếu sửa tuyến hoặc thời lượng, xin bản cập nhật cuối thay vì mỗi người trong đoàn giữ một ảnh lịch khác nhau.</span>"
     },
     {
       "type": "html",
@@ -25,83 +25,91 @@
     },
     {
       "type": "h2",
-      "text": "Đọc điều kiện tăng giảm và đổi lịch"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Đọc điều kiện tăng giảm và đổi lịch</span></strong>"
     },
     {
       "type": "p",
-      "text": "Hỏi mốc chốt số khách, cách tính khi giảm người, phòng riêng và thay ngày. Tiền cọc, lịch thanh toán và điều kiện hoàn hủy phải theo văn bản của chương trình thực tế. Không áp dụng điều kiện một tour cũ cho chuyến mới mà chưa xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Hỏi mốc chốt số khách, cách tính khi giảm người, phòng riêng và thay ngày. Tiền cọc, lịch thanh toán và điều kiện hoàn hủy phải theo văn bản của chương trình thực tế. Không áp dụng điều kiện một tour cũ cho chuyến mới mà chưa xác nhận.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt hồ sơ và người liên hệ"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt hồ sơ và người liên hệ</span></strong>"
     },
     {
       "type": "p",
-      "text": "Đoàn doanh nghiệp cần thông tin đơn vị, yêu cầu hóa đơn và đầu mối duyệt. Trước ngày đi, xác nhận trưởng nhóm, danh sách, điểm đón và nhu cầu riêng. Chỉ thanh toán theo thông tin được xác minh từ đơn vị tổ chức; lưu chứng từ và phiên bản báo giá dùng chung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đoàn doanh nghiệp cần thông tin đơn vị, yêu cầu hóa đơn và đầu mối duyệt. Trước ngày đi, xác nhận trưởng nhóm, danh sách, điểm đón và nhu cầu riêng. Chỉ thanh toán theo thông tin được xác minh từ đơn vị tổ chức; lưu chứng từ và phiên bản báo giá dùng chung.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
+    },
+    {
+      "type": "h3",
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Bài cẩm nang có thay cho xác nhận dịch vụ không?</span></strong>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Bài giúp chuẩn bị và chọn tour; dịch vụ, giá và điều kiện chính thức nằm trong chương trình hoặc thỏa thuận đã xác nhận của chuyến đi.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài cẩm nang có thay cho xác nhận dịch vụ không?"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tư vấn chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không. Bài giúp chuẩn bị và chọn tour; dịch vụ, giá và điều kiện chính thức nằm trong chương trình hoặc thỏa thuận đã xác nhận của chuyến đi."
+      "text": "<span style=\"font-size:16px;color:#374151\">Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Mr Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gọi tư vấn: 0902.898.726 – Mr Anh Văn</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo: 0902.898.726 (Today Tourist)</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</span>"
     },
     {
       "type": "h2",
-      "text": "Tư vấn chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
       "type": "p",
-      "text": "Bạn hãy gửi ngày dự kiến, số khách, nơi đón và nhu cầu tham quan, nghỉ dưỡng, Team Building hoặc Gala Dinner. Anh Văn sẽ tư vấn tuyến và phần dịch vụ cần xác nhận trước khi báo giá. Với đoàn công ty, cơ quan hoặc xí nghiệp, chương trình có thể điều chỉnh theo mục tiêu và ngân sách của đơn vị."
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/chu-dang-ya/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Chư Đăng Ya và mùa hoa dã quỳ: chuẩn bị phần check-in Pleiku</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Gọi tư vấn: 0902 898 726 – Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-hanh-huong-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Hành hương Tây Nguyên: chọn Đức Mẹ Măng Đen, Kon Tum và điểm chiêm bái</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Nhắn Zalo Anh Văn</a>"
-    },
-    {
-      "type": "p",
-      "text": "Địa chỉ TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
-    },
-    {
-      "type": "p",
-      "text": "TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-tay-nguyen/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
-    },
-    {
-      "type": "list",
-      "items": [
-        "Chư Đăng Ya và mùa hoa dã quỳ: chuẩn bị phần check-in Pleiku",
-        "Hành hương Tây Nguyên: chọn Đức Mẹ Măng Đen, Kon Tum và điểm chiêm bái",
-        "Tour Tây Nguyên: chọn Buôn Ma Thuột, Pleiku–Kon Tum hay Măng Đen"
-      ]
-    },
-    {
-      "type": "h2",
-      "text": "Tham khảo và trao đổi"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem lịch mẫu để so tuyến và thời lượng. Điểm ngoài lịch, hoạt động bổ sung, giá và ngày khởi hành cần xác nhận theo chuyến thực tế; link tham khảo không có nghĩa mọi trải nghiệm trong bài đã bao gồm.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 3 ngày 3 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 3 ngày 3 đêm</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Tây Nguyên 4 ngày 4 đêm</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-tay-nguyen-4n4d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Tây Nguyên 4 ngày 4 đêm</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
