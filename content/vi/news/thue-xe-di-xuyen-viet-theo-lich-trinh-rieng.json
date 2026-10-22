@@ -8,29 +8,28 @@
   "published_at": "2026-10-11",
   "content": [
     {
-      "type": "p",
-      "text": "<strong>Xuyên Việt là hành trình dài ngày, cần chuẩn bị kỹ. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong>"
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\"><strong>Xuyên Việt là hành trình dài ngày, cần chuẩn bị kỹ. TodayTourist (Biên Hòa, Đồng Nai) nhận phục vụ đoàn xuất phát từ Biên Hòa, Đồng Nai và TP.HCM.</strong></span></p></blockquote>"
     },
     {
       "type": "p",
-      "text": "👉 <strong>Cần báo giá thuê xe đi xuyên Việt theo lịch trình riêng?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo</a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">0902 898 726</a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón."
+      "text": "<span style=\"font-size:16px;color:#374151\">👉 <strong>Cần báo giá thuê xe đi xuyên Việt theo lịch trình riêng?</strong> Nhắn <a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo</span></u></strong></a> hoặc gọi <strong>Mr Anh Văn: <a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">0902 898 726</span></u></strong></a></strong>. Chỉ cần cho biết số người, ngày đi và nơi đón.</span>"
     },
     {
       "type": "h2",
-      "text": "Xuyên Việt: lộ trình và thời gian thực tế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Xuyên Việt: lộ trình và thời gian thực tế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xuyên Việt bằng ô tô từ Biên Hòa, Đồng Nai ra Hà Nội trên 1.600 km, tối thiểu 10–14 ngày nếu muốn tham quan, không phải chỉ lái xe. Trục chính: TP.HCM – Nha Trang – Quy Nhơn – Đà Nẵng – Huế – Quảng Bình – Hà Nội. Khoảng cách tham khảo từ TP.HCM: Nha Trang khoảng 400 km, Quy Nhơn khoảng 650 km, Đà Nẵng khoảng 950–1.000 km (ước tính)."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xuyên Việt bằng ô tô từ Biên Hòa, Đồng Nai ra Hà Nội trên 1.600 km, tối thiểu 10–14 ngày nếu muốn tham quan, không phải chỉ lái xe. Trục chính: TP.HCM – Nha Trang – Quy Nhơn – Đà Nẵng – Huế – Quảng Bình – Hà Nội. Khoảng cách tham khảo từ TP.HCM: Nha Trang khoảng 400 km, Quy Nhơn khoảng 650 km, Đà Nẵng khoảng 950–1.000 km (ước tính).</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213046920-0.jpg",
-      "alt": "Thuê xe đi xuyên Việt theo lịch trình riêng từ Biên Hòa, Đồng Nai, TP.HCM"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213046920-0.jpg\" alt=\"Thuê xe đi xuyên Việt theo lịch trình riêng từ Biên Hòa, Đồng Nai, TP.HCM\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Gợi ý chia chặng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gợi ý chia chặng</span></strong>"
     },
     {
       "type": "list",
@@ -44,23 +43,23 @@
     },
     {
       "type": "h2",
-      "text": "Chọn xe và tài xế"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn xe và tài xế</span></strong>"
     },
     {
       "type": "p",
-      "text": "Chọn xe đời mới, ghế ngả êm; đoàn trên 20 người nên 2 tài xế thay ca, có kế hoạch nghỉ đêm hợp lý."
+      "text": "<span style=\"font-size:16px;color:#374151\">Chọn xe đời mới, ghế ngả êm; đoàn trên 20 người nên 2 tài xế thay ca, có kế hoạch nghỉ đêm hợp lý.</span>"
     },
     {
       "type": "h2",
-      "text": "Lưu ý"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lưu ý</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa mưa bão miền Trung (thường cuối năm) có thể phải đổi lịch; Tết và lễ cần đặt trước nơi nghỉ."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa mưa bão miền Trung (thường cuối năm) có thể phải đổi lịch; Tết và lễ cần đặt trước nơi nghỉ.</span>"
     },
     {
       "type": "h2",
-      "text": "Ví dụ lịch trình xuyên Việt 7 ngày bằng xe riêng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Ví dụ lịch trình xuyên Việt 7 ngày bằng xe riêng</span></strong>"
     },
     {
       "type": "list",
@@ -74,79 +73,79 @@
     },
     {
       "type": "p",
-      "text": "Đây là lịch tham khảo, thực tế cần điều chỉnh theo sở thích, số ngày và thời tiết của đoàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Đây là lịch tham khảo, thực tế cần điều chỉnh theo sở thích, số ngày và thời tiết của đoàn.</span>"
     },
     {
       "type": "h2",
-      "text": "Những điều cần chuẩn bị cho hành trình xuyên Việt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Những điều cần chuẩn bị cho hành trình xuyên Việt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Xe nên được kiểm tra kỹ trước chuyến đi, có tài xế phụ nếu lịch dài. Đoàn mang giấy tờ tùy thân, thuốc cá nhân, áo mưa và đồ giữ ấm. Chuẩn bị bảo hiểm du lịch nếu đoàn đi nhiều ngày và qua nhiều vùng khí hậu khác nhau."
+      "text": "<span style=\"font-size:16px;color:#374151\">Xe nên được kiểm tra kỹ trước chuyến đi, có tài xế phụ nếu lịch dài. Đoàn mang giấy tờ tùy thân, thuốc cá nhân, áo mưa và đồ giữ ấm. Chuẩn bị bảo hiểm du lịch nếu đoàn đi nhiều ngày và qua nhiều vùng khí hậu khác nhau.</span>"
     },
     {
       "type": "h2",
-      "text": "Chọn thời điểm đi xuyên Việt"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn thời điểm đi xuyên Việt</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa khô từ khoảng tháng 2 đến tháng 8 thường thuận lợi cho miền Trung, còn mùa thu thích hợp ra miền Bắc. Tránh đi miền Trung vào mùa mưa bão cuối năm. Hãy chốt lịch sớm, theo dõi dự báo thời tiết và chừa 1–2 ngày dự phòng nếu hành trình có nhiều điểm xa."
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa khô từ khoảng tháng 2 đến tháng 8 thường thuận lợi cho miền Trung, còn mùa thu thích hợp ra miền Bắc. Tránh đi miền Trung vào mùa mưa bão cuối năm. Hãy chốt lịch sớm, theo dõi dự báo thời tiết và chừa 1–2 ngày dự phòng nếu hành trình có nhiều điểm xa.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Xuyên Việt mất mấy ngày?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Xuyên Việt mất mấy ngày?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tối thiểu 10–14 ngày."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tối thiểu 10–14 ngày.</span>"
     },
     {
       "type": "h3",
-      "text": "Nên đi hướng nào?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Nên đi hướng nào?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nam ra Bắc hoặc ngược lại đều được; chọn theo mùa thời tiết miền Trung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nam ra Bắc hoặc ngược lại đều được; chọn theo mùa thời tiết miền Trung.</span>"
     },
     {
       "type": "h3",
-      "text": "Có nên 1 tài xế?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên 1 tài xế?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Không, nên 2 tài xế để an toàn."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không, nên 2 tài xế để an toàn.</span>"
     },
     {
       "type": "h3",
-      "text": "Đi bao nhiêu km?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Đi bao nhiêu km?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Trên 1.600 km một chiều."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trên 1.600 km một chiều.</span>"
     },
     {
       "type": "h3",
-      "text": "TodayTourist hỗ trợ gì?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">TodayTourist hỗ trợ gì?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM."
+      "text": "<span style=\"font-size:16px;color:#374151\">Tư vấn xe, lịch trình cho đoàn từ Biên Hòa, Đồng Nai, TP.HCM.</span>"
     },
     {
       "type": "p",
-      "text": "Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-da-nang-hoi-an/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Đà Nẵng – Hội An</a> · <a href=\"/vi/tin-tuc/thue-xe-di-hue/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Huế</a> · <a href=\"/vi/tin-tuc/thue-xe-di-quang-binh/\" target=\"_blank\" rel=\"noopener nofollow\">Thuê xe đi Quảng Bình</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\">Xem thêm: <a href=\"/vi/tin-tuc/thue-xe-di-da-nang-hoi-an/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Đà Nẵng – Hội An</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-hue/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Huế</span></u></strong></a> · <a href=\"/vi/tin-tuc/thue-xe-di-quang-binh/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Thuê xe đi Quảng Bình</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\">cho thuê xe du lịch 4–45 chỗ TodayTourist</a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr. Anh Văn <strong>0902 898 726</strong>."
+      "text": "<span style=\"font-size:16px;color:#374151\">🚌 Xem dịch vụ <a href=\"/vi/cho-thue-xe/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">cho thuê xe du lịch 4–45 chỗ TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span>"
     },
     {
       "type": "h2",
-      "text": "Tham khảo thêm: Team Building – Gala – Sự kiện"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo thêm: Team Building – Gala – Sự kiện</span></strong>"
     },
     {
       "type": "list",
@@ -155,6 +154,10 @@
         "Chọn địa điểm Team Building và Gala gần Đồng Nai, TP.HCM",
         "Team Building đoàn đông: chia đội và điều phối nhiều bộ phận"
       ]
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
