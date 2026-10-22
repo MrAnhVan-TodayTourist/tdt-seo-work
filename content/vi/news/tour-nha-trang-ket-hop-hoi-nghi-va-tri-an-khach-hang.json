@@ -2,7 +2,7 @@
   "slug": "tour-nha-trang-ket-hop-hoi-nghi-va-tri-an-khach-hang",
   "title": "Tour Nha Trang kết hợp hội nghị và tri ân khách hàng",
   "category": "Tour Nha Trang – Tư vấn đoàn",
-  "image": "tour-nha-trang-ket-hop-hoi-nghi-va-tri-an-khach-hang.jpg",
+  "image": "tour-nha-trang-ket-hop-hoi-nghi-va-tri-an-khach-hang-v2.jpg",
   "summary": "Tour hội nghị tại Nha Trang cần đảm bảo phần công việc diễn ra thuận lợi rồi mới kết hợp tham quan và nghỉ dưỡng. TodayTourist tư vấn: 0902 898 726.",
   "body": "",
   "published_at": "2026-10-16",
@@ -20,9 +20,8 @@
       "text": "Cách xếp lớp học, chữ U hoặc rạp hát tạo sức chứa khác nhau. Hỏi diện tích sử dụng, màn hình, âm thanh, micro, mạng, điều hòa và khu đón tiếp. Phòng Gala phù hợp bàn tròn chưa chắc thuận tiện ghi chép hoặc trình chiếu. Không lấy sức chứa quảng bá chung làm xác nhận cho cách bố trí cụ thể của đoàn."
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792215993884-0.jpg",
-      "alt": "Tour Nha Trang kết hợp hội nghị và tri ân khách hàng"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792215993884-0.jpg\" alt=\"Tour Nha Trang kết hợp hội nghị và tri ân khách hàng\"></figure>"
     },
     {
       "type": "h2",
