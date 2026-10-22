@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Khách thường hỏi mùa nào đẹp để chọn ngày nghỉ. Nhưng quyết định tour còn phụ thuộc vé, phòng, mục tiêu và điều kiện thực tế của hoạt động biển."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Khách thường hỏi mùa nào đẹp để chọn ngày nghỉ. Nhưng quyết định tour còn phụ thuộc vé, phòng, mục tiêu và điều kiện thực tế của hoạt động biển.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Chọn ngày theo trải nghiệm cần dùng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn ngày theo trải nghiệm cần dùng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Người muốn nghỉ resort có nhu cầu khác nhóm muốn canô hoặc tắm biển. Dữ liệu khí hậu chung không bảo đảm thời tiết của một ngày cụ thể. Khi đã có lịch, kiểm tra dự báo cập nhật và hướng dẫn tại điểm, không hứa chuyến chắc chắn nắng đẹp hoặc biển êm."
+      "text": "<span style=\"font-size:16px;color:#374151\">Người muốn nghỉ resort có nhu cầu khác nhóm muốn canô hoặc tắm biển. Dữ liệu khí hậu chung không bảo đảm thời tiết của một ngày cụ thể. Khi đã có lịch, kiểm tra dự báo cập nhật và hướng dẫn tại điểm, không hứa chuyến chắc chắn nắng đẹp hoặc biển êm.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Tách điều kiện biển với thời tiết trên đảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách điều kiện biển với thời tiết trên đảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "Một hoạt động trên bờ có thể vẫn phục vụ khi chương trình biển cần thay đổi. Tàu vận chuyển, canô và cáp treo được kiểm tra theo nhà vận hành. Đoàn nên có đầu mối cập nhật và không tự giữ một lịch cũ khi có thông báo mới."
+      "text": "<span style=\"font-size:16px;color:#374151\">Một hoạt động trên bờ có thể vẫn phục vụ khi chương trình biển cần thay đổi. Tàu vận chuyển, canô và cáp treo được kiểm tra theo nhà vận hành. Đoàn nên có đầu mối cập nhật và không tự giữ một lịch cũ khi có thông báo mới.</span>"
     },
     {
       "type": "h2",
-      "text": "Chốt phương án thay thế trước"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chốt phương án thay thế trước</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu Team Building ngoài trời, hỏi khu trong nhà và nội dung đổi. Nếu canô không tổ chức, cần phương án trên đảo cùng cách xử lý chi phí. Không coi mọi thay đổi thời tiết đều đồng nghĩa được hủy miễn phí tất cả dịch vụ. Giữ khoảng dự phòng trong lịch và xác nhận điều kiện hợp đồng trước khi cọc."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu Team Building ngoài trời, hỏi khu trong nhà và nội dung đổi. Nếu canô không tổ chức, cần phương án trên đảo cùng cách xử lý chi phí. Không coi mọi thay đổi thời tiết đều đồng nghĩa được hủy miễn phí tất cả dịch vụ. Giữ khoảng dự phòng trong lịch và xác nhận điều kiện hợp đồng trước khi cọc.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Mùa được đánh giá đẹp có chắc mọi ngày biển êm không?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Mùa được đánh giá đẹp có chắc mọi ngày biển êm không?</span>"
     },
     {
       "type": "p",
-      "text": "Không. Cần kiểm tra điều kiện thực tế gần ngày đi và tuân thủ quyết định của nhà vận hành."
+      "text": "<span style=\"font-size:16px;color:#374151\">Không. Cần kiểm tra điều kiện thực tế gần ngày đi và tuân thủ quyết định của nhà vận hành.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Team Building Phú Quốc: chọn bãi, mục tiêu và phương án mưa",
-        "Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế",
-        "Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/team-building-phu-quoc-chon-bai-muc-tieu-va-phuong-an-mua/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Team Building Phú Quốc: chọn bãi, mục tiêu và phương án mưa</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-cano-3-dao-4-dao-phu-quoc-so-bang-dich-vu-thuc-te/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour canô 3 đảo, 4 đảo Phú Quốc: so bằng dịch vụ thực tế</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-phu-quoc-kiem-tra-ve-phong-dat-coc-va-doi-huy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
