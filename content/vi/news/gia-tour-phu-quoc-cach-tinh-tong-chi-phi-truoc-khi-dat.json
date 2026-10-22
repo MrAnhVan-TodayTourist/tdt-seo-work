@@ -8,16 +8,16 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Một tour có giá mở đầu thấp chưa chắc có tổng chi phí thấp. Khi so tour Phú Quốc, cần cộng những dịch vụ khách thực sự sử dụng và kiểm tra điều kiện của từng mức giá."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Một tour có giá mở đầu thấp chưa chắc có tổng chi phí thấp. Khi so tour Phú Quốc, cần cộng những dịch vụ khách thực sự sử dụng và kiểm tra điều kiện của từng mức giá.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Lập dự toán trên cùng thông tin"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Lập dự toán trên cùng thông tin</span></strong>"
     },
     {
       "type": "p",
-      "text": "Gửi ngày đi, số người, điểm đón, số đêm, phương tiện và loại phòng. Nếu số khách chưa chốt, yêu cầu vài mức quy mô để thấy phần nào thay đổi. Giá vé máy bay hoặc tàu phải gắn với ngày và điều kiện cụ thể. Không lấy giá áp dụng cho đoàn đông hoặc ngày thường để dự toán mọi chuyến."
+      "text": "<span style=\"font-size:16px;color:#374151\">Gửi ngày đi, số người, điểm đón, số đêm, phương tiện và loại phòng. Nếu số khách chưa chốt, yêu cầu vài mức quy mô để thấy phần nào thay đổi. Giá vé máy bay hoặc tàu phải gắn với ngày và điều kiện cụ thể. Không lấy giá áp dụng cho đoàn đông hoặc ngày thường để dự toán mọi chuyến.</span>"
     },
     {
       "type": "html",
@@ -25,75 +25,83 @@
     },
     {
       "type": "h2",
-      "text": "Tách phần nền tảng và tự chọn"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tách phần nền tảng và tự chọn</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phần nền tảng có thể gồm vận chuyển, phòng, bữa ăn và các điểm đã đặt. Vé công viên, cáp treo, show, canô, bữa tối tự do hoặc xe buổi tối có thể nằm ngoài gói. Team Building và Gala Dinner phải có danh sách hạng mục. Hỏi rõ thuế, hóa đơn, phụ thu phòng đơn và chi phí trẻ em."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phần nền tảng có thể gồm vận chuyển, phòng, bữa ăn và các điểm đã đặt. Vé công viên, cáp treo, show, canô, bữa tối tự do hoặc xe buổi tối có thể nằm ngoài gói. Team Building và Gala Dinner phải có danh sách hạng mục. Hỏi rõ thuế, hóa đơn, phụ thu phòng đơn và chi phí trẻ em.</span>"
     },
     {
       "type": "h2",
-      "text": "Tiết kiệm theo điều khách muốn làm"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tiết kiệm theo điều khách muốn làm</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nếu chủ yếu nghỉ, không cần mua nhiều vé vui chơi. Nếu muốn đi Bắc đảo, chọn vị trí lưu trú và lịch đón phù hợp để giảm chặng xe. So hai phương án cùng tiêu chuẩn thay vì chỉ hỏi giảm giá. Trước khi cọc, kiểm tra thời hạn báo giá và điều kiện thay đổi số khách, ngày đi hoặc loại phòng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nếu chủ yếu nghỉ, không cần mua nhiều vé vui chơi. Nếu muốn đi Bắc đảo, chọn vị trí lưu trú và lịch đón phù hợp để giảm chặng xe. So hai phương án cùng tiêu chuẩn thay vì chỉ hỏi giảm giá. Trước khi cọc, kiểm tra thời hạn báo giá và điều kiện thay đổi số khách, ngày đi hoặc loại phòng.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "p",
-      "text": "Vì sao hai tour cùng 3N2Đ có giá khác nhau?"
+      "text": "<span style=\"font-size:16px;color:#374151\">Vì sao hai tour cùng 3N2Đ có giá khác nhau?</span>"
     },
     {
       "type": "p",
-      "text": "Có thể khác giờ bay, hành lý, phòng, bữa ăn, vé và dịch vụ tổ chức. Cần đối chiếu cùng hạng mục để so công bằng."
+      "text": "<span style=\"font-size:16px;color:#374151\">Có thể khác giờ bay, hành lý, phòng, bữa ăn, vé và dịch vụ tổ chức. Cần đối chiếu cùng hạng mục để so công bằng.</span>"
     },
     {
       "type": "h2",
-      "text": "Nhận tư vấn và báo giá theo nhu cầu"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Nhận tư vấn và báo giá theo nhu cầu</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị gửi ngày đi, số khách, điểm đón tại Biên Hòa–Đồng Nai hoặc TP.HCM, phương tiện và ngân sách dự kiến. Nếu đoàn cần Team Building, Gala Dinner hoặc hội nghị, vui lòng cho biết mục tiêu để TodayTourist tư vấn chương trình theo dịch vụ được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Liên hệ Anh Văn: 0902 898 726.</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"tel:0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Liên hệ Mr Anh Văn: 0902 898 726.</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\">Zalo tư vấn trực tiếp Anh Văn</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://zalo.me/0902898726\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Zalo tư vấn trực tiếp Mr Anh Văn</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Trao đổi trực tiếp tại TodayTourist: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "h2",
-      "text": "Bài viết liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Bài viết liên quan</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch",
-        "Tour Phú Quốc 3 ngày 3 đêm ô tô – tàu: hiểu đúng các chặng",
-        "Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy"
-      ]
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-3-ngay-2-dem-bang-may-bay-chon-gio-bay-va-lich/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-3-ngay-3-dem-o-to-tau-hieu-dung-cac-chang/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm ô tô – tàu: hiểu đúng các chặng</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-phu-quoc-kiem-tra-ve-phong-dat-coc-va-doi-huy/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc và đổi hủy</span></u></strong></a></span>"
     },
     {
       "type": "h2",
-      "text": "Chương trình tour tham khảo"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chương trình tour tham khảo</span></strong>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 2 đêm bằng máy bay</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Phú Quốc 3 ngày 3 đêm bằng ô tô – tàu cao tốc</span></u></strong></a></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
