@@ -8,25 +8,24 @@
   "published_at": "2026-10-16",
   "content": [
     {
-      "type": "p",
-      "text": "Hội nghị khách hàng vừa có nội dung công việc, vừa có nhu cầu tiếp đón và tri ân. Khi kết hợp Gala Dinner, doanh nghiệp nên tách rõ phần trình bày, trao đổi và dùng tiệc để khách dễ theo dõi, đồng thời lựa chọn đúng phạm vi dịch vụ cần thuê."
+      "type": "html",
+      "html": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Hội nghị khách hàng vừa có nội dung công việc, vừa có nhu cầu tiếp đón và tri ân. Khi kết hợp Gala Dinner, doanh nghiệp nên tách rõ phần trình bày, trao đổi và dùng tiệc để khách dễ theo dõi, đồng thời lựa chọn đúng phạm vi dịch vụ cần thuê.</span></p></blockquote>"
     },
     {
       "type": "h2",
-      "text": "Làm rõ mục đích của hội nghị"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Làm rõ mục đích của hội nghị</span></strong>"
     },
     {
       "type": "p",
-      "text": "Giới thiệu sản phẩm, chia sẻ kế hoạch hợp tác và tri ân khách hàng có yêu cầu nội dung khác nhau. Danh sách khách mời, vai trò diễn giả và mục tiêu buổi gặp cần được xác định trước. Nếu có phần hỏi đáp, doanh nghiệp nên bố trí người tiếp nhận câu hỏi và người trả lời. Nội dung chuyên môn, các số liệu và thông tin sản phẩm phải do doanh nghiệp kiểm tra, duyệt."
+      "text": "<span style=\"font-size:16px;color:#374151\">Giới thiệu sản phẩm, chia sẻ kế hoạch hợp tác và tri ân khách hàng có yêu cầu nội dung khác nhau. Danh sách khách mời, vai trò diễn giả và mục tiêu buổi gặp cần được xác định trước. Nếu có phần hỏi đáp, doanh nghiệp nên bố trí người tiếp nhận câu hỏi và người trả lời. Nội dung chuyên môn, các số liệu và thông tin sản phẩm phải do doanh nghiệp kiểm tra, duyệt.</span>"
     },
     {
-      "type": "img",
-      "src": "/content/vi/images/pasted-1792213130036-0.jpg",
-      "alt": "Hội nghị khách hàng kết hợp Gala Dinner: lên kế hoạch ra sao?"
+      "type": "html",
+      "html": "<figure><img src=\"/content/vi/images/pasted-1792213130036-0.jpg\" alt=\"Hội nghị khách hàng kết hợp Gala Dinner: lên kế hoạch ra sao?\"></figure>"
     },
     {
       "type": "h2",
-      "text": "Khung chương trình nửa ngày kết hợp tiệc tối"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Khung chương trình nửa ngày kết hợp tiệc tối</span></strong>"
     },
     {
       "type": "list",
@@ -40,43 +39,43 @@
     },
     {
       "type": "h2",
-      "text": "Chọn phòng theo cách sử dụng"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Chọn phòng theo cách sử dụng</span></strong>"
     },
     {
       "type": "p",
-      "text": "Phòng có đủ ghế chưa chắc phù hợp cho trình chiếu hoặc thảo luận. Cần xem tầm nhìn màn hình, vị trí diễn giả, âm thanh và lối di chuyển. Nếu dùng chung phòng cho hội nghị và tiệc, nên hỏi thời gian chuyển đổi bố trí và cách phục vụ. Với hai khu vực riêng, đường đi và biển hướng dẫn cần dễ nhận biết để khách không bị lỡ nội dung."
+      "text": "<span style=\"font-size:16px;color:#374151\">Phòng có đủ ghế chưa chắc phù hợp cho trình chiếu hoặc thảo luận. Cần xem tầm nhìn màn hình, vị trí diễn giả, âm thanh và lối di chuyển. Nếu dùng chung phòng cho hội nghị và tiệc, nên hỏi thời gian chuyển đổi bố trí và cách phục vụ. Với hai khu vực riêng, đường đi và biển hướng dẫn cần dễ nhận biết để khách không bị lỡ nội dung.</span>"
     },
     {
       "type": "h2",
-      "text": "Phân công tiếp đón và bàn giao kỹ thuật"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Phân công tiếp đón và bàn giao kỹ thuật</span></strong>"
     },
     {
       "type": "p",
-      "text": "Danh sách đăng ký, sơ đồ bàn, người đón khách và người xử lý thay đổi cần rõ ràng. Tệp trình chiếu nên có bản cuối cùng cùng người chịu trách nhiệm phát. Gói tổ chức phải nêu cụ thể MC, điều phối, thiết bị và thời gian phục vụ; không mặc định có tất cả. Khi chuyển sang Gala Dinner, có thể ưu tiên lời cảm ơn, giao lưu và dùng tiệc thay vì kéo dài phần báo cáo."
+      "text": "<span style=\"font-size:16px;color:#374151\">Danh sách đăng ký, sơ đồ bàn, người đón khách và người xử lý thay đổi cần rõ ràng. Tệp trình chiếu nên có bản cuối cùng cùng người chịu trách nhiệm phát. Gói tổ chức phải nêu cụ thể MC, điều phối, thiết bị và thời gian phục vụ; không mặc định có tất cả. Khi chuyển sang Gala Dinner, có thể ưu tiên lời cảm ơn, giao lưu và dùng tiệc thay vì kéo dài phần báo cáo.</span>"
     },
     {
       "type": "h2",
-      "text": "Câu hỏi thường gặp"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Câu hỏi thường gặp</span></strong>"
     },
     {
       "type": "h3",
-      "text": "Có nên tổ chức hội nghị và tiệc trong cùng một địa điểm?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Có nên tổ chức hội nghị và tiệc trong cùng một địa điểm?</span></strong>"
     },
     {
       "type": "p",
-      "text": "Nên nếu địa điểm có phòng hội nghị và khu tiệc phù hợp, vì khách đỡ di chuyển. Cần hỏi trước thời gian chuyển đổi bố trí giữa hai phần."
+      "text": "<span style=\"font-size:16px;color:#374151\">Nên nếu địa điểm có phòng hội nghị và khu tiệc phù hợp, vì khách đỡ di chuyển. Cần hỏi trước thời gian chuyển đổi bố trí giữa hai phần.</span>"
     },
     {
       "type": "h3",
-      "text": "Khách ở xa có hỗ trợ đưa đón được không?"
+      "text": "<strong><span style=\"color:#263238;font-size:20px\">Khách ở xa có hỗ trợ đưa đón được không?</span></strong>"
     },
     {
       "type": "p",
-      "text": "TodayTourist có thể trao đổi phương án xe đưa đón theo danh sách điểm đón và giờ chương trình; đoàn đông ưu tiên tư vấn xe 45 chỗ."
+      "text": "<span style=\"font-size:16px;color:#374151\">TodayTourist có thể trao đổi phương án xe đưa đón theo danh sách điểm đón và giờ chương trình; đoàn đông ưu tiên tư vấn xe 45 chỗ.</span>"
     },
     {
       "type": "h2",
-      "text": "Dịch vụ liên quan"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Dịch vụ liên quan</span></strong>"
     },
     {
       "type": "list",
@@ -88,23 +87,27 @@
     },
     {
       "type": "h2",
-      "text": "Trao đổi chương trình cùng TodayTourist"
+      "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Trao đổi chương trình cùng TodayTourist</span></strong>"
     },
     {
       "type": "p",
-      "text": "Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận."
+      "text": "<span style=\"font-size:16px;color:#374151\">Anh/chị đang chuẩn bị chương trình cho công ty, cơ quan hoặc xí nghiệp? Hãy gửi ngày dự kiến, số người, khu vực tổ chức và ngân sách mong muốn. TodayTourist sẽ trao đổi phương án và phạm vi dịch vụ phù hợp, sau khi các điều kiện thực tế được xác nhận.</span>"
     },
     {
       "type": "p",
-      "text": "Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai."
+      "text": "<span style=\"font-size:16px;color:#374151\">Điện thoại/Zalo: 0902 898 726 – Mr Anh Văn.<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai.</span>"
     },
     {
       "type": "p",
-      "text": "<a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\">Gửi yêu cầu tư vấn cho TodayTourist</a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\">Các dịch vụ du lịch, sự kiện khác</a>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><a href=\"https://todaytourist.com/vi/contact/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Gửi yêu cầu tư vấn cho TodayTourist</span></u></strong></a> · <a href=\"https://todaytourist.com/vi/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Các dịch vụ du lịch, sự kiện khác</span></u></strong></a></span>"
     },
     {
       "type": "p",
-      "text": "<strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong>"
+      "text": "<span style=\"font-size:16px;color:#374151\"><strong>TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU</strong></span>"
+    },
+    {
+      "type": "p",
+      "text": "<span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span>"
     }
   ],
   "hidden": false
