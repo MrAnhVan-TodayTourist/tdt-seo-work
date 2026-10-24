@@ -88,11 +88,12 @@
       "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Tham khảo và trao đổi</span></strong>"
     },
     {
-      "type": "list",
-      "items": [
-        "Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm",
-        "Tour Hồ Cốc – Hồ Tràm 1 ngày"
-      ]
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ho-coc-ho-tram-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c;font-size:16px\">Tour Hồ Cốc – Hồ Tràm 2 ngày 1 đêm</span></u></strong></a>"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://todaytourist.com/vi/tours/tour-ho-coc-ho-tram-1-ngay/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c;font-size:16px\">Tour Hồ Cốc – Hồ Tràm 1 ngày</span></u></strong></a>"
     },
     {
       "type": "p",
