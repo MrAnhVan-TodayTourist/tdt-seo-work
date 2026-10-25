@@ -1,7 +1,6 @@
 {
-  "count": 44,
+  "count": 43,
   "order": [
-    "formosa-2025",
     "da-lat-3n2d-08-08",
     "nhom-tinh-nghia-kp29-phuong-long-binh-chung-mot-niem-tin-08-19",
     "hanh-trinh-nha-trang-vinpearland-3n3d-08-04",
@@ -47,16 +46,6 @@
     "khai-xuan-khoi-hanh-da-lat-4n3d"
   ],
   "items": {
-    "formosa-2025": {
-      "slug": "formosa-2025",
-      "name": "FORMOSA 2025",
-      "org": "Formosa Hà Tĩnh",
-      "tour": "Tour teambuilding cho doanh nghiệp",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2017-05-09"
-    },
     "da-lat-3n2d-08-08": {
       "slug": "da-lat-3n2d-08-08",
       "name": "ĐÀ LẠT 3N2Đ | 06–08/08/2026",
