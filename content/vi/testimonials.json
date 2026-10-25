@@ -1,7 +1,6 @@
 {
-  "count": 51,
+  "count": 50,
   "order": [
-    "mn-sao-mai",
     "da-lat-truong-chinh-tri",
     "song-ngu-lac-hong",
     "truong-th-thcs-thpt-tan-hoa",
@@ -54,16 +53,6 @@
     "khai-xuan-khoi-hanh-da-lat-4n3d"
   ],
   "items": {
-    "mn-sao-mai": {
-      "slug": "mn-sao-mai",
-      "name": "MN SAO MAI",
-      "org": "Trường Mầm non Sao Mai",
-      "tour": "Tour tham quan dã ngoại cho trẻ",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2025-12-21"
-    },
     "da-lat-truong-chinh-tri": {
       "slug": "da-lat-truong-chinh-tri",
       "name": "ĐÀ LẠT - TRƯỜNG CHÍNH TRỊ",
