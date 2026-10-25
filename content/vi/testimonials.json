@@ -1,7 +1,6 @@
 {
-  "count": 45,
+  "count": 44,
   "order": [
-    "song-ngu-lac-hong",
     "formosa-2025",
     "da-lat-3n2d-08-08",
     "nhom-tinh-nghia-kp29-phuong-long-binh-chung-mot-niem-tin-08-19",
@@ -48,16 +47,6 @@
     "khai-xuan-khoi-hanh-da-lat-4n3d"
   ],
   "items": {
-    "song-ngu-lac-hong": {
-      "slug": "song-ngu-lac-hong",
-      "name": "SONG NGỮ LẠC HỒNG",
-      "org": "Trường Song ngữ Lạc Hồng",
-      "tour": "Tour tham quan dã ngoại cho học sinh",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2025-12-21"
-    },
     "formosa-2025": {
       "slug": "formosa-2025",
       "name": "FORMOSA 2025",
