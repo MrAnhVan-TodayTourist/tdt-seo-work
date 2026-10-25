@@ -1,5 +1,5 @@
 {
-  "count": 23,
+  "count": 24,
   "order": [
     "mn-phuoc-long",
     "mn-sao-mai",
@@ -23,7 +23,8 @@
     "hanh-trinh-hoc-tap-trai-nghiem-07-15",
     "hanh-trinh-yeu-thuong-07-13",
     "15-nam-hanh-trinh-vuon-xa-vuot-qua-gioi-han-06-30",
-    "khoanh-khac-dep-hanh-trinh-vung-tau-2n1d-06-21"
+    "khoanh-khac-dep-hanh-trinh-vung-tau-2n1d-06-21",
+    "hanh-trinh-sun-world-vung-tau-07-05"
   ],
   "items": {
     "mn-phuoc-long": {
@@ -283,6 +284,18 @@
         "/content/vi/images/news/cung-nhin-lai-nhung-khoanh-khac-dep-trong-hanh-trinh-vung-ta-06-21-1.jpg"
       ],
       "date": "2026-06-21"
+    },
+    "hanh-trinh-sun-world-vung-tau-07-05": {
+      "slug": "hanh-trinh-sun-world-vung-tau-07-05",
+      "name": "HÀNH TRÌNH SUN WORLD VŨNG TÀU – 05/07/2026",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist hân hạnh đồng hành cùng CÔNG TY TNHH HƯNG NGHIỆP FORMOSA trong chuyến tham quan và vui chơi tại thành phố biển Vũng Tàu với gần 90 thành viên trên 2 xe.</span></p></blockquote>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-sun-world-vung-tau-07-05-2.jpg\" alt=\"HÀNH TRÌNH SUN WORLD VŨNG TÀU – 05/07/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Hành trình bắt đầu với điểm check-in tại Tháp Tam Thắng, nơi đoàn cùng lưu giữ những khoảnh khắc đẹp trước khi thưởng thức bữa trưa buffet hấp dẫn. Buổi chiều, cả đoàn hòa mình vào không khí sôi động tại Siêu Công viên nước Sun World Vũng Tàu, tận hưởng những trò chơi hiện đại, những phút giây thư giãn và tràn ngập tiếng cười.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn CÔNG TY TNHH HƯNG NGHIỆP FORMOSA đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình lần này.</span></p>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-sun-world-vung-tau-07-05-3.jpg\" alt=\"HÀNH TRÌNH SUN WORLD VŨNG TÀU – 05/07/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Đặc biệt, xin gửi lời cảm ơn đến HDV Bá Luân, HDV Văn Văn cùng điều hành Ms. Thanh Thuý đã phối hợp nhiệt tình, chu đáo, góp phần mang đến một chương trình an toàn, chuyên nghiệp và trọn vẹn cho đoàn.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-05.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 Ngày 1 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/news/hanh-trinh-sun-world-vung-tau-07-05-1.jpg"
+      ],
+      "date": "2026-07-05"
     }
   },
   "list_title": "Ý kiến khách hàng",
