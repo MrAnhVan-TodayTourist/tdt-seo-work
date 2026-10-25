@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 21,
   "order": [
     "mn-phuoc-long",
     "mn-sao-mai",
@@ -20,7 +20,8 @@
     "hanh-trinh-trai-nghiem-07-24",
     "moi-hanh-trinh-la-mot-dau-an-dang-nho-07-20",
     "hanh-trinh-phan-thiet-2n2d-07-20",
-    "hanh-trinh-hoc-tap-trai-nghiem-07-15"
+    "hanh-trinh-hoc-tap-trai-nghiem-07-15",
+    "hanh-trinh-yeu-thuong-07-13"
   ],
   "items": {
     "mn-phuoc-long": {
@@ -244,6 +245,18 @@
         "/content/vi/images/news/hanh-trinh-hoc-tap-trai-nghiem-07-15-1.jpg"
       ],
       "date": "2026-07-15"
+    },
+    "hanh-trinh-yeu-thuong-07-13": {
+      "slug": "hanh-trinh-yeu-thuong-07-13",
+      "name": "HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">Có những chuyến đi không chỉ để khám phá, mà còn để sẻ chia.</span></p></blockquote>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-2.jpg\" alt=\"HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">TodayTourist vinh dự đồng hành cùng các em nhỏ tại Mái Ấm Từ Tâm – những em mồ côi, khuyết tật và có hoàn cảnh đặc biệt – trong một ngày vui chơi, tắm biển đầy ý nghĩa tại KDL Hương Phong Hồ Cốc.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Mỗi nụ cười của các em là nguồn động lực để yêu thương được lan tỏa nhiều hơn.</span></p>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-3.jpg\" alt=\"HÀNH TRÌNH YÊU THƯƠNG – 13/07/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn Mái Ấm Từ Tâm, KDL Hương Phong Hồ Cốc cùng hai hướng dẫn viên Diệu Thương và Mr. Văn đã tận tâm đồng hành, góp phần mang đến một ngày trọn vẹn và đầy ắp niềm vui cho các em.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">TodayTourist tin rằng, hành trình ý nghĩa nhất là hành trình mang đến hạnh phúc cho người khác.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">#TodayTourist #MaiAmTuTam #HuongPhongHoCoc #HanhTrinhYeuThuong #LanToaYeuThuong #HDVDieuThuong #MrVan #CungBanDiKhapNamChau See less</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-13.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">các chương trình tour TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/news/hanh-trinh-yeu-thuong-07-13-1.jpg"
+      ],
+      "date": "2026-07-13"
     }
   },
   "list_title": "Ý kiến khách hàng",
