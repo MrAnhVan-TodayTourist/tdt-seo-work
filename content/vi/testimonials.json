@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 45,
   "order": [
     "da-lat-3n2d-08-08",
     "nhom-tinh-nghia-kp29-phuong-long-binh-chung-mot-niem-tin-08-19",
@@ -44,7 +44,8 @@
     "hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12",
     "hanh-trinh-da-lat-4n3d-01-04",
     "khai-xuan-khoi-hanh-da-lat-4n3d",
-    "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15"
+    "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15",
+    "vung-tau-fukuvi-viet-nam-07-31"
   ],
   "items": {
     "da-lat-3n2d-08-08": {
@@ -574,6 +575,18 @@
         "/content/vi/images/ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15-v2.jpg"
       ],
       "date": "2026-08-15"
+    },
+    "vung-tau-fukuvi-viet-nam-07-31": {
+      "slug": "vung-tau-fukuvi-viet-nam-07-31",
+      "name": "VŨNG TÀU 30–31/07/2026 | FUKUVI VIỆT NAM",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">2 ngày – 2 xe – 80 thành viên – một hành trình đầy năng lượng!</span></p></blockquote>\n<p><span style=\"font-size:16px;color:#374151\">Từ những màn Team Building bùng nổ, tinh thần đồng đội cháy hết mình</span></p>\n<p><span style=\"font-size:16px;color:#374151\">đến Gala Dinner ấm áp, gắn kết và những khoảnh khắc cùng nhau khám phá, tận hưởng Vũng Tàu.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Một hành trình khép lại, nhưng những tiếng cười và kỷ niệm đẹp vẫn còn ở lại.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">TodayTourist trân trọng cảm ơn CÔNG TY TNHH FUKUVI VIỆT NAM đã tin tưởng lựa chọn và đồng hành cùng chúng tôi.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Ekip chương trình:</span></p>\n<p><span style=\"font-size:16px;color:#374151\">HDV: Hoàng Phúc</span></p>\n<p><span style=\"font-size:16px;color:#374151\">MC + HDV: Hải Đăng</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Cameraman: Phương Thảo</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Setup: Lê Sang – Hoàng Linh</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Support: Diệu Thương</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-07-31.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-vung-tau-2n1d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Vũng Tàu 2 Ngày 1 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/vung-tau-fukuvi-viet-nam-07-31-v2.jpg"
+      ],
+      "date": "2026-07-31"
     }
   },
   "list_title": "Khách hàng đã đi cùng TodayTourist",
