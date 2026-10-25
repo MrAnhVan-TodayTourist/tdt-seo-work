@@ -1,9 +1,8 @@
 {
-  "count": 48,
+  "count": 47,
   "order": [
     "da-lat-truong-chinh-tri",
     "song-ngu-lac-hong",
-    "truong-th-thcs-thpt-tan-hoa",
     "benh-vien-da-khoa-dong-nai",
     "formosa-2025",
     "da-lat-3n2d-08-08",
@@ -65,16 +64,6 @@
       "slug": "song-ngu-lac-hong",
       "name": "SONG NGỮ LẠC HỒNG",
       "org": "Trường Song ngữ Lạc Hồng",
-      "tour": "Tour tham quan dã ngoại cho học sinh",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2025-12-21"
-    },
-    "truong-th-thcs-thpt-tan-hoa": {
-      "slug": "truong-th-thcs-thpt-tan-hoa",
-      "name": "TRƯỜNG TH - THCS - THPT TÂN HOÀ",
-      "org": "Trường TH - THCS - THPT Tân Hoà",
       "tour": "Tour tham quan dã ngoại cho học sinh",
       "destination": "",
       "feeling": "",
