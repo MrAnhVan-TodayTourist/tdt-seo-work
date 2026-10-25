@@ -1,5 +1,5 @@
 {
-  "count": 24,
+  "count": 25,
   "order": [
     "mn-phuoc-long",
     "mn-sao-mai",
@@ -24,7 +24,8 @@
     "hanh-trinh-yeu-thuong-07-13",
     "15-nam-hanh-trinh-vuon-xa-vuot-qua-gioi-han-06-30",
     "khoanh-khac-dep-hanh-trinh-vung-tau-2n1d-06-21",
-    "hanh-trinh-sun-world-vung-tau-07-05"
+    "hanh-trinh-sun-world-vung-tau-07-05",
+    "hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si"
   ],
   "items": {
     "mn-phuoc-long": {
@@ -296,6 +297,18 @@
         "/content/vi/images/news/hanh-trinh-sun-world-vung-tau-07-05-1.jpg"
       ],
       "date": "2026-07-05"
+    },
+    "hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si": {
+      "slug": "hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si",
+      "name": "HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist vinh dự được đồng hành cùng ĐẢNG UỶ - HĐND - UBND - UBMTTQ VIỆT NAM XÃ HY CƯƠNG, TỈNH PHÚ THỌ trong hành trình về nguồn đầy ý nghĩa tại thành phố Nha Trang.</span></p></blockquote>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-2.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Trong chuyến đi, đoàn đã thành kính dâng hương, dâng hoa tại Khu tưởng niệm Chiến sĩ Gạc Ma và Nghĩa trang Liệt sĩ Hòn Dung, bày tỏ lòng biết ơn sâu sắc đối với những anh hùng liệt sĩ đã anh dũng hy sinh vì độc lập, chủ quyền và sự bình yên của Tổ quốc. Đây không chỉ là chuyến tham quan mà còn là dịp để giáo dục truyền thống yêu nước, hun đúc tinh thần “Uống nước nhớ nguồn” và tri ân những người đã cống hiến vì dân tộc.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn ĐẢNG UỶ - HĐND - UBND - UBMTTQ VIỆT NAM XÃ HY CƯƠNG, TỈNH PHÚ THỌ đã tin tưởng lựa chọn TodayTourist đồng hành trong hành trình đầy ý nghĩa này.</span></p>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-3.jpg\" alt=\"HÀNH TRÌNH VỀ NGUỒN – TRI ÂN CÁC ANH HÙNG LIỆT SĨ\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist”.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">các chương trình tour TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/news/hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si-1.jpg"
+      ],
+      "date": "2026-09-21"
     }
   },
   "list_title": "Ý kiến khách hàng",
