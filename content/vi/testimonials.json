@@ -1,7 +1,6 @@
 {
-  "count": 52,
+  "count": 51,
   "order": [
-    "mn-phuoc-long",
     "mn-sao-mai",
     "da-lat-truong-chinh-tri",
     "song-ngu-lac-hong",
@@ -55,16 +54,6 @@
     "khai-xuan-khoi-hanh-da-lat-4n3d"
   ],
   "items": {
-    "mn-phuoc-long": {
-      "slug": "mn-phuoc-long",
-      "name": "MN PHƯỚC LONG",
-      "org": "Trường Mầm non Phước Long",
-      "tour": "Tour tham quan dã ngoại cho trẻ",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2025-12-21"
-    },
     "mn-sao-mai": {
       "slug": "mn-sao-mai",
       "name": "MN SAO MAI",
