@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 40,
   "order": [
     "mn-phuoc-long",
     "mn-sao-mai",
@@ -39,7 +39,8 @@
     "hanh-trinh-da-lat-3n3d-05-31",
     "hanh-trinh-quy-nhon-phu-yen-4n3d-05-27",
     "hanh-trinh-da-lat-3n3d-05-27",
-    "hanh-trinh-phan-thiet-2n1d-05-28"
+    "hanh-trinh-phan-thiet-2n1d-05-28",
+    "hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24"
   ],
   "items": {
     "mn-phuoc-long": {
@@ -491,6 +492,18 @@
         "/content/vi/images/news/hanh-trinh-phan-thiet-2n1d-05-28-1.jpg"
       ],
       "date": "2026-05-28"
+    },
+    "hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24": {
+      "slug": "hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24",
+      "name": "HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 3N3Đ (TỐI 21–24/05/2026)",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST hân hạnh đồng hành cùng Chi hội Phụ nữ An Viễng – Xã Bình An – TP. Đồng Nai trong chuyến tham quan nghỉ dưỡng miền Trung đầy thú vị và đáng nhớ.</span></p></blockquote>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24-2.jpg\" alt=\"HÀNH TRÌNH QUY NHƠN – PHÚ YÊN 3N3Đ (TỐI 21–24/05/2026)\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Điểm nổi bật trong hành trình:</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Khám phá Kỳ Co – Eo Gió, lặn ngắm san hô giữa làn nước biển trong xanh</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Tham quan Ghềnh Ráng Tiên Sa – viếng Mộ Hàn Mặc Tử</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Check in Nhà Thờ Mằng Lăng cổ kính nổi tiếng Phú Yên</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Khám phá thắng cảnh thiên nhiên độc đáo Gành Đá Đĩa</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Viếng Chùa Thanh Lương với kiến trúc đặc sắc</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Thưởng thức hải sản Đầm Ô Loan & đặc sản Mắt Cá Ngừ Đại Dương</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Tham quan vườn nho Ninh Thuận, mua sắm đặc sản miền Trung</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nghỉ dưỡng, tắm biển và tận hưởng vẻ đẹp miền biển Quy Nhơn – Phú Yên</span></p>\n<p><span style=\"font-size:16px;color:#374151\">TODAYTOURIST xin kính chúc quý cô, quý chị em thật nhiều sức khỏe, niềm vui và có thật nhiều kỷ niệm đẹp trong hành trình lần này!</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-05-24.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem chương trình <a href=\"/vi/tours/tour-quy-nhon-3n3d/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">Tour Quy Nhơn 3 Ngày 3 Đêm</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/news/hanh-trinh-quy-nhon-phu-yen-3n3d-toi-05-24-1.jpg"
+      ],
+      "date": "2026-05-24"
     }
   },
   "list_title": "Ý kiến khách hàng",
