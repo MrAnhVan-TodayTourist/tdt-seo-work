@@ -1,5 +1,5 @@
 {
-  "count": 28,
+  "count": 29,
   "order": [
     "mn-phuoc-long",
     "mn-sao-mai",
@@ -28,7 +28,8 @@
     "hanh-trinh-ve-nguon-tri-an-cac-anh-hung-liet-si",
     "hanh-trinh-phan-thiet-1n1d-06-28",
     "hanh-trinh-vung-tau-2n1d-06-28",
-    "hanh-trinh-ninh-chu-vinh-hy-3n2d"
+    "hanh-trinh-ninh-chu-vinh-hy-3n2d",
+    "hanh-trinh-happy-farm-06-25"
   ],
   "items": {
     "mn-phuoc-long": {
@@ -348,6 +349,18 @@
         "/content/vi/images/news/hanh-trinh-ninh-chu-vinh-hy-3n2d-1.jpg"
       ],
       "date": "2026-09-21"
+    },
+    "hanh-trinh-happy-farm-06-25": {
+      "slug": "hanh-trinh-happy-farm-06-25",
+      "name": "HÀNH TRÌNH HAPPY FARM – 25/06/2026",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">TodayTourist hân hạnh đồng hành cùng các thầy cô và các em học sinh Trường Song Ngữ Lạc Hồng – khối tổng hợp các lớp 4, 5, 7, 8 và 9 trong chương trình học hè trải nghiệm tại Happy Farm.</span></p></blockquote>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-happy-farm-06-25-2.jpg\" alt=\"HÀNH TRÌNH HAPPY FARM – 25/06/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Với 41 thành viên tham gia, chuyến đi mang đến cho các em cơ hội được hòa mình vào thiên nhiên, khám phá mô hình nông trại, tham gia nhiều hoạt động trải nghiệm bổ ích và rèn luyện kỹ năng thông qua học tập thực tế. Đây cũng là dịp để các em giao lưu, gắn kết và lưu giữ những kỷ niệm đẹp trong mùa hè.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Xin chân thành cảm ơn Ban Giám hiệu, quý thầy cô cùng các bậc phụ huynh đã tin tưởng lựa chọn TodayTourist đồng hành trong chương trình lần này.</span></p>\n<figure><img src=\"/content/vi/images/news/hanh-trinh-happy-farm-06-25-3.jpg\" alt=\"HÀNH TRÌNH HAPPY FARM – 25/06/2026\"></figure>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-06-25.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">👉 Xem <a href=\"/vi/tours/\" target=\"_blank\" rel=\"noopener nofollow\"><strong><u><span style=\"color:#00695c\">các chương trình tour TodayTourist</span></u></strong></a>. Tư vấn: Hotline <strong>0913 78 76 47</strong> – Mr Anh Văn <strong>0902 898 726</strong>.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/news/hanh-trinh-happy-farm-06-25-1.jpg"
+      ],
+      "date": "2026-06-25"
     }
   },
   "list_title": "Ý kiến khách hàng",
