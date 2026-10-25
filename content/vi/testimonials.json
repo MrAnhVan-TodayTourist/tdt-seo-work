@@ -1,11 +1,10 @@
 {
-  "count": 50,
+  "count": 49,
   "order": [
     "da-lat-truong-chinh-tri",
     "song-ngu-lac-hong",
     "truong-th-thcs-thpt-tan-hoa",
     "benh-vien-da-khoa-dong-nai",
-    "cong-ty-tnhh-mtv-thach-hien",
     "hoi-lhpn-kp3-long-binh",
     "formosa-2025",
     "da-lat-3n2d-08-08",
@@ -88,16 +87,6 @@
       "name": "BỆNH VIỆN ĐA KHOA ĐỒNG NAI",
       "org": "Bệnh viện Đa khoa Đồng Nai",
       "tour": "Tour teambuilding / nghỉ dưỡng",
-      "destination": "",
-      "feeling": "",
-      "images": [],
-      "date": "2017-05-09"
-    },
-    "cong-ty-tnhh-mtv-thach-hien": {
-      "slug": "cong-ty-tnhh-mtv-thach-hien",
-      "name": "CÔNG TY TNHH MTV THẠCH HIỂN",
-      "org": "Công ty TNHH MTV Thạch Hiển",
-      "tour": "Tour teambuilding cho doanh nghiệp",
       "destination": "",
       "feeling": "",
       "images": [],
