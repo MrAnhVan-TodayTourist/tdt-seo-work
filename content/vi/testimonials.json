@@ -1,7 +1,6 @@
 {
-  "count": 47,
+  "count": 46,
   "order": [
-    "da-lat-truong-chinh-tri",
     "song-ngu-lac-hong",
     "benh-vien-da-khoa-dong-nai",
     "formosa-2025",
@@ -50,16 +49,6 @@
     "khai-xuan-khoi-hanh-da-lat-4n3d"
   ],
   "items": {
-    "da-lat-truong-chinh-tri": {
-      "slug": "da-lat-truong-chinh-tri",
-      "name": "ĐÀ LẠT - TRƯỜNG CHÍNH TRỊ",
-      "org": "Trường Chính trị tỉnh Đồng Nai",
-      "tour": "Tour Đà Lạt",
-      "destination": "Đà Lạt",
-      "feeling": "",
-      "images": [],
-      "date": "2017-05-09"
-    },
     "song-ngu-lac-hong": {
       "slug": "song-ngu-lac-hong",
       "name": "SONG NGỮ LẠC HỒNG",
