@@ -1,5 +1,5 @@
 {
-  "count": 43,
+  "count": 44,
   "order": [
     "da-lat-3n2d-08-08",
     "nhom-tinh-nghia-kp29-phuong-long-binh-chung-mot-niem-tin-08-19",
@@ -43,7 +43,8 @@
     "khep-lai-hanh-trinh-phan-thiet-2n1d-02-04",
     "hanh-huong-cha-diep-duc-me-fatima-vinh-long-01-12",
     "hanh-trinh-da-lat-4n3d-01-04",
-    "khai-xuan-khoi-hanh-da-lat-4n3d"
+    "khai-xuan-khoi-hanh-da-lat-4n3d",
+    "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15"
   ],
   "items": {
     "da-lat-3n2d-08-08": {
@@ -561,6 +562,18 @@
         "/content/vi/images/news/khai-xuan-khoi-hanh-da-lat-4n3d-1.jpg"
       ],
       "date": "2026-09-21"
+    },
+    "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15": {
+      "slug": "ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15",
+      "name": "NGÀY HỘI TRUYỀN THỐNG – BƯU ĐIỆN ĐỒNG NAI",
+      "org": "",
+      "tour": "",
+      "destination": "",
+      "feeling": "<blockquote><p><span style=\"font-size:16px;color:#374151\">15/08/2026</span></p></blockquote>\n<p><span style=\"font-size:16px;color:#374151\">Một ngày hội – một màu áo – một tinh thần VIETNAM POST!</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Cán bộ, nhân viên Bưu điện Đồng Nai đến từ nhiều khu vực trên địa bàn đã cùng hội tụ, hòa mình vào chương trình Team Building sôi động, cùng chơi hết mình, cười hết sức và gắn kết hơn bao giờ hết.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Dẫn dắt chương trình: MC Hải Đăng – kết nối năng lượng, khuấy động không khí và tạo nên những khoảnh khắc bùng nổ.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Một ngày hội khép lại, nhưng tinh thần ĐOÀN KẾT – BỨT PHÁ – ĐỒNG HÀNH vẫn còn nguyên!</span></p>\n<p><span style=\"font-size:16px;color:#374151\">TodayTourist vinh dự được đồng hành cùng Bưu điện Đồng Nai trong ngày hội ý nghĩa này.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">Nguồn: fanpage Facebook “Du Lịch TodayTourist” — 2026-08-15.</span></p>\n<p><span style=\"font-size:16px;color:#374151\">📍 <strong>Công ty TNHH Du lịch Ngày Hôm Nay (Today Tourist)</strong><br>🏠 Số 80 Đặng Nguyên, KP 29, P. Long Bình, TP. Đồng Nai.</span></p>",
+      "images": [
+        "/content/vi/images/ngay-hoi-truyen-thong-buu-dien-dong-nai-08-15-v2.jpg"
+      ],
+      "date": "2026-08-15"
     }
   },
   "list_title": "Khách hàng đã đi cùng TodayTourist",
