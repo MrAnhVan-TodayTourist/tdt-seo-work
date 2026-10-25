@@ -662,9 +662,9 @@
       "date": "2026-09-21"
     }
   },
-  "list_title": "Ý kiến khách hàng",
-  "list_text": "Hình ảnh và cảm nhận của khách hàng, trường học, doanh nghiệp sau mỗi chuyến đi cùng TodayTourist.",
-  "body_html": "<p>Những hình ảnh và cảm nhận chân thật của khách hàng, trường học, doanh nghiệp sau mỗi chuyến đi cùng TodayTourist.</p>",
+  "list_title": "Khách hàng đã đi cùng TodayTourist",
+  "list_text": "Hành trình thật của đoàn doanh nghiệp, trường học, cơ quan và gia đình đã đi cùng TodayTourist: ảnh, điểm đến và cảm nhận sau mỗi chuyến.",
+  "body_html": "<p>Hành trình thật của đoàn doanh nghiệp, trường học, cơ quan và gia đình đã đi cùng TodayTourist: ảnh, điểm đến và cảm nhận sau mỗi chuyến.</p>",
   "back_label": "Quay lại danh sách",
   "read_more": "Xem chi tiết"
 }
