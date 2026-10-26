@@ -146,7 +146,7 @@ const richHtml = (html) =>
           return (
             <ul class="rich-ul">
               {(b.items || []).map((it) => (
-                <li class="rich-li">{it}</li>
+                <li class="rich-li" set:html={rich(it)} />
               ))}
             </ul>
           );
