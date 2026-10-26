@@ -163,6 +163,16 @@ const graph = [travelAgencyLd(lang), websiteLd(lang), breadcrumbLd(crumbs), ...j
       is:inline
       set:html={JSON.stringify({ '@context': 'https://schema.org', '@graph': graph })}
     />
+    {
+      !pathname.startsWith('/admin') && (
+        <>
+          <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-RE7QFZYFN2" />
+          <script is:inline>
+            {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-RE7QFZYFN2');document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a'):null;if(!a)return;var h=a.getAttribute('href')||'';var t=h.indexOf('tel:')===0?'call_click':(h.indexOf('zalo.me')>-1||h.indexOf('zalo')>-1&&h.indexOf('http')===0)?'zalo_click':h.indexOf('mailto:')===0?'email_click':'';if(t)gtag('event',t,{link_url:h,page_path:location.pathname});});`}
+          </script>
+        </>
+      )
+    }
   </head>
   <body class="flex min-h-dvh flex-col bg-sand text-ink antialiased">
     <a
