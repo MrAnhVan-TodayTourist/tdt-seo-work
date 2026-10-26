@@ -1,128 +1,113 @@
 {
-  "title": "DỊCH VỤ CHO THUÊ XE GIÁ TỐT TẠI ĐỒNG NAI & TP.HCM",
+  "title": "Thuê xe du lịch Biên Hòa, Đồng Nai: xe 16, 29, 45 chỗ, giường nằm",
   "hero_kicker": "Cho thuê xe",
-  "hero_title": "DỊCH VỤ CHO THUÊ XE GIÁ TỐT TẠI ĐỒNG NAI & TP.HCM",
-  "hero_text": "Bạn đang tìm dịch vụ cho thuê xe du lịch an toàn, đúng giờ, giá hợp lý cho chuyến đi cá nhân, gia đình hay doanh nghiệp?",
+  "hero_title": "Thuê xe du lịch Biên Hòa – Đồng Nai: 16, 29, 45 chỗ và giường nằm",
+  "hero_text": "Bảng giá tham khảo đi Vũng Tàu, Đà Lạt, Nha Trang, Cà Mau, Quy Nhơn. Tư vấn lịch trình, báo giá nhanh qua 0902 898 726.",
   "content": [
     {
       "type": "h2",
-      "text": "🚍 DỊCH VỤ CHO THUÊ XE DU LỊCH UY TÍN – GIÁ TỐT TẠI ĐỒNG NAI & TP.HCM"
+      "text": "Thuê xe du lịch Biên Hòa – Đồng Nai: xe 16, 29, 45 chỗ và giường nằm"
     },
     {
       "type": "p",
-      "text": "Bạn đang tìm dịch vụ cho thuê xe du lịch an toàn, đúng giờ, giá hợp lý cho chuyến đi cá nhân, gia đình hay doanh nghiệp?\nTodayTourist tự hào cung cấp dịch vụ cho thuê xe từ 4 – 45 chỗ và xe giường nằm , phục vụ đa dạng nhu cầu di chuyển trong nước với chất lượng chuyên nghiệp và chi phí tối ưu."
+      "text": "Today Tourist cho thuê xe du lịch xuất phát từ Biên Hòa (TP. Đồng Nai), đi TP.HCM, Vũng Tàu, Phan Thiết, Đà Lạt, Nha Trang, Miền Tây, Cà Mau, Quy Nhơn và các tỉnh thành trên cả nước. Khách là gia đình, công ty, trường học hay đoàn thể đều được tư vấn lịch trình và báo giá theo đúng số người, số ngày."
+    },
+    {
+      "type": "p",
+      "text": "Điểm khác biệt: chúng tôi là đơn vị làm tour, có hướng dẫn viên và MC đi cùng khi cần. Quý khách thuê xe kèm team building, gala dinner hoặc tour trọn gói chỉ qua một đầu mối."
     },
     {
       "type": "h2",
-      "text": "🚐 CÁC LOẠI XE CHO THUÊ TẠI TODAYTOURIST"
+      "text": "Bảng giá thuê xe tham khảo từ Biên Hòa"
+    },
+    {
+      "type": "html",
+      "html": "<table style=\"width:100%;border-collapse:collapse\"><caption style=\"caption-side:top;text-align:left;padding:4px 0;font-size:14px\">Đơn vị: triệu đồng, trọn gói, chưa VAT, xe xuất phát từ Biên Hòa (TP. Đồng Nai), khứ hồi</caption><thead><tr><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Tuyến</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Số ngày</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Xe 16 chỗ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Xe 29 chỗ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Xe 45 chỗ</th><th style=\"border:1px solid #cbd5e1;padding:8px;background:#e0f2f1;color:#004d40;font-size:14px;text-align:center\">Xe giường nằm</th></tr></thead><tbody><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Nội tỉnh Đồng Nai (Long Thành, Nhơn Trạch, Giang Điền) 1 ngày</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">1</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">2 – 2,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3 – 3,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3,5 – 4</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4,5 – 5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>TP.HCM 1 ngày</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">1</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">2 – 2,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3 – 3,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4 – 4,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4,5 – 5,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Vũng Tàu 1 ngày</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">1</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">2,5 – 3</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3,5 – 4</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">5,5 – 6</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">6 – 7</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Hồ Tràm / Bình Châu 1 ngày</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">1</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3 – 3,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4 – 4,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">6 – 6,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">7 – 7,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Tây Ninh – Núi Bà Đen 1 ngày</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">1</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3 – 3,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">5 – 5,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">6 – 6,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">6,5 – 7,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Phan Thiết – Mũi Né 2N1Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">2</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">5,5 – 6</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">7 – 8</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">10 – 11,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">12 – 13</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Cần Thơ 2N1Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">2</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">6 – 6,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">8 – 8,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">11 – 12</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">12,5 – 14</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Đà Lạt 3N2Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">8 – 9</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">11 – 12,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">16 – 16,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">18,5 – 20,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Nha Trang / Cam Ranh 3N2Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">9,5 – 11</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">13 – 14</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">19 – 20</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">22 – 24,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Châu Đốc – Cần Thơ 3N2Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">3</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">8,5 – 9,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">11 – 12,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">16 – 17,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">18,5 – 20,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Cà Mau – Đất Mũi 4N3Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">11,5 – 13</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">15,5 – 17,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">22 – 24,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">25,5 – 28,5</td></tr><tr><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:left\"><strong>Quy Nhơn 4N3Đ</strong></td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">4</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">17,5 – 19,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">23 – 25,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">32 – 35,5</td><td style=\"border:1px solid #cbd5e1;padding:8px;font-size:14px;text-align:center\">35,5 – 39,5</td></tr></tbody></table>"
     },
     {
       "type": "p",
-      "text": "Chúng tôi sở hữu và liên kết đội xe đời mới, được bảo dưỡng định kỳ:"
+      "text": "<strong>Cách đọc bảng giá:</strong> mức thấp áp dụng ngày thường, mùa thấp điểm; mức cao áp dụng cuối tuần, lễ Tết, mùa cao điểm. Giá đã gồm xe, tài xế, nhiên liệu, phí cầu đường theo lịch trình; chưa gồm VAT. Tài xế ăn nghỉ theo hợp đồng. Giá thay đổi theo giá nhiên liệu và thời điểm, vì vậy bảng này để tham khảo, giá chính thức theo báo giá bằng văn bản."
     },
     {
       "type": "p",
-      "text": "🚗 Xe 4 – 7 chỗ : Đi công tác, đưa đón sân bay, du lịch gia đình"
-    },
-    {
-      "type": "p",
-      "text": "🚐 Xe 16 chỗ : Nhóm bạn, đoàn nhỏ, tham quan ngắn ngày"
-    },
-    {
-      "type": "p",
-      "text": "🚌 Xe 29 – 45 chỗ : Du lịch đoàn, công ty, trường học, hội nghị"
-    },
-    {
-      "type": "p",
-      "text": "🛌 Xe giường nằm : Tour đường dài, hành trình liên tỉnh"
-    },
-    {
-      "type": "p",
-      "text": "👉 Tất cả xe đều:"
-    },
-    {
-      "type": "p",
-      "text": "Máy lạnh mát sâu, ghế ngả thoải mái"
-    },
-    {
-      "type": "p",
-      "text": "Nội thất sạch sẽ, an toàn"
-    },
-    {
-      "type": "p",
-      "text": "Tài xế giàu kinh nghiệm, thông thạo tuyến điểm"
+      "text": "Xe 4–7 chỗ đưa đón sân bay, công tác: báo giá theo chặng, vui lòng gọi 0902 898 726."
     },
     {
       "type": "h2",
-      "text": "📍 DỊCH VỤ CHO THUÊ XE PHỤC VỤ NHỮNG NHU CẦU NÀO?"
+      "text": "Chọn loại xe nào cho đoàn của bạn?"
     },
     {
-      "type": "p",
-      "text": "✔ Thuê xe du lịch trong ngày & nhiều ngày\n✔ Thuê xe đi tour trong nước (Vũng Tàu, Đà Lạt, Nha Trang, Phan Thiết, Miền Tây,…)\n✔ Thuê xe đưa đón sân bay Tân Sơn Nhất – Long Thành\n✔ Thuê xe công tác, hội nghị, sự kiện, gala dinner\n✔ Thuê xe đưa đón học sinh – sinh viên, tham quan ngoại khóa\n✔ Thuê xe theo yêu cầu riêng (lịch trình linh hoạt)"
-    },
-    {
-      "type": "h2",
-      "text": "⭐ LÝ DO NÊN CHỌN DỊCH VỤ THUÊ XE CỦA TODAYTOURIST"
-    },
-    {
-      "type": "p",
-      "text": "🚦 Đúng giờ – đúng lịch trình"
-    },
-    {
-      "type": "p",
-      "text": "💰 Giá minh bạch – không phát sinh chi phí ẩn"
-    },
-    {
-      "type": "p",
-      "text": "🧑‍✈️ Tài xế lịch sự, chuyên nghiệp, an toàn"
-    },
-    {
-      "type": "p",
-      "text": "🛠 Xe kiểm tra kỹ thuật định kỳ, đầy đủ giấy tờ"
-    },
-    {
-      "type": "p",
-      "text": "📞 Hỗ trợ nhanh – tư vấn tận tâm 24/7"
-    },
-    {
-      "type": "p",
-      "text": "Chúng tôi hiểu rằng:"
-    },
-    {
-      "type": "p",
-      "text": "Một chuyến đi trọn vẹn bắt đầu từ phương tiện an toàn và người đồng hành đáng tin."
+      "type": "list",
+      "items": [
+        "<strong>Xe 16 chỗ:</strong> nhóm bạn, gia đình đông người, đoàn dưới 16 khách, đi 1–2 ngày.",
+        "<strong>Xe 29 chỗ:</strong> đoàn công ty nhỏ, lớp học, đoàn 20–29 khách; linh hoạt vào các tuyến đường nhỏ.",
+        "<strong>Xe 45 chỗ:</strong> đoàn công ty, trường học, hội nghị, team building từ 35 khách trở lên.",
+        "<strong>Xe giường nằm:</strong> tuyến dài đi đêm như Đà Lạt, Nha Trang, Cà Mau, Quy Nhơn; khách ngủ trên xe, sáng đến nơi là đi chơi ngay."
+      ]
     },
     {
       "type": "h2",
-      "text": "💬 BÁO GIÁ THUÊ XE DU LỊCH"
+      "text": "Thuê xe đi đâu từ Biên Hòa?"
     },
     {
       "type": "p",
-      "text": "Giá thuê xe phụ thuộc vào:"
-    },
-    {
-      "type": "p",
-      "text": "Loại xe & số chỗ"
-    },
-    {
-      "type": "p",
-      "text": "Thời gian thuê (trong ngày / nhiều ngày)"
-    },
-    {
-      "type": "p",
-      "text": "Quãng đường & lịch trình cụ thể"
-    },
-    {
-      "type": "p",
-      "text": "👉 Liên hệ ngay để được báo giá nhanh – chính xác – ưu đãi tốt nhất."
+      "text": "Các tuyến khách thuê nhiều: Vũng Tàu – Hồ Tràm trong ngày, Phan Thiết – Mũi Né 2 ngày 1 đêm, Đà Lạt 3 ngày 2 đêm, Nha Trang 3 ngày 2 đêm, Miền Tây – Cần Thơ – Châu Đốc, Cà Mau – Đất Mũi và Quy Nhơn – Phú Yên. Nếu chưa biết đi đâu, chúng tôi có sẵn tour trọn gói: <a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\">Tour Cà Mau – Đất Mũi 3N3Đ</a>, <a href=\"https://todaytourist.com/vi/tours/tour-quy-nhon-3n3d/\">Tour Quy Nhơn 3N3Đ</a> và <a href=\"https://todaytourist.com/vi/tours/tour-quy-nhon-phu-yen-4n4d/\">Tour Quy Nhơn – Phú Yên 4N4Đ</a>."
     },
     {
       "type": "h2",
-      "text": "📞 THÔNG TIN LIÊN HỆ"
+      "text": "Câu hỏi thường gặp khi thuê xe"
+    },
+    {
+      "type": "h3",
+      "text": "Thuê xe 45 chỗ từ Biên Hòa đi Vũng Tàu 1 ngày giá bao nhiêu?"
     },
     {
       "type": "p",
-      "text": "CÔNG TY DU LỊCH TODAYTOURIST\n📍 Địa chỉ: Số 80 Đặng Nguyên, Khu phố 3, Phường Long Bình, TP. Đồng Nai\n📞 Hotline: 0913 78 76 47 (Lê Sang)\n📱 Tư vấn: 0902 898 726 (Mr Anh Văn – Phòng Kinh Doanh)\n✉️ Email: lesangtravel@gmail.com\n🌐 Website: todaytourist.com"
+      "text": "Tham khảo từ 5,5 đến 6 triệu đồng trọn gói, tùy ngày thường hay cuối tuần. Xe 29 chỗ khoảng 3,5–4 triệu và xe 16 chỗ khoảng 2,5–3 triệu."
+    },
+    {
+      "type": "h3",
+      "text": "Giá thuê xe đã gồm những gì?"
+    },
+    {
+      "type": "p",
+      "text": "Đã gồm xe, tài xế, nhiên liệu và phí cầu đường theo lịch trình thống nhất. Chưa gồm VAT. Chi phí vượt km, vượt giờ (nếu có) được báo rõ trước khi ký hợp đồng."
+    },
+    {
+      "type": "h3",
+      "text": "Thuê xe cần đặt trước bao lâu?"
+    },
+    {
+      "type": "p",
+      "text": "Càng sớm càng dễ giữ xe, nhất là cuối tuần, lễ Tết, mùa cao điểm, đoàn đông hoặc đi nhiều ngày. Quý khách gọi 0902 898 726 để kiểm tra xe còn trống đúng ngày đi."
+    },
+    {
+      "type": "h3",
+      "text": "Có thuê xe kèm hướng dẫn viên hoặc MC không?"
+    },
+    {
+      "type": "p",
+      "text": "Có. Today Tourist cung cấp hướng dẫn viên, MC cho team building, gala dinner, lửa trại nếu quý khách cần. Báo giá riêng theo chương trình."
+    },
+    {
+      "type": "h3",
+      "text": "Xe giường nằm đi những tuyến nào?"
+    },
+    {
+      "type": "p",
+      "text": "Thường dùng cho tuyến dài như Đà Lạt, Nha Trang, Cà Mau, Quy Nhơn. Bảng giá phía trên đã có cột xe giường nằm cho từng tuyến."
+    },
+    {
+      "type": "h2",
+      "text": "Liên hệ báo giá thuê xe"
+    },
+    {
+      "type": "p",
+      "text": "Gửi cho chúng tôi: ngày đi, điểm đón, điểm đến, số người, loại xe mong muốn. Chúng tôi báo giá nhanh, rõ từng khoản."
+    },
+    {
+      "type": "p",
+      "text": "CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>Tư vấn: 0902 898 726 (Mr Anh Văn – Phòng Kinh doanh)<br>Hotline: 0913 78 76 47 (Lê Sang)<br>Email: lesangtravel@gmail.com"
     },
     {
       "type": "img",

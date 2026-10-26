@@ -17,6 +17,21 @@ import sanitizeHtml from 'sanitize-html';
  * Bỏ qua: link ngoài, protocol-relative ('//cdn...'), '/', link đã có '/' cuối,
  * và file tĩnh (segment cuối chứa '.' — vd .jpg, .pdf, .html).
  */
+/**
+ * Link nội bộ (cùng domain) phải được Google theo dõi: không nofollow, không mở tab mới.
+ * Chỉ link ra ngoài mới giữ 'noopener nofollow' + target _blank.
+ */
+const SITE_HOST_RE = /^https?:\/\/(www\.)?todaytourist\.com(\/|$)/i;
+export function linkTransform(tagName, attribs) {
+  const href = String(attribs.href || '');
+  const internal = (href.startsWith('/') && !href.startsWith('//')) || SITE_HOST_RE.test(href);
+  if (internal) {
+    const { target, rel, ...rest } = attribs;
+    return { tagName: 'a', attribs: rest };
+  }
+  return { tagName: 'a', attribs: { ...attribs, rel: 'noopener nofollow', target: '_blank' } };
+}
+
 const INTERNAL_HREF_RE = /(href=")(\/[^"?#]*)([?#][^"]*)?(")/g;
 
 export function normalizeInternalLinks(html) {
@@ -38,7 +53,7 @@ export function richText(html) {
     },
     allowedSchemes: ['http', 'https', 'mailto', 'tel'],
     transformTags: {
-      a: sanitizeHtml.simpleTransform('a', { rel: 'noopener nofollow', target: '_blank' }),
+      a: linkTransform,
     },
   }));
 }
@@ -73,7 +88,7 @@ export function richDoc(html) {
     },
     allowedSchemes: ['http', 'https', 'mailto', 'tel', 'data'],
     transformTags: {
-      a: sanitizeHtml.simpleTransform('a', { rel: 'noopener nofollow', target: '_blank' }),
+      a: linkTransform,
     },
   }));
 }
