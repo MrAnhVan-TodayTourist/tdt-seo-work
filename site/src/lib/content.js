@@ -30,6 +30,10 @@ export const PAGE_SLUGS = [
   'tim-tour',
   'tuyen-dung',
   'chi-duong',
+  // Trang dịch vụ B2B (2026-10): trang mẹ gom bài Tin tức theo chủ đề.
+  'to-chuc-team-building',
+  'to-chuc-gala-dinner',
+  'tour-hoc-sinh',
 ];
 
 /**
