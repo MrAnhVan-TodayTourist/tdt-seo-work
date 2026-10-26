@@ -54,6 +54,10 @@ import AdminLayout from '@/components/AdminLayout.astro';
         </div>
       </div>
       <div>
+        <label class="mb-1 block text-sm font-medium text-ink-soft" for="f-seo-title">Tiêu đề SEO (hiện trên Google, nên ≤ 60 ký tự; để trống thì dùng Tên tour)</label>
+        <input id="f-seo-title" class="w-full rounded-xl border border-ink/15 bg-sand px-3 py-2.5 text-sm text-ink outline-none focus:border-sea" />
+      </div>
+      <div>
         <label class="mb-1 block text-sm font-medium text-ink-soft" for="f-desc">Mô tả</label>
         <textarea id="f-desc" rows="2" class="w-full rounded-xl border border-ink/15 bg-sand px-3 py-2.5 text-sm text-ink outline-none focus:border-sea"></textarea>
       </div>
@@ -155,6 +159,7 @@ import AdminLayout from '@/components/AdminLayout.astro';
     $('f-duration').value = t?.duration || '';
     $('f-price').value = t?.price || '';
     $('f-desc').value = t?.desc || '';
+    $('f-seo-title').value = t?.seo_title || '';
     $('f-highlights').value = (t?.highlights || []).join('\n');
     $('f-hidden').checked = !!t?.hidden;
     sunSetBlocks(t?.content || []);
@@ -207,6 +212,7 @@ import AdminLayout from '@/components/AdminLayout.astro';
         duration: $('f-duration').value.trim(),
         price: $('f-price').value.trim(),
         desc: $('f-desc').value.trim(),
+        seo_title: $('f-seo-title').value.trim(),
         highlights: $('f-highlights').value.split('\n').map((s) => s.trim()).filter(Boolean),
         hidden: $('f-hidden').checked,
       };

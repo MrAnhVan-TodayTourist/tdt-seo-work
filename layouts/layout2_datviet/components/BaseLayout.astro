@@ -28,6 +28,8 @@ interface Props {
   lang: string;
   /** Tiêu đề riêng của bài (tour, tin tức…) → '<title> · thương hiệu'. */
   title?: string;
+  /** Tiêu đề SEO riêng (seo_title) — nếu có thì dùng nguyên văn làm <title>, không thêm tên thương hiệu. */
+  seoTitle?: string;
   /** Mô tả riêng của bài (ưu tiên hơn seo.json). */
   description?: string;
   /** Ảnh chia sẻ: tên file trong content/vi/images hoặc path/URL tuyệt đối. */
@@ -45,6 +47,7 @@ interface Props {
 const {
   lang,
   title,
+  seoTitle,
   description,
   image,
   type = 'website',
@@ -65,7 +68,7 @@ const seo = pageSeo(lang, pathname);
 
 // Title ưu tiên: seo.json (đã tối ưu cho từng trang tĩnh) > <title> của bài
 // (tour/tin tức — không khai báo trong seo.json) > tiêu đề thương hiệu chung.
-const fullTitle = seo.title || (title ? `${title} · ${seo.brand}` : seo.metaTitle);
+const fullTitle = seo.title || (seoTitle && seoTitle.trim()) || (title ? `${title} · ${seo.brand}` : seo.metaTitle);
 const desc = description ?? (seo.description || seo.metaDescription);
 
 // '/' là bản trùng của '/vi/' → canonical trỏ về '/vi/' (GitHub Pages không
