@@ -1,6 +1,6 @@
 ---
 import sanitizeHtml from 'sanitize-html';
-import { normalizeInternalLinks } from '@/lib/rich.js';
+import { normalizeInternalLinks, linkTransform } from '@/lib/rich.js';
 /**
  * RichContent — render mảng khối nội dung phong phú (ảnh + chữ đan xen).
  * Block types: p (đoạn văn), h2/h3 (tiêu đề), img (ảnh), list (danh sách).
@@ -38,7 +38,7 @@ const rich = (html) =>
       },
       allowedSchemes: ['http', 'https', 'mailto', 'tel'],
       transformTags: {
-        a: sanitizeHtml.simpleTransform('a', { rel: 'noopener nofollow', target: '_blank' }),
+        a: linkTransform,
       },
     }),
   );
@@ -119,7 +119,7 @@ const richHtml = (html) =>
       allowedSchemes: ['http', 'https', 'mailto', 'tel'],
       allowedIframeHostnames: ['www.youtube.com', 'youtube.com', 'www.google.com', 'maps.google.com', 'player.vimeo.com'],
       transformTags: {
-        a: sanitizeHtml.simpleTransform('a', { rel: 'noopener nofollow', target: '_blank' }),
+        a: linkTransform,
       },
     }),
   );
