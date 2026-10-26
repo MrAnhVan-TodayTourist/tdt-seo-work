@@ -230,6 +230,7 @@ function normalizeTour(t, slug) {
     price: t.price ?? '',
     image: t.image ?? '',
     desc: t.desc ?? '',
+    seoTitle: String(t.seo_title ?? '').trim(),
     highlights: Array.isArray(t.highlights) ? t.highlights : [],
     itinerary: Array.isArray(t.itinerary) ? t.itinerary : [],
     content: Array.isArray(t.content) ? t.content : [],
