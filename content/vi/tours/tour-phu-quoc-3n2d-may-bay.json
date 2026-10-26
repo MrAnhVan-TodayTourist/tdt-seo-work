@@ -1,6 +1,6 @@
 {
   "slug": "tour-phu-quoc-3n2d-may-bay",
-  "name": "Tour Phú Quốc 3 Ngày 2 Đêm (Đi Máy Bay) từ Đồng Nai – Bãi Sao, Nhà Tù Phú Quốc",
+  "name": "Tour Phú Quốc 3 Ngày 2 Đêm (Đi Máy Bay) từ TP. Đồng Nai, Biên Hòa, TP.HCM – Bãi Sao, Nhà Tù Phú Quốc",
   "region": "domestic",
   "region_name": "Biển đảo",
   "departure": "TP. Đồng Nai / TP.HCM",
@@ -322,6 +322,22 @@
       "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có, giá chưa bao gồm VAT."
     },
     {
+      "type": "p",
+      "text": "<strong>Tour Phú Quốc từ Biên Hòa đi như thế nào?</strong> Xe TodayTourist đón quý khách tại Biên Hòa (TP. Đồng Nai), đưa ra sân bay Tân Sơn Nhất để bay đi Phú Quốc. Ngày cuối đoàn bay về TP.HCM, xe đón tại Tân Sơn Nhất và đưa về lại điểm tập kết."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Nên đi Phú Quốc bằng máy bay hay đi xe và tàu?</strong> Xem bài <a href=\"https://todaytourist.com/vi/tin-tuc/di-phu-quoc-bang-may-bay-hay-xe-va-tau-so-theo-thoi-gian-ngan-sach/\">Đi Phú Quốc bằng máy bay hay xe và tàu</a>. Tour đi ô tô: <a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n3d-o-to/\">Tour Phú Quốc 3 Ngày 3 Đêm (Ô Tô – Tàu Cao Tốc)</a>."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Cách tính tổng chi phí tour Phú Quốc?</strong> Xem <a href=\"https://todaytourist.com/vi/tin-tuc/gia-tour-phu-quoc-cach-tinh-tong-chi-phi-truoc-khi-dat/\">giá tour Phú Quốc: cách tính tổng chi phí</a> và <a href=\"https://todaytourist.com/vi/tin-tuc/dat-tour-phu-quoc-kiem-tra-ve-phong-dat-coc-va-doi-huy/\">đặt tour Phú Quốc: kiểm tra vé, phòng, đặt cọc, đổi hủy</a>."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Chọn giờ bay thế nào để lịch tham quan trọn vẹn?</strong> Xem <a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-3-ngay-2-dem-bang-may-bay-chon-gio-bay-va-lich/\">tour Phú Quốc 3 ngày 2 đêm bằng máy bay: chọn giờ bay và lịch</a>."
+    },
+    {
       "type": "h3",
       "text": "📞 THÔNG TIN LIÊN HỆ ĐẶT TOUR"
     },
@@ -354,5 +370,6 @@
       "text": "👉 <strong>Tour ghép đoàn hàng tuần – nhắn Zalo 0902 898 726!</strong>"
     }
   ],
-  "hidden": false
+  "hidden": false,
+  "seo_title": "Tour Phú Quốc 3N2Đ bay từ TP. Đồng Nai, Biên Hòa, TP.HCM"
 }
