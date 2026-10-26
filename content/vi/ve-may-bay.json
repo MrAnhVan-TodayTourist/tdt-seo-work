@@ -1,45 +1,142 @@
 {
-  "title": "VÉ MÁY BAY TODAYTOURIST",
+  "title": "Vé máy bay Đồng Nai: đặt vé nội địa, quốc tế cho khách lẻ và đoàn",
   "hero_kicker": "Vé máy bay",
-  "hero_title": "VÉ MÁY BAY TODAYTOURIST",
-  "hero_text": "✈️ ĐẶT VÉ MÁY BAY GIÁ TỐT – BAY AN TÂM CÙNG TODAYTOURIST",
+  "hero_title": "Đặt vé máy bay tại Biên Hòa, Đồng Nai",
+  "hero_text": "Vé nội địa, quốc tế cho khách lẻ, gia đình, doanh nghiệp và đoàn. Gọi 0902 898 726 để nhận phương án.",
   "content": [
     {
-      "type": "p",
-      "text": "✈️ ĐẶT VÉ MÁY BAY GIÁ TỐT – BAY AN TÂM CÙNG TODAYTOURIST"
+      "type": "h2",
+      "text": "Đặt vé máy bay tại Biên Hòa, Đồng Nai"
     },
     {
       "type": "p",
-      "text": "🌍 Bạn đang cần đặt vé máy bay nhanh – đúng giờ – giá hợp lý cho chuyến công tác hay du lịch?\nTodayTourist là đại lý vé máy bay uy tín, sẵn sàng hỗ trợ bạn từ lúc chọn chuyến đến khi cất cánh."
+      "text": "Today Tourist nhận đặt vé máy bay nội địa và quốc tế cho khách lẻ, gia đình, doanh nghiệp và đoàn công tác. Anh chị ở Biên Hòa, TP. Đồng Nai, TP.HCM chỉ cần gửi chặng bay, ngày đi và số khách qua điện thoại hoặc Zalo. Chúng tôi kiểm tra chuyến, giờ bay, hành lý rồi báo phương án để anh chị chọn."
+    },
+    {
+      "type": "h2",
+      "text": "Chúng tôi hỗ trợ những gì"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<strong>Vé nội địa:</strong> các chặng đi Phú Quốc, Côn Đảo, Đà Nẵng, Hà Nội, Phú Yên... tùy lịch bay của từng hãng.",
+        "<strong>Vé quốc tế</strong> cho chuyến du lịch, công tác.",
+        "<strong>Vé cho đoàn:</strong> công ty, cơ quan, trường học, đoàn tham quan cần bay cùng chuyến.",
+        "<strong>Kết hợp trọn gói:</strong> vé máy bay + tour, khách sạn, xe đưa đón sân bay.",
+        "<strong>Tư vấn hành lý, đổi vé, hoàn vé</strong> theo điều kiện của đúng hạng vé anh chị chọn."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cách đặt vé"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Gửi chặng bay, ngày đi (và ngày về nếu có), số người lớn, trẻ em, em bé.",
+        "Nhận phương án gồm giờ bay, hành lý và điều kiện đổi hoàn của từng lựa chọn.",
+        "Gửi họ tên đúng như giấy tờ tùy thân (CCCD hoặc hộ chiếu) để xuất vé.",
+        "Xác nhận, thanh toán và nhận vé điện tử."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Từ Biên Hòa đi sân bay nào?"
     },
     {
       "type": "p",
-      "text": "✈️ HỆ THỐNG HÃNG HÀNG KHÔNG ĐA DẠNG\n✔️ Vietnam Airlines\n✔️ Vietjet Air\n✔️ Bamboo Airways\n✔️ Các hãng hàng không quốc tế"
+      "text": "Khách Biên Hòa hiện đi chủ yếu qua sân bay Tân Sơn Nhất (TP.HCM). Nếu anh chị cần xe ra sân bay, xem <a href=\"https://todaytourist.com/vi/tin-tuc/thue-xe-dua-don-doan-tai-san-bay-tan-son-nhat/\">Thuê xe đưa đón đoàn sân bay Tân Sơn Nhất từ Biên Hòa, Đồng Nai, TP.HCM</a> hoặc bảng <a href=\"https://todaytourist.com/vi/cho-thue-xe/\">giá thuê xe</a>. Sân bay Long Thành (Đồng Nai) đã khánh thành, khi có chuyến phù hợp chúng tôi sẽ tư vấn thêm cho anh chị chọn điểm bay thuận tiện hơn."
+    },
+    {
+      "type": "h2",
+      "text": "Lưu ý trước khi đặt vé"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Tên trên vé phải trùng giấy tờ tùy thân, sai tên có thể không lên được máy bay hoặc phải trả phí sửa.",
+        "Hành lý xách tay và ký gửi khác nhau theo hãng và hạng vé, hỏi rõ trước khi chốt.",
+        "Điều kiện đổi và hoàn vé khác nhau theo từng hạng vé, đọc kỹ trước khi thanh toán.",
+        "Chuyến quốc tế cần hộ chiếu còn hạn theo yêu cầu của nước đến, kiểm tra thêm visa nếu cần.",
+        "Giá vé thay đổi theo ngày bay, giờ bay và thời điểm đặt. Chúng tôi báo giá theo từng yêu cầu, không có giá cố định."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Tour đi máy bay từ Đồng Nai"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<a href=\"https://todaytourist.com/vi/tours/tour-phu-quoc-3n2d-may-bay/\">Tour Phú Quốc 3 ngày 2 đêm đi máy bay</a>",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-con-dao-2n1d-may-bay/\">Tour Côn Đảo 2 ngày 1 đêm (bay từ TP.HCM)</a>",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-phu-yen-3n2d-may-bay/\">Tour Phú Yên 3N2Đ (bay từ TP.HCM)</a>",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-tay-bac-vong-cung-5n4d-may-bay/\">Tour Tây Bắc vòng cung 5N4Đ (bay từ TP.HCM)</a>"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bài tham khảo trước khi chọn vé"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/di-phu-quoc-bang-may-bay-hay-xe-va-tau-so-theo-thoi-gian-ngan-sach/\">Đi Phú Quốc bằng máy bay hay xe và tàu: so theo thời gian, ngân sách</a>",
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-hay-tau-cao-toc/\">Đi Côn Đảo bằng máy bay hay tàu cao tốc?</a>",
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/di-con-dao-bang-may-bay-tinh-tong-chi-phi-va-gio-dua-don/\">Đi Côn Đảo bằng máy bay: tính tổng chi phí và giờ đưa đón</a>",
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-nang-bang-may-bay/\">Đi Đà Nẵng bằng máy bay hay xe: so thời gian và tổng chi phí</a>",
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/di-nha-trang-bang-xe-tau-hoa-hay-may-bay/\">Đi Nha Trang bằng xe, tàu hỏa hay máy bay?</a>",
+        "<a href=\"https://todaytourist.com/vi/tin-tuc/tour-ha-noi-bao-gom-ve-may-bay/\">Vé máy bay trong tour miền Bắc: hỏi rõ hành lý và giờ bay</a>"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Câu hỏi thường gặp"
+    },
+    {
+      "type": "h3",
+      "text": "Đặt vé máy bay cho đoàn được không?"
     },
     {
       "type": "p",
-      "text": "Chúng tôi giúp bạn so sánh giá vé – giờ bay – điều kiện hành lý để lựa chọn phương án phù hợp nhất với nhu cầu và ngân sách."
+      "text": "Được. Gửi số khách, chặng bay và ngày đi, chúng tôi kiểm tra chỗ và báo phương án. Đoàn có thể kết hợp thêm xe đưa đón và tour trọn gói."
+    },
+    {
+      "type": "h3",
+      "text": "Giá vé máy bay là bao nhiêu?"
     },
     {
       "type": "p",
-      "text": "🌟 VÌ SAO NÊN ĐẶT VÉ MÁY BAY TẠI TODAYTOURIST?\n💰 Giá vé cạnh tranh, cập nhật liên tục theo hệ thống hãng\n📞 Tư vấn rõ ràng: hành lý, đổi vé, hoàn vé\n⚡ Hỗ trợ nhanh khi thay đổi lịch trình hoặc phát sinh sự cố\n👨‍👩‍👧‍👦 Phục vụ khách lẻ, gia đình, doanh nghiệp, đoàn công tác\n🧳 Dễ dàng kết hợp: tour du lịch – khách sạn – thuê xe – sự kiện"
+      "text": "Giá thay đổi theo ngày bay, giờ bay, hạng vé và thời điểm đặt. Anh chị gửi yêu cầu, chúng tôi báo giá cụ thể cho đúng chuyến."
+    },
+    {
+      "type": "h3",
+      "text": "Tôi chưa đặt tour, chỉ cần mua vé có được không?"
     },
     {
       "type": "p",
-      "text": "🎯 Dù là bay công tác, du lịch nghỉ dưỡng hay thăm người thân , TodayTourist luôn đặt tiêu chí\nAn toàn – Minh bạch – Tiết kiệm chi phí lên hàng đầu."
+      "text": "Được. Anh chị có thể đặt riêng vé máy bay, hoặc kết hợp thêm khách sạn, xe và tour nếu cần."
+    },
+    {
+      "type": "h3",
+      "text": "Đã có vé, có đặt tour đón tại điểm đến được không?"
     },
     {
       "type": "p",
-      "text": "🏢 CÔNG TY DU LỊCH TODAYTOURIST\n📍 Địa chỉ: Số 80 Đặng Nguyên, Khu phố 3, Phường Long Bình, TP. Đồng Nai\n📞 Mr Anh Văn – Phòng Kinh Doanh: 0902 898 726\n☎️ Hotline: 0913 78 76 47 (Lê Sang)\n✉️ Email: lesangtravel@gmail.com\n🌐 Website: todaytourist.com"
+      "text": "Được với một số điểm. Xem <a href=\"https://todaytourist.com/vi/tin-tuc/tour-phu-quoc-don-tai-dao-danh-cho-khach-da-co-ve-may-bay-hoac-tau/\">Tour Phú Quốc đón tại đảo: dành cho khách đã có vé máy bay hoặc tàu</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Liên hệ đặt vé"
     },
     {
       "type": "p",
-      "text": "⭐ TODAYTOURIST – CÙNG BẠN ĐI KHẮP NĂM CHÂU\n🤝 Đồng hành mọi hành trình – Trao trọn niềm tin"
+      "text": "CÔNG TY TNHH DU LỊCH NGÀY HÔM NAY (TODAYTOURIST)<br>Địa chỉ: Số 80 Đặng Nguyên, Khu phố 29, Phường Long Bình, TP. Đồng Nai<br>Tư vấn: 0902 898 726 (Mr Anh Văn – Phòng Kinh doanh)<br>Vé máy bay, thuê xe: 0937 001 448 (Ms. Thanh Thúy) | 0913 78 76 47 (Lê Sang)<br>Email: lesangtravel@gmail.com"
     },
     {
       "type": "img",
       "src": "/content/vi/images/ve-may-bay.webp",
-      "alt": ""
+      "alt": "Đặt vé máy bay tại Today Tourist, Biên Hòa, Đồng Nai"
     }
   ]
 }
