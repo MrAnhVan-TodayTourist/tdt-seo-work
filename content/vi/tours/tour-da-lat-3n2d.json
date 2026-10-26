@@ -1,6 +1,6 @@
 {
   "slug": "tour-da-lat-3n2d",
-  "name": "Tour Đà Lạt 3 Ngày 2 Đêm từ Đồng Nai – Đồi Chè Cầu Đất, Ga Trại Mát, Mê Linh Coffee Garden",
+  "name": "Tour Đà Lạt 3 Ngày 2 Đêm từ TP. Đồng Nai, Biên Hòa, TP.HCM – Đồi Chè Cầu Đất, Ga Trại Mát, Mê Linh Coffee Garden",
   "region": "domestic",
   "region_name": "Tây Nguyên",
   "departure": "TP. Đồng Nai / TP.HCM",
@@ -281,6 +281,22 @@
       "text": "<strong>Công ty có xuất hóa đơn VAT không?</strong> Có, giá chưa bao gồm VAT."
     },
     {
+      "type": "p",
+      "text": "<strong>Tour Đà Lạt 3N2Đ từ Biên Hòa xuất phát mấy giờ, về lúc nào?</strong> Xe khởi hành dự kiến 05h00 sáng ngày 1, đến Đà Lạt khoảng 15h00 và nhận phòng khách sạn ngay. Ngày 3 xe về lại, dự kiến 18h30 đến điểm tập kết."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour Đà Lạt 3 ngày 2 đêm có gì khác 3 ngày 3 đêm?</strong> Xem phân tích chi tiết tại bài <a href=\"https://todaytourist.com/vi/tin-tuc/da-lat-3-ngay-2-dem-va-3-ngay-3-dem-khac-nhau-the-nao/\">Đà Lạt 3 ngày 2 đêm và 3 ngày 3 đêm khác nhau thế nào?</a>."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Đi Đà Lạt bằng xe ghế ngồi hay xe giường nằm?</strong> Tham khảo bài <a href=\"https://todaytourist.com/vi/tin-tuc/di-da-lat-bang-xe-ghe-ngoi-hay-xe-giuong-nam/\">Đi Đà Lạt bằng xe ghế ngồi hay xe giường nằm</a>."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour Đà Lạt cho đoàn công ty, trường học, gia đình có trẻ nhỏ?</strong> Xem <a href=\"https://todaytourist.com/vi/tin-tuc/to-chuc-tour-da-lat-cho-cong-ty-bat-dau-tu-dau/\">tổ chức tour Đà Lạt cho công ty</a>, <a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-cho-hoc-sinh-sinh-vien-lich-trinh-trai-nghiem/\">tour Đà Lạt cho học sinh, sinh viên</a> và <a href=\"https://todaytourist.com/vi/tin-tuc/tour-da-lat-cho-gia-dinh-co-tre-nho-hoac-nguoi-lon-tuoi/\">tour Đà Lạt cho gia đình có trẻ nhỏ</a>. Nếu chỉ cần thuê xe, xem <a href=\"https://todaytourist.com/vi/cho-thue-xe/\">bảng giá thuê xe 16, 29, 45 chỗ từ Biên Hòa</a>."
+    },
+    {
       "type": "h3",
       "text": "📞 THÔNG TIN LIÊN HỆ ĐẶT TOUR"
     },
@@ -313,5 +329,6 @@
       "text": "👉 <strong>Tour ghép đoàn hàng tuần – nhắn Zalo 0902 898 726!</strong>"
     }
   ],
-  "hidden": false
+  "hidden": false,
+  "seo_title": "Tour Đà Lạt 3N2Đ từ TP. Đồng Nai, Biên Hòa, TP.HCM"
 }
