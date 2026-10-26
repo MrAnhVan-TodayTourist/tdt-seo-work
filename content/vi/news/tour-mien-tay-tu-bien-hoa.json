@@ -13,6 +13,23 @@
     },
     {
       "type": "h2",
+      "text": "Tour Miền Tây từ Biên Hòa đang mở bán"
+    },
+    {
+      "type": "p",
+      "text": "Xe đón tại Biên Hòa (TP. Đồng Nai). Chọn nhanh chương trình phù hợp:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "<a href=\"https://todaytourist.com/vi/tours/tour-con-phung-ben-tre-1-ngay/\"><strong>Cồn Phụng – Bến Tre 1 ngày</strong></a> – 860.000đ/khách",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-tien-giang-ben-tre-can-tho-2n1d/\"><strong>Tiền Giang – Cần Thơ 2 ngày 1 đêm</strong></a> – 2.170.000đ/khách",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-chau-doc-ha-tien-2n2d/\"><strong>Châu Đốc – Hà Tiên 2 ngày 2 đêm</strong></a> – 2.720.000đ/khách",
+        "<a href=\"https://todaytourist.com/vi/tours/tour-luc-tinh-mien-tay-3n3d/\"><strong>Cà Mau – Đất Mũi 3 ngày 3 đêm</strong></a> – 3.820.000đ/khách"
+      ]
+    },
+    {
+      "type": "h2",
       "text": "<strong><span style=\"color:#1b5e20;font-size:24px\">Gửi địa chỉ thực tế của đoàn</span></strong>"
     },
     {
