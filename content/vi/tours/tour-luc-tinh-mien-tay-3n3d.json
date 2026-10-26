@@ -1,13 +1,13 @@
 {
   "slug": "tour-luc-tinh-mien-tay-3n3d",
-  "name": "Tour Lục Tỉnh Miền Tây 3 Ngày 3 Đêm từ Đồng Nai – Đất Mũi Cà Mau, Bạc Liêu",
+  "name": "Tour Cà Mau – Đất Mũi 3 Ngày 3 Đêm từ TP. Đồng Nai, Biên Hòa, TP.HCM – Bạc Liêu, Cần Thơ",
   "region": "domestic",
   "region_name": "Miền Tây",
   "departure": "TP. Đồng Nai / TP.HCM",
   "duration": "3 ngày 3 đêm",
   "price": "3.820.000đ/khách",
   "image": "tour-luc-tinh-mien-tay-3n3d-todaytourist.jpg",
-  "desc": "Tour Lục Tỉnh Miền Tây 3 ngày 3 đêm từ Đồng Nai, đón tại Biên Hòa: Mũi Cà Mau, Nhà Công Tử Bạc Liêu, chợ nổi Cái Răng. Giá 3.820.000đ.",
+  "desc": "Tour Cà Mau – Đất Mũi 3N3Đ khởi hành từ TP. Đồng Nai (Biên Hòa) và TP.HCM: cột mốc GPS 0001, Nhà Công Tử Bạc Liêu, chợ nổi Cái Răng. Giá 3.820.000đ. Gọi 0902 898 726.",
   "highlights": [
     "Check-in mốc tọa độ GPS 0001 tại điểm cực Nam Tổ quốc",
     "Viếng nhà thờ Tắc Sậy, tham quan Nhà Công Tử Bạc Liêu",
@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "📍 <strong>Khởi hành:</strong> TP. Đồng Nai / TP.HCM – ghép đoàn hàng tuần, từ 10 khách"
+      "text": "📍 <strong>Khởi hành:</strong> TP. Đồng Nai / TP.HCM – khởi hành tối thứ 5 hằng tuần"
     },
     {
       "type": "p",
@@ -309,7 +309,23 @@
     },
     {
       "type": "p",
-      "text": "<strong>Tổng quãng đường di chuyển bao xa?</strong> Khoảng hơn 700 km mỗi chiều, được chia đều qua 3 ngày nên không quá mệt."
+      "text": "<strong>Tổng quãng đường di chuyển bao xa?</strong> Từ Amata (Biên Hòa) đến điểm xa nhất là Mũi Cà Mau khoảng 430 km. Xe khởi hành 21h00 tối, đoàn đến rạng sáng để vệ sinh và ăn sáng trước khi tham quan."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour Cà Mau từ TP. Đồng Nai, Biên Hòa, TP.HCM đi mấy ngày, xuất phát mấy giờ?</strong> Tour 3 ngày 3 đêm (1 đêm trên xe, 2 đêm khách sạn). Xe khởi hành lúc 21h00 tối thứ 5 hằng tuần."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Tour đi xe loại nào?</strong> Xe giường nằm hoặc xe ghế ngả, máy lạnh suốt tuyến."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Mùa nào đi Cà Mau – Đất Mũi đẹp nhất?</strong> Đẹp nhất là mùa nước nổi."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Có đi riêng theo yêu cầu không, báo giá thế nào?</strong> Có. Đoàn từ khoảng 10 người đã có thể tổ chức đi riêng. Vui lòng liên hệ <strong>0902.898.726 (Mr. Anh Văn)</strong> để được báo giá."
     },
     {
       "type": "p",
